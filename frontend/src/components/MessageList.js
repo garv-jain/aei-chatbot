@@ -49,7 +49,7 @@ const MessageList = ({ messages, loading }) => {
       /\[Source:\s*([^\]]+)\]/g,
       '<span class="inline-citation">📄 $1</span>'
     );
-    return content
+    return withCitations
       .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*(.*?)\*/g, '<em>$1</em>')
       .replace(/`(.*?)`/g, '<code>$1</code>')
