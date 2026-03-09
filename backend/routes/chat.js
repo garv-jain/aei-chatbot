@@ -14,6 +14,25 @@ const together = new Together({
 const kb = new TxtKnowledgeBase();
 const chatManager = new ChatManager();
 
+// In-memory domain content cache to avoid re-reading files on every request
+const domainContentCache = new Map();
+const CACHE_TTL_MS = 5 * 60 * 1000; // 5 minutes
+
+async function getCachedDomainContent(domainName) {
+  const cached = domainContentCache.get(domainName);
+  if (cached && (Date.now() - cached.timestamp < CACHE_TTL_MS)) {
+    return cached.content;
+  }
+  const content = await kb.loadDomainContent(domainName);
+  domainContentCache.set(domainName, { content, timestamp: Date.now() });
+  return content;
+}
+
+// Call this after any file upload/delete to invalidate the cache
+function invalidateDomainCache(domainName) {
+  domainContentCache.delete(domainName);
+}
+
 const getUserId = (req) => {
   return req.headers['x-user-id'] || req.query.userId || 'anonymous';
 };
@@ -122,7 +141,7 @@ router.post('/:chatId/message', async (req, res) => {
     await chatManager.addMessage(chatId, userMessage);
 
     // Load domain content
-    const domainContent = await kb.loadDomainContent(chat.domainName);
+    const domainContent = await getCachedDomainContent(chat.domainName);
     
     let systemMessage;
     let relevantFiles = [];
@@ -199,25 +218,16 @@ RESPONSE STANDARDS:
         systemMessage += `\n\nRELEVANT ${chat.domainName.toUpperCase()} KNOWLEDGE BASE:\n`;
         
         searchResults.forEach((result, i) => {
-          systemMessage += `\n=== SOURCE ${i + 1}: ${result.filename} ===\n${result.content}\n`;
-          relevantFiles.push(result.filename);
+         systemMessage += `\n=== SOURCE ${i + 1} | File: "${result.filename}" ===\n${result.content}\n=== END SOURCE ${i + 1} ===\n`;
+        relevantFiles.push(result.filename);
         });
 
-        systemMessage += `\n\nSOURCE UTILIZATION GUIDELINES:
-- Synthesize the provided ${chat.domainName} content with broader research and AEI's analytical approach
-- Cite specific sources when referencing data, findings, or key arguments
-- Connect source material to wider ${chat.domainName} policy implications
-- If sources present conflicting information, provide reasoned analysis
-- Identify areas where additional ${chat.domainName} research might be valuable
-- Ensure responses reflect both domain expertise and AEI's research standards
-
-WHEN SOURCES ARE INSUFFICIENT:
-- Acknowledge the limitation clearly
-- Describe what information IS available in the sources
-- Suggest what additional sources or research might be needed
-- Offer to help with related questions that the sources can address
-
-Deliver comprehensive ${chat.domainName} analysis that serves policymakers, researchers, and stakeholders with AEI's commitment to intellectual excellence.`;
+        systemMessage += `\n\nCITATION INSTRUCTIONS:
+- When you use information from a source above, cite it inline like this: [Source: filename.txt]
+- Only cite sources that directly support the specific claim you are making
+- Do not cite a source for general knowledge not drawn from the provided files
+- If multiple sources support a claim, cite all of them: [Source: file1.txt, file2.txt]
+- If the sources don't contain enough information to answer, say so explicitly rather than guessing`;
       }
     }
 
@@ -233,9 +243,9 @@ Deliver comprehensive ${chat.domainName} analysis that serves policymakers, rese
 
     // Get AI response
     const response = await together.chat.completions.create({
-      model: 'meta-llama/Llama-3-70b-chat-hf', // meta-llama/Llama-3-8b-chat-hf meta-llama/Llama-3-70b-chat-hf meta-llama/Meta-Llama-3-8B-Instruct-Lite
+      model: 'meta-llama/Llama-3-8b-chat-hf', // meta-llama/Llama-3-8b-chat-hf meta-llama/Llama-3-70b-chat-hf meta-llama/Meta-Llama-3-8B-Instruct-Lite
       messages: fullMessages,
-      max_tokens: 512,
+      max_tokens: 1024,
       temperature: 0.7,
       stream: false
     });
@@ -314,3 +324,4 @@ router.post('/', async (req, res) => {
 });
 
 module.exports = router;
+module.exports.invalidateDomainCache = invalidateDomainCache;

@@ -150,7 +150,7 @@ function App() {
     try {
       const response = await fetch(`${API_BASE_URL}/api/chat/${chatId}/message`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: getHeaders(),
         body: JSON.stringify({ message }),
       });
   
