@@ -243,7 +243,7 @@ RESPONSE STANDARDS:
 
     // Get AI response
     const response = await together.chat.completions.create({
-      model: 'meta-llama/Llama-3-8b-chat-hf', // meta-llama/Llama-3-8b-chat-hf meta-llama/Llama-3-70b-chat-hf meta-llama/Meta-Llama-3-8B-Instruct-Lite
+      model: 'meta-llama/Llama-3.3-70B-Instruct-Turbo', // meta-llama/Llama-3-8b-chat-hf meta-llama/Llama-3-70b-chat-hf meta-llama/Meta-Llama-3-8B-Instruct-Lite
       messages: fullMessages,
       max_tokens: 1024,
       temperature: 0.7,
