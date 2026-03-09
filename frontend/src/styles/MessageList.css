@@ -429,3 +429,13 @@
     padding: 1rem;
   }
 } 
+.inline-citation {
+  display: inline-block;
+  background: #e8f0fe;
+  color: #1a56db;
+  font-size: 0.75rem;
+  padding: 1px 6px;
+  border-radius: 4px;
+  margin: 0 2px;
+  font-style: italic;
+}

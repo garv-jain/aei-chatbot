@@ -230,7 +230,6 @@ class TxtKnowledgeBase {
           if (content.trim()) {
             this.contentCache[cacheKey] = content;
             this.fileHashes[cacheKey] = fileHash;
-            await this.saveCache();
           }
         }
 
@@ -238,7 +237,8 @@ class TxtKnowledgeBase {
           domainContent[txtFile] = content;
         }
       }
-
+      
+      await this.saveCache();
       return domainContent;
     } catch (error) {
       console.error('Error loading domain content:', error);
@@ -400,46 +400,55 @@ class TxtKnowledgeBase {
     const results = [];
 
     for (const [filename, content] of Object.entries(domainContent)) {
-      const contentLower = content.toLowerCase();
-      let score = 0;
-      const matchedLines = [];
-
       const lines = content.split('\n');
-      for (const line of lines) {
-        const lineLower = line.toLowerCase();
-        const lineScore = queryWords.reduce((acc, word) => {
-          return acc + (lineLower.includes(word) ? 1 : 0);
-        }, 0);
+      let score = 0;
+      const matchedIndices = new Set();
 
+      lines.forEach((line, i) => {
+        const lineLower = line.toLowerCase();
+        const lineScore = queryWords.reduce((acc, word) =>
+          acc + (lineLower.includes(word) ? 1 : 0), 0);
         if (lineScore > 0) {
           score += lineScore;
-          matchedLines.push(line.trim());
+          // Include 2 lines of context above and below each match
+          for (let j = Math.max(0, i - 2); j <= Math.min(lines.length - 1, i + 2); j++) {
+            matchedIndices.add(j);
+          }
         }
-      }
+      });
 
       if (score > 0) {
-        const bestLines = matchedLines
-          .sort((a, b) => {
-            const scoreA = queryWords.reduce((acc, word) => 
-              acc + (a.toLowerCase().includes(word) ? 1 : 0), 0);
-            const scoreB = queryWords.reduce((acc, word) => 
-              acc + (b.toLowerCase().includes(word) ? 1 : 0), 0);
-            return scoreB - scoreA;
-          })
-          .slice(0, 5);
+        // Build contiguous context blocks from matched indices
+        const sortedIndices = [...matchedIndices].sort((a, b) => a - b);
+        const contextChunks = [];
+        let chunk = [sortedIndices[0]];
+        for (let k = 1; k < sortedIndices.length; k++) {
+          if (sortedIndices[k] === sortedIndices[k - 1] + 1) {
+            chunk.push(sortedIndices[k]);
+          } else {
+            contextChunks.push(chunk);
+            chunk = [sortedIndices[k]];
+          }
+        }
+        contextChunks.push(chunk);
 
-        results.push({
-          filename,
-          score,
-          content: bestLines.join('\n'),
-          full_content: content
-        });
+        // Take top 3 chunks by density, join with separator
+        const scoredChunks = contextChunks.map(c => ({
+          text: c.map(i => lines[i]).join('\n'),
+          score: c.reduce((acc, i) => acc + queryWords.reduce((a, w) =>
+            a + (lines[i].toLowerCase().includes(w) ? 1 : 0), 0), 0)
+        }));
+        const topChunks = scoredChunks
+          .sort((a, b) => b.score - a.score)
+          .slice(0, 3)
+          .map(c => c.text)
+          .join('\n\n---\n\n');
+
+        results.push({ filename, score, content: topChunks });
       }
     }
 
-    return results
-      .sort((a, b) => b.score - a.score)
-      .slice(0, maxResults);
+    return results.sort((a, b) => b.score - a.score).slice(0, maxResults);
   }
 
   async saveDomainFile(domainName, filename, content) {

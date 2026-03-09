@@ -44,6 +44,11 @@ const MessageList = ({ messages, loading }) => {
 
   const formatMessageContent = (content) => {
     // Simple markdown-like formatting for better readability
+    // Render inline source citations as styled badges
+    const withCitations = content.replace(
+      /\[Source:\s*([^\]]+)\]/g,
+      '<span class="inline-citation">📄 $1</span>'
+    );
     return content
       .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*(.*?)\*/g, '<em>$1</em>')
