@@ -1,0 +1,15 @@
+PAGE_TITLE: 
+	Striking the Right Balance After a Cyberattack | American Enterprise Institute - AEI
+
+CONTACT: mediaservices@aei.org / 202.862.5829
+JP Morgan Chase recently uncovered one of the largest cybersecurity breaches ever, with accounts of 76 million households and 7 million small businesses being compromised by the attack. Questions remain about specific details of the breach, and debate continues on the appropriate protocol after such a cybersecurity attack occurs. AEI’s
+Shane Tews
+offers
+her thoughts:
+The SEC guidance to announce a breach is part of the government’s attempt to define the right time and place for public disclosure. What it does not do is trigger a set of government regulations to mitigate the announced breach. And that is actually a good thing; once government starts dictating solution sets, technology innovators will be held back from creating faster, more intelligent defense tools. We don’t want a static technology response to cyberattacks, we want to build the most secure network possible, which will be a flexible and continuously improving process if done right.
+Tews continues:
+Our current regulatory process around cybersecurity breaches is limited because the problem is not static; it’s a dynamic challenge of cyber cops and robbers. We need to reinforce the importance for managing risks and allowing for rewards to those who help strengthen the system by reporting data loss and security breaches.
+Read her full piece, “
+JP Morgan’s cyber breach: Did they strike the right information-sharing balance
+?”
+To speak with an AEI tech scholar, please contact AEI Media Services at 202.862-5829 or mediaservices@aei.org.

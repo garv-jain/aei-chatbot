@@ -1,0 +1,64 @@
+PAGE_TITLE: 
+	Lawsuits, Minors, and Social Media Addiction: A Judge’s Warning Shot to Platforms | American Enterprise Institute - AEI
+
+All surely won’t go well for private enterprise when a judge
+frames a case
+—in her opening sentence, no less­­­­––as about “whether a social media company may maximize its own benefit and advertising revenue at the expense of the health of minor users of that . . . company’s applications or websites.” Indeed, California Superior Court Judge
+Carolyn B. Kuhl
+on October 13 refused to dismiss two claims filed on behalf of minors in
+several consolidated cases
+targeting the owners of popular platforms Facebook, Instagram, Snapchat, TikTok, and YouTube.
+The contested concept of
+social media addiction
+—it “
+is not currently a diagnosable condition
+”—is central to these cases. The plaintiffs
+assert
+the platforms are engineered with addiction-creating design features that (1) prey on minors’ “already-heightened need for social comparison and interpersonal feedback-seeking” and (2) exploit “their relatively undeveloped prefrontal cortex” and brains’ “chemical reward system” through algorithmically controlled “intermittent variable rewards” of dopamine. In turn, such addiction supposedly spawns a raft of harms—anorexia, bulimia, anxiety, depression, sleep disorders, suicidal ideation, and suicide—with the platforms’ designs encouraging minors to make “unhealthy, negative social comparisons” via features such as “appearance-altering filters.”
+Via Adobe Stock
+If that assertion sounds familiar, it’s because the Biden administration mirrored it in May 2023, sweepingly
+declaring
+that “online platforms often use manipulative design techniques embedded in their products to promote addictive and compulsive use by young people to generate more revenue.”
+As for the claims the judge allowed to proceed, one is for
+negligence
+against the platforms’ owners (ByteDance, Google, Meta, and Snap Inc.). The other is for
+fraudulent concealment
+against Meta, the owner of Facebook and Instagram.
+The decision is a wake-up call to the platforms’ owners because the judge allowed the claims to proceed despite the platforms raising free-speech concerns regarding the
+First Amendment
+and the federal statutory safeguards platforms possess under
+Section 230
+for content posted by others (third-party content). In short, the plaintiffs’ attorneys successfully made—at least, at this early stage of litigation—end-runs around the platforms’ traditionally formidable constitutional and statutory defenses against civil liability.
+How did the plaintiffs’ attorneys do that? By claiming (on the negligence theory) that it is
+not
+the speech that others post that causes minors harm but
+rather the platforms
+’ “design features themselves” that “allegedly operate to addict and harm minor users . . . regardless of the particular third-party content” they view. Put differently, the plaintiffs aver their “harms were caused directly by Defendants’ negligent failure to properly design and operate their platforms.” As Kuhl wrote:
+If Plaintiffs’ allegations can be proved, minors were subject to endless scrolls of videos and notifications at all hours of the day and night. Having become addicted to Defendants’ platforms as a result of these features, the minors were unable to control exposure to the content that was communicated to them in this manner.
+Ultimately, a key question—one a jury must decide if the cases get that far—is what really caused the harms the minor-plaintiffs say they suffered. Were they the result of the platforms’ attention-maximizing design features or were they caused by the third-party content minors watched? Judge Kuhl acknowledged that “a trier of fact might find that Plaintiffs’ harms resulted from the content to which they were exposed.” That would trigger First Amendment and Section 230 protections. Additionally, a jury would need to determine whether factors other than social-media usage contributed to the plaintiffs’ alleged injuries. However, juror sympathy for platforms in a case framed as kids-versus-companies may not be readily forthcoming.
+Why else is Kuhl’s decision important, despite its occurring at the early
+demurrer
+phase? Because
+another batch of consolidated lawsuits
+(known as
+In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation
+) raising very
+similar claims
+and involving multiple minors and nearly
+200 school districts nationwide
+is taking place in federal court in Oakland, California. Indeed, on October 16, the plaintiffs in the federal litigation
+filed a copy
+of Kuhl’s state-court ruling with presiding US District Judge
+Yvonne Gonzalez Rogers
+.
+Furthermore, the decision is significant because schools view social media addiction cases as enormously lucrative ways to boost their budgets, just as they
+recently did
+with
+settlements
+from electronic cigarette company Juul Labs.
+There was, however, some good news for the platforms. Kuhl refused to allow all four of the plaintiffs’ claims based on
+products liability theories
+to proceed. She
+reasoned
+that “platforms are not tangible products and are not analogous to tangible products within the framework of product liability.” In short, platforms are not products for purposes of product liability law.
+Ultimately, while the cases in the courtrooms of Kuhl and Gonzalez Rogers are just heating up, the former’s recent decision sounds early alarm bells that they may not be slam-dunk victories for the platforms.

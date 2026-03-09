@@ -1,0 +1,19 @@
+PAGE_TITLE: 
+	Adding ‘should We?’ to ‘can We?’ in the Debate over AI | American Enterprise Institute - AEI
+
+Stanford University recently sent up a green shoot in an area badly in need of attention: the relationship between artificial intelligence and human well-being.
+On March 18, Stanford announced the creation of a new, multi-disciplinary,
+Institute on Human-Centered Artificial Intelligence
+. HAI is co-chaired by
+John Etchemendy
+, Stanford’s provost and the Patrick Suppes Family Professor in the School of Humanities and Sciences, and
+Fei-Fei Li
+, a professor of computer science at Stanford who recently completed a sabbatical serving as a vice president of Google.
+In the joint column announcing HAI, Etchemendy and Li took aim at the same tech sector weakness that
+Amy Webb recently did
+: the relentless homogeneity of its leadership and workforce. These designers, developers and CEOs, “seemed to come from similar backgrounds: math, computer science and engineering. There were not enough philosophers, historians or behavioral scientists influencing new technology. There were very few women or people from underrepresented groups.” Li believed that this mono-culture was failing to connect emerging technology to a shared human future. Etchemendy’s training and experience as a mathematician and philosopher had already convinced him that the insights of the humanities were vital to the healthy development of AI and largely missing from the conversation.
+Together, Etchemendy and Li have gathered a group of academics, senior researchers, industry and venture capitalists to serve as faculty and to advise the initiative. The academic disciplines represented in HAI include behavioral economics, philosophy, psychology, sociology, music, linguistics, political science, medicine, and anthropology. External to Stanford, leaders from the tech industry, philanthropy, nonprofits, and other research institutions serve on the advisory board or as distinguished fellows.
+HAI’s research agenda is divided into three areas: human impact, augment human capabilities, and intelligence. Thus far HAI has
+funded projects
+on a wide variety of topics including how to correct for racial and gender bias in algorithms, the impact of AI on the idea of human uniqueness, the use of technology to help people with autism better read social cues, and testing new theories about challenges to human and machine interaction.
+This seems a promising start with an important and curious exception. The Institute seems to arise out of a sense of unease about the potential unintended consequences of an inadequately considered and unchecked AI. One would hope that an effort being co-led by a leading philosopher like Etchemendy would also consider what, if any, limits ought to be considered with regard to AI, robotics, and machine learning and how human society might approach setting, monitoring and managing such limits. The range of “can we?” questions posed by accelerating, AI-driven technological advancement are, for good and ill, effectively limitless. The Institute could make a significant contribution to the public dialogue by opening up a conversation about the equally infinite, and perhaps more critical, “should we?”

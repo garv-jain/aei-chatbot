@@ -1,0 +1,124 @@
+PAGE_TITLE: 
+	Inputs, Outputs, and Fair Uses: Unpacking Responses to Journalists’ Copyright Lawsuits | American Enterprise Institute - AEI
+
+Arguments filed in June by defendants
+OpenAI
+and
+Microsoft
+in
+Daily News, LP v. Microsoft Corporation
+clarify the
+direct copyright infringement
+battle pitting eight newspaper publishers against generative artificial intelligence companies. Additionally, OpenAI’s
+assertions
+supporting its
+motion to dismiss
+The New York Times Company’s December
+complaint
+reveal the defendants’ stance over training large language models with copyrighted journalistic content.
+The two lawsuits, which soon may be
+consolidated
+given similarities, are centerstage. That’s because partnerships and licensing agreements already exist between OpenAI and multiple journalism entities, including the
+Associated Press
+,
+The Atlantic
+,
+Axel Springer
+(owner of
+Politico
+and
+Business Insider
+),
+Dotdash Meredith
+(owner of
+People
+and
+Better Homes & Gardens
+),
+The Financial Times
+,
+News Corp.
+(owner of the
+Wall Street Journal
+and
+New York Post
+), and
+Vox Media
+(owner of
+New York Magazine
+and
+The Verge
+). In short, many news organizations avoided litigation by licensing content and gaining enhanced access to generative AI tools through dealmaking, but a few fight on in court. While macro-level concerns propelling this litigation were addressed in my
+June
+and
+January
+posts, this one homes in on OpenAI and Microsoft’s responses to direct copyright infringement allegations.
+Twenty20.com
+The complaints against OpenAI and Microsoft in
+New York Times Company v. Microsoft Corporation
+and
+Daily News, LP v. Microsoft Corporation
+include multiple theories—for example,
+vicarious copyright infringement
+,
+contributory copyright infringement
+, and
+improper removal of copyright information
+. Those theories, however, are ancillary to both complaints’ primary cause of action:
+direct copyright infringement
+. While the defendants’ motions to dismiss focus primarily on jettisoning the ancillary claims and
+acknowledge
+that “development of record evidence” is necessary for resolving the direct infringement claims, they nonetheless offer insight on how the direct infringement fight might unfurl.
+Direct Infringement via Inputs and Outputs
+. The
+Daily News
+plaintiffs
+claim
+that by “building training datasets containing” their copyrighted works without permission, the defendants directly infringe the plaintiffs’ copyrights. Inputting copyrighted material to train Gen AI tools, they aver, constitutes direct infringement. Regarding outputs, the
+Daily News
+plaintiffs
+assert
+that “by disseminating generative output containing copies and derivatives of the” plaintiffs’ content, the defendants’ tools also infringe the plaintiffs’ copyrights. The
+Daily News’s
+input (illicit training) and output (disseminating copies) allegations track earlier
+contentions
+of The New York Times Company.
+Fair Use Inputs and “Fringe” Outputs
+: OpenAI’s June
+arguments
+in
+Daily News
+frame “the core issue”—one OpenAI says “is for a later stage of the litigation” because
+discovery
+must first generate a factual record—facing New York City-based federal judge
+Sidney Stein
+as “whether using copyrighted content to train a generative AI model is fair use under copyright law.” Fair use, a defense to copyright infringement, involves analyzing
+four statutory factors
+: (1) the purpose and character of the allegedly infringing use; (2) the nature of copyrighted work allegedly infringed upon; (3) the amount of the copyrighted work infringed upon and whether the amount, even if small, nonetheless goes to the heart of the work; and (4) whether the infringing use will harm the market value of (or serve as a market substitute for) the original copyrighted work.
+So, how might ingesting copyrighted journalistic content—the training or input aspect of the alleged infringement—be a protected fair use? Microsoft
+argues
+in
+Daily News
+that its “and OpenAI’s tools [don’t] exploit the
+protected expression
+in the Plaintiffs’ digital content.” (emphasis added). That’s a key point because copyright law does not protect things like
+facts
+, “
+titles, names, short phrases, and slogans
+.” OpenAI
+asserts
+, in response to The New York Times Company’s lawsuit, that “no one . . . gets to monopolize facts or the rules of language.” Learning semantic rules and patterns of “
+language, grammar, and syntax
+”—predicting which words are statistically most likely to follow others—is, at bottom, the purpose of the fair use to which OpenAI and Microsoft say they’re putting newspaper articles. They’re ostensibly just leveraging copyrighted articles “
+internally
+” (emphasis in original) to identify and learn language patterns, not to reproduce the articles in which those words appear.
+More fundamentally, OpenAI and Microsoft aren’t attempting to disseminate copies of what copyright law is intended to
+incentivize
+and
+protect
+—“original works of authorship” and “writings.” They aren’t, the defendants claim, trying to unfairly produce market substitutes for actual newspaper articles.
+How, then, do they counter the newspapers’ output infringement allegations that the defendants’ tools sometimes produce verbatim versions of the newspapers’ copyrighted articles? OpenAI
+contends
+such regurgitative outcomes “depend on an elaborate effort [by the defendants] to coax such outputs from OpenAI’s products, in a way that violates the operative OpenAI terms of service and that no normal user would ever even attempt.” Regurgitations otherwise are “rare” and “unintended,” the company
+adds
+. Barring settlements, courts will examine the input and output infringement battles in the coming months and years.

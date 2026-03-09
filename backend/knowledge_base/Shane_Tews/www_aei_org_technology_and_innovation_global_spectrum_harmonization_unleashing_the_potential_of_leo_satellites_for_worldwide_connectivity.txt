@@ -1,0 +1,27 @@
+PAGE_TITLE: 
+	Global Spectrum Harmonization: Unleashing the Potential of Low Earth Orbit Satellites for Worldwide Connectivity | American Enterprise Institute - AEI
+
+On Monday, the Biden Administration released a
+Presidential Memorandum
+outlining a
+national spectrum strategy
+. This memorandum is an important step as we move into next week’s
+World Radiocommunication Conference
+(WRC). Given the crucial need for alignments on global spectrum use, the United States must take a leadership position to ensure global harmonization.
+The WRC is the primary spectrum management conference organized by the International Telecommunications Union (ITU)
+Radiocommunication Sector
+. Its decisions shape global spectrum policies. These conferences, held every three to four years, bring together governments from around the world to review and revise as necessary the Radio Regulations, the international treaty governing the use of the radio spectrum.
+A key task at each WRC is to establish topics the conference will study and discuss at the next WRC. The agenda items include factors affecting spectrum harmonization—namely, which specific radio frequency bands will be considered for potential reallocation or sharing between different services and technologies, such as broadband, 5G cellular networks, Wi-Fi, and low Earth orbit (LEO) satellites. Ensuring harmonized spectrum is important to guaranteeing the United States is aligned with the rest of the world on everything from the manufacturing of equipment standards to satellite services that will bring higher broadband capacity around the world.
+Moreover, the upcoming WRC-23 will be pivotal in shaping the future of the satellite industry and its ability to expand networks and services. But it will require countries to negotiate compromises with terrestrial services looking to expand in the same frequencies. The geopolitical dynamics and national interests at play in these spectrum negotiations have huge strategic implications for the space industry’s vision of expanded connectivity. As satellite mega-constellations compete for limited spectrum resources, the WRC’s review process serves as a crucial venue to secure radio frequencies that can shape business plans for decades.
+As of June 2023, there were 11,330 satellites orbiting the Earth. This is a 37.94 percent increase from January 2022. The number of satellites in orbit increased more in the past five years than in the previous 60 years of the space industry. SpaceX has launched
+over 5,000
+mass-produced Starlink satellites into LEO since 2019, with plans to deploy up to 42,000 more, to provide global satellite internet connectivity. Meanwhile, Amazon plans to
+deploy a constellation
+of over 3,000 non-geostationary satellites into LEO.
+Initiatives such as Amazon’s Project Kuiper and SpaceX’s Starlink are game changers, given satellites’ ability to provide high-speed, low-latency broadband connectivity to unserved and underserved communities worldwide, including remote schools, hospitals, enterprises, government institutions, and households desperate for reliable broadband. This approach offers a more efficient, affordable, and reliable option compared to traditional geostationary satellites.
+However, a major hurdle in maximizing the potential of these LEO systems is the outdated technical rules around “Equivalent Power Flux-Density” (EPFD) limits. Established by the ITU over two decades ago, these limits govern the energy emitted from satellites during data transmission, intended to prevent interference with geostationary satellites. Unfortunately, these rules have not evolved in tandem with advances in satellite technology and spectrum-management principles, thus significantly restricting the efficiency and affordability of LEO systems.
+Via Reuters
+Modernizing the EPFD framework is crucial for LEO systems to fully realize their potential in addressing the digital divide. A revised EPFD framework would enable LEO systems to expand their customer base with affordable broadband while still protecting the services of geostationary satellites.
+As WRC-23 approaches, it’s essential that ITU members consider an agenda item to revise EPFD limits. This initiative is not without its challenges, as incumbent satellite operators are lobbying intensely to keep EPFD limits off future agendas, fearing competition from emerging non–Global Services Operation service providers. However, updating the EPFD limits is a necessary step toward harnessing the full potential of LEO satellites, thereby making high-speed internet access a reality for all, irrespective of location.
+An agenda item committing to this crucial study would set the stage for the ITU to propose regulatory changes at the next WRC, based on comprehensive studies. Such an update would not only bolster the LEO satellite industry but also significantly contribute to global socioeconomic development by enhancing connectivity across the globe. The decisions and actions taken at forums like WRC-23 will be instrumental in dictating the pace and direction of technological advancement in the satellite communications sector.
+The WRC stands at the forefront of addressing key issues that could revolutionize the communications industry’s many layers, particularly in terms of global spectrum use. Updating policy to ensure spectrum harmonization is pivotal for rapidly expanding the capabilities needed to offer global connectivity and bridge the digital divide.

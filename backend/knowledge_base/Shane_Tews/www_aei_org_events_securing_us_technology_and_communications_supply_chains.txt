@@ -1,0 +1,46 @@
+PAGE_TITLE: 
+	Securing US Technology and Communications Supply Chains | American Enterprise Institute - AEI
+
+Event Summary
+On Friday, September 18, AEI’s Shane Tews hosted Rep. Mike Gallagher (R-WI) and an expert panel for a discussion on securing the United States’ essential technology supply chains.
+Rep. Gallagher discussed ways to reduce dependency on crucial technologies from China and move their production back to the US. Robert Strayer of the Information Technology Industry Council stated that interconnected, high-speed networks will drive future critical infrastructure but that greater connectivity equals higher risk. Kathryn Condello of Lumen called for new standards that would increase interoperability between existing wire-line networks and new wireless technologies.
+Robert Morgus of the US Cyberspace Solarium Commission noted, however, that ceding manufacturing capability to China would lessen US authority in rulemaking for next-generation standards. He added that poor interoperability has complicated efforts to “rip and replace” outdated core technologies. Maryam Khan Cope of the Semiconductor Industry Association affirmed the semiconductor industry’s centrality to supply chain security and echoed Rep. Gallagher’s calls to strengthen American manufacturing.
+The panel also addressed how to attract American engineers to tech manufacturing and how to balance continued access to key foreign markets with national security.
+— William Rau
+Event Description
+On the doorstep of next-generation networks, the US must prioritize cybersecurity. The US Cyberspace Solarium Commission has recommended creating an information technology security-base strategy that encourages government and commercial collaboration. This recommendation is especially pertinent to 5G networks — wherein China is a key player in supply chains and is seeking to change global norms. How can the US develop a strategy to ensure supply-chain security for essential information and communications technologies?
+Rep. Mike Gallagher (R-WI), co-chairman of the US Cyberspace Solarium Commission, joins AEI’s Shane Tews to discuss how the US can limit the number of untrusted technologies in crucial technology supply chains and how building a skilled, diverse STEM workforce will enrich America’s capacity to produce trusted essential technologies. An expert panel discussion will follow.
+VIDEO
+Agenda
+12:30 PM
+Welcome and introduction:
+Shane Tews,
+Visiting Fellow, AEI
+12:35 PM
+Opening remarks:
+Mike Gallagher,
+US House of Representatives (R-WI)
+12:45 PM
+Fireside chat and Q&A:
+Mike Gallagher,
+US House of Representatives (R-WI)
+Shane Tews,
+AEI
+1:00 PM
+Panel discussion
+Panelists:
+Kathryn Condello,
+Senior Director, National Security/Emergency Preparedness, Lumen
+Maryam Khan Cope,
+Director of Government Affairs, Semiconductor Industry Association
+Robert Morgus,
+Senior Director, US Cyberspace Solarium Commission
+Robert Strayer,
+Executive Vice President of Policy, Information Technology Industry Council
+Moderator:
+Shane Tews,
+AEI
+1:40 PM
+Q&A
+2:00 PM
+Adjournment

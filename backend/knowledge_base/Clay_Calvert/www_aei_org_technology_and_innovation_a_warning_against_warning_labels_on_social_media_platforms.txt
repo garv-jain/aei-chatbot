@@ -1,0 +1,66 @@
+PAGE_TITLE: 
+	A Warning Against Warning Labels on Social Media Platforms | American Enterprise Institute - AEI
+
+If you can’t constitutionally restrict social media platforms or the speech they convey, force them to transmit some of your own speech they’ll surely dislike.
+That’s seemingly the strategy of some lawmakers frustrated that the
+First Amendment’s
+guarantees of free expression and editorial autonomy have
+repeatedly
+stymied their paternalistic efforts to restrict minors’ platform access to lawful, presumptively protected content. Those lawmakers may find themselves equally exasperated upon discovering that the First Amendment imposes high hurdles against compelling private entities to convey the government’s “
+own preferred messages
+,” especially when they contain contested viewpoints.
+Via Adobe
+Indeed, the longstanding constitutional guarantee against government-compelled expression––a
+right not to speak
+––surely will be raised if California enacts
+Assembly Bill 56
+. Introduced last month by Assembly member
+Rebecca Bauer-Kahan
+, it creates “legislation relating to mental health warning labels for social media platforms.”
+The bill lacks details but a
+press release
+issued by Bauer-Kahan and California Attorney General Rob Bonta claims it will “arm people with clear information about the risks of social media for kids and teens” by requiring social media companies to add “a warning label to their platforms.” The ostensible, must-disclose risks are “poor mental health outcomes, including symptoms of depression and anxiety.” The “warning must be displayed to users of all ages upon their first use of the platform and after this, at least once weekly,” and it “would be displayed continuously for a duration of at least 90 seconds.” That’s quite the lengthy government commercial.
+The bill didn’t arise in a vacuum; momentum built for months. US Surgeon General
+Vivek Murthy
+chummed the warning label waters in an
+essay
+last June. Asserting that “social media has emerged as an important contributor” to a “mental health crisis,” Murthy called for a “warning label on social media platforms, stating that social media is associated with significant mental health harms for adolescents.”
+Attorneys general from 42 states (California included) added to the fray in September, voicing
+support
+for Murthy’s proposal. In a
+letter
+to Congressional leaders, they alleged that “algorithm-driven social media platforms threaten” a “variety of serious psychological harms” to “the kids in our jurisdictions.” A warning label, they averred, “would help abate this growing crisis.”
+About two weeks later, US Senators Katie Britt (R., AL) and John Fetterman (D., PA) introduced the
+Stop the Scroll Act
+. It would require platforms to include “a mental health warning label,” replete with a phone number for “a national suicide prevention and mental health crisis hotline system.” The bill grants the Federal Trade Commission enforcement power while allowing state attorneys general to sue on their residents’ behalf. Britt
+asserted
+“this simple solution will help parents and kids thrive.”
+Constitutionally speaking, warning labels of this ilk aren’t a simple solution. They’re fraught with First Amendment problems because they don’t convey uncontroversial, measurable pure facts like a Big Mac’s calorie count. They also don’t compel facts in the context of a commercial advertisement that might be necessary to prevent consumer deception.
+Todd O’Boyle, vice president of technology policy at the Chamber of Progress,
+observes
+that “[s]lapping a warning label on social media is like a broken fire alarm going off with no evidence of smoke. It ignores the reality that most teens view social media as an important outlet for social connection.” He adds that “a lack of scientific proof” of harms will cause the measure to run into a “First Amendment buzzsaw.” In short, there’s no direct causal proof of injury.
+Furthermore, as I wrote
+earlier
+, even if a speech-harm correlation exists, “many things are associated with negative mental health among adolescents,” while social media, in fact, carry multiple expressive benefits for minors. Platforms aren’t cigarettes (the US Supreme Court
+recently
+left intact a lower court
+decision
+upholding graphic
+federal cigarette warnings
+).
+Bonta already knows about constitutional concerns with compelled-speech mandates. As I
+explained
+last fall, the US Court of Appeals for the Ninth Circuit in
+X Corp. v. Bonta
+blocked enforcement of California
+Assembly Bill 587
+. Among other things, it forces social media platforms to explain whether and how their terms of service define controversial –– yet presumptively protected –– forms of expression including hate speech and extremism. The appellate court determined this provision likely violates the First Amendment under the strict scrutiny standard of review.
+To be clear, the Ninth Circuit has
+allowed
+a retail-warning label about cellphone radiation under a much more government-friendly standard of review called the
+Zauderer
+test. Even
+Zauderer
+, however, requires compelled information to be “purely factual and uncontroversial.” Additionally, disclosure requirements cannot be “unjustified.” The constitutional problem for California is
+that
+the alleged negative consequences spawned by platforms are “hotly contest[ed] today and . . . there is not yet a purely factual answer.” In sum, platform warning labels currently aren’t justified under the First Amendment.

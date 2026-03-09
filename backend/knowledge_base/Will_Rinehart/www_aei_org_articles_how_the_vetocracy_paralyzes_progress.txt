@@ -1,0 +1,93 @@
+PAGE_TITLE: 
+	How the Vetocracy Paralyzes Progress | American Enterprise Institute - AEI
+
+Political scientist Francis Fukuyama is right, at least about one thing. The American political system is a vetocracy, a system ruled by vetoes. And in recent decades, this excessive power of the veto has paralyzed decision-making at every level, frustrating efforts to build homes, nuclear power plants, and solar and wind projects; add new hospital beds; lay railroad tracks; start businesses; and manage wildfires.
+Once you start looking for it, you will notice how pervasive the problem of vetocracy is.
+In
+a 2016 interview with journalist Ezra Klein
+, Fukuyama explained:
+I coined a phrase in the book [
+The
+Origins of Political Order
+] — “vetocracy,” meaning “rule by veto.” And the broader argument is that the American political system has always made it very hard for the government to actually do things because it gives a lot of parts of the political system veto rights over what the system does.
+In most of the 20th century this was not a terrible system, because there was a lot of overlap between the major political parties. And so all of the major pieces of legislation — the Great Society, the Reagan tax cuts — were based on cooperation between Republicans and Democrats. But a lot has changed, including the partisan polarization in Congress and in the broader society, as well as the rise of interest groups.
+Fukuyama, however, applies vetocracy too narrowly. Vetocracy is not just a problem of Congress. Veto problems also afflict federal agencies like the
+Food and Drug Administration
+and the
+Environmental Protection Agency
+, as well as state legislatures, state-level administrative agencies, all the way down to local governments and municipalities.
+To be clear, I see vetocracy as related to but separate from the broader problem of red tape. Red tape, permitting, and other limitations regulate conduct. Laws that regulate conduct need to be judged on their own merits, but vetocracy isn’t regulation of conduct. Vetocracy is about the needless delays created through the many points throughout our institutions at which beneficial progress can be stopped cold—by a business competitor, a resistant neighbor, a slow government agency, or a litigious special interest group.
+You don’t have to look hard to find the vetocracy in action—just spend some time reading up on San Francisco.
+Rule by veto in San Francisco.
+While I always knew that San Francisco had problems building homes and infrastructure, it became very real for me a couple years back when I was walking down the street and a posted sign caught my attention. It was a notice for a permit to site a small wireless antenna, inviting the public to weigh in on the antenna’s potential approval. It was, quite literally, a totem dedicated to vetocracy.
+Housing is where you can find some of the most egregious examples of the San Francisco vetocracy.
+For example, just before the pandemic hit, 77-year-old Patrick Quinlan got approval to build 10 new housing units on a 17,400-square-foot lot. The only reason I know this is because his troubles were covered in
+Mission Local
+, a website dedicated to hyperlocal San Francisco news, with an incredible headline: “Development Hell: How a 40-year-old Bernal Heights project finally got approved.” I’m still astonished by one of the quotes attributed to Kathleen Campbell, a resident of the area who had long opposed the development: “The current proposal is the best option we’ve seen in over 22 years.” Eventually Quinlan hired a housing consultant, who solicited input from neighbors and completely redid the plans
+to get the building approved and built.
+A project to build housing in the Balboa Reservoir area in San Francisco has a long history of being shot down by neighboring residents. According to the
+San Francisco Chronicle
+, “Three times in the 1980s, voters faced the question of whether housing should be built there. They first rejected the project, then approved it and finally voted it down a second time.”
+In 2014, Habitat for Humanity in San Francisco put forward plans for a 20-unit affordable housing project in the nearby municipality of Redwood City. Fast forward three years, and in 2017,
+an attorney invoked
+the California Environmental Quality Act (CEQA) to halt the project, arguing that the city had neglected to assess the project’s effects on traffic and the scenic views, particularly the one visible from his home. Attorneys Chris Carr, Navi Dhillon, and Lucas Grunbaum documented the proceedings in a report titled “
+The CEQA Gauntlet
+,” noting that,
+The plaintiff ’s public statements underscore the realities of CEQA litigation. Rather than being used to ensure consideration of environmental issues, project opponents frequently use CEQA as a cudgel to delay projects, obtain concessions, or force developers to cancel projects altogether. In fact, the same attorney admitted that he had threatened CEQA litigation against other nearby projects, forcing one apartment developer to eliminate an entire floor to avoid litigation, while another developer abandoned its 91-unit condominium project.
+They also recounted the problems faced by the University of California, San Francisco in updating its Parnassus medical campus. Plans for modernizing the nearly century-old campus centered on building a new 560,000-square-foot Helen Diller Medical Center, which was to boost the in-patient bed capacity by nearly 60 percent, enabling UCSF to serve thousands more patients annually, many of whom would otherwise be turned away without the expansion. However, in February 2021, three organizations filed separate lawsuits attempting to halt the UCSF project. While it eventually got built, the lawsuits slowed the process.
+A big reason for the limited housing is the ease with which people can stop development. As Bay area resident
+Ryan Delk noted
+, “Something you may not know about San Francisco: There are ~6 people who oppose nearly every new development in SF (residential & commercial), successfully using various loopholes and review processes to delay them by months or years. Six people holding back an entire city.”
+It is also exceedingly difficult to start a business, because your local competitors can gum up the permitting process.
+Flying Falafel sought to expand to a second location in a vacant storefront on Castro Street. However, Gyro Xpress, a neighboring restaurant, used San Francisco’s
+Discretionary Review process
+to force a public hearing before the notoriously capricious Planning Commission, which
+one commenter described
+as “the minotaur in San Francisco’s permit labyrinth.” The competitor successfully blocked Flying Falafel’s permit, preventing the location from opening.
+If you think this is just a one-off, there’s the experience of Joey Mucha, a Skee-Ball champion who had plans to turn his warehouse into a restaurant, bar, and arcade dedicated to the game. But
+community activists opposed the project
+, arguing that it would fuel the ongoing gentrification in San Francisco. Then there’s
+Jason Yu, who abandoned his plans
+to open a dessert shop after battling with his competition for 22 months over city approvals. The owners of Garden Creamery, whose ice cream business sat half a block from Yu’s proposed storefront, drove the public review process.
+The owners of apparel business San Franpsycho ran into trouble when they tried to open a café offering pies and ice cream alongside their existing store. San Francisco’s rules forced them into a public comment process, requiring notifications to neighbors within 150 feet about the planned changes. Anyone could object. While they ultimately opened the café, the process was “pretty expensive and pretty painful,”
+according to one employee
+.
+Even without an arduous Discretionary Review, it is not easy to get approval to expand a small business. Yoko and Clint Tan are world-renowned ramen cooks, having been recognized at the World Ramen Grand Prix in Japan. For five years, they ran a successful pop-up shop in Daly City, California. But when they attempted to open a location in San Francisco, they encountered the full force of the city’s bureaucracy. As
+the
+San Francisco Chronicle
+framed it
+, “All they wanted was to open a noodle shop. Their tangle with S.F. bureaucracy has them regretting they tried.”
+.
+They eventually succeeded in opening the shop.
+San Francisco is no stranger to excessive budgeting and stalling permits:
+Due to a CEQA lawsuit,
+a bike lane in San Francisco
+was delayed by four years, during which time the city couldn’t even put up a basic bike rack as a result of the legal stoppage.
+Twenty years ago, San Francisco had an ambitious plan for a bus rapid transit (BRT) lane, running from downtown to the beach to alleviate traffic congestion. But after enduring years of meetings, studies, and legal challenges, the BRT project remains
+stalled
+.
+The San Francisco city government scrapped
+a $1.7 million public toilet project
+in the Noe Valley neighborhood after failing to navigate its own labyrinthine permitting process.
+It took four years and
+more than $20,000
+to get a trash can installed.
+San Francisco routinely engages the public for input on small transit improvements, such as
+this change to eliminate
+one parking space and add a right-turn-only restriction on a city street.
+During the pandemic, the city tried to shut down some streets to allow for better social distancing, a move that was met by appeals from two people. But the appeals were a bit of a farce, as they were submitted to the city’s Board of Supervisors, which acts as both judge and jury in such cases. The appeals ended up costing $10,000 in city staff time and legal fees, “more time and money than it took to create the emergency programs in the first place,” Director of Transportation Jeffrey Tumlin told
+the
+San Francisco Chronicle
+.
+Balancing democracy and vetocracy.
+San Francisco is what happens when community input is affixed to every decision. Yes, some projects, especially ones that will affect many people’s quality of life, deserve public input. Moreover,
+research finds
+that soliciting public input and listening to local voices drives trust in government. But giving people the ability to voice their opinion in every decision has made a normal bureaucracy downright sclerotic. Vetocracy has also given rise to the view that nearby residents should be able to completely veto a project and, conversely, that a project must get the buy-in from the neighborhood to proceed. Add in the widespread belief that neighborhoods are less socially cohesive than ever and it makes sense why vetocracy has become such a problem.
+San Francisco is a shining example of the worst excesses of procedural democracy, a problem that exists
+throughout the U.S. government
+. But it is not just something happening in the United States. Excessive veto power also causes problems in Germany, the United Kingdom, Australia, and Ireland.
+Here’s a collection of examples
+I’ve curated.
+I started off this piece praising Francis Fukuyama because I think he is right
+on this point
+: “We need to move our decision-making more towards the collective good side of the equation, which will then require injuring the interests of some of the narrower stakeholders.” As a general rule, there aren’t free lunches, but it seems like reforming government processes so that it doesn’t take four decades to build some homes could be a big win with relatively few costs.

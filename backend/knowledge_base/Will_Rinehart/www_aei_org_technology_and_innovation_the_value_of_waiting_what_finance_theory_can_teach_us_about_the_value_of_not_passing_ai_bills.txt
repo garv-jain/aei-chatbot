@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	The Value of Waiting: What Finance Theory Can Teach Us About the Value of Not Passing AI Bills | American Enterprise Institute - AEI
+
+Nearly every time I am asked about AI governance, I’m asked some version of this question: The government runs slow and AI businesses are running fast; is the government keeping up?
+Adam Thierer put together
+the graph below which captures the idea, known as
+the pacing problem
+. While our technological capabilities sprint ahead, our social and legal frameworks merely power walk behind. The pacing problem lies at the heart of AI regulation.
+Via the Technology Liberation Front.
+But I think people are looking at that pacing problem delta incorrectly. Changing regulatory regimes for every new innovation risks getting governance wrong. There is value in waiting to see where problems arise. In nascent markets and with new technologies, the best response to a widening pace gap is often to wait, rather than rushing to close the gap with potentially premature regulation.
+Finance has a concept that captures this flexibility.
+Real options
+are an investment choice that a company can undertake to respond to changing economic, technological or market conditions. To be specific, a real option gives a firm’s management the right, but not the obligation, to undertake certain business opportunities or investments. Real options create value beyond the immediate investment by assigning a value to the flexibility in the face of uncertainty.
+As economists
+Bronwyn H. Hall and Beethika Khan explained
+:
+The most important thing to observe about this kind of [investment] decision is that at any point in time the choice being made is not a choice between adopting and not adopting but a choice between adopting now or deferring the decision until later.
+This same principle applies to regulation. Regulators possess a regulatory real option. They can act now or hold their authority in reserve for future use when there is new information. A new regulation’s total value, therefore, includes both its immediate net benefits and the value of preserving future regulatory flexibility. Just as businesses use real options to manage uncertainty in fast-changing markets, regulators should think strategically about their option to wait.
+Still, what I’ve presented is the best case for those worried about the pacing problem. AI regulation on the ground is different from what the law books might suggest. There are
+more than 500 AI-relevant regulations, standards, and other governance documents
+at the federal level; countless algorithmic discrimination cases to rely upon; an open FTC investigation; consumer protection authority; product recall authority; a raft of court cases; and so on. An explicit statute is just one means of governance and is often the least efficient in dynamic industries.
+On the other hand, when it comes to deployers of technology, the regulatory real option shows up on their ledgers as regulatory uncertainty.
+As I explained in a post last year on this topic
+, “companies are often trying to acquire regulation that reduces their risk and legal uncertainty.” Continuing, I wrote:
+This theory helps to explain why
+Meta supports
+federal legislation regulating apps for kids. It is not so much that they are trying to harm their competitors, though that might still be a reason. More likely, they are trying to reduce their own risk. Complying with a federal bill is easier than having to comply with state bills or having to go through various court cases. All of the options are costly, but the federal route means less litigation risk and less overall uncertainty.
+Companies want clear rules that reduce their risk and legal exposure. It’s why tech giants push for federal frameworks over state-by-state regulation. But rushing to provide that certainty through poorly conceived state laws could leave us worse off than when we started.
+Critics will argue that we can’t afford to wait, that the risks are too high, and that the pace of change is too fast. But this view fundamentally misunderstands that there are robust regulatory tools that can be applied. It’s the topic of my most recent Techne newsletter. Besides, speculative risks aren’t well-served by rushed state-level regulation; they should be applied at the federal level. And if we’re worried about existential risks, detection is
+more important than prevention
+.
+That’s the point of regulatory real options. There’s value in maintaining the flexibility to respond effectively when we actually understand what needs to be regulated.

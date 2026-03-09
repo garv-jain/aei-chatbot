@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	Those College Grad, Knowledge Economy Blues (And What to Do About Them) | American Enterprise Institute - AEI
+
+In a recent
+Atlantic Magazine
+article
+about how college graduates are faring in the labor market, columnist Derek Thompson highlights new data to the
+contest
+over whether the costs of a bachelor’s degree outweigh its benefits.
+Relying on analysis from the Federal Reserve, Thompson notes that the unemployment rate for graduates with four-year degrees is slightly higher than those with two-year degrees. Thompson lays out several theories for explaining this lagging employment effect. He cites the lingering effects of both the global financial crisis and the COVID-19 shutdowns as possible reasons for the slack demand. Or, he says, AI might be to blame as it begins automating the
+knowledge economy
+.
+It’s probably too early to tag AI as a major contributor to the college degree hiring swoon. Nonetheless, over the medium- and long-term, those employed in knowledge-based tasks—heavily weighted toward those with degrees—look primed to experience a version of “skills-biased technological change” (SBTC) that “
+deskilled
+” millions of manufacturing jobs in the 1990s and early-2000s.
+Take professional and business services. This sector employs about 23 million American workers, many of whom have  bachelor’s degrees in business administration, marketing, human resources, and economics. Firms in this sector employ a lot of middle-skill workers who are engaged in information-intensive, well-defined, “codifiable” tasks that are relatively simple to automate.
+SBTC theory says some portion of these middle-skill knowledge workers will remain in the sector but will shift toward monitoring and maintaining AI systems in much the same way that a portion of the factory workforce moved into jobs monitoring and repairing the robots that replaced lineworkers. For many others, keeping their jobs will likely depend on whether they have good noncognitive skills that power critical thinking, problem-solving, collaboration as well as human-facing capacities like emotional intelligence and adaptability. These skills are in short supply in our society and are more difficult for AI to replicate.
+Specific skill impacts and their timing are uncertain, but the direction of change for knowledge economy workers is relatively clear. In the case of business and professional services, we can see how doors might begin closing on entry-level jobs in marketing, business administration, and legal services. In fact, a number of companies have already adopted “AI-first” policies that require candidates to have experience with the tech and more will surely follow.
+Our primary workforce challenge in the coming years, then, will be two-fold: equipping the rising generation of workers for an AI-powered economy and helping incumbent workers upskill in their existing jobs or reskill for other jobs. This transition will require effort from all sectors of American society and virtually every individual worker.
+Education leaders should focus on AI literacy as a paramount concern for our K-12 and post-secondary systems. To prepare today’s students for tomorrow’s jobs, we will need an approach to AI education and training that starts early and gradually increases in specificity and complexity. Carnegie-Mellon University has partnered with the Montour (PA) School District since 2018 to
+pilot AI teacher training
+and curriculum development. CMU’s approach seeks to integrate AI into subject matter areas rather than defining it as strictly a science topic. Early evidence suggests this approach is yielding important
+success
+. Importantly, CMU’s strategy includes AI ethics education to promote responsible use and help avoid some of the negative consequences we have experienced during the rapid proliferation of digital technologies and platforms (e.g., social media).
+Incumbent workers will also need help. Some large employers like
+IBM
+,
+PwC
+,
+Microsoft
+, and others are already offering online, self-paced curricula to help current workers grow their AI skill sets. These programs highlight AI risk mitigation and algorithmic bias education, key concerns to help prevent inadvertent bias by AI systems and applications that are often especially sensitive in knowledge sector industries like banking, insurance, and health care.
+We will also need employment transition programs for displaced workers. A revived and improved
+Trade Adjustment Assistance
+(TAA) program, refashioned as Automation Adjustment Assistance, would support transitions to new, in-demand occupations.
+We also need better predictive modeling for local and regional labor markets. Such modeling would include “
+headlight
+” forecasts, providing granular analysis of which industries, jobs, and skills are likely to be automated and when that automation might occur. Such information will be essential to workers, employers, and educators in planning for an AI-infused future.
+AI is already helping deliver
+miracles
+, but no technological gain is without risks or downsides. As this powerful new tech continues to shape skill demands and opportunities, we should avoid the mistakes made during the deskilling of the manufacturing workforce and begin policy planning now that will help American workers adapt to the changes that are
+speeding
+toward us.

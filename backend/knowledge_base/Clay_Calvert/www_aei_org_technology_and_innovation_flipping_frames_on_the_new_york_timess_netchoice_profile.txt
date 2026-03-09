@@ -1,0 +1,94 @@
+PAGE_TITLE: 
+	Flipping Frames on the New York Times’s NetChoice Profile | American Enterprise Institute - AEI
+
+Readers following
+First Amendment
+cases about laws regulating social media platforms surely recognize the name NetChoice. It’s the trade association
+dedicated
+to making “the Internet safe for free enterprise and free expression,” believing that consumers—not the government—“know best the products and services they need.” As its name intimates, private choice is preferable to government dictate.
+To wit, rather than endorsing new laws regulating lawful online content or imposing age-verification requirements to access it, NetChoice
+promotes
+educational initiatives and supports cracking down on illegal content, particularly
+child sexual abuse material
+and those who
+sexually exploit minors
+. NetChoice’s
+members
+include internet heavyweights such as Amazon, Google, Meta, Netflix, Snap, X, and Yahoo.
+Via Reuters
+Most prominently, NetChoice scored a major victory for platforms’ content-moderation rights in July with the US Supreme Court’s ruling in
+Moody v. NetChoice
+. Six justices (perceived liberals and conservatives)
+agreed
+that “paradigmatic social-media platforms,” including Facebook with its News Feed function and YouTube on its homepage, exercise “the kind of editorial judgments this Court has previously held to receive First Amendment protection” when they “make choices about what third-party speech to display and how to display it.” NetChoice now is
+fighting
+(and already has
+scored
+multiple orders preliminarily blocking) state laws mandating age-identification procedures that potentially jeopardize privacy via data collection and chill access to presumptively protected content.
+Given NetChoice’s record in successfully litigating against speech-restrictive measures, it’s unsurprising the
+New York Times
+—a newspaper reliant in defamation cases on First Amendment-based rules like
+actual malice
+when
+critically writing
+on public figures like
+Sarah Palin
+—published an
+article
+last week profiling the organization. What’s thus ironic is that the
+Times’s
+piece largely, albeit not exclusively (it includes quotes from NetChoice’s
+Chris Marchese
+), frames NetChoice’s free-speech work in a skeptical, questioning light.
+As Professor
+Robert Entman
+explains
+,
+To frame is to select some aspects of a perceived reality and make them more salient in a communicating text, in such a way as to promote a particular problem definition, causal interpretation, moral evaluation, and/or treatment recommendation for the item described.
+Frames render salient some points about a subject while omitting or obscuring other elements.
+The opening paragraphs of my post, for example, frame NetChoice in a favorable light (at least for free speech and free enterprise proponents) that is strikingly different from the
+Times’s
+article’s
+framing. The headline and sub-headline for the
+Times
+online
+article
+signal to readers that NetChoice is mostly about protecting big business interests, referring to it as a “tech lobbying group” that is “backed by tech giants.” “Big Tech” is dropped into the sub-headline; when a journalist uses “Big” to modify an industry (think Big Pharma, Big Oil, Big Ag), it’s typically done pejoratively.
+The first four paragraphs of the
+Times
+article
+then hold NetChoice partly responsible for stalling in Congress “a child safety bill” that carries “bipartisan support” and “would require social media platforms and other sites to limit features that can promote cyberbullying, harassment and the glorification of self-harm.” When the article identifies the bill as the
+Kids Online Safety Act
+(KOSA)—today’s version is the
+Kids Online Safety and Privacy Act
+—it doesn’t link to the legislation but instead connects to another
+Times
+article
+headlined “These Grieving Parents Want Congress to Protect Children Online.” A photograph of a mourning mother, eyes closed and seemingly clutching a necklace pendant, appears above that article. What’s a reader to think at this point? Likely that NetChoice supports “Big Tech” and doesn’t care about kids. From this KOSA-stalling point forward, one might well interpret NetChoice’s actions with a jaundiced eye.
+For critiques of KOSA, I recommend my colleague
+Daniel Lyons’s
+January 2024
+post
+and my own
+musings
+from September 2023. The
+Electronic Frontier Foundation
+also provides an excellent
+analysis
+of KOSA. For the opposite perspective, AEI’s
+John Yoo
+asserts
+that KOSA “provides a much-needed, common-sense response to new evidence that social media companies knowingly designed their products with features that exploit the still-developing brains of children and cause them harm.”
+The
+Times
+article
+asserts that “Big Tech is testing the bounds of the First Amendment,” with NetChoice supported by “trillion-dollar corporations like Google and Meta” and “distorting the original purpose of the First Amendment.” Who knew the
+Times
+implicitly endorsed
+originalism
+or a
+text, history, and tradition methodology
+when interpreting the First Amendment? The article contends NetChoice has “exploited” at least one Supreme Court opinion in its efforts toward “redefining speech for internet sites.”
+NetChoice isn’t redefining speech. It’s making sure internet-era courts abide by long-standing First Amendment principles. As Justice Antonin Scalia
+wrote
+in 2011, “‘the basic principles of freedom of speech and the press, like the First Amendment’s command, do not vary’ when a new and different medium for communication appears.” Courts are largely agreeing with Scalia and NetChoice on that point.

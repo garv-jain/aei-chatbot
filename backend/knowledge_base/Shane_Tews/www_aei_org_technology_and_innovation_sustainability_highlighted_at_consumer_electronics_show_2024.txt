@@ -1,0 +1,34 @@
+PAGE_TITLE: 
+	Sustainability Highlighted at Consumer Electronics Show 2024 | American Enterprise Institute - AEI
+
+Spanning everything from smartphones, more efficient appliances, larger (and thinner) televisions, and new designs in wearables for health and fitness, the Consumer Electronic Show (
+CES
+) showcases a vast range of products and technologies in Las Vegas every January to preview the innovations heading into homes and businesses in the coming year. Whether crafted for entertainment, communication, or medical enhancements, electronics that support the digital economy are profoundly reshaping modern living and nearly all industries across the globe.
+This year’s featured upgrade for many companies is a
+commitment
+to the environmentally sustainable evolution of electronics. CES 2024
+highlighted
+the rise of green innovation, with numerous companies showcasing their latest advancements in eco-friendly technology as they focus on reducing their environmental footprint. From appliances with energy-efficient product design to integrating biodegradable materials, many large companies’ booths featured their corporate responsibility statement and the ambitious eco-friendly practices they continue to adopt.
+Via Adobe Images
+Beyond the visuals cues of sustainability commitments at CES, industry groups are supporting tangible improvements in tech practices. Most hardware manufacturers such as Lenovo, LG, Panasonic, Samsung, and Sony are part of the Consumer Technology Circularity Initiative, a voluntary pledge for tech companies to reduce their environmental impact by recycling more materials and developing sustainability integration into their processes. AT&T and Verizon also highlighted their sustainability goals around lowering emissions, using renewable energy, and addressing electronic waste as industry partners at the show. The show itself committed to the theme of sustainability: CES asked exhibitors to shift to more sustainable promotional materials such as QR codes rather than printed content. The shift indicates a long-term sustainability strategy rather than a short-term marketing ploy.
+Through renewable energy adoption, carbon offset programs, and advanced circular economy design principles, many companies are following the examples of these successful technology companies and working to reduce their carbon footprint to zero within this decade. The entrance to the Samsung booth highlighted the
+company’s goal
+to achieve net zero carbon emissions in certain divisions by 2030 and reduce power consumption by 30 percent across significant consumer electronics products. AT&T has
+committed
+to becoming carbon neutral by 2035 globally by actively investing in renewables. Verizon is also turning to renewable sources,
+aiming for
+50 percent green energy by 2025. While not present at CES, Apple has set a target to be 100 percent carbon neutral across its
+global operations
+, including manufacturing and product usage, by 2030.
+One example of industry collaboration is Samsung’s AI Energy Mode, part of its SmartThings Energy solution. This feature uses artificial intelligence to optimize a TV’s energy use, automatically adjusting settings to reduce power consumption when not needed. By enabling users to track and manage the energy use of their connected devices, including TVs, Samsung’s
+SmartThings App
+aims to help cut electricity costs and usage more comprehensively.
+Samsung’s innovation was partially a response to a 2019 Natural Resources Defense Council (NRDC)
+report
+that revealed voice-activated smart TVs consumed high levels of standby power, costing US households over $1 billion yearly. In response to the need for improved TV energy efficiency, leading manufacturers like Samsung and LG teamed up with efficiency groups to create a unified TV power usage test standard adopted by the Department of Energy in 2023. The industry also launched a
+voluntary efficiency agreement
+covering most North American brands with transparent reporting estimated to save 58 terawatt hours of electricity annually (equal to 10 million tons of CO2 avoided.) This change equates to over $2 billion in consumer costs, a proof point of industry self-regulation driving innovation and sustainability.
+In another example, Southern Company signed a
+letter of intent
+with Samsung SmartThings to jointly develop smart home energy management solutions for sustainability and emissions reduction goals. By integrating SmartThings’ connected platform and EPA-certified Smart Home Energy Management System into Southern Company’s energy services, the partners seek to provide residential customers personalized tools to track and reduce energy usage and costs. The partnership demonstrates the vast potential of innovative technologies to engage customers in reaching climate goals through energy efficiency gains.
+Pursuing sustainability in electronics still involves the challenges of balancing cost, performance, and eco-impact. However, these obstacles can be seen as opportunities for creativity and leadership that positively affect society and enable consumers to choose to purchase from companies with long-term sustainability goals. With its focus on eco-responsibility, CES 2024 demonstrated sustainability is a key priority for consumers when engaging with technology companies; the progress made promises a future where technology innovation can align with environmental stewardship.

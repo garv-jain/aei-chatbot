@@ -1,0 +1,60 @@
+PAGE_TITLE: 
+	The Judiciary, Generative AI, and Ordinary Meanings: Kevin Newsom Leads the Way | American Enterprise Institute - AEI
+
+When it comes to jurists experimenting with generative artificial intelligence (Gen AI), Judge
+Kevin Newsom
+of the
+US Court of Appeals for the Eleventh Circuit
+is at the leading edge. He’s also making his discoveries and views about Gen AI known in concurring opinions that are distinctly different from traditional ones
+associated with
+a judge who “agrees with the majority opinion but does not agree with the rationale behind it.” The
+Harvard Law School graduate
+and clerk for former US Supreme Court Justice
+David Souter
+is now putting concurrences to techno-centric purposes, enhancing his reputation as the
+Great Concurrer
+.
+Via Adobe
+Consider Newsom’s May concurrence in
+Snell v. United Specialty Insurance
+, a dispute turning on the meaning of “landscaping” and whether installing an in-ground trampoline falls within it. Newsom concluded, based on his (and a clerk’s) trialing with ChatGPT and Bard (now Gemini) over those semantic issues, that Large Language Models (LLMs) “have promise” in “aid[ing] lawyers and judges in the interpretive enterprise” of determining “the common, everyday meaning of the words and phrases used in legal texts.” I previously
+explained
+that Newsom’s “witty, well-reasoned concurrence” in
+Snell
+merits “attention because he catalogs the benefits and drawbacks of” using Gen AI tools in even-handed fashion. Newsom
+wrote
+:
+My only proposal . . . is that we consider whether LLMs might provide additional datapoints to be used alongside dictionaries, canons, and syntactical context in the assessment of terms’ ordinary meaning. That’s all; that’s it.
+In September, he concurred in
+United States v. Deleon
+, delving deeper into the interpretive, ordinary-meaning issues that Gen AI may help jurists resolve. Newsom
+dubs
+his new opinion “a sequel of sorts” to
+Snell
+, as he now ponders what courts should “make of the fact that the [LLMs] sometimes provide subtly different answers to the exact same question?” His answer is that this shouldn’t phase judges because: (1) LLMs aren’t meant to produce the exact same answers, but base their output on statistical probabilities, and (2) the answers that are produced are substantively consistent with only minor variations reflecting “everyday speech patterns.”
+Deleon
+involves the meaning of “physically restrained” and whether it encompasses a cashier being held up at gunpoint by a man demanding money from the cash register and separated from the cashier only by a convenience store counter. The interpretative question is important because
+Rule 2B3.1(b)(4)(B)
+of the US Sentencing Commission’s
+Guidelines Manual
+enhances the prison sentence for a person convicted of an armed robbery during which “any person was
+physically restrained
+to facilitate commission of the offense or to facilitate escape.” (Emphasis added.)
+That guideline was used to increase the sentence for convicted armed robber Joseph Deleon even though Deleon never physically touched the cashier. The three judge Eleventh Circuit panel unanimously affirmed the sentence enhancement, feeling bound by its prior opinions interpreting “physically restrained” to encompass such contactless encounters. Although agreeing he was obligated to follow precedent, Newsom believed the Eleventh Circuit’s prior opinions interpreting “physically restrained” were wrong because they
+misconstrued
+“the ordinary meaning of that phrase.”
+Newsom
+asked
+ChatGPT for the meaning of “physically restrained” and found it’s “response basically squared” with his own understanding. The judge then queried Anthropic’s Claude 3.5 Sonnet, getting an answer that “largely mirrored ChatGPT’s.” But when he repeated the question, Claude produced an “ever-so-slightly different” response. Intrigued, Newsom then conducted what he called “a humble little mini-experiment,” asking ChatGPT, Claude, and Gemini 10 times each, “What is the ordinary meaning of ‘physically restrained’?” He “reassuringly” found the responses (located in the
+opinion’s
+appendix) “largely echoed the initial response . . . from ChatGPT” and “coalesce[d], substantively, around a common core—there was an objectively verifiable throughline.”
+The slight variations in Gen AI’s answers, Newsom
+contends
+, are probably the same as the differences that would be produced if one surveyed millions of people in the United States about the ordinary meaning of “physically restrained.” These minor variations in human answers also help to explain the variations in Gen AI answers:
+Because LLMs are trained on actual individuals’ uses of language in the real world, it makes sense that their outputs would likewise be less than perfectly determinate—in my experience, a little (but just a little) fuzzy around the edges.
+Furthermore, Newsom
+noted
+that the meaning of some two-word phrases (think “dark matter”) are more than the sum of their parts—that knowing what each word independently means doesn’t tell one what they mean together. He believes Gen AI tools might help in such situations because “[t]hey aren’t dependent on human beings going to the trouble of identifying and then defining commonly used phrases.”
+Newsom’s willingness to experiment with Gen AI programs is impressive. His
+bottom line
+—for now, at least—is that “LLMs may well serve a valuable auxiliary role as we aim to triangulate ordinary meaning.”

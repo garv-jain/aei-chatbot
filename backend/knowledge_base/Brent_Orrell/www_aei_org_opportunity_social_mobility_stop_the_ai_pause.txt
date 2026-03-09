@@ -1,0 +1,52 @@
+PAGE_TITLE: 
+	Stop the AI Pause | American Enterprise Institute - AEI
+
+Last week, the Future of Life Institute released an open letter that included some computer science luminaries
+calling to freeze
+deployment and research on artificial intelligence (AI) technologies for six months.
+One prominent AI ethicist insisted
+that the letter did not go far enough and proposed that the world’s governments prepare for “airstrikes” against rogue developers and data processing centers—even if doing so might precipitate
+the exchange of nuclear weapons
+. It appears the “pause” we are most in need of is one on dystopian AI thinking.
+There’s no question that artificial intelligence in its various forms is potentially revolutionary with far-reaching economic, societal, and security impacts. We should take these potential challenges seriously and strategize accordingly but a pause on AI development entails significant costs and risks that we ought to try to avoid.
+The three of us recently served on a blue-ribbon
+Commission on Artificial Intelligence Competitiveness, Inclusion, and Innovation
+, an independent effort assembled by the U.S. Chamber of Commerce. The Commission released its final 120-page
+report
+last month that explained how “AI technology offers great hope for increasing economic opportunity, boosting incomes, speeding life science research at reduced costs, and simplifying the lives of consumers.”
+The Commission heard testimony from leading experts in a wide array of fields. At the Cleveland Clinic we learned about use of AI for
+early detection
+of strokes, heart attacks, and cancers to new treatments for
+degenerative brain diseases
+such as Alzheimer’s and Parkinson’s. Researchers at the Clinic reiterated a message we heard often during the commission: AI and machine learning have enormous potential for saving and extending human lives while improving the quality of human life too. Pausing AI might mean delaying and foregoing these advances.
+Arguably the most important constraint to human flourishing is the cost of generating and storing energy. Thanks to AI, we may be on the cusp of dramatically lowering the cost of both. AI is already improving the efficiency of existing fission reactors and will be integral to safely controlling and operating advanced
+fusion reactors
+to increase the supply and
+delivery
+of clean, low-cost electricity. AI will also be critical to improving
+carbon sequestration
+technology as well as forecasting and responding to
+climate impacts
+.
+Many of these breakthroughs and applications will already take years to work their way through the traditional lifecycle of development, deployment, and adoption and can likely be managed through legal and regulatory systems that
+are already in place
+. Civil rights laws, consumer protection regulations, agency recall authority for defective products, and targeted sectoral regulations already govern algorithmic systems, creating enforcement avenues through our courts and by common law standards allowing for development of new regulatory tools that can be developed as actual, rather than anticipated, problems arise.
+Some new avenues for AI monitoring are already opening up.  Last fall the White House released the
+Blueprint for an AI Bill of Rights
+, while in January, the National Institute of Standards and Technology released an
+AI Risk Management Framework
+. The latter was a multi-year, multistakeholder-led, consensus-driven effort that stressed the need to be responsive to new AI risks as they emerge instead of acting preemptively in ways that unnecessarily limit computational capabilities.
+Abroad, the OECD has launched the
+Global Partnership on Artificial Intelligence
+as a multi-stakeholder initiative to address global AI governance issues. The
+Association of Computing Machinery
+, the
+Institute of Electrical and Electronics Engineers
+, and the
+International Organization for Standardization
+are all assembling sector-specific AI guardrails. The UN Internet Governance Forum, the Internet Society, and the Internet Engineering Task Force are coordinating on AI governance.
+Limiting AI development, even temporarily, would raise more strategic challenges than it solves for liberal democracies facing authoritarian competitors like China. Advocates of a unilateral halt fail to account for how it might erode our existing advantages or impair the ability to deal with new geostrategic challenges. During the Cold War, when the Soviet Union ignored a treaty  against
+biological weapons programs
+and raced ahead with their development. Good actors with AI will be necessary to block bad AI actors who would use our most important advances against us.
+Human beings are a highly resilient species, repeatedly overcoming grave threats to our existence posed by war, famine, and disease. But solving problems always involves trade-offs. Instead of freezing AI we should leverage the legal, regulatory, and informal tools at hand to manage existing and emerging risks while fashioning new tools to respond to new vulnerabilities.
+Brent Orrell is a Senior Fellow at the American Enterprise Institute. Adam Thierer is a Senior Research Fellow at the R Street Institute. Chris Meserole is Director of the Brookings Artificial Intelligence and Emerging Technology Initiative and a Fellow in the Brookings Foreign Policy program.

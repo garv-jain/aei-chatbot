@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	The Lame-Duck Hunt: Closing Big Tech Open Season | American Enterprise Institute - AEI
+
+Lame-duck sessions in Congress usually bring on a
+flurry
+of last-ditch efforts to accomplish pet legislation that otherwise would be sidelined by party leadership. This time is no different, with a rush to push anti-tech bills. Multiple progressive advocacy groups are sending panic
+letters
+to leadership along with a multi-prong
+advertising
+campaign to push for new regulations, for fear the next Congress will not share the same urgency. Amid all the chaos, let’s take a moment to better understand such legislation and what the effects on consumers may be if passed.
+via Reuters
+The Senate’s
+Open App Markets Act
+(OAMA) is a good example of legislation that needs proper vetting. This bill mandates an “open” app store in the name of competition—but specifically targets giants such as   Apple and Google—ignoring the over
+300 other app stores
+available for multiple devices.
+The bill also ignores the consumer trade-off of losing valued security tools created by those best fit to build them in the quest to fully open operating systems. Open architecture can have its benefits, but if it means removing the security tools that help limit the dangerous malware on your mobile devices, is that really worth it?
+The security community has been outspoken about the need for more—not less—security, especially for the mobile ecosystem. Ideally, legislators, regulators, and consumers should value when a company recognizes the potential danger that bad actors create and prioritizes a process to find security flaws in apps before bringing them to market.
+Key to this debate is the security of the application programming interfaces (APIs) that run in the background of mobile apps.
+These interfaces enable the interconnected technology behind the transportation, banking, and social media apps on your mobile device. They are the fundamental building blocks for allowing two applications to communicate and share data. For example, APIs make it possible to show your location on a transportation app.
+APIs can also be tuned to enable easier interaction between apps. They are designed to allow an app to function quickly with the device’s broader operating system. APIs perform highly efficient tasks through partnerships with other apps such as a financial tool or an embedded map API. Since access to other apps’ and the device’s data is critical for an API to function, security is vital to keep the end users secure.
+This is why security is a shared responsibility. App marketplaces should maintain a mantra of “know your developer” in the same way companies chant “know your customer.” Knowing that APIs come from an approved, vetted developer sows peace of mind regarding safety from malware and security bugs and enables easy, safe software updates.
+Cybercrime is up and we’re trying to lessen security?
+More businesses are adopting a mobile-first strategy to connect to their customer base, and criminals are taking note. Salt Labs shows a 117 percent
+increase
+in API attack traffic in 2021. Cybercriminals know that apps with games or simple tools can fool users into downloading malware. The criminals work in the background, extracting data from the device and potentially manipulating it through the API’s ability to talk to the other APIs on the device. A recent
+exploit
+known as “RatMilad” was discovered to be a new Android spyware that targets mobile devices through fake apps to spy on the mobile user, eavesdrop on conversations, extort ransomware, and extract data from the device.
+This heightened activity in the API space caused app stores to place such protections for mobile operating systems during developer review as part of a layered defense process. Protecting API access and the app ecosystem from exploits should continue to be an app marketplace’s priority. With the OAMA, users alone would have to be the guardian of their device security—sophisticated and comprehensive security screening not included.
+Sen. John Cornyn (R-TX)
+noted
+in a hearing earlier this year:
+We are facing a serious inflection point at the interaction of cybersecurity and national security.  And I don’t think we should understate the harm of foreign and bad faith domestic actors to try and gain access to Americans’ phones and computers under the guise of open development.
+We need our leaders to highlight the importance of proactive cybersecurity measures in our connected world and not fall for this Trojan horse. The unintended consequences of the OAMA would inflict real-world harm on consumers and only stand to benefit bad actors. Lame-duck sessions are unpredictable enough as it is; let’s not make this one downright
+dangerous.

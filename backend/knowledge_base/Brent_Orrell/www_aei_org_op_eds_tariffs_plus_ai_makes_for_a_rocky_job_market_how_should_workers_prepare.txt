@@ -1,0 +1,30 @@
+PAGE_TITLE: 
+	Tariffs Plus AI Makes for a Rocky Job Market. How Should Workers Prepare? | American Enterprise Institute - AEI
+
+In today’s labor market, few occupations are safe from AI disruption.
+It’s been a rough month for hiring plans. The market volatility ignited by President Donald Trump’s tariff policies has made business planning difficult, and that includes any intentions of hiring. Combined with the accelerating adoption of artificial intelligence, disruptions to the labor market don’t appear to be slowing anytime soon.
+Recent surveys indicate that around 25% of U.S. firms have scaled back hiring plans due to tariff-related uncertainty and rising input costs. A Duke University survey of chief financial officers
+found
+that tariffs are now the top concern among executives, with one in four businesses lowering their hiring expectations for 2025.
+Another factor in the hiring slowdown is the accelerating adoption of artificial intelligence.
+PayPal
+has cut more than 4,500 employees— roughly 15% of its workforce — over the past two years while simultaneously developing a chatbot that now handles the vast majority of its 52 million annual customer-service tickets. Other companies like
+Duolingo
+are adopting “AI first” policies in hiring and performance reviews which will affect who gets hired and retained based on AI proficiency while signaling the company will substitute AI in roles currently filled by contract workers.
+This dynamic reveals a troubling equation: economic uncertainty plus AI proliferation equals automation of human work rather than augmentation.
+Labor is almost always the largest expense of any business, and there’s a natural tendency to seek ways of restraining those costs to improve the bottom line. Rather than integrating AI alongside workers to enhance productivity, companies often seek to use technology to
+replace
+human labor. Doubts about the performance of the broader economy accelerate this phenomenon as businesses become more cautious and cost-conscious.
+The result is a labor market where both longstanding employees find themselves in a tenuous position while job seekers face a tightening labor market.
+Beyond this economic outlook, AI tends to be
+applied
+, at least initially, to entry-level roles that serve as first jobs or stepping stones to better, higher-paying jobs. With AI taking over the simpler tasks that once allowed junior workers to gain experience, career ladders now have missing rungs with many “entry-level” jobs now requiring three years of experience. Without experience, you can’t get the job and without the job you can’t get experience — a daunting catch-22 for new workers trying to get their foot in the door.
+The reality is stark: in today’s labor market, few occupations remain safe from AI-driven disruption. As Fiverr CEO Micha Kaufman bluntly
+puts it
+, “It does not matter if you are a programmer, designer, product manager, data scientist, lawyer, customer support rep, salesperson, or a finance person — AI is coming for you.” Faced with this sweeping transformation, the question is no longer whether jobs will change, but how workers should prepare for when they do.
+For students and professionals who have spent years honing technical, knowledge- and service-sector skills, automation is an unsettling development. But it also reveals a deeper truth: technical know-how alone is no longer enough. In an age of intelligent machines, what sets people apart are
+noncognitive or “soft” skills
+— communication, critical thinking, collaboration, adaptability and emotional intelligence. These human capabilities not only enable individuals to contribute effectively
+within teams
+, but also form the foundation for lifelong learning, resilience and adaptation.
+The good news is that investments in AI will pay off — eventually —in the form of higher productivity and wages. In the meantime, we are likely to face significant transition and re-skilling challenges that require innovative solutions, including programs that encourage incumbent workers to adapt and new workers to broaden and strengthen their skill sets. Like swimmers caught in a sudden riptide, the trick is to not panic but to work with the current until you find a way out.

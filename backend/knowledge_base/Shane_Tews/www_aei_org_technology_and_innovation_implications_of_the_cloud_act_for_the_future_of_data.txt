@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Implications of the Cloud Act for the Future of Data | American Enterprise Institute - AEI
+
+Cloud computing allows information to be processed and stored
+via the internet
+from remote locations. The ability to use cloud computing has transformed how businesses and everyday users use computers and access data. But it has also created challenges for governments, law enforcement, and the international legal system. Because data can be stored on a cloud server physically located in a different place than where the end user is located, jurisdictional problems can arise when law enforcement seeks access to data located in a different country for investigations. However, a law recently passed by Congress should help resolve some of the challenges brought about by cross-border data flows.
+Via Twenty20
+Perhaps the most high-profile case concerning government access to overseas data is the “Microsoft Ireland”
+case
+that recently made its way to the Supreme Court. It was a dispute between Microsoft and the US Department of Justice (DOJ) “over how US prosecutors seek access to data held on overseas computer servers owned by American companies. The case involved Microsoft’s challenge to a domestic warrant issued by a US judge for emails stored on a Microsoft server in Dublin relating to a drug-trafficking investigation.” While Microsoft argued that US law enforcement should work with Ireland using the Mutual Legal Assistance Treaty (MLAT) between the countries, the DOJ argued that the US warrant had
+international reach
+“because the actions required for Microsoft to obtain the data could take place within the United States . . . [and] copying or moving the subject’s emails stored in Ireland isn’t search and seizure.”
+Until recently, to gain access to data stored overseas, US law enforcement had to make a legal request in coordination with authorities in the other country using an MLAT, which spells out exactly how a legal investigation is conducted between two governments without the final individual agreement in each case needing to be approved by a judge. If the evidence resided in a country that doesn’t have an MLAT agreement with the US, a formal request would have to be made in court. But US law enforcement wanted to access information it needed without using an MLAT process that had proven to be complex and
+time-consuming
+, taking months (or years) in the US and in other countries. Foreign governments have also had increasing
+concerns
+“regarding their inability to access data regarding their own citizens in the investigation of local crimes.”
+The Clarifying Lawful Overseas Use of Data (Cloud) Act, which was passed as part of the recent omnibus spending bill, is designed to help find solutions to the challenges of cross-border data collection by foreign governments and law enforcement. It updates the 1986 Stored Communications Act, giving executive branch agencies the ability to enter into “executive agreements” with foreign governments (if they meet a detailed list of requirements) to facilitate cross-border access to data for criminal investigations. As a result, Microsoft and the DOJ have both said that their Supreme Court fight is now moot, since the law says that a provider of electronic communication service shall comply with a court order for data “regardless of whether such communication, record or other information is located within or outside of the United States.”
+The Cloud Act helps answer content and country of jurisdiction questions by allowing data to be transmitted in both directions when such an agreement is reached. Law enforcement in both the US and other countries gain more efficient access to e-mails and other electronic communications. (Foreign governments can request information on
+non-US persons
+but have to use the MLAT process for US citizens or residents.)
+The language from
+these corporate terms of service
+show how much variation there had been under the prior legal structure. The Cloud Act will help bring parity to this process.
+Facebook:
+“We disclose account records solely in accordance with our terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account.”
+Google:
+“On a voluntary basis, we may provide user data in response to valid legal process from non-U.S. government agencies, if those requests are consistent with international norms, U.S. law, Google’s policies and the law of the requesting country.”
+Twitter:
+“U.S. law authorizes Twitter to respond to requests for user information from foreign law enforcement agencies that are issued via U.S. court either by way of a mutual legal assistance treaty or a letter rogatory. It is our policy to respond to such U.S. court ordered requests when properly served.”
+LinkedIn:
+“Except in limited emergency situations, law enforcement agents seeking information about member accounts must be made through formal U.S. legal procedures, such as subpoenas, court orders, and search warrants. . . . Data requests from outside of the United States generally must be made through an official Mutual Legal Assistance Treaty (MLAT), letter rogatory, or through Irish legal process and procedures.”
+Dropbox:
+“Dropbox currently requires data requests to go through the U.S. judicial system.”
+Civil society continues to have long-standing concerns about protecting the privacy and rights to due process of citizens whose data are involved in these searches. But consider that under the prior rules, all requests for data made to a US company had to be managed by the DOJ, and all data were reviewed by the DOJ, even if they were not the intended end user of the data. Blanket requests for data could also be made, rather than requests for targeted information.
+The new rules require that all surveillance orders must be for a specific individual for a fixed, limited duration that “last no longer than is reasonably necessary to accomplish its purpose” to limit any foreign governments’ access period as part of the agreement. Others have written in far greater
+detail
+on the privacy protections in the Cloud Act, and it also requires countries entering into executive agreements with the US to adhere to international human rights obligations and commitments. These countries must pass a certification process that includes rigorous statutory criteria before they can be certified to request digital evidence.
+The Cloud Act allows governments to develop a clear framework to manage digital evidence for investigative demands while removing conflicts of law and privacy standards. This law is a first step toward harmonizing privacy laws that can be applied across borders that incentivize clear and accountable privacy, civil liberties, and human rights protections. As we move toward upcoming legal challenges on privacy guidance with other countries, the Cloud Act can show us how to migrate toward bilateral agreements that ensure a customer’s privacy rights are protected while abiding with local laws. Governments need to be incentivized to find a privacy framework that can work across borders and ensure customers that their privacy rights are protected.

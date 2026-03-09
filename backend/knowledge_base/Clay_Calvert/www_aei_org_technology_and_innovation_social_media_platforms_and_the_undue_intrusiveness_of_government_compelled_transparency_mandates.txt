@@ -1,0 +1,106 @@
+PAGE_TITLE: 
+	Social Media Platforms and the Undue Intrusiveness of Government-Compelled Transparency Mandates | American Enterprise Institute - AEI
+
+As the
+Supreme Court
+prepares for
+argument next month
+in
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+over the constitutionality of laws dictating how social media platforms moderate content and explain removal decisions to affected users, another key
+First Amendment
+battle is brewing in Sacramento. In late December,
+a federal judge
+there
+refused to preliminarily block
+a
+California law
+compelling platforms to file detailed terms-of-service reports disclosing how they define, flag, moderate, and otherwise act against content including hate speech, extremism, and misinformation.
+The challenge to the statute––known as
+Assembly Bill (AB) 587
+––in
+X Corp. v. Bonta
+raises an important question the Supreme Court won’t consider in
+Moody
+and
+Paxton
+: How rigorously should courts scrutinize statutes that compel platforms to publicly reveal details about their editorial practices when moderating “
+lawful but awful
+” content and punishing users who post it? Put differently, how much deference should courts give the government when it adopts a benign sounding “
+pure transparency measure
+” ostensibly “
+to protect [people] from hate and disinformation
+” that, in reality, constitutes a backdoor censorship effort?
+Via Adobe
+As AEI’s
+Jim Harper
+has
+explained
+, a government-compelled transparency mandate may not be a “direct regulation of platforms’ editorial choices, but it is as close as you can get indirectly.” During
+Congressional testimony
+in 2022, Harper noted that while “it is easy to favor transparency in our institutions,” the problem may be “the end (or ends) to which transparency may be put.”
+So, what’s the end toward which California is putting
+AB 587
+’s twice-yearly disclosure mandates? TechDirt’s
+Mike Masnick
+explains
+that
+The entire point of this law is to try to pressure websites to moderate in a certain way (which alone should show the Constitutional infirmities in the law). In this case, it’s California trying to force websites to remove ‘hate speech’ by demanding they reveal their hate speech policies.
+Joel Kurtzberg
+, an attorney representing X,
+made this point
+during a November hearing: “Mandated transparency measures, like AB 587, are much more problematic than first meets the eye” because they allow “the government to apply pressure to the social media companies.”
+In short, California invokes transparency to censor speech––hateful and offensive expression––that
+generally is protected
+by the First Amendment. As I
+explained before
+when writing about AB 587, “hateful epithets are unprotected
+only
+when used within the narrow context of a category of expression the Court already has carved out from constitutional shelter, such as
+fighting words
+,
+true threats
+and
+incitement to unlawful action or violence
+.”
+Furthermore, when it comes to disinformation and misinformation––two types of content targeted by AB 587––the Court “
+has never endorsed the categorical rule . . . that false statements receive no First Amendment protection
+.” Instead, falsities don’t receive constitutional protection only when they cause a “
+legally cognizable harm
+” such as reputational injury or a privacy invasion.
+The First Amendment protects not just the right to speak, but also “
+the right to refrain from speaking at all
+.” In denying X’s request for a preliminary injunction, however, Judge
+William B. Shubb
+applied
+a very relaxed, government-friendly standard of review when evaluating the likelihood that AB 587 violates a platform’s right against government-compelled expression. Specifically, he applied a test from a Supreme Court ruling called
+Zauderer v. Office of Disciplinary Counsel
+that permits “disclosure requirements” of “purely factual and uncontroversial information” that are not “unjustified or unduly burdensome.”
+However,
+Zauderer
+involved a radically different factual scenario––compelling speech in attorneys’ advertisements to prevent “consumer deception” about costs and fees in contingency fee arrangements. In short,
+Zauderer
+concerned deceptive advertising—“
+purely commercial speech
+”—for which the Court created, as
+Professor Eric Goldman
+writes
+, “a specialized test for a specialized set of the circumstances.” Those circumstances did not involve compelling speech that intrusively pries into editorial judgments and policies about whether and how controversial types of noncommercial, fully protected forms of expression are moderated. As
+NetChoice
+has
+contended
+, “the government is not entitled to
+Zauderer’s
+lower scrutiny where it compels businesses whose service is speech dissemination to disclose their editorial policies or practices.”
+Indeed, laws like California’s AB 587 that compel speech in non-advertising contexts and that are not designed to prevent consumer deception typically are presumptively unconstitutional and subject to the much tougher
+strict scrutiny
+test, as I’ve
+written elsewhere
+. It is highly doubtful that AB 587 would clear that standard.
+The good news is that Judge Shubb’s ruling was a trial court decision made at the early, preliminary injunction phase. There’s a long way to go, and should
+X Corp. v. Bonta
+ever reach the US Supreme Court, TechDirt’s Masnick
+notes
+it just “might be a case where the conservative Justices might finally understand why these kinds of transparency laws are problematic, by seeing how California is using them.”

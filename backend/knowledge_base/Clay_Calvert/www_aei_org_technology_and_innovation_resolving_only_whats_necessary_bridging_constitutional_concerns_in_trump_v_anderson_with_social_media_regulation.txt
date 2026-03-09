@@ -1,0 +1,62 @@
+PAGE_TITLE: 
+	Resolving Only What’s Necessary: Bridging Constitutional Concerns in Trump v. Anderson with Social Media Regulation | American Enterprise Institute - AEI
+
+Sometimes
+US Supreme Court
+concurring opinions
+—those that agree with the majority’s result, but perhaps for different reasons—read more like
+dissents
+. The recent concurrence of Justices Sonia Sotomayor, Elena Kagan, and Ketanji Brown Jackson in
+Trump v. Anderson
+is one of them (and perhaps was even
+drafted as a partial dissent
+).
+Yes, the trio agreed through a
+per curiam
+opinion that former President Donald Trump should be returned to the ballot in Colorado. But the liberal-leaning justices also asserted that the Court’s opinion went further than necessary to settle the case and, in doing so,
+decided other
+“
+questions not before us.
+”
+Resolving those issues, they wrote, “foreclose[s] future efforts to disqualify a Presidential candidate” and “shuts the door on other po­tential means of federal enforcement” of
+Section 3 of the 14th Amendment
+. In short, by saying more than it needed to, the Court severely cabined its options (and those of the federal government) in future cases involving that constitutional provision. The Court, in
+their words
+, should have embraced the “fundamental principle of judicial restraint [that] is practically as old as our Republic.”
+Via Twenty20
+Writing a solo concurrence, Justice Amy Coney Barrett didn’t agree with the tenor of three-justice concurrence, which attempts to expose Chief Justice John Roberts as a hypocrite in its opening sentence by hoisting him on the petard of his own words lauding judicial restraint. Yet Barrett also noted the Court needlessly resolved a “complicated question.” Because all nine justices agreed that states cannot enforce
+Section 3 of the 14th Amendment
+, there was no need to determine (as the Court did) that it can only be enforced by certain Congressional legislation.
+Such concerns about judicial restraint are another reason why
+I believe
+the Court’s rulings in the cases of
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+involving the
+First Amendment
+rights of social medial platforms may be narrow. The decisions (likely in June) may only address the constitutionality of the statutes at issue, rather than feature ringing, high-level proclamations about powerful First Amendment rights online. This possibility is more than speculative, especially in the internet context.
+Consider the Court’s 2017 decision in
+Packingham v. North Carolina
+. The Court concluded there that a statute barring registered sex offenders (RSOs) from accessing social networking sites like Facebook, Twitter, and LinkedIn was far too broadly drafted to serve the government’s undeniable interest in preventing the sexual abuse of minors. As Justice Anthony Kennedy reasoned for the Court, “to foreclose access to social media altogether is to prevent the user from engaging in the legitimate exer­cise of First Amendment rights,” including learning about “current events [and] checking ads for employment.”
+The fact that North Carolina’s statute restricted RSOs’ access to substantially more speech than was necessary to protect minors was sufficient to declare the law unconstitutional under the
+intermediate scrutiny test
+the Court assumed was applicable. But Kennedy went further,
+calling it
+“clear” today that “social media” are among “the most important places . . . for the exchange of views,” on par with a physical space like “a street or a park [as] a
+quintessential forum
+for the exercise of First Amendment rights.”
+This prompted Justice Samuel Alito to pen a concurrence (joined by Roberts and Justice Clarence Thomas) that criticized Kennedy’s “undisciplined dicta” and “musings that seem to equate the entirety of the internet with public streets and parks.” Alito’s fret was that Kennedy’s “unnecessary rhetoric” might hamstring the ability of states to protect minors online. Alito asserted that
+if the entirety of the internet or even just “social media” sites are the 21st century equiv­alent of public streets and parks, then States may have little ability to restrict the sites that may be visited by even the most dangerous sex offenders. May a State preclude an adult previously convicted of molesting chil­dren from visiting a dating site for teenagers? . . . The Court should be more attentive to the implications of its rhetoric for, contrary to the Court’s suggestion, there are important differences between cy­berspace and the physical world.
+In short, Alito was alarmed that by going further than necessary to resolve
+Packingham
+, the Court might have hindered the authority of states to act in the future against online sexual offenders. He added that the Court “should proceed circumspectly, taking one step at a time” when it comes to “applying our free speech precedents to the internet.”
+All of this suggests that when the Court eventually rules, as I’ve
+predicted
+, for the social media platforms in
+Moody
+and
+Paxton
+, one shouldn’t expect lofty pronouncements about First Amendment principles generally governing the regulation of internet speech. Furthermore, if Sotomayor, Kagan, and Jackson remain true to their words in
+Trump v. Anderson
+, they won’t write or join a ruling “that decides momentous and difficult issues unnecessarily.”

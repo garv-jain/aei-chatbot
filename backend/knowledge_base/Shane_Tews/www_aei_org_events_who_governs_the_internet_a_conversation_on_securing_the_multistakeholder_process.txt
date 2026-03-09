@@ -1,0 +1,15 @@
+PAGE_TITLE: 
+	Who Governs the Internet? A Conversation on Securing the Multistakeholder Process | American Enterprise Institute - AEI
+
+Event Summary
+Who governs the Internet, and how can we secure the traditionally open nature of the Internet? On Tuesday at AEI, several Internet experts addressed these concerns, beginning with AEI’s Jeffrey Eisenach, who highlighted — by reflecting back on a time when webcams were used to monitor coffee pots — how much our uses of the network have expanded.
+Ambassador Danny Sepulveda and David McAuley of Bloomberg BNA established the importance of ensuring a well-functioning network and outlined the different moving pieces of the broader Internet governance debate. Ambassador Sepulevda stressed that all stakeholders need to be responsible for and responsive to the network as a whole and to the needs of other interested parties.
+During the panel discussion, Steve DelBianco of NetChoice stressed how important accountability is in the planned transition of the Internet Assigned Numbers Authority (IANA) function. Steve Crocker of the Internet Corporation for Assigned Names and Numbers (ICANN) clarified the current authorities of ICANN and explained how a fairly technical record-keeping task has become so hotly debated.
+Larry Strickling of the National Telecommunications and Information Administration concluded the event with a keynote address focused on the IANA transition and common misconceptions about it, particularly those relating to the US relinquishing control over the Internet. As Strickling explained, the IANA transition is simply the last step in a privatization process that started more than a decade ago, and any delay would only undermine our commitment to the multistakeholder model.
+–Guro Ekrann
+Event Description
+During the 50th Internet Corporation for Assigned Names and Numbers meeting, the global Internet community signaled its continued concerns regarding the accountability and transparency of the Internet governance process. As the US government prepares to end its oversight of the Internet Assigned Numbers Authority, how might we strengthen the multistakeholder process and ensure that rogue governments or actors do not threaten the traditional openness and innovation of the Internet?
+Please join AEI’s Center for Internet, Communications, and Technology Policy for a conference to address key steps we can take, as members of the global community, to maintain a free Internet.
+We invite you to follow the discussion on Twitter using #igfAEI.
+If you are unable to attend, we welcome you to watch the event live on this page. Full video will be posted within 24 hours.
+VIDEO

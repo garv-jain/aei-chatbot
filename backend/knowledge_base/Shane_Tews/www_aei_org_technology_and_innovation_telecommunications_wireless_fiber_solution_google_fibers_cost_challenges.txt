@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	Wireless Fiber: A Solution to Google Fiber’s Cost Challenges? | American Enterprise Institute - AEI
+
+Ten years ago, transportation planners wanted to create a more efficient use of public roads by laying fiber optic cables into the highways and embedding sensors in the roads to monitor traffic patterns. It was an expensive experiment in giving commuters real-time traffic information. That same year, a company called Waze created a mobile app with the same objective but without the need for public infrastructure investment. Waze’s approach, which minimizes cost by relying on crowd-sourced information rather than on expensive and disruptive infrastructure and hardware investment, has been successful. In 2013, Waze was ranked the
+best mobile app of the year
+by Mobile World Congress and was later bought by Google.
+Waze’s thought process can also be applied as we think about the next generation of network technology. For a while now, fiber has been hailed as the next big (and “
+future-proof
+“) thing. But laying down fiber optic cables is easier said than done. Last month, Google
+acknowledged
+that Google Fiber, the company’s fiber broadband project, has proved to be very expensive. Network operators also complain that it is time-consuming to navigate local regulations, and experience from abroad indicates that even when the government foots the bill for building the fiber networks,
+consumer interest is often lacking
+.
+Just like embedding sensors in a highway, the plan to lay fiber to the home is a road map from a previous generation. Fiber to the home is not only expensive, but also not necessary to achieve broadband access for each consumer. By applying some Waze-like, outside-the-box thinking, we can do much better.
+A better way: Focus on 5G and wireless fiber
+More and more people access the internet via a mobile device, using a wireless rather than a wired broadband connection. ComScore’s latest calculations show that the average household has
+10 active devices
+, including mobile devices such as smartphones and tablets, and that mobile traffic now accounts for
+62 percent of the time we spend on digital media
+.
+While a user can benefit from being near a fiber network, he or she does not need to be directly attached to one to have access to the internet.
+This is where the notion of “wireless fiber”comes in, a buzz phrase that is being adopted by many of the companies that provide access to high-speed broadband networks via a wireless connection rather than a dedicated line to each individual home. Wireless fiber allows for enhanced broadband speeds for more users without the overinvestment in capital and equipment by providers needed to lay fiber to each individual household.
+The role of 5G in fiber
+Verizon notes that wireless fiber is key to their 2017 strategic plan for virtual connection. “I think of 5G, initially as, in effect, wireless fiber,”
+said
+Verizon CEO Lowell McAdam. “With wireless fiber, the so-called last mile can be a virtual connection dramatically changing our cost structure.”So rather than full fiber to the home, you will see Verizon utilizing “wireless fiber”to bring its customers Fios technology.
+5G and wireless fiber is not just about mobile devices; It’s about the blended use of networks and technology infrastructure. Wireless fiber can be the answer to faster networking capabilities for many innovations beyond broadband and mobile network users. For one, the internet of things will thrive on the capabilities of the multitude of smaller cell sites created in connection with the 5G rollout.
+A recipe for network success: Get spectrum policy right
+What challenges do we need to overcome to see 5G and wireless fiber come to fruition? First, cooperation between network operators will be vital in ensuring that the networks can connect to the largest possible audience. Operators will also need the authority to manage the voracious end-user appetite for more bandwidth fueled by video streaming, as well as the security and latency challenges created by third-party use across multiple networks.
+Getting the policy right will be just as important. We need to be able to re-think our past policy behaviors on broadband access, wireless standards, and spectrum policy to ensure that we can free the innovation cycle from outdated regulatory models.
+We need to commit to an open regulatory mindset to allow networks to flourish. This both creates a better user experience and allows operators the flexibility to stay globally competitive. We need to be thinking about the next generation of network usage and the impact it will have on our economy. Just as we continue to see Waze help solve traffic congestion issues every day for its users without government guidance, we don’t need the government’s guidance on 5G beyond freeing up government spectrum to allow our country and the rest of the world’s great technology minds to solve our next-generation issues. We need to give the next generation of networks the ability to leap forward to what lies ahead.
+This post was originally published on TechPolicyDaily.

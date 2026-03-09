@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Irresistible Force, Meet the Immovable Object | American Enterprise Institute - AEI
+
+Some important
+new numbers
+are out on the future of the US labor supply, highlighting how a confluence of factors—demographic aging, economic growth, and restrictive immigration policy—are conspiring to create historically tight labor markets in the coming years. The impacts of these trends on businesses and consumers will be pervasive, difficult to manage, and annoying.
+Americans, I personally regret to say, are getting older and starting to leave the workforce in droves. At the peak of the COVID-19 pandemic, the US experienced almost
+two years’ worth of labor force exits
+among older workers in a single year—an early sign of large waves of “scheduled” Boomer retirements already baked into our demographic future. According to economists at Barclays, the labor force will shrink by more than 360,000 this year and next, in large part due to demographic aging, a trend that will almost certainly accelerate.
+In the meantime, job growth—driven by an expanding economy—has been steady and robust. Over the past decade, the US has added on average roughly 152,000 new jobs every month. In recent years, Barclays estimates that 75 percent of these jobs have been filled by immigrant workers.
+Total Nonfarm Employment in the US
+Source: US Bureau of Labor Statistics via FRED, 2025.
+https://fred.stlouisfed.org/series/PAYEMS
+Enter the Trump administration’s immigration policy. With
+National Guard troops
+and
+Marines
+on the streets of Los Angeles to backstop migrant sweeps and deportations, immigrant flows from Latin America have
+fallen dramatically
+, shutting off the US labor market pressure valve at the moment the need for foreign workers is beginning to rise sharply.
+Barclays estimates that without these workers, the US labor force can only grow by about 10,000 per month compared to
+139,000 in May of this year alone
+. This labor shortage, by Barclays’s calculations, will limit GDP growth to 1.4 to 1.6 percent next year and potentially add to inflationary pressure as employers bid up wages for a shrinking supply of workers. This is “no bueno” when it comes to sustaining a vibrant, growing, and non-inflationary economy.
+Of course, all this angst over labor supply is occurring amidst the early transition to an artificial intelligence-infused economy, marked by increasingly dire (
+and often misplaced
+) warnings about a jobless future. Will robots be our
+deus ex machina
+, allowing us to have both less immigration
+and
+economic growth? I wouldn’t count on it. As AI helps to offset retirements and streamline
+“knowledge” worker
+employment, the demands in fields like construction, manufacturing,
+hospitality, agriculture
+, health and elder care—you know, the producers of the housing, consumer products, food, and basic services we rely on and are accustomed to having on demand—continues to grow.
+AI may eventually catch up to even these physical-world labor needs (nothing concentrates the mind of an enterprising engineer like shortages and rising prices), but in the short- and medium-term, immigrant-heavy sectors will resist automation while remaining unattractive to  the native born. Be prepared for an economy in which housing and food prices continue to rise along with lines, longer wait times, and other daily inconveniences.

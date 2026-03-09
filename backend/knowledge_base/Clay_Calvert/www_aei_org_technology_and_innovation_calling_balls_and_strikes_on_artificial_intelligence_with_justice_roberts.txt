@@ -1,0 +1,73 @@
+PAGE_TITLE: 
+	Calling Balls and Strikes on Artificial Intelligence with Justice Roberts | American Enterprise Institute - AEI
+
+Chief Justice
+John Roberts’s
+annual year-end reports
+often examine timely issues facing the federal judiciary, connecting them with historical analogs. For instance, his
+2022 report
+addressed escalating threats of violence directed at jurists––most prominently,
+one targeting Justice Brett Kavanaugh
+by
+a since-indicted man
+incensed by the
+leaked draft opinion
+in
+Dobbs v. Jackson Women’s Health Organization
+. Drawing a parallel to threats directed at Judge
+Ronald N. Davies
+65 years earlier in Arkansas “
+for following the law
+” in school-desegregation litigation, Roberts explained that “a judicial system cannot and should not live in fear. The events of Little Rock teach about the importance of rule by law instead of by mob.”
+Roberts’s
+2023 year-end report
+addresses the very different kinds of threats and the immense legal benefits of artificial intelligence (AI). Mirroring his position near the Court’s ideological center, Roberts is neither alarmist about nor enraptured by AI. To paraphrase a line from Roberts’s
+opening statement
+at his 2005 confirmation hearing, he sees potential balls and strikes. As he
+encapsulates it
+, AI carries “great potential to dramatically increase access to key information for lawyers and non-lawyers alike. But just as obviously it risks invading privacy interests and dehumanizing the law.” In short, Roberts wrestles with a variant of the question AEI’s
+Shane Tews
+recently posed
+: “How can we harness AI’s potential while safeguarding ethics and human values?”
+Via Reuters
+Benefits
+. Roberts
+notes
+that AI can enhance access to the justice system for those unable to afford attorneys while simultaneously speeding up proceedings and lowering costs. “It drives new, highly accessible tools that provide answers to basic questions, including where to find templates and court forms, how to fill them out, and where to bring them for presentation to the judge—all without leaving home,” Roberts observes.
+Risks
+. Hazards include feeding AI confidential information that “might compromise later attempts to invoke legal privileges.” Additionally, Roberts
+writes
+that using AI to assess “flight risk, recidivism, and other largely discretionary decisions that involve predictions has generated concerns about due process, reliability, and potential bias.” Attorneys using AI thus must exercise “caution and humility.”
+Irreplaceable Human Judgments
+. Roberts
+emphasizes
+that some discretionary tasks necessitate human judgments, especially those involving “fact-specific gray areas” like deciding whether trial court judges abused their discretion in making rulings. Furthermore, AI “can inform but not make . . . decisions” about “how the law should develop in new areas.” AI also cannot “measure the sincerity of a defendant’s allocution at sentencing” or notice “a quivering voice” or “fleeting break in eye contact.” In short, Roberts predicts “human judges will be around for a while.”
+Unfortunately, mistakes by attorneys––current or disbarred––using generative AI capture national headlines. The
+New York Times
+reported
+last month that former Donald Trump attorney Michael Cohen “mistakenly gave his lawyer [David M. Schwartz] bogus legal citations concocted by the artificial intelligence program Google Bard” that were later included in a motion Schwartz filed on Cohen’s behalf. In a
+declaration
+, Cohen noted he’d been “disbarred nearly five years ago” and had “not kept up with emerging trends (and related risks) in legal technology and did not realize that Google Bard was a generative text service that, like Chat-GPT, could show citations and descriptions that looked real but actually were not.” According to another Cohen attorney,
+E. Danya Perry
+, Schwartz “added them to the motion but failed to check [them]. As a result, Mr. Schwartz mistakenly filed a motion with three citations that . . . referred to non-existent cases.”
+Fake AI-generated citations have garnered headlines before. As I
+explained
+last June, a federal judge
+sanctioned two attorneys and their law firm for “abandon[ing] their responsibilities when they submitted non-existent judicial opinions with fake quotes and citations created by the artificial intelligence tool ChatGPT, then continued to stand by the fake opinions after judicial orders called their existence into question.”
+Roberts acknowledged such problems,
+remarking understatedly
+that using an “application to submit briefs with citations to non-existent cases” is “always a bad idea.” Such blunders aside, he predicts “legal research may soon be unimaginable without” AI.
+The good news is that errors like those described above are readily curable via mandatory
+continuing legal education courses on generative AI
+and updated ethical guidelines for lawyers. To wit, the
+State Bar of California
+in November 2023
+adopted
+detailed “
+Practical Guidance
+” such as: “AI-generated outputs can be used as a starting point but must be carefully scrutinized. They should be critically analyzed for accuracy and bias, supplemented, and improved, if necessary.” The
+New York State Bar Association
+has created
+a task force
+to “address the benefits and potential dangers surrounding artificial intelligence and make regulatory recommendations.”
+Finally, if AI slightly confuses some Luddite-leaning attorneys, take heart: Roberts notes the Court didn’t have a photocopier until 1969.

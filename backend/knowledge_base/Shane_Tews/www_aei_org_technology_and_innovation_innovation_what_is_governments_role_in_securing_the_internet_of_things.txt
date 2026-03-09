@@ -1,0 +1,22 @@
+PAGE_TITLE: 
+	What Is Government’s Role in Securing the Internet of Things? | American Enterprise Institute - AEI
+
+Next week, AEI will host an
+event
+on Capitol Hill about consumer security and the Internet of Things (IoT) with Sen. Edward Markey (D-MA) and Rep. Ted Lieu (D-CA). These lawmakers have drafted
+legislation
+that would create a “cyber shield” mark aimed at helping consumers identify IoT devices that “meet industry-leading cybersecurity and data security standards, guidelines, best practices, methodologies, procedures, and processes.”
+Via REUTERS
+Consumers often do not understand how their electronics actually work, and IoT devices are no exception. They’re known for their plug and play capabilities — you open the box, connect to your Wi-Fi network, and it works. Asking consumers to pay closer attention to their hardware purchases by reviewing manufacturers’ security features is a challenge. That’s where the idea of a cyber shield logo comes in. It would signal to a consumer that the device conforms to a set of manufacturer best practices set out by a committee managed by the Department of Commerce, established in the Markey and Lieu legislation.
+IoT devices are heavily automated by design — that is part of what makes them so desirable. Connecting locks, switches, audio systems, televisions, garage doors, and monitoring systems means various devices have automated access to consumers’ networks and homes. The importance of securing IoT systems has been highlighted by
+cyberattacks that have used IoT objects
+as attack vectors to wreak havoc on internet transmissions. By getting a foot in the door on any of these devices, attackers can gain access to a consumer’s entire networked system. It’s not just the devices but also the networks they ride on, which can protect or disrupt the interface with other systems.
+Many IoT device manufacturers are currently working with smart home platforms without government guidance. Some organizations such as the
+Open Connectivity Foundation
+want to create standards for devices to ensure that different products are interoperable, simple and secure to set up, and work better together for end users.
+But as the evolution of IoT devices and the end-point systems that allow information to flow to and from the devices continues, how will consumers know that they are secure? All this collaboration calls for consumers to trust that security is present in the transaction. For example, Comcast recently announced that its connected home system will allow users to say “good night” to tell the system to lock doors, turn off lights, adjust thermostats, and arm the home security system, all with a level of cybersecurity running in the background for all the connected systems.
+Will the IoT industry continue to improve the cybersecurity features of devices interacting with each other in homes and with individuals? Or does the government need to engage to ensure that consumers have secure choices when implementing IoT technologies? Hardware manufacturers will need to consider the risks their devices can create as consumers establish their baseline for risk tolerance in this era of connected devices.
+Knowing which devices have better security features may help consumers make smarter, more secure decisions. Markey and Lieu understand the challenge of identifying items that have security by design or the ability for manufacturers to send updates and patches as needed as part of protecting the device.
+The key question moving forward is whether industry needs government involvement to make IoT devices with security features in their design. Will industry players continue to work to produce a more secure IoT ecosystem without government programs that impose best practices? I hope you join us for the discussion.
+RSVP here
+to join AEI for remarks from Sen. Edward J. Markey (D-MA) and Rep. Ted Lieu (D-CA) on their Cyber Shield Act and efforts to improve the cybersecurity of IoT devices. Remarks will be followed by a discussion with AEI’s Shane Tews and an expert panel discussion.

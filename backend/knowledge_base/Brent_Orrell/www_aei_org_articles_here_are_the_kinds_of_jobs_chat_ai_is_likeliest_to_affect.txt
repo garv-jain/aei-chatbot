@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	Here Are the Kinds of Jobs Chat AI Is Likeliest to Affect | American Enterprise Institute - AEI
+
+A new analysis estimates that a fifth of all U.S. jobs are in the category most vulnerable to disruption.
+Researchers at OpenAI—the company behind ChatGPT—and the University of Pennsylvania came out last week with
+a first look
+at the potential labor market impact of chat technology. If these initial “guesstimates” hold up, we might be looking at an inversion of the recent history of automation. In the past, it has been occupations marked by high levels of repetitive, manual tasks that have been on the block. ChatGPT and its progeny, at least at this point, seem to be a bigger threat to higher-end, office, and administrative forms of labor.
+The first thing to note is just how much chat tech has improved in the past few months. This chart shows the change between ChatGPT3 (released on November 30, 2022) and ChatGPT4 (released on March 14, 2023) in terms of proficiency in taking a wide range of standardized tests. The blue bars show the performance of the “old” tech and the green are the “new”. In some areas, like AP Environmental Science and AP Art History, GPT3 was already fully “college-ready” but in many other areas, like AP Biology, Macroeconomics, and Chemistry, GPT4 aced classes for which GPT3 received at best a “gentleman’s C” and sometimes failed outright.
+Perhaps of greatest interest is its improved performance on the LSAT and the uniform bar exam. While I wouldn’t turn to GPT3 to help me get out of a parking ticket, it appears GPT4 or 5 could take me all the way to the Supremes.
+(Graph from Eloundou
+et al.
+, “
+GPTs are GPTs
+,” [
+CC BY-SA 4.0
+].)
+The rapid improvement in the underlying chat tech suggest the job effects of AI chat technology are going to be significant and pervasive if not immediate. (Hence the play on words the authors used as the title of their paper, “GPTs are GPTs”—because it turns out that these Generative Pre-trained Transformers, GPTs, are
+general-purpose technologies
+, also GPTs.) Their analysis finds that 80 percent of all jobs in the United States are “exposed” to AI, meaning a large majority of American workers will find AI chat affecting the way they do parts of their jobs. However, 20 percent of jobs are
+fully
+exposed to AI, meaning that most or all of the tasks that make up those jobs could be affected by chat AI. The more exposed a job is at the task level, the greater the potential for that job to be fully automated and for the human beings to be displaced.
+Finally, the authors go on to point out that the speed and processes by which AI penetrates the economy is not just a matter of immediate exposure to chat technology itself, which is tricky enough to estimate, but the way chat will morph and mix with other forms of technology, such as robotics, image sensing, and the unknown-unknown technologies of the future. As the technology evolves, they say, the job and economic impact may broaden and deepen across the economy.
+So which types of jobs are the most likely to feel the AI heat first? A little history is in order here. What we saw in 1970–2010 was that the workers most affected by that era’s automation were manual workers doing repetitive tasks. This automation, along with trade and off-shoring, contributed to a
+reduction
+in manufacturing employment from about 20 million jobs in 1979 to 13 million today. Those job losses, as we know, were not spread evenly from a geographic standpoint, but tended to fall most heavily in the older industrial regions of the country in the Northeast and Midwest.
+The authors of this study argue that ChatGPT and its offshoots are much more likely, in the short and medium term, to affect the high end of the labor market than the low end. (In the longer term, due to the morphing tendency mentioned above, all bets are off. We just don’t know.) And, irony of ironies, the more education and training a job requires, the more exposed to chat tech it is. The jobs that are most exposed aren’t in the manufacturing sector but the knowledge/services sector. Industries like finance, accounting, insurance, and data processing are about twice as exposed as manufacturing jobs.
+Returning to the legal profession for a moment, chat AI has already established a bridgehead in one of the U.K.’s largest legal firms,
+Allen & Overby
+, with expansive use of the
+Harvey
+AI tool.
+PricewaterhouseCoopers
+announced a new Harvey partnership last week with the rest of the industry sure to follow. Chat applications in legal work will continue to require a lot of human oversight and really good lawyers should see a productivity boost. Middling lawyers, paralegals, and other support staff will have to scramble.
+Largely untouched by chat tech are various sorts of physical production services (e.g., logging, manufacturing), services (food and beverage), and health/social assistance. It’s an interesting collection of low-exposure industries that are all, in their own ways, bespoke activities. Coming from a family of loggers, I’ll certify that cutting down trees is dangerous work that involves a lot of individual judgment and experience that would be difficult to automate. You might say, it’s “log”-arithmic. (I’ll be here all week! Tip your waiters!) For the past several years, many
+AI experts
+and observers have been pointing to social assistance and health as areas that will resist chat-based automation, and this analysis appears to concur.
+A swath of the services-dominated American workforce that has been relatively insulated from automation is likely to find itself grappling with chat tech to greater and lesser degrees. I expect a raft of articles talking about the increased “cognitive load” of jobs as mid-career workers start to express frustration over work demands arising from adaptation to the technology
+and
+higher expectations about how much workers in the knowledge and information sector should be producing.
+For the fully exposed occupations, a fair chunk of those “good jobs at good wages” in professional and semiprofessional roles may be up for review—or what University of Rome economist Marco Magnoni calls “
+disintermediation
+,” which is a fancy way of saying chat tech may turn out to be very good at doing middle-management jobs that focus on coordination of business processes. Perhaps this “new” face of automation, aimed not at factory workers but at people with college and postgraduate degrees, will finally bring about the debate we need on how to help transition displaced workers to new jobs rather than abandoning them to the less than tender mercies of creative destruction.

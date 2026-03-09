@@ -1,0 +1,20 @@
+PAGE_TITLE: 
+	Powering AI: The Energy Workforce Crisis No One Is Talking About | American Enterprise Institute - AEI
+
+We are used to thinking about how burgeoning artificial intelligence (AI) may affect jobs and employment. Usually, this means fixating on whether or not AI systems will replace or augment human labor. What is less often considered is the way AI will, and in fact already does, spur new demand for labor that has nothing to do with AI per se.
+Nowhere is this more true than in the energy sector. AI is an energy-intensive industry and data centers are rapidly becoming massive energy consumers, with power demands rivaling those of entire states. Recent research from the
+Rand Corporation
+finds that AI data centers may require an additional 10 gigawatts (GW) of power this year. By 2027, that demand could grow to 68 GW. California’s entire generation capacity is about 86 GW.
+Unless AI becomes substantially more power-efficient soon, by 2028, a single AI data training center could require one GW—enough to power a mid-sized city. By 2030, AI training could demand eight GW, equivalent to the output of eight nuclear reactors. Add to this
+OpenAI’s Stargate Project
+—a $500 billion investment in nationwide AI infrastructure—and the future demand for electricity appears to be effectively limitless. In other words, an AI-infused economy will require
+a lot
+of juice we don’t currently have. If we don’t start fixing the problem, we’re looking at a future in which power supplies are both more expensive and less reliable.
+These power systems require people to build and maintain generating facilities, connect those facilities to the grid, and provide the “last mile” of delivery to customers. Chronic labor shortages are already evident in places like
+central Washington State
+, where tech giants like Microsoft are capitalizing on the region’s abundant hydroelectric power. Many of the electricians for these and other projects are effectively itinerant workers, moving from project to project to meet demand. Mobile electricians may patch the labor problem, but it doesn’t solve the underlying issue: There simply aren’t enough skilled electrical workers to build the future grid we need.
+According to the US Department of Energy,
+a shortage of skilled labor remains a critical bottleneck
+. Electrical and electronics engineers will require 19,000 new hires annually, while electrical power-line installers and repairers will see 10,700 job openings each year, largely to replace retiring workers and those exiting the field. Similarly, electricians are expected to see an 11 percent job growth rate, with 80,200 openings per year due to increasing demand and workforce attrition.
+These workforce gaps reflect a broader challenge in reshoring and rebuilding America’s industrial capacity: a chronic labor shortage driven by declining workforce growth and an aging workforce, coupled with a growing skills gap among available workers. There are no quick fixes to either problem, but without addressing these labor shortages, energy transition and industrial revitalization will face continued headwinds.
+The rapid rise of AI and the potential it holds for higher living standards and longer, healthier lives depends on a stable, scalable energy supply. Developing that supply depends on a skilled workforce to build, operate, and maintain generation capacity and transmission grids. AI may represent a quantum leap in human capacity, but without the skilled workers to make it run, including energy workers, it will have a hard time delivering on its promise.

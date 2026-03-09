@@ -1,0 +1,28 @@
+PAGE_TITLE: 
+	The Effects of Using More Carrot, Less Stick, to Improve Cybersecurity | American Enterprise Institute - AEI
+
+There is something missing from our approach to cybersecurity. In most cases, we have a good idea of what needs to be done in order to better protect our networks and the data that travel across them. The challenge is to get people, organizations, and institutions to adopt the correct behaviors. Luckily, a few innovative companies are showing us what can be accomplished when we modify our approach.
+Change my password? Sure, I’d love to!
+Most people are familiar with the “your password expires in 7 days”prompt that employers distribute to their network users on a regular basis. Some have also received notifications from services such as
+Yahoo
+,
+Dropbox
+, and
+LinkedIn
+, requiring them to change their password due to a security breach.
+Forcing or urging people to change their password is a stick-based approach, and one that often leaves people feeling annoyed and inconvenienced. Given that humans continue to be the weakest link in the cybersecurity chain, it seems like a bad idea to have people associate security-boosting behavior with negative emotions. It is therefore a welcome change to see innovative companies come up with new, more carrot-based approaches to password security.
+One example is a small American cosmetics firm who earlier this month offered a 10% discount to anyone who changed their password with the site. They had not been hacked, they were giving a market incentive to their client base to be proactive and help them protect both their clients’ information and their own database of clients’ personal and financial information. Similarly, a small research analysis company is offering $10 Amazon gift cards in exchange for clients reviewing their own legacy data and deleting any information that is no longer accurate (and therefore not useful to the company and not helpful to the client).
+These are two great examples of how market forces and a well-designed incentive structure can go a long way to improve norms and behavior connected to cybersecurity.
+Using incentives to improve information sharing
+Public-private partnerships that facilitate
+information sharing
+often face similar challenges of non-compliance or non-participation. While the partners see the value of protecting critical infrastructure and the data that resides on their networks, they are not providing a compelling incentive for others to participate in the partnership.
+Companies that are open to participate in public-private information sharing efforts tend to be those that have regulatory obligations, as the watchful eye of the regulators provides an incentive to participate. Companies who do not have regulatory obligations, on the other hand, have little incentive to join, and instead fear reprisal and becoming tied to future reporting commitments.
+Those at the helm of these public-private partnerships should take a lesson from the examples above and come up with incentives that will encourage increased participation.
+These incentives should not be all that difficult to design. If sending data about a cyberattack to a neutral research operation that can quickly disseminate lessons can allow others to proactively protect or patch their networks, then there is certainly value in taking part in information sharing.
+Total network awareness will only happen when everyone has an incentive to do their part
+As I have written before, network security is
+not just the job of IT departments
+. Users, administrators, architecture providers, and device manufacturers all need to do their part. We need everyone to be invested in creating flexible security solutions that allow for evolving innovation that solves current and future problems rather than just monitoring the past.
+Creating a trusting environment where all parties see the benefit of adopting security-enhancing behavior should be the goal for our public-private partnerships. And to make this happen, we will need to come up with new, carrot-based approaches that reward good behavior.
+This post was originally published on TechPolicyDaily.

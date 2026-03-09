@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	Leaning into AI Learning | American Enterprise Institute - AEI
+
+In a rapidly evolving digital age, the intersection of AI and education has become a crucial area of exploration. A recent Wired
+article
+highlighted
+Rebind
+, an AI that transforms books into interactive reading companions that allow readers to talk with authors while they read. Think of it as a platform for tutorial education.
+John Dubuque, a millionaire plumbing magnate, was inspired to build Rebind after a transformative experience reading Heidegger’s
+Being and Time
+with a tutor. He wanted to make rich, personalized reading experiences accessible to everyone. Rebind has attracted several popular authors, who record commentaries and discussions of their books. These recordings then form the basis for AI personas that interact with readers, serving as personal tutors.
+Rebind is a small example of the way large language models (LLMs) could revolutionize education and training opportunities through vastly expanded customization and personalization of learning. Physical schools are an industrial-age “technology” for aggregating learners, amortizing instructional costs, and connecting students to teachers. Yet traditional education systems often struggle to meet the diverse needs of students, with teachers straining to meet the variety of student learning needs in their classes. AI holds the potential to give students and trainees access not just to
+any
+instructor, but to the most highly knowledgeable and skilled ones with tailored instruction and real-time
+feedback
+that supercharges learning.
+AI-powered tools can also simulate real-world scenarios, allowing students to practice their skills in a controlled environment. This hands-on approach helps bridge the gap between theoretical knowledge and practical application, making learning more effective and engaging. Take, for example, the use of AI in
+training peer support specialists
+in Kentucky. In this program, students can use an AI chatbot trained on educational materials to hone crucial
+i
+nterpersonal skills
+in simulated interactions with individuals struggling with substance use disorders. In principle, there is almost no area of education and workforce training and readiness that could not benefit from AI-infused instruction, training, and counseling.
+There are some who fear AI means the end of teaching and the loss of human connection in the way we educate and train. While chronic labor shortages make the former unlikely (we don’t have enough workers in any field,
+including teaching
+), the latter bears some attention and clarification.
+LLMs are only machines in the sense that the computer chips that drive them are electronic. The substance of LLMs—what they produce in text, images, and speech—is rooted in the things that humans have previously produced. LLMs are, or at least could be, the best of what our species has thought, produced, and learned, made available to vastly larger audiences. The combination of best-thought with best-practice—in terms of instructional skill, persistence, and the indefatigable capacity of technology—holds great potential for the democratization of high quality education and training. Also, as one technology leader recently told me, it might make us better people by delivering to everyone who wants it the very best of what humanity has to offer.

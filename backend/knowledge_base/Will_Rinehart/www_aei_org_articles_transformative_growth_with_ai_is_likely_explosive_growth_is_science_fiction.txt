@@ -1,0 +1,80 @@
+PAGE_TITLE: 
+	Transformative Growth with AI Is Likely. Explosive Growth Is Science Fiction. | American Enterprise Institute - AEI
+
+A couple weeks back, Tim Lee, the author of the
+Understanding AI
+Substack,
+put out the following plea on X
+: “I really wish there were more economists involved in discussions of the implications of superintelligence.” He added, “The most obvious example is people predicting mass unemployment without thinking through the impact of high productivity on fiscal and monetary policy.”
+In our previous
+Techne
+, I decided to take on Lee’s plea and began by looking at the past. This week, I want to share some thoughts about how Large Language Models (LLMs) like ChatGPT might shape the future.
+I want to be clear about where I stand: AI can revolutionize our world without causing explosive growth. A mere simple doubling of productivity would be groundbreaking. And even in that world, I see a future where AI changes everything and we still muddle through.
+AI’s short-term changes.
+Last week, I discussed the diverse ways technologies enhance and augment both labor and capital. If you’re not fully caught up, these were three big takeaways.
+First, compensating pressures like
+the Baumol effect
+help to create and restore employment even when technology displaces labor over the long term. Jobs that don’t experience productivity gains still see wage increases because they must compete for workers with jobs that do have productivity gains and can offer higher wages. Increased incomes tend to shift demand toward services.
+Second, new technologies take time to proliferate. Electricity, for example, started in the 1890s, overtook steam power around 1920, and completed the transition by the 1940s—50 years in total. The farm tractor was
+first used in the 1920s
+in the Wheat Belt but it took another 20 years to be widely adopted in the Corn Belt.
+Hand-operated telephone switchboards
+took nearly a century to be replaced by automatic machines.
+Third, the impact of a technology varies greatly, even for companies in the same industry.
+ATMs increased
+the number of branch offices for banks.
+Computerized machine tools
+replaced semi-skilled manufacturing workers, leading to factory automation but also higher spend on capital and higher labor productivity. Total employment increased as well.
+Still, I don’t want to dismiss ChatGPT, LLMs, and the rest of the lot as just
+some other
+technology like an ATM. What we are experiencing is a flowering of innovation in machine learning. ChatGPT is one part of it, but it is not all of it. Large models are also driving innovation in drug design and diagnostic tools, music production, and video production. But ChatGPT remains the face of machine learning because of its potential.
+Most impressively, GPT-4 seems to be doing pretty well at passing the bar—yes, as in the test lawyers must pass to practice law. The most impressive estimates have it scoring in the 90th percentile. That’s probably a bit off (for context,
+those estimates
+include repeat test-takers, who generally score lower). However, in a more competitive pool of candidates for the bar, GPT-4’s performance against first-time test takers puts it at the 62nd percentile overall and in the 42nd percentile for the essay. And it’s not the only
+standardized test
+it can do well on.
+So how is that capability affecting people who are using the tech? At least for now, LLMs seem to be speeding up response times for everyone while also boosting the capabilities of users on the lower end. Jonathan H. Choi, Amy Monahan, and Daniel Schwarcz’s “Lawyering in the Age of Artificial Intelligence” is likely
+the first randomized controlled trial
+of AI assistance in legal analysis. In the study, law students were asked to perform various tasks and research problems with or without GPT-4. The study showed that while GPT-4 marginally and inconsistently improved the quality of legal analysis, it consistently and significantly increased the speed of task completion.
+The lowest-skilled participants saw the most evident improvements in quality. All participants, regardless of their initial speed, saw increased time savings.
+ChatGPT’s effect on writing tasks is consistent with research that shows the tech boosts those with weaker skills.
+In one recent study
+, the productivity effects of ChatGPT was tested by assigning occupation-specific writing tasks to 453 college-educated professionals, with half receiving AI assistance. The experiment revealed that ChatGPT significantly boosted productivity, cutting task time by 40 percent and enhancing quality by 18 percent. It also reduced worker inequality and temporarily increased feelings of concern and excitement about AI.
+Italy’s decision to ban ChatGPT in April 2023 serves
+as an informative case study
+. Researchers collected data on the daily coding output and quality from over 36,000 GitHub users there and across other European countries to make equal comparisons. They found that less experienced Italian users saw a short-term improvement in output quantity and quality, while experienced users faced a decline in productivity for routine tasks.
+At least for now, AI assistance seems to level the playing field, improving the performance of less experienced individuals significantly while offering consistent time-saving benefits across the board. This is what we should expect from any productivity-enhancing technology.
+Of course, some will argue this time is different because AI systems are racing toward becoming human-competitive at general tasks. It won’t take long,
+they worry
+, until these advanced systems will be better than any given person.
+Explosive growth.
+At the most extreme end of this process is the notion of explosive growth.
+Ege Erdil and Tamay Besiroglu
+define explosive growth as an order of magnitude increase over historic rates, or a 30 percent annual growth rate in global GDP. Such growth would be unprecedented because it would mean massive increases in consumption of food, energy, housing, and the rest.
+And such growth would be unprecedented because the baseline view suggests that GDP is likely to decline at some point in the future. Over time, if the global population declines instead of stabilizing, living standards may stagnate for a dwindling population. Economic growth models,
+economist Charles Jones writes
+, “assume a constant or growing population, and for understanding economic growth historically, that is clearly appropriate. The demographic evidence, however, suggests that this may not be the case in the future.”
+Explosive growth would mean a substantial break from the past. Here is how
+Matt Clancy explains it
+,
+GDP per capita grew at roughly 2% per year over the 20th century, so if we jump to 20% per year for 10 years, that’s about 90 years of technological progress (at 2% per year) compressed into a decade. Ninety years of progress was enough to go from covered wagons to rocket ships! And your definition also encompasses even faster growth persisting for even longer!
+Frankly, I’m not sure our models of economic growth are up to the task of extrapolating that far outside of historical experience. The economy is so complicated that economists have to make a large number of simplifying assumptions. We try to focus on simplifications that aren’t decisive so that greater complexity and realism wouldn’t much change the model’s takeaway. But the more you take a model outside of the context it was designed to explain, the more uncertain you have to be that one of those simplifications might no longer be innocuous.
+In follow-up work
+, Charles Jones comes to that exact conclusion when working out what would happen if AI could automate the discovery of new ideas and fully automate human labor in production:
+If we replace all labor with capital in the task model—in both goods production and idea production—then there are increasing returns to factors that can be accumulated because of the nonrivalry of ideas. Growth explodes, and simple math reveals a singularity in which knowledge and incomes go to infinity in finite time.
+In other words, explosive growth breaks the models, and it is important to understand what that means: Explosive growth requires frictionless adoption of all AI systems. It means that data centers don’t take time to get permitted. It means businesses switch to new production methods immediately. It means that businesses can automatically adapt. It means that consumers can automatically adapt. That seems like an unlikely world to me.
+Suspending disbelief for a moment, Anton Korinek and Donghyun Suh’s “
+Scenarios for the Transition to AGI
+” games out what would happen as technology makes ever more complex tasks amenable to automation. In essence, the effects on wages depend on the race between automation and capital accumulation. If automation proceeds sufficiently slowly, then there will always be enough work for humans and wages may rise forever. By contrast, if the complexity of tasks that humans can perform is bounded and full automation is reached, then wages collapse. That is a strong set of incredibly unlikely assumptions,
+as economists Philip Trammell and Anton Korinek explain
+. (For a dive into these models, check out Sam Hammond’s “
+The limits to (explosive) growth
+.”)
+All of this is to say, there is a wide difference between a world of explosive growth and a world where AI fundamentally changes everything but we still adapt.
+The cost of an AI switchover.
+I expect that artificial general intelligence will be invented in my lifetime. By this I mean that a system that solves complex tasks with generalized human cognitive abilities is not far away. But I’m skeptical that these systems will be adopted without cost and without friction. It takes time to redo businesses with new tech—often decades, but sometimes centuries to create the productivity gains that explosive growth demands. And when we assume that AI is completely substitutable for labor, then everything goes wonky anyway.
+I’ve cited the novelist
+Richard Powers
+on this point in the past for good reason, because I think he captures a sentiment that is common in technology:
+The reason why the public is seduced by virtual reality, why it has embraced this fantasy of the disembodied self, is the desire for the ahistorical, the disembodied will. There is something in us that loves the idea of placing ourselves into immortal space, where our wishes can be met without the drag and impediment of stuff.
+The drag and the impediment of stuff cannot be simply wished away. It is a fundamental aspect of integrating any new technology, and overcoming it requires time, effort, and adaptation. Once we do, we are beyond our own sightlines.

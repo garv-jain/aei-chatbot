@@ -1,0 +1,59 @@
+PAGE_TITLE: 
+	Weighing Risks and Deference in the Supreme Court’s Pending TikTok Ruling | American Enterprise Institute - AEI
+
+With the US Supreme Court
+agreeing
+to review on January 10 this month’s appellate court
+ruling
+against TikTok, it’s essential to place the high court’s pending decision in a broader context. Setting aside nuances of legal tests like
+strict scrutiny
+, how most Americans will perceive the outcome in
+TikTok v. Garland
+likely hinges on a combination of five slippery variables. Whether (and how strongly) people will like or disdain a ruling that might bar the platform’s use in this country probably involves how much:
+(1)
+deference
+they believe courts should grant the federal government when it asserts national security interests;
+(2)
+tolerance
+they can muster for evidentiary ambiguity about proof of harm to those interests;
+(3)
+distrust
+(plus the intensity of it) they harbor toward the nation’s leading foreign adversary, the People’s Republic of China (PRC);
+(4)
+use and enjoyment
+they’ve had with TikTok over recent years; and
+(5)
+risk
+to national security objectives they’re willing to wager to safeguard First Amendment speech interests.
+Via Reuters
+These factors suggest that more than
+legal formalism
+––a strict adherence to facts, legal doctrines, and tests––affects contentious cases like
+Garland
+. Some of these variables––deference, especially, as my colleague Daniel Lyons
+observed
+––influenced the US Court of Appeals for the District of Columbia Circuit.
+It upheld, in the face of a First Amendment challenge, the Protecting Americans from Foreign Adversary Controlled Applications Act that President Biden signed in April as part of a
+broader appropriations bill
+. The Act designates the PRC as a foreign adversary and identifies TikTok as a foreign adversary-controlled application due to the PRC’s significant control of its parent company, ByteDance. In turn, the measure makes it unlawful for third-party entities to distribute, maintain, update and host TikTok applications in the United States unless the PRC divests itself of TikTok’s ownership. In short, it’s a divest-or-be-banned option for ByteDance.
+The government asserted two national security interests––dangers posed by data collection from millions of Americans via TikTok and the PRC’s covert manipulation of content
+to
+“interfere with our political discourse, and promote content based upon its alignment with the PRC’s interests.” These interests held sway with the appellate court, which granted the government significant deference (see the first variable noted above) despite some arguable evidentiary problems (the second variable).
+This circles back to the fifth variable––one’s willingness to risk national security to preserve First Amendment interests.
+Garland
+isn’t the first case calculating that balance.
+In 1979, US District Court Judge
+Robert Warren
+in
+United States v. Progressive, Inc.
+confronted what he aptly called “a basic confrontation between the First Amendment right to freedom of the press and national security.” The case pivoted on the government’s efforts to stop a magazine,
+The Progressive
+, from publishing an article comprehensively describing the technical details of how to construct a hydrogen bomb.
+The Progressive
+argued that much of the article’s information already was public and “that publication of the article will alert the people of this country to the false illusion of security created by the government’s futile efforts at secrecy.” Conversely, the government contended the article’s publication would jeopardize national security––it might help an enemy nation build a hydrogen bomb––and asserted it had a right to classify some of the article’s facts as “restricted data.”
+Before granting the government’s request for a preliminary injunction, Warren weighed worst-case scenarios against each other were he to rule in the wrong direction. Specifically, Warren considered what the most dire consequences would be in either direction were he to get it wrong. If he allowed the article’s publication, Warren reasoned the article had “sufficient destructive potential to nullify the right to free speech and to endanger the right to life itself.” In sum, the First Amendment’s guarantee of free expression would be rendered irrelevant if there’s no one left to speak. Warren asserted that:
+Faced with a stark choice between upholding the right to continued life and the right to freedom of the press, most jurists would have no difficulty in opting for the chance to continue to breathe and function as they work to achieve perfect freedom of expression.
+Although TikTok’s use by Americans doesn’t pose an immediate doomsday crisis like exploding thermonuclear weapons, its long-term threat to national security may ultimately jeopardize the very freedoms American cherish. If TikTok were to disappear in the US, free speech would not end: People would find another platform on which to communicate. If other current platforms don’t satisfy TikTok users, then a free-enterprise system will produce one.
+Ultimately, much more than just legal tests are in play in
+Garland
+. It would be profoundly ironic if the PRC, which censors internal dissent and blocks outside news exposing its flaws, used the First Amendment as a sword against the United States. That’s a risk not worth taking.

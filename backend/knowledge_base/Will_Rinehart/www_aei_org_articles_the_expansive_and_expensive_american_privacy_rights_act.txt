@@ -1,0 +1,56 @@
+PAGE_TITLE: 
+	The Expansive and Expensive American Privacy Rights Act | American Enterprise Institute - AEI
+
+In early 2020, as a California privacy law came into effect and
+other states toyed
+with similar legislation, I talked with a heavy hitter at one of the big tech companies about state privacy efforts. When I asked him what would happen if even more states passed privacy laws, he said something I will never forget:
+We will be defensible, but I am not sure we could ever be technically compliant.
+With privacy laws now in place in
+15 states
+, it looks like the problem he hinted at has only intensified. For example, if you type TheDispatch.com in the address bar or try to access other online resources, your request will
+often get bounced around
+from online computer to online computer. The reach of the internet is truly global, so there is no guarantee that the computers you are requesting will be in your own state, or even your own country. What happens when states differ in their privacy protections? Whose law should apply?
+The drive to harmonize privacy law and create one set of rules made a federal privacy bill a live issue for over a decade. But federal online privacy legislation has never gotten past the finish line.
+In recent years
+, one of the main holdouts has been Sen. Maria Cantwell, chair of the Senate Committee on Commerce, Science, and Transportation. So it was a bit of a surprise to see the senator just announce
+a draft privacy deal
+, written in cooperation with Rep. Cathy McMorris Rodgers, the chair of the House Energy and Commerce Committee. McMorris Rodgers is retiring soon, so the circulation of the discussion draft of the American Privacy Rights Act (APRA) of 2024 feels important.
+This bill is expansive. Among other provisions, it:
+minimizes the data that covered companies can collect, keep, and use;
+grants users the ability to prevent the transfer or selling of their data;
+requires affirmative express consent before data can be transferred to a third party;
+requires that companies let people access, correct, delete, and export their data; and
+allows individuals to opt out of targeted advertising.
+Even with all of these provisions, two conflicts that have long kept a federal privacy bill from being inked are bound to resurface: preemption and a private right of action.
+Democrats, especially from California and Illinois,
+have been against
+federal preemption provisions because they would end up cutting down their state privacy laws. Preemption can either be narrowly targeted or it can be broad, and if it is broad then the federal law supersedes the state laws—and state laws are stricken from the books. APRA’s preemption is broad and would wipe clean all of the state laws.
+Just two years ago,
+the so-called four corners discussion
+among commerce leaders on both sides of the aisle led to the introduction of
+the American Data Privacy and Protection Act
+or ADPPA. It was the first comprehensive privacy law after years of disagreement between Republicans and Democrats. But Cantwell
+wasn’t on board
+. As she explained at the time, House lawmakers needed to include tougher enforcement measures, which meant “limits on forced arbitration and a broad right for individuals to sue companies that violate the law.” So the bill went nowhere.
+Additionally, concerns over a private right of action have also stymied the prospects of federal online privacy legislation in the past. Private right of action, or PRA, enables a person or organization to file a lawsuit in court over a purported breach of privacy law and then seek remedies for that supposed infringement. Discussions have waived over when the PRA should go into effect. ADPPA allowed a private right of action after four years of the bill’s enactment. APRA lowers that down to 180 days after the date of enactment. APRA also reduces the grace time that companies are given to comply with the privacy law once they have been alerted to a potential violation. The “cure period,” as they are called, was brought down from ADPPA’s 45 days to now 30 days with APRA.
+The new bill also removes “pre-dispute joint action waivers,” which prohibit users from participating in a class action suit, a sticking point in negotiation for Cantwell. On top of this, it expands who is covered by the law to include nonprofits and telecommunications common carriers. And the proposed APRA includes a clause that terminates the Federal Trade Commission’s (FTC) current
+rulemaking procedure
+on commercial surveillance. In its place, the agency is given targeted rulemaking authority.
+Not everyone is okay with the changes. Sen. Ted Cruz
+has signaled
+that he’s not comfortable with shifting to a private right of action. Moreover, he’s worried about giving the FTC new authority that could be used to dampen competition. His worries make sense to me.
+Under Chair Lina Khan, the FTC has pushed the bounds of agency authority. It has begun a long and arduous rulemaking process in privacy without proper congressional approval. The FTC administers several privacy laws, including the Children’s Online Privacy Protection Act, the Equal Credit Opportunity Act, and the Fair Credit Reporting Act, but it does so through provisions granted in each law. Not so regarding privacy laws. While the agency hasn’t stepped beyond its limited bounds yet—as I described in
+this filing before the agency
+—Khan does seem especially itchy to enforce privacy. I’m not sure that giving extensive powers over a privacy law to the FTC would be a prudent move right now.
+There is no denying that privacy bills
+are expensive
+. When California ran the numbers for its 2018 California Consumer Privacy Act, it estimated the initial compliance costs would land at $55 billion, about 1.8 percent of the gross state product (GSP). As for the upper bound, estimates suggested the bill could have cost as much as 4.6 percent of GSP.
+Privacy bills shift the power relations between internet players. While research on U.S. privacy laws is limited, studies on the impact of Europe’s General Data Protection Regulation (GDPR) give us a sense of what to expect. After GDPR went into effect, smaller vendors were more commonly dropped by the bigger players, which
+increased the relative concentration
+of the vendor market by 17 percent. Users spent less time on European websites, and the number of deals in the EU backed by
+venture capital dropped
+by 26.1 percent compared to their American counterparts. As one paper
+dryly explained
+, “Overall, the post-GDPR online environment may be less competitive for online retailers and may be more difficult for EU consumers to navigate through.”
+Discussions in Congress are inching toward a comprehensive privacy bill, and by all measures, it is sure to have a dramatic effect across the United States. But I tend to think a lighter, more targeted regulatory touch could encourage compliance while fostering innovation, ultimately benefiting consumers and businesses alike.
+More and more, I’ve been thinking about privacy through the lens of a minimal viable product, or an MVP. MVPs are products designed with sufficient features to draw in early adopters and confirm the viability of a product concept. Why not apply this idea to regulation? A minimum viable regulation would be limited in scope and would produce information about the viability of enforcement. I’m still working through it, but it’s hopefully something we can explore more in depth down the road. Even if it might not work for Congress, I tend to think we should talk about regulations that protect consumers while maintaining the competitive integrity of the digital marketplace.

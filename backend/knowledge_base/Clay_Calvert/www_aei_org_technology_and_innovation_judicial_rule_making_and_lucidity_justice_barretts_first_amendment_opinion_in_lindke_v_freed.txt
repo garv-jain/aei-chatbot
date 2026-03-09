@@ -1,0 +1,51 @@
+PAGE_TITLE: 
+	Judicial Rulemaking and Lucidity: Justice Barrett’s First Amendment Opinion in Lindke v. Freed | American Enterprise Institute - AEI
+
+In some
+First Amendment
+cases, the
+US Supreme Court
+chooses an extant rule from its toolbox of constitutional tests and then applies it, resolving a specific factual situation. In others, it creates a new rule—one frequently fashioned to balance interests—for lower courts to apply.
+Via Reuters
+The Court’s March 15 decision in the social media case of
+Lindke v. Freed
+falls squarely into the latter category. The Court established a new test for determining when public officials’ usage of their social media accounts moves beyond private citizens speaking in personal capacities into the realm of official
+state action
+, thereby triggering First Amendment concerns when they block dissenting constituents or delete their comments. The new rule is crucial because, as I
+previously explained
+,
+Without state action, First Amendment claims fail because the First Amendment “
+prohibits only
+governmental
+abridgment of speech
+,” not “
+private
+abridgment
+.” (Emphasis in original.) Thus, government officials who use personal social media accounts as purely private citizens (not as state actors) can block people without raising First Amendment problems.
+The issue first garnered public attention five years ago when the
+US Court of Appeals for the 2nd Circuit
+determined in
+Knight First Amendment Institute v. Trump
+that “the First Amendment does not permit a public official who utilizes a social media account for all manner of official purposes to exclude persons from an otherwise-open online dialogue because they expressed views with which the official disagrees.” The public official there, of course, was then-President Donald Trump, who had blocked multiple individuals from following his @realDonaldTrump Twitter account after, as the appellate court
+noted
+, they had posted “replies in which they criticized the President or his policies.” Although the Second Circuit concluded that Trump’s use of his personal account triggered state action (and thus First Amendment issues including
+viewpoint discrimination
+when he blocked critics), lower courts disagreed on the proper rule for establishing state action in such social-media blocking contexts. Compounding the problem, many officials use their personal pages in a hybrid capacity, combining family photos and posts about their children with messages relating to their job duties and soliciting constituents’ feedback.
+So, what state-action rule did the Supreme Court establish for social media accounts? It created a two-part test, with the first part serving as a threshold requirement that must be cleared before a court will even consider the second prong. As articulated in
+Lindke
+, the rule is that “a public official’s social-media activity constitutes state action . . . only if the official (1) possessed actual authority to speak on the State’s behalf, and (2) purported to exercise that authority when he spoke on social media.” Actual authority—something “within the portfolio” or “bailiwick” of the official’s responsibilities—may be vested by statute or by government officials’ persistent, well-settled practices of custom and usage. On the second prong, a post’s content, plus the “appearance and function of the social-media ac­tivity are relevant.”
+Under this rule, a public official’s post about a government matter will sometimes—but not always—constitute state action. The rule thus balances the First Amendment right of government officials to speak as private citizens on matters of public concern with the First Amendment speech and petition rights of their constituents to communicate with them in “
+the modern public square
+.”
+The rule’s key strengths are unanimity and lucidity. It was created in a
+unanimous opinion
+authored by Justice Amy Coney Barrett that is well-organized, straightforward, and replete with examples lower courts can consider in difficult cases. There were no dissents questioning the rule’s legitimacy and no concurrences clouding the prongs’ meanings. Furthermore, Barrett clearly explicated both prongs in ways anyone—not just jurists—can understand.
+This doesn’t mean, however, that applying the rule will be easy. As Barrett
+wrote
+, “the state-action doctrine demands a fact-intensive inquiry.”
+What can we now expect? First, public officials will likely add prominent personal-account labels and disclaimers to their pages to lessen the odds of successful First Amendment lawsuits. Barrett
+explained
+that a public official “would be entitled to a heavy (though not irrebuttable) presumption that all of the posts on his page were personal” if the official included a label designating it their “personal page” or a disclaimer that “the views expressed are strictly my own.” Second, lawsuit-wary public officials are now likely to prevent staff members from operating or posting on the officials’ personal accounts. That’s because Barrett wrote that “an official who uses government staff to make a post will be hard pressed to deny that he was conducting government business.” In short, the Court provided a partial roadmap for public officials who want to demarcate their private-citizen expression from messages exercising their actual authority to speak on the government’s behalf.
+Fashioning constitutional rules isn’t easy; Justice Barrett and the Court deserve kudos for their efforts in
+Lindke
+.

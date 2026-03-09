@@ -1,0 +1,84 @@
+PAGE_TITLE: 
+	Protecting Minors Online: Some Tips for Lawmakers from Yesteryear’s War on Violent Video Games | American Enterprise Institute - AEI
+
+Lawmakers rushing to regulate online speech to protect minors and help parents should remember three key constitutional principles when drafting legislation: (1) Traditional
+First Amendment
+free-expression doctrines don’t change just because a new medium conveys speech; (2) the government must prove that the regulated speech directly causes the harm ascribed to it; and (3) minors possess First Amendment rights to receive speech, provided it doesn’t fall into an unprotected category such as
+obscenity
+or
+true threats
+.
+These principles are relevant as Congress now considers the latest iteration of the
+Kids Online Safety Act
+(KOSA). It intends to protect minors (anyone under 17) from a bevy of speech-caused ills and evils, ranging from “anxiety, depression, [and] eating disorders,” “sexual exploitation and abuse,” “physical violence, online bullying, and harassment,” and “addiction-like behaviors.”
+Via Adobe Stock
+The bill does this by imposing a
+“duty of care”
+on speech-based services—social networks, public-facing websites, messaging and online applications, and video-streaming services, among others—to take “reasonable measures” in designing and operating their platforms to “prevent and mitigate” users it “knows or reasonably should know” are minors from accessing content causing the abovementioned ills. Minors and parents must be given “readily accessible and easy-to-use” safeguards and settings to help them. State attorneys general and the
+Federal Trade Commission
+(FTC) can enforce KOSA.
+With this in mind, it’s useful to think back a dozen years to the
+US Supreme Court
+’s ruling in
+Brown v. Entertainment Merchants Association
+. The case involved a California law targeting a then-nefarious form of expression causing a
+moral panic
+: violent video games. A Golden State
+statute
+—ironically signed by
+Terminator
+-turned-
+Governor
+Arnold Schwarzenegger—barred minors from buying or renting violent video games without a parent or guardian’s permission. It followed on the heels of several
+other ill-fated, violent-video game laws
+adopted near the turn of the century.
+Brown
+, however, marked the first time the Supreme Court considered such a statute. Akin to KOSA, California’s law was intended to protect minors from speech-caused harms (from violent video games) and help parents “decide what games are appropriate” for their children.
+The Supreme Court struck it down. The Court concluded that the First Amendment protects violent video games and that California’s statute didn’t pass the rigorous
+strict scrutiny
+standard of review as a
+content-based law
+. Each of the three fundamental constitutional principles noted earlier is embodied in
+Brown
+. Lawmakers drafting
+contested
+measures like KOSA should heed them, lest they, too, produce unlawful, lawsuit-generating statutes.
+First, the Court in
+Brown
+wrote
+that “whatever the challenges of applying the Constitution to ever-advancing technology, ‘the basic principles of freedom of speech and the press, like the First Amendment’s command, do not vary’ when a new and different medium for communication appears.” This means that regardless of whether a law targets speech in video games, on the internet, or, as with a
+recently enjoined
+Arkansas
+statute
+, in books, the government must prove the law: (1) serves a
+compelling interest
+—one of the highest order—when it targets a specific type of content or subject matter; (2) is so carefully drafted (so
+narrowly tailored
+) that it restricts no more speech than is necessary to serve that interest (no alternative ways exist that would restrict less speech); (3) clearly defines key terms to avoid being
+unconstitutionally vague
+; and (4) is not
+overbroad
+(it does not bar a substantial amount of protected expression along with speech that legitimately can be restricted).
+Second, the Court
+determined
+that California failed to “show a direct causal link between violent video games and harm to minors.” The Court stressed that “ambiguous proof will not suffice.” A mere
+correlation
+between speech and harm won’t cut it;
+causation
+of harm is required.
+Third, the
+Brown
+Court
+emphasized
+that “minors are entitled to a significant measure of First Amendment protection.” Although the government “possesses legitimate power to protect children from harm,” this doesn’t give it “a free-floating power to restrict the ideas to which children may be exposed.” The Court added that “even where the protection of children is the object, the constitutional limits on governmental action apply.”
+These principles render KOSA problematic. KOSA identifies harms that platforms must try to prevent and mitigate, yet it fails to clearly define the speech supposedly causing them. That will lead risk-averse platforms to operate in ways that excessively censor
+any
+content—including lawful expression that minors have a First Amendment right to receive—that
+might
+produce, say, anxiety and depression so the platforms don’t breach their “duty of care” and face liability. Furthermore, the FTC will have difficulty proving that the platforms’ speech directly causes minors such harms when “
+many factors
+” (“
+school performance, social status with peers, sexual orientation, or family life
+” and “
+peer pressure, academic expectations and changing bodies
+”) may cause minors’ anxiety and depression. Foisting liability in blame-game fashion on platforms is wrong and unconstitutional.

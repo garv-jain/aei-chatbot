@@ -1,0 +1,97 @@
+PAGE_TITLE: 
+	The Case for Forward-Looking Policies | American Enterprise Institute - AEI
+
+This is the fourth presidential election cycle that I’ve worked as a tech policy analyst and it’s easily been my least busy. Normally, a presidential candidate would suggest a crazy idea and I’d dash off an op-ed explaining why it could be helpful or why it would violate the Constitution. And when the candidates released their platforms, there would be a list of tech policy ideas to dissect. But there’s been very little of that this time around.
+Instead, this cycle has been dominated by a politics of nostalgia. The choice was either “Make America Great Again”
+or “save democracy.” Both options were conservative in the most literal sense—conserving what has been or could be lost. Vice President Kamala Harris could have offered a forward-thinking vision for the country. Instead, her
+platform on tech
+was largely about properly managing the $52.7 billion that went into semiconductor investment through the CHIPS Act and the $42.45 billion to expand high-speed internet access through the Broadband Equity, Access, and Deployment (BEAD) Program.
+I have been devouring the historian Michael Kammen’s Pulitzer Prize-winning
+People of Paradox,
+which
+attempts to understand what it is to be American. Instead of talking about national character, Kammen prefers “to talk about national
+style
+.” He goes on to write, “Perhaps I am deceiving myself, if not others, by using an euphemism; but I really do believe that there are differences between style, which can be perceived, and character, which cannot.” The American style, as Kammen develops in the rest of the book, comes from countless traditions and is thus inherently paradoxical.
+Although it was published in 1972, the book still feels timely. Kammen does an incredible job of capturing the national style of the early republic and how it differs from today:
+The generations of Americans that made and lived through the revolutionary era, 1750 to 1840 let us say, had the most extraordinary sense of optimism about the future of America: its productivity, liberty, modernity, innocence, and expansiveness. Jefferson’s generation was exultant about the prospects for American civilization. We, by contrast, have developed serious reservations about the “goodness” of American values and our own performance; so we are skeptical about spreading them; some of our citizens would even immunize the planet against our malaise. Having become self-critical and anti-imperialistic, we look nostalgically but ambivalently to our past, at once yearning and condemning. The Founding Fathers had their eyes on the future; we have ours on the past, when not absolutely averted in shame. We tend to think less about where we are going than about where we have been, about simpler times, and about opportunities missed.
+So many of these lines have stuck with me. Many people do have serious reservations about the goodness of American values. There is skepticism about spreading American ideals, and we often have our eyes on the past when they’re not averted in shame.
+I’m not the only one who has been struck by nostalgia this year. Derek Robertson of
+Politico
+recently asked me about this, and last week, Digital Future Daily
+published some of my comments
+,
+“It’s not all that surprising that backward-looking tropes catch on, because people across the world largely
+believe in the illusion of moral decline
+and negative news tends to
+disperse faster on social media
+,” Rinehart told DFD.
+“On the other hand there have been a lot of successes in the tech world recently, like Nvidia, OpenAI and SpaceX. So although our politics is dominated by nostalgia the commanding heights of U.S. capitalism are dominated by future-focused tech companies,” he said.
+This is the paradox of today. Our politics is focused on the past, but our policies should be looking toward the future. So what should the next administration and Congress try to accomplish? I’ve got some ideas.
+A tech and innovation agenda for 2025.
+My biggest concern for next year is that the states are going to be battlegrounds for really bad AI bills and some of the worst ideas will become law. The United States is in the middle of an
+AI investment boom
+, but the reaction hasn’t been to embrace the benefits and to litigate when bad things happen—it has been to regulate.
+California’s SB 1047 is a great example of this. There was a huge fight over this fundamentally flawed bill, so I was thankful when Gov. Gavin Newsom
+vetoed it
+. But Newsom axed the legislation because he wanted a bill that applied to more companies and industries, not because the law was unconstitutional or because it was a bad idea.
+I explained my concerns back in September
+,
+The bill regulates a class of advanced AI models, called frontier models, that are only just now being developed, and imposes a series of safety protocols that lack consensus among experts and haven’t been fully fleshed out yet. The entire framework is built on the premise that these advanced models will pose a threat, which is an assumption
+that remains highly contested
+. And to top it off, if these AI models are truly dangerous in the way that some claim, then California shouldn’t be regulating them anyway—it should be the purview of the federal government.
+But if I am being honest, that dam has broken. Until there is a court case, it doesn’t matter that the states are blatantly violating the commerce clause.
+In the spring, Colorado’s legislature passed
+the Colorado Artificial Intelligence Act
+, the first ever comprehensive AI bill. When it reached Gov. Jared Polis’ desk, he reluctantly signed the bill. In the approval letter, he took the occasion to deliver
+a searing critique
+of it:
+I am concerned about the impact this law may have on an industry that is fueling critical technological advancements across our state for consumers and enterprises alike. Government regulation that is applied at the state level in a patchwork across the country can have the effect to tamper innovation and deter competition in an open market.
+Polis is a former member of the House of Representatives, where he was the only Democratic member of the Liberty Caucus. Although he’s usually good on tech legislation, he still signed the bill.
+I’m concerned that more states will view these flawed legislative attempts as templates for their own AI laws. Next year, we will see a bunch more state-level legislation. A draft version of the
+Texas Responsible AI Governance Act
+just dropped in advance of the Texas Legislature’s biennial session in January, and there will be a push to get something passed in the first quarter of next year. Connecticut’s House of Representatives will probably take up its
+AI Act
+again since it passed the Senate. The primary author of the bill, Democratic Sen. James Maroney, was explicit about his goal: “I think that this is a very important bill for the state of Connecticut. It’s very important I think also for the country as a first step to get a bill like this.” Everyone talks about getting their steps in. Politicians are no different.
+Congress needs to provide leadership on AI. It should be looking to preempt or stop the states from passing disastrous AI bills.
+But by my surveying, only Sen. Ted Cruz of Texas has made a strong statement. In the summer, he
+opened a committee hearing by saying
+,
+Throughout history, prosperity and human flourishing has been stymied or delayed by governments that imposed regulatory policies to address supposed ‘harms’ but in actuality overstated risk in order to protect incumbent operators, often large and powerful companies that didn’t want to compete.
+The United States has mostly chosen a different path — one where a free enterprise system, governed by the rule of law, allows Americans to freely pursue their ideas, grow their own businesses, and compete without having to obtain permission from all-knowing bureaucrats.
+The tech boom happened in America in part because Congress and the Clinton administration deliberately took a hands-off approach to the nascent internet. The results were millions of jobs and a much higher standard of living.
+A measured approach to Big Tech.
+It was Cruz’s comments about the Clinton administration that got me thinking about the decades-long change in tenor over tech, which I explored
+last month in
+Techne
+. I’m no apologist for Big Tech; companies do illegal things that should be punished through the courts. But they should be ensured due process. I am not all that keen on changing all of the rules or doing everything possible to stick it to Big Tech.
+President-elect Donald Trump agrees. Last month,
+Trump was asked
+about the Department of Justice’s
+call for Google to be broken up
+. Trump balked at the idea, saying that such a move can be “a very dangerous thing because we want to have great companies.” He continued, “We don’t want China to have these companies.” President Joe Biden chose poorly when it came to antitrust. Federal Trade Commission Chair Lina Khan and Assistant Attorney General Jonathan Kanter tried to be revolutionaries when they should have been enforcers of the law. To get a sense of this, I suggest reading the House Judiciary Committee’s
+new report on weaponization at the FTC
+. I am hopeful that there is a change of leadership both at the FTC and the DOJ so we can get back to a more rational antitrust policy.
+To be fair to Harris, Congress does need to look closely at the money being doled out by the CHIPS Act and the BEAD program. I wrote
+about BEAD back in June
+and the more I have thought about it, Congressional leadership should be looking at why BEAD implementation has been so slow and why Starlink has been deprioritized.
+In telecommunications, spectrum auction authority for the Federal Communications Commission (FCC) should be reinstated by Congress. Spectrum refers to the invisible radio frequencies that enable wireless communication, powering everything from smartphones to emergency services.
+The FCC has done a pretty decent job over the years of managing the spectrum, a critical input for the digital world. But with a lapse in auction authority, there is no more spectrum in the pipeline.
+But there are lots of other things that need to be done as well. The National Environmental Policy Act should
+probably be repealed
+,
+s
+u
+personic flights need to be legalized
+, NASA’s Artemis program needs a rethink,
+space policy needs reform
+,
+ports need to be automated
+, grant programs need less paperwork, inefficient programs should be eliminated, energy permits need to be easier to get
+,
+a federal privacy law should be passed
+,
+cost-plus procurement contracts
+should be axed, and just for a little treat,
+better sunscreens should be allowed on the market
+.
+The American paradox Kammen describes still rings true: We find ourselves caught between revering the past and working toward the future. But as Congress and state legislators gear up for another busy year, they must resist reactionary impulses and embrace pragmatic approaches that build on America’s unique strengths—our openness, creativity, and resilience. In tech policy, we need to move beyond nostalgia and look toward the possibilities the future holds, crafting laws that foster innovation while responsibly addressing risks. The stakes are too high to let this moment slip by.

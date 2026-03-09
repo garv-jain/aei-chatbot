@@ -1,0 +1,28 @@
+PAGE_TITLE: 
+	The Implications of Accepting Cryptocurrency for Tax Payments | American Enterprise Institute - AEI
+
+Last year, Ohio made news by becoming the first and only state to
+accept cryptocurrency
+(bitcoin) for state business tax payments. I recently had the opportunity to discuss this move with the Chris Berry, the Chief of Staff to the former Ohio’s state treasurer, Josh Mandel, who implemented this plan. Berry worked with his state government colleagues who want Ohio to become the national leader in blockchain technology. Berry believes the state’s move to allow businesses to pay their taxes in bitcoin on OhioCrypto.com will encourage more blockchain-related companies to do business in Ohio, and increase “
+options and ease
+” for taxpayers. Here are some of the highlights from our conversation.
+SHANE TEWS: How does this new program that allows businesses to pay their taxes in cryptocurrency work?
+CHRIS BERRY: The business entity must operate in the state of Ohio and pay Ohio state taxes. We currently allow state tax payments for 23 business taxes in Bitcoin, [including] sales tax, withholding tax, pass-through entity tax, public utilities tax. Companies register and pay via OhioCrypto.com, a payment portal that immediately converts payments in bitcoin to US dollars. The exchange rate will be set for a 15 minute window for each transaction once the taxpayer begins the payment process. The bitcoin is converted into USD by our third party payment provider, BitPay. The State Treasury receives the total amount in USD.
+TEWS: Is there a preferred payment platform that you are working with to process these payments?
+BERRY: Currently Bitcoin is the only accepted cryptocurrency, but there are plans to expand the program to individuals and additional cryptocurrencies in the future as participation in the program grows and we learn more about the processing part of this currency.
+TEWS: Is the Internal Revenue Service (IRS) following what you are doing in Ohio?
+BERRY: Yes, the IRS is treating the transaction as a sale or exchange for tax purposes, and a company that uses bitcoin to pay its Ohio state taxes must recognize gains to the extent that the value of bitcoin on the date of the tax payment exceeds the company’s initial purchase price for the bitcoin. We are hopeful they will see the success we have in Ohio and one day take bitcoin as payment of federal taxes too.
+TEWS: Why did you choose this set of taxes to start with?
+BERRY: Beginning with business taxes was a good first step as we leveraged this innovative technology. No other state, or government, in America had done this before and as the first we wanted to make sure we were successful in rolling out this new payment option.
+TEWS: Are there plans to expand the program in the future?
+BERRY: When we launched OhioCrypto.com we hoped that it would be an important step in making Ohio friendlier and more open to innovation and would be a signal to the world that we’re doing new and exciting things here. Hopefully the program expands as time goes on because our initial reception was so incredibly positive.
+TEWS: Once the registrant’s identity is established, can it be used for other services in the Ohio state system as a digital identifier of record?
+BERRY: We have been thinking about it and would like to phase a state identify verification system in a bit later. We want to give the tax payment system our immediate attention but we see opportunities for other programs once the business tax payment system is well established. We would approach personal tax payment opportunities as phase two of our plan. Phase three is to continue to grow the tech friendly environment in the state, and use the capability of the identities that are validated in the system to be used for other state goods and services, such as for licensing and registration programs.
+TEWS: What impact do you think or hope this move will have on Ohio businesses and the state’s economy?
+BERRY: We wanted to give taxpayers another option when paying their taxes. It was also important that we signal to innovators and businesses that Ohio is a forward thinking state who leads on technology issues. Ohio is a great place to do business and this was a small step in helping tell the world our story.
+TEWS: Have you already learned any lessons that other states may be able to apply, and do you think acceptance of cryptocurrency for tax payments will eventually spread to other states or the federal level?
+BERRY: Because we were the first to do this, we had to build and design the process from scratch. We learned a lot during the project and the successful rollout hopefully encourages other states and governments to follow our lead. Being first in something as cutting-edge as blockchain and cryptocurrencies can be a bit scary for public policy leaders but hopefully our success signals that it’s possible and others should consider how their can adopt innovative technologies to better serve their constituents.
+TEWS: Any other thoughts you would like to share?
+BERRY: Yes, I believe in the importance of transparency in government. That is why we created
+Ohiocheckbook.com
+in 2014 to make our tax dollars open to the public. Taxpayers have the right to know where their money is spent and having this online tool allows citizens and watchdogs to hold government officials responsible for the state’s spending. You can search through our current year’s spending through a variation of categories including the agency or expense type.  We also have sections on our pension funds, local government, and school districts.  There are reports available on several areas of large expenses and a mobile app you can download.

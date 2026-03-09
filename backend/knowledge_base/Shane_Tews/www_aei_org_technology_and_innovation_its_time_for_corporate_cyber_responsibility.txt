@@ -1,0 +1,67 @@
+PAGE_TITLE: 
+	It’s Time for Corporate Cyber Responsibility | American Enterprise Institute - AEI
+
+By Shane Tews
+The National Institute of Standards and Technology
+reports
+that hundreds of billions of dollars are lost to cybercrime each year — possibly as much as 1–4 percent of gross domestic product. Although cybersecurity risks continue to impede our ability to harness the digital economy’s full benefits, there remains no comprehensive vulnerability management approach to protect the digital assets and data that reside in these systems.
+via Twenty20
+While industries consider ways to curtail the damage from
+ransomware hits and cyber scams, the problem still stems from humans more than from
+machines. The inability to decipher who has legitimate access to corporate
+networks and who gains access through nefarious means remains a weak link in
+how companies protect their network assets. And while installing updated
+security patches and implementing threat intelligence measures can mitigate
+cyber breaches, recent
+developments
+indicate
+the initial act of breaking into a system is
+a vital point of failure. So how do criminal actors get in?
+Black hat hackers are frequently recruited on the dark web via help wanted ads offering lucrative payments for hacking jobs. In Positive Technologies’ August 2020 penetration test
+study
+, hackers only needed 30 minutes to infiltrate a local network for 93 percent of tested companies. Seventy-seven percent of the time, they could break into corporate web applications and manipulate networks as an insider. And at 68 percent of companies, successful attacks on web applications were conducted by cracking an employee’s credentials — most likely their passwords.
+Once a criminal actor penetrates a system, they can steal customer information, change or eliminate data, and steal intellectual property — all while posing as an employee. They can also sell instructions for how to access a corporation’s web resources to other dark web operators. Positive Technologies also
+reported
+that the dark web’s 10 most notorious forums have over 8 million registered users and 80 million messages full of how-tos for hacking corporate web services. Ninety percent of the posts come from people interested in buying hacking services, not hackers themselves.
+Corporations should see these statistics, realize an initial
+breach is relatively easy, and improve web security. If a cybercriminal will
+pay $10,000 on the dark web to hack your website, defending it will cost more.
+Additionally, tiered access and identity asset management practices should
+prioritize perimeter security. Many risk access protocols still focus too
+narrowly on a system’s hardware and software components — not the humans who
+control them.
+Another factor is the value of information stolen from
+inside a corporate system. The dark web’s personal data market is thriving
+because the payout for this data is so lucrative. For example, a corporation’s
+retail sales payment page is a notorious weak spot. Shoppers enter valuable
+personal information such as credit card numbers onto millions of websites
+every day, and hackers can set up trackers that collect this information in
+real time. Commercial web operators who require these data should thus be
+obligated to encrypt them — both when they’re being entered and while they’re resting
+inside the network.
+Simple security steps such as authentication and authorization to a web portal or application are also must-haves. For example, Peloton recently
+exposed
+user data by allowing unauthenticated users — anyone, anywhere — to access user information via the company’s application programming interface. Insisting on authentication for machines to communicate could solve these simple access issues.
+During his recent testimony before the Senate Committee on Homeland Security and Governmental Affairs, Colonial Pipeline’s CEO
+admitted
+the company didn’t require multifactor authentication for entry into company systems and lacked a contingency plan for cybersecurity incidents such as ransomware attacks. This is yet another instance in which authentication mechanisms could have protected a company’s networks from catastrophe.
+The
+SolarWinds hack
+also highlighted the importance of having trusted supply chain partners. After hackers embedded malicious code into what was considered a trustworthy supplier’s software update, the approximately 18,000 customers who downloaded the update were
+potentially vulnerable
+to an attack. Corporate boards and oversight committees should thus establish compliance and control mechanisms such as regular vendor and data security audits to manage potential risks and vulnerabilities.
+Security companies offer solutions to these problems, so why
+don’t corporations use them? The most common answer is that companies don’t
+consider cybersecurity a highest-risk-analysis concern. However, corporate
+boards are realizing they cannot afford to ignore cybersecurity or consider it
+an information technology expenditure without risk analysis. In a
+2020 PricewaterhouseCoopers survey
+, two-thirds of
+respondents said a cyber breach would reflect negatively on their fiduciary
+responsibilities as board members. Yet only 37 percent of respondents stated
+the board understood the company’s crisis management plan “very well.” And just
+32 percent said the board had a strong understanding of its company’s
+cybersecurity vulnerabilities.
+While the government works to enable better public-private
+partnership and improve information sharing to mitigate attacks, corporations
+need to do their part and ensure they have covered the basics.

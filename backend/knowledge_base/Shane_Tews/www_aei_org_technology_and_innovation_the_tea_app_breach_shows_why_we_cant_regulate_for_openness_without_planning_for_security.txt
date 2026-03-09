@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	The Tea App Breach Shows Why We Can’t Regulate for Openness Without Planning for Security | American Enterprise Institute - AEI
+
+Last week, a dating safety app called Tea Dating Advice
+—
+which allows women to anonymously share dating experiences to keep others safe
+—
+was a viral success. It had risen to the top of Apple’s App Store charts and had over 1.6 million users. Just as it appeared poised to become a major tool to advance digital safety, the company
+confirmed
+that its systems had been breached: exposing 72,000 private user images, including 13,000 selfies and photo IDs used for account verification.
+In a
+statement
+released after the breach, Tea said that only users who joined the app before February 2024 were affected and that no email addresses or phone numbers were compromised. However, this offers little comfort to users whose facial images, government IDs, and private messages are now in circulation—
+exposed
+not through a sophisticated cyberattack, but via a shockingly unsecured database publicly accessible without authentication.
+Via AP Images.
+What’s most unsettling isn’t the breach itself, but how we have seen many failures like this before: Apps growing too quickly, outpacing their teams’ ability to secure them, and relying on shortcuts to meet user demands. But this time, there’s a new dimension to the story that demands policymakers’ attention.
+The security landscape for mobile applications is becoming increasingly difficult to manage; this is in part due to developer missteps, but also the regulatory mandates that prioritize openness and compatibility without accounting for the security trade-offs they create.
+The
+European Union’s Digital Markets Act
+(DMA) provides a clear example. Aimed at boosting competition in digital markets, the DMA now requires Apple and other “gatekeeper” platforms to permit greater freedom for apps to connect with third-party services and even allow alternative app stores. While it may seem to promote innovation, this act actually undermines one of the most effective safety mechanisms consumers have relied on for years: The market-driven review process that platforms like Apple use to safeguard user data and detect vulnerabilities before they cause harm. This process acts as a safeguard for consumers and helps address security issues that developers may circumvent.
+Now, the
+US Senate’s Open App Markets Act
+(OAMA) threatens to follow the same path. As I have
+written
+before
+, it emphasizes theoretical competition while ignoring the real security risks that come with dismantling the guardrails the market has established. In trying to solve a problem that didn’t exist, government intervention is sacrificing user safety for openness, and consumers are the ones left exposed.
+Tea’s missteps highlights what can happen when security isn’t considered during app development and isn’t underscored as a company priority. The exposed database wasn’t encrypted and was left open, accessible to anyone who knew where to look. Soon after, screenshots and identity documents surfaced on 4chan, revealing the very users who thought they were joining a safe, protected space.
+To be clear: Tea’s failure is its own. No regulation forced them to leave a public-facing database unsecured. However, what the DMA and other similar regulations have done is create a more fragmented, less controlled app ecosystem—one where mistakes are easier to make, more difficult to detect, and cause more damage when they occur. By prioritizing interoperability over inspection, regulators have made protecting users more difficult than ever.
+And the consequences of these lapses are not abstract. We’re talking about women who submitted sensitive documents believing they were doing so in the interest of personal safety. The breach turned those precautions into liabilities, making it easier for bad actors to cause the harm that Tea intended to prevent.
+This is the uncomfortable truth we must face: Openness, while a valuable goal, cannot come at the expense of user security. Regulatory frameworks—such as the DMA and the proposed OAMA—must recognize the shift in security dynamics their rules help create. This means recognizing that removing development-stage checks—which enable security checks on behalf of consumers—makes robust, end-to-end security enforcement for consumers more difficult. To make matters worse, meaningful safety measures are rarely added after they gain access to the app platform.
+Tea’s breach will soon fade from headlines, but the conditions that made it possible will persist—unless we acknowledge that complex regulatory compliance unintentionally led to a weakened security framework, as governments require platforms to be more open and interconnected.
+This isn’t simply a technical failure; it’s a failure of public trust and a warning of what happens when government interference disrupts solutions that the market has already found. By forcing open access without understanding the security trade-offs, regulators are dismantling consumer protections that platforms had built by design. In the rush to legislate competition, they’ve caused unintended harm to security.

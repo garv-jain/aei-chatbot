@@ -1,0 +1,74 @@
+PAGE_TITLE: 
+	A Blaring Wake-Up Call: Social Media Companies Should Prepare Better for Harm-to-Minors Lawsuits | American Enterprise Institute - AEI
+
+On November 13, I
+contended
+that it “may not be easy” for the owners of social media platforms to defeat lawsuits blaming them “for a host of mental and physical injuries” minors supposedly suffer due to deleterious design features and the platforms’ failure to warn about usage risks. The next day, US District Judge
+Yvonne Gonzalez Rogers
+refused to dismiss
+key claims against ByteDance, Google, Meta, and Snap in a
+multi-district litigation proceeding
+in California. Yet, the companies scored some victories, with Rogers whittling down the number of platform design features for which they might be liable. Here are some key facts, a few caveats, and two large lessons from the ruling, followed by the legal details.
+Via Reuters
+Foundational Facts
+:
+First, the multi-district litigation’s size is staggering; it involves “
+hundreds of individual cases
+” filed nationwide on behalf of minors, plus more than “140 actions brought on behalf of school districts and actions filed jointly by over thirty state Attorneys General.” Thus, not only is big money at stake but should the plaintiffs prevail or score a massive settlement, it may embolden lawmakers to stringently regulate the platforms.
+Second, Rogers addressed only “
+five priority claims
+” out of 18 theories in the plaintiffs’
+Master Amended
+Complaint
+. The five, targeting all the defendants, include two claims alleging platform
+design defects
+(one grounded in
+negligence
+, the other in
+products liability
+), two alleging
+failure to warn
+about dangers of platform usage created by the design defects (one rooted in
+negligence
+, the other in
+products liability
+), and one alleging
+negligence per se
+for violating two federal statutes: the
+Children’s Online Privacy Protection Act
+(regarding data collection from children under age 13 without parental consent) and
+portions
+of the
+Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act
+(targeting online child sexual exploitation).
+Caveats
+: The litigation is still early, with Rogers
+noting
+this was just “the first wave of legal arguments.” Additionally, because this involved a
+federal motion to dismiss
+for failure to state claims, Rogers assumed the plaintiffs’ nonconclusory factual allegations were true and evaluated them only if they suggested
+plausibly successfully claims
+.
+The discovery process
+hasn’t begun, and the substantive merits haven’t been litigated. In short, there’s a long way to go.
+Lessons
+: The first takeaway is that
+Section 230
+of the Communications Decency Act, which generally shields platforms from liability for others’ content, and the
+First Amendment’s
+free-speech guarantee aren’t panaceas for the platforms. Collectively, they blocked claims from proceeding against
+some
+but not
+all
+of the platforms’ design functionalities. The companies’ home-run swing––their “adamant” assertion, as Rogers
+wrote
+, that Section 230 and the First Amendment defeated “the entirety of the complaint” ––fell short of the fence because it did “not sufficiently address the complexity of the issues.”
+This leads to the second lesson: Rogers expects detailed analyses––granular ones, with a “conduct-specific approach” ––not blanket assertions of defenses, much less the failure to aver any. For example, she wrote that the “defendants [did] not directly address application of Section 230” to the claim that the platforms fail to provide parents effective controls over (and notifications about) their children’s platform usage. More damningly, she remarked that the companies did “not brief application of Section 230 to any of the failure to warn claims. This alone is a basis to deny the motion as to these claims.” She added that they failed to “address application of Section 230 to the negligence
+per se
+claim beyond asserting that it is barred because the harm alleged is inextricable from third-party content published by defendants.” She also intimated that the companies ignored a potential
+compelled-speech defense
+, writing that “Defendants raise no arguments regarding whether the First Amendment protects them from having to give notices or warnings. Thus, the Court considers none.”
+This is a blaring wake-up call: The companies’ attorneys now must bring their A game. To the attorneys present during an October 2023 hearing, Rogers
+remarked
+, “Your billing fees today exceed my annual salary.” She clearly expects them to earn it.
+Regarding the details, Rogers concluded that the negligence per se claim isn’t barred by Section 230 and the First Amendment; it now proceeds. Design-defect claims also will proceed regarding the platforms’ failure to implement (1) robust age-verification processes, (2) effective parental controls and notifications, (3) opt-in restrictions on the length and frequency of sessions, (4) labeling of filtered or edited photos and videos, and (5) certain mechanisms for reporting sexual predators and child sexual abuse material. Other defect claims proceeding entail making available to minors’ appearance-altering filters and making it difficult to deactivate and delete accounts. The failure-to-warn claims also will proceed regarding these alleged defects. However, in a victory for the platforms, Rogers concluded they don’t have a duty to protect minors from harm by third-party users like sexual predators, yet she allowed the plaintiffs to amend their complaint to show otherwise.

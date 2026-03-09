@@ -1,0 +1,48 @@
+PAGE_TITLE: 
+	How AI Is Being Transformed by ‘Foundation Models’ | American Enterprise Institute - AEI
+
+In the world of computer science and artificial intelligence, few topics are generating as much interest as the rise of so-called “foundation models.” These models can be thought of as meta-AI—but not
+Meta-AI
+, if you see what I mean—systems that incorporate vast neural networks with even bigger datasets. They are able to process a lot but, more importantly, they are easily adaptable across information domain areas, shortening and simplifying what has previously been a laborious process of training AI systems. If foundation models fulfill their promise, it could bring AI into much broader commercial use.
+To give a sense of the scale of these algorithms, GPT-3, a foundation model for natural language processing released two years ago, contains upwards of
+170 billion parameters
+, the variables that guide functions within a model. Obviously, that’s a lot of parameters and it gives a hint at just how complex these models are. With that complexity comes considerable uncertainty, even among designers, about how they work.
+At a recent Stanford University
+conference
+, scientists and engineers described how the arrival of foundation models was made possible by substantial advances in hardware engineering that have lowered data processing costs by reducing the amount of time and energy the system uses in managing itself as it executes its analysis of data. The result is that AI research has succeeded in creating models that are generic in the sense that they are essentially pre-trained using an enormous, single data set and can perform a variety of different tasks with relatively little programmer input rather than being tailored to a single task and dataset. One AI scientist analogized it to learning how to skate. If you know how to walk, you have most of the skills you need to skate; minor changes and some practice is all you need.
+As might be imagined, a quantum leap like this is generating controversy, beginning with whether the very term “foundation model” signals an effort by a single institution—Stanford, which launched a Center for Research on Foundation Models last year—to exert intellectual hegemony and epistemic closure over the AI field. Professional and institutional envy and rivalries come into play (“Leave it to Stanford to claim they have
+the
+foundation!”). However, beneath this seems to be a mix of genuine “don’t get ahead of yourself” concerns and worry about how the terminology might affect distribution of investment capital and research support.
+Others are weirded out by foundation models because any flaws or biases in these models (and in anything this large it will be impossible to eliminate bias and errors entirely) risks replication in progeny systems and applications. If, for instance, some sort of racial bias is present in an AI foundation model (remember the
+“unprofessional hair” algorithm controversy
+?), that bias would be embedded in other systems and tasks potentially manifesting in discriminatory outcomes. Like a mutation in DNA, these flaws, replicated across many AI systems, could metastasize and become devilishly difficult to correct and eliminate. We could end up, the argument goes, with some of the worst instincts of the human world being replicated in the virtual world—with consequences for real, live human beings.
+Some AI scientists are also expressing concerns about environmental impact. These foundation models, despite their increased hardware efficiency, require
+enormous amounts of electricity
+which has to come from . . . somewhere. As they are replicated and commercialized, where will that power, and the infrastructure to deliver it, come from? (AI is not the only computing field where this is a concern; most notably, cryptocurrency mining is
+consuming massive amounts of energy
+.) While renewable sources of energy are preferable, the rapidly growing demand likely means more coal, oil, and natural gas in the short term, with a concomitant rise in carbon emissions as well as more high-tension powerlines, electrical substations, and the like to deliver it. Then there’s the shortage of rare-earth elements needed for producing the necessary hardware systems. New sources have to be found and mined, with the associated impacts to the environment.
+Into this swirl of social, political, environmental, cultural, and pecuniary anxiety, Stanford philosopher Rob Reich (pronounced “Rishe,” not “Rike,” and not to be confused with the other Bay Area professor and former Clinton administration labor secretary,
+Robert Reich
+), who helped co-found the university’s Institute for Human-Centered Artificial Intelligence, stepped into the conversation with an analysis of some of the broader ethical considerations the AI field should be thinking about. At the recent Stanford meeting, Reich told the assembled industry scientists and academics that his main concern was not their individual moral compasses but rather the near-absence of conceptual and institutional frameworks for defining and guiding AI research.
+He likened his concerns to those articulated by Albert Einstein about the machine age: these advances hold the promise of a new age of prosperity and opportunity. Without ethical boundaries, he
+said
+(
+borrowing from Einstein
+), it’s like placing “a razor in the hands of a three-year-old child.” Technological development always outpaces ethical reflection leaving society exposed to dangers— if not from bad actors, perhaps from immature ones.
+The current state of AI ethics development, Reich said, was like that of a teenage brain: full of a sense of its own power in the world but lacking the developed frontal cortex needed to restrain its less-considered impulses. Government regulation, he argued, is premature (we haven’t done the ethical reflection necessary to know what such regulations ought to be). Moreover, the lag between the emergence of problems and the promulgation of laws and regulations means powerful AI tools will be widely in use long before a regulatory framework is in place. While government grinds slowly toward a regulatory regime, AI developers must learn how to police themselves.
+Reich said that
+CRISPR
+, the gene-editing technology, provides a contrasting model for developing and structuring ethics to go with foundation models. Reich credits
+Jennifer Doudna
+, who along with
+Emmanuelle Charpentier
+, received the 2020 Nobel Prize in Chemistry for developing CRISPR, for launching the effort to establish guardrails around gene editing. Reich recounted a story Doudna tells in
+her memoir
+and elsewhere of waking up from a nightmare in which Adolf Hitler had gained access to CRISPR technology. She immediately began organizing a network of scientists to build voluntary ethical controls to govern the field.
+The key principle the network followed was “no experimentation on human embryos.” Journals agreed not to publish papers by scientists who violated the prohibition and scientific bodies promised to exclude any such scientists from professional conferences. This self-government is no guarantee against bad actors—like the Chinese scientist
+He Jiankui
+, who used CRISPR to produce genetically altered babies and lost his job and was sentenced to prison—but it is a reasonable start.
+Such bright-line professional norms, if they can be put in place relatively quickly, might stop certain kinds of problems in AI before they start. With enough self-policing, the world might buy the time needed to develop more detailed ethical exploration, laws, and regulatory standards to guide AI research and use and the institutions to enforce them.
+This is a compelling argument because it recognizes that while law is often a weak restraint on bad behavior, peer norms can be an effective deterrent. More importantly, while the ethical concerns about racial bias and the environment are important, Reich’s engagement with AI scientists at this higher, more general level of conversation highlights the importance of applying the
+Jurassic Park principle
+to AI: before you do something, it might be good to ask whether you really should.

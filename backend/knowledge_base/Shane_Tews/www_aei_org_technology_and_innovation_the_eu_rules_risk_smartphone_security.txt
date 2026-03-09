@@ -1,0 +1,24 @@
+PAGE_TITLE: 
+	The EU Rules Risk Smartphone Security | American Enterprise Institute - AEI
+
+The European Union’s
+Digital Markets Act
+(DMA) targets “Big Tech” platforms under the idea that new regulations will increase competition and user choice. But by mandating openness, these new rules could inadvertently undermine vital security protections for consumers.
+Smartphones contain highly sensitive personal information across finance, health, and communication apps. Securing these devices is paramount. Apple has achieved unmatched iOS security for over a decade through tight operating systems and hardware control. This “walled garden” was
+designed
+to limit consumer harm by third-parties in the Apple app store.
+Yet, the DMA compels Apple to allow alternate iOS app stores and payment systems. More openness carries the
+risk
+of increased security problems: More stores enable more malware. Rogue stores may lack processes to screen compromised apps loaded with malware or spyware. These proposed actions contrast with the safeguards of Apple’s curated app store.
+Via Reuters
+While permitting privacy and security measures, the DMA’s mandated openness conflicts with Apple’s underlying security model. Forced third-party app support does not prioritize the Apple app store’s integrity model, and the stance on security is yet to be seen. External payment links leave data exposed compared to Apple’s secure commerce system. Moreover, user purchase data faces potential capture or abuse when redirected outside the iOS ecosystem.
+Perhaps these concerns seem overblown. But the legislation will heighten iOS’s attack surface despite its remarkably malware-free environment today. EU regulators should have weighed smartphone security impacts before weakening protections. If issues emerge, the DMA could become an unfortunate experiment imposing on consumers security problems that were previously managed in the iOS implementation ecosystem.
+Google also recently disclosed changes for their Android operating system, along with changes across search, and data portability to meet DMA rules. New consent flows will govern linking user data across Google services to enable personalization and ads. Changes coming to Google Search include links to cross-web comparison sites instead of integrated business information like hotel websites, dedicated spaces comparing sites and suppliers with expanded result details, and removal of some integrated units like Google Flights.
+Google
+says
+it supports the DMA’s goals around interoperability and choice but contends the rules force difficult tradeoffs. The company worries the changes will reduce the options available to European consumers and businesses. Android will feature expanded choice screens when setting up devices or Chrome on desktop and iOS. Google will also test new data portability APIs for developers to move user data to third-party apps and services.
+Some argue other platforms like Android work fine with alternate stores. But Android’s openness has always come at the cost of more
+malware
+and compromises. iOS has avoided most such issues precisely because of its locked-down approach.
+What the EU wants by means of the DMA is to ‘gatekeep’ for European companies. Yet the regulation simply chases existing and effective technologies in attempting to meet this aim. Furthermore, by compelling openness through regulation, the EU risks unintended security consequences across vital platforms like iOS, most likely leaving payment links and data exposed when redirecting app users outside iOS for purchases, and bypassing platform protections that potentially expose the users’ payment and personal data to potential capture or abuse. This potential exploitation of user data is the opposite of the EU’s mission in the General Data Protection Regulation.
+Companies like Apple and Google now walk an increasingly tricky line balancing regulatory compliance, security protections, and user choice. For Apple specifically, forced changes tug directly against its entire security model and brand promise to consumers.As additional tech giants announce their DMA adaptations, privacy and malware risks will demand strict attention. Smartphone users have enjoyed strong security assurances until now. Regulators should take care not to erode those safeguards through overreach, no matter how well-intentioned, and recognize that absolute openness inherently enables abuse.

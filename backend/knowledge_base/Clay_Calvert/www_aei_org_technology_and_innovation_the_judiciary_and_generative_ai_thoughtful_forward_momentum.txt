@@ -1,0 +1,67 @@
+PAGE_TITLE: 
+	The Judiciary and Generative AI: Thoughtful Forward Momentum | American Enterprise Institute - AEI
+
+How does an otherwise-ordinary insurance lawsuit involving the interpretation of “landscaping” turn into something large enough to garner
+news media attention
+? A federal appellate court judge penned a witty, well-reasoned concurrence that explains how generative artificial intelligence (Gen AI) might assist courts when a “plain-meaning battle”
+erupts
+.
+Via Twenty20
+That’s what happened in late May when Judge
+Kevin C. Newsom
+of the
+US Court of Appeals for the Eleventh Circuit
+articulated in
+Snell v. United Specialty Insurance Company
+his “modest proposal” that judges “who believe that ‘ordinary meaning’ is the foundational rule for the evaluation of legal texts should consider—
+consider
+—whether and how AI-powered large language models like OpenAI’s ChatGPT, Google’s Gemini, and Anthropic’s Claude might—
+might
+—inform the interpretive analysis.” (Emphasis in original.)
+As Newsom’s
+italicization
+of “consider” and “might” indicates, this was not some full-steam-ahead, do-it-or-else judicial edict. Rather, it was a laudable call for the judiciary to begin exploring and experimenting with Gen AI when engaging in what Newsom
+called
+“the interpretative enterprise.”
+Dubbing
+himself a “plain-language guy” and “a self-respecting textualist,” Newsom explained that his old-fashioned, dictionary-based research into the meaning of “landscaping” led him into “definitional purgatory.” Things changed for the better, however, when the 2017 appellate court nominee of Donald Trump asked a clerk to see what ChatGPT had to say about landscaping’s ordinary meaning. The answer impressed Newsom, shifting his thinking about the use of Gen AI tools:
+Might LLMs [large language models] be useful in the interpretation of legal texts? Having initially thought the idea positively ludicrous, I think I’m now a pretty firm ‘maybe.’ At the very least, it seems to me, it’s an issue worth exploring.
+Newsom’s even-handed
+concurrence
+deserves attention because he catalogs the benefits and drawbacks of using large language models (LLMs) to help ferret out ordinary meanings in legal instruments. Newsom’s “bottom line” is “that LLMs have promise” to provide “additional datapoints to be used alongside dictionaries, canons, and syntactical context in the assessment of terms’ ordinary meaning. That’s all; that’s it.”
+Newsom’s analysis follows the April
+suggestion
+by Judge
+John K. Bush
+of the
+US Court of Appeals for the Sixth Circuit
+that “the development of AI may have big implications for the history and tradition method that the Supreme Court has recently used to interpret certain provisions of the Constitution.” As I
+described
+earlier, Bush explained how Gen AI might not only help judges in discerning the
+original public meaning
+of words in the US Constitution and its amendments, but also in discovering historical analogues and examples for guiding today’s decisions.
+States too are evaluating how their judges can harness the benefits of Gen AI while avoiding potential pitfalls. For example, the
+Judicial Council of California
+in May created
+a task force
+“to come up with rules governing the use of generative artificial intelligence by judges.” Mirroring Newsom’s careful approach, California Chief Justice
+Patricia Guerrero
+stated
+that while Gen AI “brings great promise,” it’s “essential for the [judicial] branch to assess what protections are necessary as we begin to use this technology.”
+Chief Justice John Roberts, in his “
+2023 Year-End Report on the Federal Judiciary
+,” implicitly gave the greenlight for lower court judges to experiment with Gen AI. Noting that “the federal judiciary has adapted its practices to meet the opportunities and challenges of new technologies,” Roberts wrote that “legal research may soon be unimaginable without” artificial intelligence. Yet, as I earlier
+wrote
+, Roberts was “neither alarmist about nor enraptured by AI,” as he reasoned that “any use of AI requires caution and humility.” That sentiment clearly—and correctly—has set the tone for the rest of the judiciary.
+Of course, not all potential uses of Gen AI by the judiciary are equal. While it’s one thing to use Gen AI to produce a report on the ordinary meaning of words like landscaping at issue in
+Snell
+, it’s quite another thing—especially given problems with hallucinations, biases, and the completeness of data in LLMs—to have it draft opinions. The latter is an area where US District Judge
+Xavier Rodriguez
+recently
+recommended
+that “judges and law clerks should be cautious in using generative AI tools.” Judge
+W. Kearse McGill
+of the
+State Bar Court of California
+expressed
+a similar view in April, writing that Gen AI “can operate in unanticipated ways and could include factors that are not appropriate or fair when used in a court matter. These can occur in the misapplication of applicable law or case precedents, fictionalized case cites, or narratives that can otherwise mislead.”  Ultimately, momentum of a necessarily cautious variety is building regarding judicial deployment of LLMs and Gen AI. That’s a good thing because, when used properly and with necessary human oversight and review, Gen AI tools should help the wheels of justice grind a little more swiftly and efficiently.

@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	The Open App Markets Act: Threatening User Data, One Device at a Time | American Enterprise Institute - AEI
+
+Just last month, two Facebook users
+sued
+its parent company, Meta, in a San Francisco federal court for attempts to circumvent the privacy protections Apple put in place to limit how much user data can be collected and used for tracking by third-party apps. This legal suit comes at a complicated time on Capitol Hill. Sen. Marsha Blackburn (R-TN) has
+praised Apple
+in the past for implementing these barriers on behalf of their users with their
+App Tracking Transparency
+program, which requires consent by a user for all third-party apps before tracking their web activity across other websites. Yet she is cosponsoring proposed legislation that would mandate the removal of the same security tools Apple has put in place to ensure that vulnerable third-party apps are not offered to iOS users.
+via Reuters
+The senator is a cosponsor of the
+Open App Markets Act
+(OAMA), which targets two specific companies—Apple and Google—in the Big Tech skirmish while ignoring other tech companies’ role in the security and privacy of consumer data. For example, Meta, which owns and operates four of the App Store’s top 10 apps (Facebook, Instagram, Messenger, and WhatsApp) would benefit from the removal of Apple’s privacy and security screening mechanisms.
+By “opening the app market,” OAMA is effectively removing a crucial cybersecurity barrier that serves as a baseline for entry into the market. Apple takes an
+additional step
+to ensure apps are from a known source and tested to ensure user data has sufficient protection. This is done through the comprehensive screening procedure at the front end of the App Store process, which includes end-use disclosure of a consumer’s data by the app and disclosure of any third-party sale or use of that data. The OAMA could remove these privacy- and safety-enhancing tools entirely. That means unchecked apps could flood into Apple’s App Store, because the new process would eliminate the human element Apple has in place―the meticulous sieve of human experts enforcing App Store guidelines―which is a critical part of the vetting process to ensure apps on the market meet Apple’s safety standards.
+If passed into law, companies such as Meta will be able to bypass Apple’s and Google’s operating system rules and create their own bundled applications for their own suite of apps, bypassing the current privacy or security measures imposed by App Store processes. This is the exact anti-consumer behavior for which the company is currently facing multiple lawsuits by its own users.
+Criminals and authoritarian nation-states like to use “openness” to prey on consumers. OAMA opens Americans’ most sensitive data, from identification info to health information and even payment methods, to larger commercial operations, such as platform advertising–based business models, while also opening devices to more threats by nefarious actors. Criminals distribute apps riddled with malware through “
+adware
+” that collects the data stored on our mobile devices. It also gives an opening to the network ecosystem by removing the barriers to entry via a mobile operating system. Why would Congress pass this legislation knowing it will damage the current privacy and security controls on apps, adding risk to consumers and removing security measures that are a priority for our national security and consumer confidence?
+I am one of many who continue to
+raise concerns
+about this flawed legislation—and the less targeted but equally troubling
+American Innovation and Choice Online Act
+, of which Sen. Amy Klobuchar (D-MN) is lead sponsor. Many others―from the
+National Security Agency
+to the Department of Homeland Security’s
+Cybersecurity and Infrastructure Security Agency
+―have also issued warnings about the cybersecurity threats it would invite, honing in on the dangers of downloading apps outside of legitimate app stores, a process known as “sideloading.”
+There’s a constant tension between secure and free markets when it comes to tech policy. This legislation potentially damages the ongoing security efforts in our robust digital economy. We need to take a sober look at the flaws in these bills and recognize what damage the legislation could do to the current efforts that technology companies have created to secure their operating networks and solve actual privacy and data collection concerns internally. Congress should develop proposals that hold up to the scrutiny of cybersecurity and national security experts, not concern them.

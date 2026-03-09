@@ -1,0 +1,20 @@
+PAGE_TITLE: 
+	The Future of Work Is a Liminal Space | American Enterprise Institute - AEI
+
+It’s been another breathless week in the business of projecting how artificial intelligence will reshape the US (and global) labor markets. Following Anthropic CEO Dario Amodei’s
+warnings of an AI “bloodbath,”
+several
+major tech
+companies announced plans to make
+significant workforce reductions
+, citing AI efficiencies as the reason.
+LinkedIn co-founder and Netflix board member Reid Hoffman stepped into the conversation in an interview on the
+Rapid Response
+podcast
+with a more measured take on the short- and medium-term future. Hoffman pushed back on the idea that artificial intelligence is driving us toward a white-collar jobs apocalypse. The principal effect of AI, he argues, is job transformation, rather than job destruction. This insight fits well with
+emerging research
+that focuses on AI’s effects on tasks—moment-to-moment worker activities—rather than whole jobs.
+It’s helpful to think about AI as another chapter in the long story of automation trends: shifting workers away from acting like machines—toiling on information assembly lines, in this case—and toward roles that are creative, strategic, and analytical. The immediate effects will be to boost efficiency in a wide variety of knowledge economy roles that, before the advent of AI, were necessary to help organizations and businesses serve customers and understand their own operations: scheduling, repetitive data entry, internal knowledge management, and research. In these areas, AI can be faster, cheaper, and more accurate.
+But almost all jobs are made up of bundles of tasks, some of which are automatable and others not. In the short term, then, AI will tend to transform tasks, increase efficiency, and move workers up the value chain, freeing human labor to focus on higher-order thinking, judgment, and creativity.
+Sounds dandy, doesn’t it? The problem with taking too rosy a view of how AI will improve work lies in some of its ancillary effects. First, getting incumbent workers upskilled for their reconfigured jobs isn’t going to be cheap or easy. Retraining will impose financial burdens on companies and cognitive burdens on workers. These are both likely to slow the transition to AI, giving us some breathing room to make adjustments to education, training, and workforce development. Second, by fractionally changing jobs to increase efficiency, companies will eventually have to consolidate their workforces—keeping the most talented and adaptable workers while laying off those who, for whatever reason, are not suited to the new AI-infused tasks.
+This raises significant public policy challenges. As we’ve seen with deindustrialization, it is entirely possible, perhaps likely, that government and social responses will lag economic transformation and add to the anxiety and feeling of dislocation workers experience. This suggests that what is most needed right now is a close examination of “what if” scenarios to help policymakers think through transition dynamics and map out frameworks for response. For those workers who find themselves on the losing side of this equation, we need to consider what kinds of economic assistance and workforce support might be needed to help them retool and ensure they are not left feeling adrift in the liminal space of the AI transition with no clear path to finding a new place in the economy.

@@ -1,0 +1,75 @@
+PAGE_TITLE: 
+	Of Drones and Journalists: Balancing Personal Privacy with Press Freedom While Juggling Federal and State Regulations | American Enterprise Institute - AEI
+
+The
+US Court of Appeals for the Fifth Circuit
+recently
+rebuffed
+a
+First Amendment
+challenge to a
+Texas statute
+barring drones from flying over certain locations (critical infrastructure facilities and large sports venues, for instance) and prohibiting drone surveillance from capturing images of private property and people on it. The statute includes 21 exceptions, including for university research and licensed real estate brokers. Absent, however, is one for journalists covering newsworthy events.
+Drone laws like Texas’s pit policy concerns about protecting personal privacy, public safety, and national security against safeguarding the press’s interest in gathering news and the public’s right to know via visual imagery. As
+Charles D. Tobin
+, leader of Ballard Spahr’s
+Media and Entertainment Law Group
+, recently
+stated
+, “the First Amendment cannot be left out of the room while discussing drone regulations.”
+Via Adobe Stock
+Indeed, the First Amendment isn’t always ignored. For example, North Carolina’s regulations include an
+exception
+allowing drones to capture nonconsensual images of people for purposes of “newsgathering” and covering “newsworthy events.”
+The Fifth Circuit reasoned that Texas’s anti-surveillance provisions “are geared only toward protecting
+private
+individuals and property—they expressly permit aerial surveillance and photography of
+public
+property and persons thereon.” (Emphasis in original). Unfortunately, this ignores the fact that newsworthy events often occur or affect people on private property, from fires and hurricanes to shootings and hostage situations.
+Beyond First Amendment issues, drone laws raise problems of federal-versus-state regulation. At bottom, by upholding Texas’s statute, the Fifth Circuit rejected uniform, national standards established by the
+Federal Aviation Administration
+(FAA) governing commercial drone usage in favor of an uneven, state-by-state (and sometimes municipality-by-municipality) patchwork regulatory structure. That’s the takeaway from its conclusion that federal drone rules do not “occupy the entire field of drone regulation” when it comes to protecting privacy and critical infrastructure.
+The FAA enforces
+multiple rules
+affecting
+the commercial use of drones (more formally, small “unmanned aircraft systems” (or UAS) weighing less than 55 pounds). In July 2023, the FAA published a
+fact sheet
+tackling federal preemption issues regarding state and local drone regulations.
+It notes, among many things, that the “FAA has exclusive authority to regulate
+aviation safety
+and
+airspace efficiency
+with respect to UAS operations at any altitude” (emphasis added) and that
+a privacy-related ban on UAS operations over an entire city would very likely be preempted                                  because it would completely prohibit UAS from using or traversing the airspace above the city and impede the FAA’s and Congress’s ability to safely and effectively integrate UAS into the national airspace.
+The latter assertion tracks the 2017
+conclusion
+of a Massachusetts federal court.
+Yet, the FAA permits concurrent federal and state drone regulation in other situations. The 2023
+fact sheet
+provides that “states and local governments may not regulate in the fields of aviation safety or airspace efficiency
+but
+generally may regulate outside those fields.” (Emphasis added).
+Importantly, carving out journalistic exemptions from state regulations like Texas’s would not leave private citizens remediless. For example, a citizen may sue for aerial
+trespass
+, with the US Supreme Court
+concluding
+long ago that while “airspace is a public highway,” a landowner “must have exclusive control of the
+immediate reaches
+of the enveloping atmosphere.” (Emphasis added).
+A Texas appellate court
+ruled
+in 2002 that aerial trespass occurs when an aircraft “enters into the immediate reaches of the air space next to the land” and “interferes substantially” with a person’s use and enjoyment of their property. That case pivoted on a television news helicopter hovering over a residence to gather images for “a story about the poor condition of rental properties.” The court concluded that “a single ten-minute hover over [the plaintiff’s] property at 300 to 400 feet [did] not . . . rise to the level of ‘substantial interference’ with the use and enjoyment of the underlying land.” In short,
+how low
+and
+how long
+are keys for evaluating aerial trespass claims.
+Do the FAA’s drone regulations preempt state-law aerial trespass claims? That’s doubtful. The FAA’s July 2023
+fact sheet
+specifies that state and local “laws that prohibit, restrict, or sanction operations by UAS in the immediate reaches of property to the extent that such operations substantially interfere with the property owner’s actual use and enjoyment of the property” are not likely preempted. Also not likely preempted, according to the FAA, are state and local laws aimed at “harassment of individuals or groups; privacy; voyeurism; [and] trespass on property.” Other viable theories of liability against drone-using journalists—ones I addressed
+elsewhere
+—include
+intrusion into seclusion
+and
+intentional infliction of emotional distress
+.
+In sum, state and local governments that insist on creating their own drone regulations should adopt journalistic carveouts to better balance First Amendment interests with the privacy concerns of individuals who already possess multiple remedies for excessive surveillance and undue intrusion.

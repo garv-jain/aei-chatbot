@@ -1,0 +1,24 @@
+PAGE_TITLE: 
+	China Challenges Multi-stakeholder Model of Internet Governance | American Enterprise Institute - AEI
+
+Last week, representatives from 120 countries and 20 international organizations assembled in Wuzhen for China’s second annual
+World Internet Conference
+. The conference featured 2,000 representatives from government, academia, civil society, the private sector, and the technical community. At the summit, China’s President Xi Jinping sent clear signals that China plans to continue to control its Internet borders, and called upon neighboring countries to support the right to do so. President Xi called for “cyber sovereignty,”advocating that individual countries should have the right to chose how and when to regulate the Internet inside their physical borders without interference by other governments. He outlined a digital future in which governments could set online standards and challenge the free flow of information and content across borders.
+In the eyes of the Chinese government, this type of “cyber sovereignty”trumps free expression for individuals. In his comments, President Xi mentioned that cyberspace should be governed, operated, and used following the rule of law. The question then becomes: Whose rule of law?
+What the Internet would look like under Chinese leadership
+China is notorious for blocking social media giants Facebook and Twitter and replacing them with China-based Renren, WeChat, and Sina Weibo. These local apps can – and regularly are – monitored by the government. The government also interferes with Virtual Private Networks (VPNs) and regularly blocks English speaking news websites such as The New York Times and BBC. China also has strict controls on content localization,
+announcing
+as late as last week that all online maps provided in China must be stored on servers within its borders.
+China’s challenge to the multi-stakeholder model
+In his speech, President Xi called on governments to come together to agree on guiding principles for Internet governance, and only involving the non-governmental parts of today’s Internet community once these principles are already solidified.
+President Xi’s comments were echoed by Russian Prime Minister Dmitry Medvedev, the President of Pakistan, and prime ministers from Kazakhstan, Kyrgyzstan, and Tajikistan, many of whom had earlier in the year urged the UN to adopt an Internet “
+code of conduct
+“that would effectively give every government veto rights over technical protocols interlinking the global Internet.
+China’s government-led approach to Internet governance is in direct conflict with today’s multi-stakeholder model, where all constituents of the online world – including NGOs, academia, the private sector, and technical experts – have seats at the table.
+And while China’s effort may not be in direct conflict with the exact words carefully chosen in the
+World Summit on the Information Society
+(WSIS+10) review at the United Nations this past week, it does seem to be in conflict with the spirit of the agreement to renew the Internet Governance Forum’s mandate to continue to encourage a collaborative multi-stakeholder model that stresses openness and access to all.
+Using security as an excuse for increased government control
+China and other proponents of government control of the Internet frequently use security concerns to support their arguments. And while recent events have reminded us that there certainly are people out there that wish to use the Internet to do harm, it is still the case that securing the Internet does not need to be a state-run operation. It is the responsibility of all Internet users and operators to keep the Internet open and resilient.  Privacy and security concerns do bring tensions and challenges to an open Internet, but fragmenting control of technical functions does not resolve either of these issues.
+We need to celebrate the success of the Internet as a global tool that allows for worldwide connectivity.  Resolving privacy and security issues is the next challenge, and while there is a role for governments in the process, this challenge is one that governments alone cannot solve. Working on improving Internet security in an open and transparent manner allows the Internet to stay global and inclusive, and we will all be better off if we can find a way to manage the risks inherent as a global effort, rather than as a state-run exercise.
+This post was originally published on TechPolicyDaily.

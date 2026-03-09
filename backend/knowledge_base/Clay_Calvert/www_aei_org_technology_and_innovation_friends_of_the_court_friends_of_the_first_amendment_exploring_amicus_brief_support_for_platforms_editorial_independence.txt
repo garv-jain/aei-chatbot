@@ -1,0 +1,60 @@
+PAGE_TITLE: 
+	Friends of the Court, Friends of the First Amendment: Exploring Amicus Brief Support for Platforms’ Editorial Independence | American Enterprise Institute - AEI
+
+In late November, the
+Computer & Communications Industry Association
+(CCIA) and
+NetChoice
+jointly filed briefs with the
+US Supreme Court
+in
+NetChoice v. Paxton
+and
+Moody v. NetChoice
+. Their filings, I recently
+contended
+, “powerfully explain” why Florida and Texas statutes compelling social media platforms to host unwanted speech (and rule-flouting users) and interfering with platforms’ decisions about organizing and presenting content violate the platforms’
+First Amendment
+expressive rights of editorial control and discretion.
+Supporting the CCIA and NetChoice this month was a cavalry of more than 100 total individuals, organizations, and businesses that filed
+amicus curiae
+(friend-of-the-court) briefs. Filed by non-parties with a strong interest in a case’s outcome, such briefs are particularly helpful when they direct the Court to a “
+relevant matter not already brought to its attention by the parties
+” or “
+bring something new and interesting to the case
+.”
+Via Adobe Stock
+Better friend-of-the-court briefs like these often focus on one key point, issue, or argument, drilling deeper into it than the parties could have because of the Court’s
+13,000-word limit
+. Such briefs—rather than the redundant “
+me too
+” variety that “
+merely restate the arguments for the main parties in different language
+”—have a value-added, educative component. It thus helps to review policy-driven highlights from five diverse amicus briefs to better understand why the Court should declare the Florida and Texas statutes unconstitutional.
+Anti-Defamation League Brief
+: The brief addresses how the states’ statutes collectively and unlawfully prohibit platforms from blocking and deprioritizing hateful content. Specifically, they
+unconstitutionally deprive social media platforms of the content-moderation tools they urgently need to help stop the proliferation of hate and harassment online. Without such tools, social media platforms will be ill-equipped to halt the . . . escalation of online hate into offline violence, posing a grave threat to the safety and well-being of all, especially the most vulnerable.
+Media Law Resource Center Brief
+: The brief concentrates on the public’s interest—especially given the enormous volume of online messages—in allowing platforms to exercise editorial discretion and winnow out low-value content, thereby serving a well-functioning marketplace of ideas:
+Editorial discretion is particularly important in the online marketplace of ideas, where no human being could hope to comprehend—let alone process and evaluate—the vast number of messages that propagate across social media without assistance. By removing that assistance, Texas and Florida would create chaos rather than public discourse.
+National Security Experts Brief
+: Filed by the likes of
+John Brennan
+,
+James Clapper
+, and
+Stan McChrystal
+“on behalf of neither party,” the brief focuses on the important role that voluntary content-moderation efforts by social media platforms play in weeding out terrorist and extremist content. It contends that
+The Florida and Texas statutes . . . would penalize social media platforms that delete content they deem to be dangerous and harmful under their terms of service. This would be directly contrary to the national security interests of the United States. Amici ask this Court to recognize that the content moderation policies of social media platforms, while by no means perfect, play a critical role in advancing U.S. national security interests.
+Professors of History Brief
+: Targeting justices who focus on the First Amendment’s history when examining the constitutionality of statutes, the brief seeks “to assist the Court in evaluating the original public meaning of the First Amendment’s Press Clause” and, specifically, the historical understanding of “editorial discretion.” The brief explains that when the First Amendment was adopted in 1791, printers were synonymous with “the press.” They “sorted through content gathered in or submitted to their offices, selected the content worthy of publication, edited that material, and decided when and how to present and distribute it.” In short, founding-era printers (the “press” of the time) exercised editorial discretion in assembling others’ content, much as social media platforms do today.
+Yelp
+: The brief illustrates via real-life examples––including Yelp’s use of its content-moderation practices to respond to “review bombing” following the Court’s 2018
+Masterpiece Cakeshop
+ruling
+—how the functionality, reliability, and usefulness of a popular review website (one falling within the states’ broad definitions of social media platforms) might be destroyed by the statutes: “Yelp provides a useful illustration of the problems with the Texas and Florida laws—and it is an example without some of the political baggage of the large social media companies. . . . Read broadly, the states’ content-moderation laws would prohibit Yelp from enforcing its policies, using its recommendation software to distinguish between reliable and unreliable reviews, and removing reviews from the platform.”
+Other important, tightly focused briefs include (but are not limited to) those filed by
+TechFreedom
+(explaining why social media platforms are not common carriers) and a cadre of
+First Amendment and Internet Law Scholars
+(addressing how the statutes violate users’ First Amendment right not to be compelled to listen to unwanted speech).

@@ -1,0 +1,44 @@
+PAGE_TITLE: 
+	The Digital Markets Act: A Security Risk for Encrypted Communications | American Enterprise Institute - AEI
+
+A
+recent
+controversy involving Defense Secretary Pete Hegseth presents a sobering, real-world example of the security risks posed by messaging platforms. Hegseth and other senior Trump administration officials discussed sensitive military plans over the unsecured Signal app—violating government security protocols. When
+The Atlantic
+‘s editor-in-chief, Jeffrey Goldberg, was inadvertently added to this group chat, sensitive operational details were exposed.
+Even encrypted apps like Signal are not immune to security threats­­—a
+Pentagon-wide advisory recently warned
+that “a vulnerability has been identified in the Signal Messenger Application,” which “Russian professional hacking groups” were seeking to exploit. By sharing logistical information about forthcoming strikes on Yemen, Hegseth increased the risk that foreign adversaries could have seen what the US military was planning, who was being targeted, and when it would occur.
+Via Adobe Stock.
+The Senate Intelligence Committee held hearings on the Hegseth incident, questioning intelligence officials about using Signal for sensitive communications. Senate Minority Leader Chuck Schumer
+called
+it “one of the most stunning” military intelligence leaks and urged an investigation.
+While the Pentagon’s Office of Inspector General
+is investigating
+Hegseth’s use of Signal to assess compliance with classification and record retention requirements, this incident highlights a broader concern: if a single encrypted platform can be compromised so easily, what happens when we force multiple platforms to interconnect?
+This question becomes particularly urgent in light of the European Union’s Digital Markets Act (DMA), which introduces weighty interoperability requirements for messaging platforms in the quest for digital market competitiveness. While intended to dismantle “walled gardens” and foster competition, these requirements raise serious national security concerns, especially considered alongside the recent government communications events.
+Under the DMA
+, large messaging platforms (designated “gatekeepers”) must support interactions with other messaging services. This allows smaller platforms to request that more popular services open their application programming interfaces (APIs), enabling users to exchange messages, files, and video calls across different messaging apps. This aims to counter platform lock-in and broaden consumer choice.
+Article 7 mandates
+interoperability for essential functions such as end-to-end text messaging, as well as sharing images, voice messages, videos, and other files. It also stipulates that security levels, including end-to-end encryption, be maintained across interconnected services.
+However, the DMA’s interoperability requirements present technical challenges for secure communication. Some argue that while interoperability is theoretically possible through open API libraries with API keys or a single global standard for encryption, such solutions are complex, costly, and may introduce security risks—such as difficulties in identifying malicious activity or authenticating users’ identities. Sharing these concerns, the Electronic Frontier Foundation
+warns
+that interoperability obligations must not weaken end-to-end encryption or undermine its core security guarantees. When services with different encryption protocols communicate, maintaining true end-to-end encryption becomes exponentially more difficult.
+The DMA’s interoperability mandate may create national security vulnerabilities including:
+Expanded Attack Surface
+: Requiring interoperability between platforms expands the attack surface for potential security breaches. Each new connection point represents a vulnerability.
+Technical Complexity
+: One of the world’s largest tech companies admits a core security challenge—Meta’s engineers note that without “ownership of both clients, we cannot guarantee what a third-party provider does with sent or received messages.”
+Geopolitical Blindspots
+: The DMA disproportionately impacts Silicon Valley while potentially benefiting state actors. If foreign messaging apps can demand interoperability, they could jeopardize essential security tools.
+Weaker Security Standards
+: Achieving interoperability between services with different encryption protocols often requires messages to be decrypted and re-encrypted, introducing vulnerabilities. The Hegseth incident shows that even secure platforms like Signal can be compromised through human error—interoperability adds further technical risks.
+The gravity of messaging security cannot be overstated: If secure communications are this difficult on a single platform with established encryption protocols, the complexity intensifies when multiple platforms with varying security standards must work together.
+The DMA
+acknowledges
+some of these challenges, encouraging gatekeepers to take “duly justified” and “strictly necessary and proportionate” measures to ensure security. However, platforms must demonstrate that security exceptions are necessary.
+A better approach would be to extend the timelines for encrypted messaging interoperability
+until
+robust security standards are developed and tested. A review board of cybersecurity experts should evaluate implementations before approval. Independent security standards for cross-platform encryption should be developed, prioritizing security over convenience, with exceptions for communications with national security implications.
+The Digital Markets Act’s push for interoperability aims to dismantle digital frontrunners who have achieved commercial success. However, the Hegseth Signal incident demonstrates that even secure messaging platforms can become vectors for exposing sensitive information.
+The technical challenges of maintaining end-to-end encryption across platforms are formidable, and we risk creating vulnerabilities by hastily promoting interoperability. Undoubtedly, we must proceed with extreme caution regarding secure communications, recognizing that some digital walls are necessary security measures in an increasingly hostile digital landscape.

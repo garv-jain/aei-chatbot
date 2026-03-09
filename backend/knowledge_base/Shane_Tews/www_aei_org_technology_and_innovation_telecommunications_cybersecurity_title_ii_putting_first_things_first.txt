@@ -1,0 +1,23 @@
+PAGE_TITLE: 
+	Cybersecurity and Title II: Putting First Things First | American Enterprise Institute - AEI
+
+On June 26, 2014, a number of civil liberties groups, including the ACLU, the Center for Democracy and Technology, and the Competitive Enterprise Institute,
+issued a letter
+to Senators Dianne Feinstein and Saxby Chambliss, who were at that time the co-sponsors of the 2014 Cybersecurity Information Sharing Act (CISA). In this letter, the groups expressed their concern that the bill would “[infringe] on net neutrality policy,”stating that “net neutrality is a complex topic,”and “policy on this matter should not be set by cybersecurity legislation.”
+However noble these groups’ intentions might have been at the time, their letter put the cart before the horse. You can’t have an open and free Internet without the necessary investments, innovations, and agreements that make these networks secure and reliable.
+Any sound policy passed by congress and the FCC must reflect this basic fact; the upcoming vote to impose Title II does not.
+Overall, the debate over Title II has skirted around a discussion of one basic economic underpinning of the Internet’s success: investment in the stability and security of its core infrastructure. The assumption that network operators will continue to devote sufficient engineering and economic resources towards growing and securing the network in the
+risky investment environment
+of Title II seems unlikely. Moreover, heavy regulations will lead to a
+misallocation of resources toward obsolete technology
+, just as they have for incumbent telephone companies in previous decades. So what happens if the secure, safe, and soundly structured networks that support the Internet ecosystem today stop having a reason to innovate?
+One way to think about this question is to appreciate
+all that we can do on the Internet today
+. For example, nearly half of Super Bowl viewers made the game a two-screen experience. They were tweeting, updating Facebook statuses, emailing, and instant messaging each other about each play and commercial, the half time show, and players’ statistics.  It may have been the most exciting Super Bowl game ever – a nail-biter down to the very last seconds – and the Internet made it a better experience for many viewers. This was, of course, a result of safe, reliable network connectivity flowing to smartphones, tablets, laptops, as well as televisions.
+We don’t want to look back on this Super Bowl years from now and think of all the great things we
+used
+to be able to do on the Internet. In the face of
+ever more sophisticated and frequent cyberattacks
+, network operators must ensure that the security of their networks grows in proportion to the severity of the threats they face. Such an effort costs a great deal of money.
+Keeping the networks strong means constant investment at every point of entry and every line of transmission on the network. Innovation at the edge – where once-fledgling applications like Facebook and Twitter emerged – is fundamentally supported by investment in infrastructure at the core of the network. We have come to expect a secure and stable network as a given. That assumption may be challenged if regulations limit incentives to invest in innovations at all points of the infrastructure.
+This post was originally published on TechPolicyDaily.

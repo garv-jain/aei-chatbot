@@ -1,0 +1,44 @@
+PAGE_TITLE: 
+	European Regulators Are the Real ‘Gatekeepers’ in the New Digital Markets Act | American Enterprise Institute - AEI
+
+European policymakers are determined to take on American “Big
+Tech” and slow the growth of technological innovation with regulatory mandates
+and fines — which will purportedly enhance competition for European companies
+and protect citizens from being manipulated by technology.
+Though the final language is
+not yet public
+, the Council of the European Union and European Parliament recently reached a provisional agreement on the Digital Markets Act (DMA). This marks Europe’s latest effort to set new standards for the digital economy, hoping the world will follow. The DMA
+targets
+American Big Tech companies that provide “core platform services,” such as social networks, search engines, and messaging applications. The DMA is also supposed to enable a pluralistic digital environment by demanding open-access platforms for all, in the name of competition. On
+numerous
+occasions
+, US Secretary of Commerce Gina Raimondo expressed concerns about how the DMA narrowly discriminates against American firms — to no avail.
+A general view of the hemicycle where plenary sessions are taking place at the European Parliament in Brussels, Belgium, via Reuters
+The DMA
+requires
+any company with a market capitalization of at least €75 billion or an annual turnover of €7.5 billion to adhere to strict new EU regulations. The only companies that currently meet this threshold are Alphabet (Google’s parent company), Amazon, Apple, Meta (Facebook’s owner), and Microsoft. Additionally, any company that provides browsing, messaging, or social networking services and has at least 45 million monthly end users in the EU and 10,000 annual business users is
+subject
+to market investigations and potential sanctions for noncompliance. Noncompliant firms could be fined up to 10 percent of total worldwide turnover from the preceding financial year and 20 percent for repeat infringements.
+This also means the largest messaging services (Facebook Messenger, iMessage, and WhatsApp) must open their intellectual property to competitors and enable interoperability with smaller platforms — meaning the ability to conduct video calls and exchange messages and files. While the EU thinks this may create business opportunities for small European companies via integration with larger platforms, the user experience will most likely worsen, with engineering going toward more-basic operating systems to limit friction and meet regulatory standards.
+The DMA fails to account for the important governance role these companies have built into their ecosystems as a native user-protection feature. Current models are designed to sustain a trusted relationship with users by building more integrity into the ecosystem that allows end-user protections around data privacy and cybersecurity. However, open-access regulations like the DMA’s that mandate any platform to interoperate with any application reduce incentives for companies to invest in future innovation if the regulatory goal is to be a building block for competitors.
+In targeting so-called “gatekeepers,” the Europeans are
+gatekeeping well-designed security and privacy features currently provided by
+the companies they wish to regulate. Companies cannot simultaneously protect
+users from bad actors and properly govern their ecosystems if they are mandated
+to grant full open access to their operating systems. The DMA’s aim to allow open
+access to user data and digital infrastructure without the security framework
+needed to manage information flow could potentially degrade the quality of key
+app ecosystem control mechanisms. Mandating interoperability and open access means
+every third-party app that requests access to a digital marketplace could gain
+it, then inundate consumers’ devices with malware, scams, and data theft. There
+is also the challenge of securing proprietary information and intellectual
+property. The essence of “access” means removing the gating mechanism in the
+application interface that ensures a level of privacy and security for user data,
+leaving it open for third parties to steal.
+Are Russia and China the real winners in the end? While European regulations such as the DMA aspire to level the imaginary playing field of European tech companies, it is more likely that Chinese and Russian companies will develop third-party apps to transfer data and coding systems back to their countries.
+Strong security protects sensitive information and keeps unauthorized users from accessing data. All governments should be promoting preventative steps to reduce risks for platform networks and their valued users. Breaking down a successful company’s ecosystem and introducing harm to users should be considered a criminal act. Europeans’ lust for market share should not come at the cost of the successful digital economy that still has much innovation ahead. We should recognize the security and privacy risks the European regulatory approach brings, along with that approach’s economic harm to US companies. Sen. Amy Klobuchar’s (D-MN) anti–Big Tech legislation creates the same security and privacy risks, as Sen. John Cornyn (R-TX)
+noted
+during the bill’s markup.
+When asked “how the Biden administration should approach tech regulation,” author Larry Downes smartly
+responded
+, “With great care.” Regulation is a full-time industry in Europe; let’s not kill our engines of innovation by emulating Europe’s regulatory mindset.

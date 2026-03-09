@@ -1,0 +1,36 @@
+PAGE_TITLE: 
+	5G Wireless Is Finally Cleared for Takeoff | American Enterprise Institute - AEI
+
+By Shane Tews
+It looks like the aviation industry has finally committed the time and money needed to run the necessary interference tests regarding a change in spectrum use for fifth-generation (or 5G) wireless technology — and decided the alleged dangers they have been
+so
+vocal
+about aren’t actually problems after all. The Federal Aviation Administration (FAA)
+stated
+last week that 90 percent of commercial flights in the US have been cleared of any interference risk involving 5G wireless signals. Next up for approvals are smaller regional jets.
+via Reuters
+The problem all along seems to have been the FAA’s equipment clearance and approval processes around potential interference, not an actual change in 5G wireless technology — which is the product of remarkable innovation in wireless communications. “Yes, the aviation community knew it was a problem long ago, but that doesn’t matter now,” noted an article in
+Flying Magazine
+. Despite
+hyperbole
+that planes would fall out of the sky and the fact that interference testing is part of the FAA’s certification process obligations, it was not placed as a priority item for the aviation industry. Not to mention the FAA has been part of a multiyear interagency process regarding the change of spectrum use and plans for 5G wireless service to go live in December 2021.
+When the FAA finally decided to speak up, its concerns were centered on a technology that was integrated into airplane systems during World War II known as a
+radio altimeter
+. Today, some automated flight systems still use these older altimeters to determine the altitude and distance of the aircraft from other objects, most importantly the runway during low-visibility landings.
+According to
+reports
+citing airplane manufacturers themselves, including Embraer and Bombardier, it’s the smaller regional jets that still need to be tested for potential interference by the FAA. But regarding commercial flights, United Airlines CEO Scott Kirby
+commented
+, “While I wish it had happened earlier, the good news is that we now have everyone engaged: the FAA, DOT and those at the highest levels of the equipment and aircraft manufacturers, airlines and telecoms.”
+As former Federal Communications Commission (FCC) Chairman Tom Wheeler
+pointed out
+, the real question is who funds the aviation industry’s investment in upgrading the aging equipment, since the industry does not have
+official
+altimeter standards. As reported by The New York Times, Wheeler
+argued
+:
+The government could spend some of the $82 billion it received from selling 5G frequencies to the wireless companies; the wireless industry could be forced to pay additional fees for use of those frequencies; or the aviation industry could be forced to pay for the upgrades because it has long known that 5G was coming.
+While the FAA still needs to finish testing for smaller jets, the fact that 90 percent of planes are cleared to fly without 5G-related concerns is great news for everyone, especially for innovation in high-speed wireless internet delivery. For now, the concern about migrating spectrum use for superfast internet service and passenger safety due to altimeter interference during landing has been put to rest.
+Neither the aviation nor wireless industry took this concern lightly. Now, having done the proper tests of equipment used in landing procedures for at least commercial aircraft, the FAA’s green light to move ahead has shown this equipment can safely be used in areas where 5G wireless upgrades are being deployed. As a continued safety precaution, the wireless industry has agreed to
+buffer zones
+around 50 airports where aviation traffic encounters low-visibility landings and that may not have upgraded to more modern equipment to ensure they pass the FAA’s test for landings without interference. This, along with the technical rules the FCC has adopted, has brought the issue to a peaceful and safe agreement that will permit continued 5G deployment.

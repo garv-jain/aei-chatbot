@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	This Silent Plane Just Made History | American Enterprise Institute - AEI
+
+Two weeks ago,
+Boom Supersonic’s XB-1 demonstrator plane
+made history when it broke the sound barrier over the continental United States, reaching 750 miles per hour (Mach 1.12) near Barstow, California.
+You might be wondering why this is news. Since Chuck Yeager’s first sonic boom in 1947, thousands of military aircraft have broken the sound barrier. Even some civilian aircraft have done it: the Concorde, a supersonic passenger jet developed in the 1960s by the United Kingdom and France, made regular supersonic flights across the Atlantic Ocean, connecting cities like London and New York, Paris and Washington, D.C., at more than twice the speed of sound. But the Concorde, along with every other civilian jet, was only allowed to reach supersonic speeds over the ocean, far from land.
+What truly set XB-1’s supersonic flight over California apart was the fact that its sonic boom never reached the ground. Thanks both to its unique design features and to a physics phenomenon known as the Mach cutoff, Boom’s demonstrator
+managed to keep the boom undetectable
+by ground-level microphones placed along its flight path.
+The successful test flight validated the XB-1’s design principles, clearing the path for development of Boom’s ultimate goal: the Overture supersonic airliner. Designed to cruise at Mach 1.7, the Overture will accommodate from 64 to 80 passengers, depending on cabin layouts. Boom Supersonic hopes to conduct the Overture’s maiden flight in 2026 and to secure FAA certification as a specialized transport-category aircraft by 2029. Ticket prices will be steep; transatlantic round-trip fares are
+expected to reach $5,000
+.
+Media coverage of Boom’s groundbreaking flight was scant, and it missed the broader context, particularly the role of government in shaping the technology. Back in 1973, just as the Concorde was nearing commercial operation, the FAA
+issued
+a rule limiting speeds over land in U.S. airspace: “No person may operate a civil aircraft at a true flight Mach number greater than 1 except in compliance with conditions and limitations in an authorization to exceed Mach 1 issued to the operator under Appendix B of this part.” The briefly worded regulation had a profound effect on the evolution of aviation technology.
+The FAA’s restriction was largely prompted by the sheer volume of sonic booms. The shockwave caused by the Concorde breaking the sound barrier could regularly reach 135 decibels at ground level—enough to shake buildings or even shatter glass over a wide area. For years, it had been theorized that if an aircraft breaks the sound barrier at sufficiently high altitudes, the boom can arc back and avoid reaching the ground entirely. Boom just proved that the noise could be seriously dampened, and, in the process, undercut the rationale for the supersonic limit.
+Rather than imposing a speed limit in 1973, the FAA should have introduced noise-based regulations similar to those proposed by Eli Dourado and Sam Hammond in a
+2016 white paper
+. Such an approach would have created room for the incremental testing and refinement of supersonic aircraft.
+In 2018,
+Congress directed the FAA
+to take a new approach and “exercise leadership in the creation of Federal and international policies, regulations, and standards relating to the certification and safe and efficient operation of civil supersonic aircraft.” Yet the agency has dragged its feet, leaving modern supersonic efforts stuck in regulatory limbo that Boom has had to navigate.
+True, creating a viable commercial supersonic route across the U.S. would have been a tricky proposition for a time. The Concorde
+consumed four times the fuel
+of a typical jumbo jet to carry the same number of passengers the same distance. But jet engines and aerospace design have improved substantially since the Concorde’s last flight.
+The importance of supersonic travel is about more than just shortening flight times.
+Research shows
+that enhanced air connectivity is a significant driver of economic growth. A single daily flight on a conventional 100-seat aircraft can generate about 180 new jobs in local communities. Commercial supersonic travel has the potential to amplify these benefits, shrinking distances between innovation hubs and accelerating the exchange of ideas and talent.
+This matters greatly for America’s future, especially when polls consistently show that Americans are gloomy about what lies ahead. Exposure to technological breakthroughs like Boom’s tends to shift
+public sentiment toward optimism
+about our long-term prospects. Such innovations remind us of what American ingenuity can accomplish when given the chance.
+And let’s be honest: from the transcontinental railroad to the space race, Americans have always been driven by the need for speed. Helping more of us break the sound barrier is just the latest frontier.

@@ -1,0 +1,50 @@
+PAGE_TITLE: 
+	As Government Goes Digital During COVID-19, Cybersecurity Remains a Priority | American Enterprise Institute - AEI
+
+As the digital transformation of the economy and migration
+of society online have been forcibly accelerated by the COVID-19 pandemic,
+cybersecurity must remain a priority for policymakers. As I’ve written
+previously, a comprehensive federal cybersecurity strategy could help improve
+the cybersecurity of assets beyond the reach of the federal government, to the
+benefit of local governments, companies, and citizens.
+via Twenty20
+The Cyberspace Solarium Commission offers some solid ideas for the federal government in a new white paper titled
+Cybersecurity Lessons from the Pandemic
+. The commission’s discussion around new strategies for improving the security and resilience of US networks and making government processes related to cybersecurity more seamless are important to moving government processes and data to a more secure digital future.
+I do not agree with all of the commission’s recommendations,
+but I believe their recommendation to establish a US national cyber director is
+imperative. Taking this step would mark a major change in the power dynamics of
+cybersecurity and create jurisdictional battles, but they would be worth the fight.
+Federal departments and agencies have historically controlled and maintained
+their own independent information technology systems. The challenges of
+managing these separate assets and the threats they face are compounded by the
+variety of congressional committees that all want jurisdiction over the cyber
+assets that come with their policy territories. However, given the importance
+of digital assets and effective crisis management highlighted by the pandemic, having
+a strategic vision with an agreed-upon process for engaging the executive
+branch on cybersecurity issues would be a tremendous improvement over the status
+quo.
+The commission highlights the importance of digitizing critical services and incentivizing the adoption of secure cloud services for state and local governments, small businesses, and federal agencies. Modernizing government processes from legacy platforms has traditionally not been a priority. This has resulted in federal and state aid programs being “stressed to the brink of failure” during the pandemic. It’s time to catch up as the rest of the country goes digital.
+The commission also highlights that the government must
+anticipate the challenges that accompany a significantly larger workforce
+working from home and be able to ensure its resilience in the face of cyber
+threats. Corporations have a long history of managing an intense level of cyber
+threat activity with both intellectual property and valuable data at stake. As
+the government digitizes, laws that combat cybercriminal activities also need
+to be modernized to ensure that harmful online criminal activity can be dismantled
+swiftly and justice can be achieved for victims. This will require collaboration
+that goes beyond traditional law enforcement boundaries both domestically and internationally.
+
+
+
+
+COVID-19 has put a renewed spotlight on the importance of defending
+against cyberattacks and data breaches as more users are accessing data from
+remote or nontraditional locations. Corporations have long wrestled with risk
+assessment as a top priority but it has not been a key factor in how the US
+government has historically approached information technology and data. Strengthening
+the policies and governance around securing digital assets should be a priority
+going forward. The transformation of how the government uses information technology
+will be vital for ensuring the federal government can provide services
+effectively, that government workers are productive, and that the data citizens
+share with the government remain secure.

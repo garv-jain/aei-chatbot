@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	It’s Time for a Federal Privacy Law That Works in Today’s Digital Ecosystem | American Enterprise Institute - AEI
+
+Consumers often don’t understand how much data is collected on them or what businesses intend to do with that data. This may change soon if the bipartisan
+American Data Privacy and Protection Act
+(ADPPA)—passed by the House Energy and Commerce Committee in late July—is enacted into law this Congress. This legislation pursues new rules around federal regulation of consumer data collection and would create transparent, consistent, and accountable regulations for businesses that collect, use, and sell consumer data across the United States.
+via Adobe open commons
+Years of discussion around consumer data collection—often
+referred
+to as “privacy”—have not generated much-desired transparency around data collection—nor simpler terms-of-use language that consumers need in today’s digital economy. The ADPPA proposes a short-form privacy notice under which companies would summarize their data collection and processing policies to help consumers understand how their data is collected and why it is essential for the firm’s business model. Focusing on the transparency and accountability of collected data should be a priority for any entity collecting consumer data. Moving to simplified terms of use will help consumers understand the rules for each company that collects and uses their data.
+A consumer may not know when their data moves from the original source to a third party or what this third party does with the data. This lack of a control mechanism for consumers creates a lack of trust. The ADPPA would establish a data broker registry that requires the Federal Trade Commission (FTC) to establish a searchable central registry of data brokers (i.e., third parties). This would help build the baseline for data retention rules that give businesses guidance on how to operate in a transparent way, enabling more consumer confidence around the protection of their personal data by the companies that collect it. The legislation also proposes a “Do Not Collect” list at the FTC that is shared with all data brokers—such as detailed targeted advertisers—who must abide by a consumer’s request to not directly collect their information.
+The main roadblock to passing the ADPPA out of Congress is Sen. Maria Cantwell (D-WA), who opposes the legislation because she wants its private right of action section to immediately take effect upon passage. In an attempt to gain Cantwell’s support during the bill’s House Energy and Commerce Committee markup, a substitute amendment was
+agreed
+to that would allow private rights of action to commence two years after the bill’s passage, rather than after four years as initially proposed. Sen. Roger Wicker (R-MS) and Reps. Frank Pallone (D-NJ) and Cathy McMorris Rodgers (R-WA) have been more than willing to negotiate and meet Cantwell where she stands in a bipartisan, bicameral fashion.
+The private right of action issue is a constant concern for businesses, as it is a magnet for trial lawyers to bring frivolous lawsuits. As such, the legislation allows the guardrails of the FTC and federal courts to distinguish a first violation from patterns of neglect or recklessness by the collecting party, opening the door for a number of remedies. David Stauss and Shelby Dolen
+note
+:
+The ADPPA’s private right of action provides U.S. citizens with the opportunity to enforce their privacy rights but limits lawsuits to federal court and provides covered entities and service providers with mechanisms to mitigate the risk of such claims, including through the use of arbitration provisions and class action waivers.
+Unlike early privacy laws that focused on record-keeping systems by industry verticals such as banking and health care, this legislation would encourage all businesses that collect consumer data to invest in and prioritize data security. This would establish more trust between consumers and the companies they choose to do business with online.
+Better security principles should accompany any comprehensive privacy law going into effect. Cyberattacks remain
+a constant threat
+and increasingly involve consumer data, so strengthening security throughout the digital and device ecosystem should be a top priority. For example, there are
+growing concerns
+around non-US social networks using games and quizzes to scrape consumer data on social media sites, meaning personal data may flow outside the US into an unknown process. Having clear rules on data collection will ensure that internal controls comply with the ADPPA to address consumer safety.
+Privacy-enhancing
+technology tools that protect, not exploit, consumer data collection can also improve
+consumer confidence that their data is protected from abuse and criminal
+activities. The ADPPA rules would help give consumers more confidence in how businesses
+collect, use, and dispose of their data by giving them more safeguards from
+identity theft and greater privacy controls over the use of their information. Our
+current data privacy laws are outdated; ADPPA would help align them with today’s
+thriving digital ecosystem. It’s time to put a comprehensive framework for federal
+privacy regulation in place.

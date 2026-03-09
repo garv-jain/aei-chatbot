@@ -1,0 +1,86 @@
+PAGE_TITLE: 
+	Warranted Duplicity? Manipulating Information to Reveal Larger Truths and Advance Interests | American Enterprise Institute - AEI
+
+How far should watchdog organizations go to prove important, policy-affecting points and cut through media clutter in a head-turning, attention-grabbing fashion? Is it sometimes justifiable to artificially manipulate information to raise awareness of greater truths and overarching problems?
+Those questions arise when reviewing the federal court
+complaint
+filed November 20 by X (formerly Twitter) against
+Media Matters for America
+, a self-described “progressive research and information center dedicated to comprehensively monitoring, analyzing, and correcting conservative misinformation in the U.S. media.”
+According to the complaint’s allegations, Media Matters’
+November 16 story
+propagated a “
+specious narrative
+” that vastly overstates how frequently antisemitic, white-nationalist content appears on X next to advertisements paid for by Apple, IBM, and Xfinity. Why did X sue Media Matters for alleged
+interference with contractual relations
+,
+interference with prospective economic advantage
+, and
+product disparagement
+?
+Via Adobe Stock
+The complaint
+contends
+Media Matters created “a secret X account” and then
+manipulated [X’s] algorithms governing the user experience on X to bypass safeguards and create images of X’s largest advertisers’ paid posts adjacent to racist, incendiary content, leaving the false impression that these pairings are anything but what they actually are: manufactured, inorganic, and extraordinarily rare.
+Media Matters
+purportedly
+did this by setting its secret account to follow only 30 users, all of whom
+were either already known for posting controversial content or were accounts for X’s advertisers. That is,
+100% of the accounts
+Media Matters followed were either fringe accounts or were accounts for national large brands. In all, this functioned as an attempt to flood the Media Matters account with content only from national brands and fringe figures, tricking the algorithm into thinking Media Matters
+wanted
+to view both hateful content and content from large advertisers. (Emphasis in original.)
+When
+coupled with
+alleged “excessive scrolling and refreshing,” this led to “the false, misleading perception” that placement adjacency of ads and hate speech was “common, widespread, and alarming.”
+News stories
+about an alleged
+rising tide of hate speech
+on X since Elon Musk began helming it, including during
+the war between Israel and Hamas
+, are prevalent and have drawn X’s ire. The company recently
+took action
+against the
+Center for Countering Digital Hate
+(CCDH), an organization that provides figures advancing the increase-in-hate-speech thesis and the claim that X failed to remove many hateful posts “
+even after they were reported
+.” X
+sued
+the watchdog organization in federal court in July, alleging it used “cherry-picked, non-randomized data samples” and “flawed methodologies to advance incorrect, misleading narratives” that X “is overwhelmed with harmful content.” The CCDH, calling it a “
+ridiculous, baseless lawsuit
+,” recently
+moved to dismiss it
+.
+Assuming, however, for argument’s sake that some of X’s allegations targeting Media Matters’ and CCDH’s methodologies are true––a large assumption and something the
+discovery process
+should clarify if the cases progress that far––the question arises of whether such manipulations are nonetheless justified because they direct attention to a larger purported truth: X has
+an antisemitism problem
+.
+Manipulation in service of larger truths isn’t new. However, it usually doesn’t end well when journalists engage in it. In the early 1990s, NBC’s
+Dateline
+rigged a General Motors pickup truck
+to explode, as “
+part of a larger investigation into the safety of the automaker’s trucks
+.” After General Motors sued for defamation, the show’s hosts embarrassingly “
+read a 3.5-minute on-air apology to viewers and [General Motors]
+.”
+In 1980, the
+Washington Post
+published
+Janet Cooke’s
+story “
+Jimmy’s World
+” about a fictitious eight-year-old heroin addict in the District of Columbia. Jimmy was fake, but as a
+recent article
+noted, Cooke’s story ran “when the country was just coming to realize the depths of the heroin and freebase cocaine problem plaguing its inner cities. The article revealed the hard truth of children’s exposure to hard drugs.” But that larger reality didn’t ease the
+Post
+’s shame when the truth about Jimmy was revealed and the paper returned Cooke’s Pulitzer Prize.
+Angelo Carusone
+, president of Media Matters, calls X’s lawsuit “
+frivolous
+.” Yet, he seemingly embraced the larger-truth narrative in a recent
+MSNBC interview
+:
+X has been engaging, saying, ‘Hey, you know, we’re going to fix this. We’re ramping up our brand safety stuff.’ They’re the ones making claims that they are preventing or supposed to be preventing ads from running alongside, adjacent to this kind of extremist content. So it doesn’t really matter how we used it, how many times we hit refresh, ultimately the ads shouldn’t be there in the first place because that’s the standard that they’re setting.
+Balanced against ends-justify-means logic are the credibility and reputations of watchdog organizations seeking to hold businesses accountable. Today’s litigation may simultaneously expose how X polices content––if it really has an antisemitism problem––and reveal the trustworthiness of Media Matters and CCDH in generating their findings. Transparency from all parties is the best policy.

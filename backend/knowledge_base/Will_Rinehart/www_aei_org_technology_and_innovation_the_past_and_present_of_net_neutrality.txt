@@ -1,0 +1,98 @@
+PAGE_TITLE: 
+	The Past and Present of Net Neutrality | American Enterprise Institute - AEI
+
+Toward the end of this month, the Federal Communications Commission (FCC) will hold a vote to reinstate
+a set of rules
+for internet providers. Consisting of 434 pages and resembling a 2015 order passed during the Obama administration, the new rules are expected to pass given the makeup of the FCC. If enacted, broadband companies and other internet service providers will be prohibited from blocking and throttling content, as well as from engaging in paid or affiliated prioritization. In other words, broadband providers like Verizon FiOS and XFinity wouldn’t be able to charge or slow down content players like Google or Instagram a fee to run their service.
+All to say, network neutrality is back.
+For better or worse, I have a long enough memory and all the receipts to make the strong case that net neutrality is still a misguided notion. While some might try to convince you otherwise, what’s been at stake with net neutrality from the beginning is the FCC’s regulatory power. Congress has never passed a net neutrality bill, so the FCC has spent almost 20 years navigating through a maze of regulations and legal battles to firmly root the policy. Meanwhile, the courts have been skeptical. After all, agencies shouldn’t be able to stretch beyond their statutory authority.
+But I also feel vindicated in a way, having stood out as a longtime critic of net neutrality. Even without the rules that advocates have said are necessary to protect competition and bring about innovation, Big Tech emerged. In other words, we got the benefits of innovation without strict net neutrality rules in place.
+A very short history.
+All of this started in 2005, when Comcast began throttling peer-to-peer technologies like BitTorrent (BT) and Gnutella. It took
+another two years
+for the topic to break out when an investigation by the Associated Press revealed that Comcast was slowing down file-sharing applications without disclosing the practice to its customers.
+The
+facts of the inciting matter
+have never really been under dispute. Comcast didn’t implement a wholesale ban on BitTorrent. Rather the company applied
+a controversial traffic congestion
+method when users were uploading content. All network operators engage in network management practices, as my colleague Shane Tews
+explained recently
+. And Comcast was facing problems because BitTorrent was specifically designed to circumvent a common
+congestion mitigation technique
+. So Comcast applied a blunt management technique when BitTorrent overwhelmed upload queues. Eventually
+the two groups agreed
+to a solution.
+However, the nascent internet advocacy movement interpreted Comcast’s throttling as evidence the company was willing to shut down anything that could compete with cable TV. It was the opening salvo in a war that Tim Wu had predicted in his seminal article, “
+Network Neutrality, Broadband Discrimination
+.” In the coming decades, he predicted that regulators would need to decide between internet giants and “the public’s interest in a competitive innovation environment centered on the Internet.” The article made a name for Wu, who has since become
+one of the strongest advocates
+in the Biden White House to rein in tech companies. The article also gave the policy regime a name that has since stuck: network neutrality.
+The regulatory about-face.
+Regulators also took notice of Wu’s article. In 2005, the FCC adopted a
+policy statement
+that was a near copy of the tenets Wu had been advocating. Consumers were entitled “to access the lawful Internet content of their choice,” “run applications and use services of their choice, subject to the needs of law enforcement,” and “to connect their choice of legal devices that do not harm the network,” because all of the actions furthered innovation.
+Accordingly, after the throttling revelations were made public, the FCC issued an order censuring Comcast, starting the nearly 20-year regulatory battle over net neutrality. Comcast pushed back and took the agency to court, leading to the case
+Comcast v. FCC
+.
+The agency eventually lost
+in 2010 when the courts said that it lacked authority to determine the content delivery choices of internet providers.
+Although it is now somewhat lost to history, Comcast at the time was largely worried about the FCC upending its terms of service. Comcast offered tiers of service and banned residential consumers from running servers. Running BT effectively made residential consumers into servers, which was disallowed under the consumer tier service. On top of this, Comcast had just
+introduced a telephone service
+that ran through its network, and the company was experimenting with protocols to ensure its quality. At the time, one network engineer I talked to wondered aloud if Comcast was using this method of congestion control to ensure its quality. It was secondhand information, but it was convincing given the facts.
+After the courts struck down the censure and the FCC’s enforcement authority the FCC came back with a
+2010 order
+, which ratcheted up the restrictions and switched its legal tactics. The three-page policy statement from 2005 grew to 194 pages with the 2010 order. This time around, internet service providers had to be transparent, could not block a range of content and applications, and were prohibited from unreasonably discriminating in transmitting lawful network traffic. The resulting report and order was rooted in the notion that “broadband providers have the incentive and ability to limit Internet openness.”
+What’s interesting is that this new line was almost a complete inversion of what Wu had laid out previously. As he noted,
+Basic economic theory suggests that operators have a long-term interest coincident with the public: both should want a neutral platform that supports the emergence of the very best applications. However the evidence suggests the operators may have paid less attention to their long-term interests than might be ideal.
+It wouldn’t be the last time that the goal posts moved.
+The 2010 order was challenged by Verizon, again on perfectly reasonable grounds. Famously, Verizon and ESPN
+fumbled in 2006
+when they teamed up for a branded phone. But they wanted to try again, a fact which was directly mentioned in the
+oral arguments
+of the case. It was widely surmised at the time that such a project might trigger a network neutrality violation, as this
+2013 article
+from a respected telecom lawyer explains. When the courts did decide on the issue in
+Verizon v. FCC
+, the FCC again lost because of legal authority.
+So, in 2014, the agency went back and redrafted the rules for a third time. At first, the agency was working on rules that would have followed guidelines laid out in the
+Verizon
+ruling.
+But a viral segment
+on the topic by comedian John Oliver and a surprise announcement from the Obama White House
+that blindsided officials
+at the FCC compelled the agency into taking a much harder line.
+I’ll spare you the minutiae of communications law,
+which I have written about before
+, so here is the short of it: For decades, stretching back to
+the 1970s
+, the FCC regulated internet service and telephone service differently. Telephone service faced stringent rules under Title II while internet services were lightly regulated under Title I. The distinction is so fundamental that it was written into the Telecommunications Act of 1996. Indeed, just two years after its passage, Sens. John Kerry and Ron Wyden
+even wrote to the FCC
+to “make it clear that nothing in the 1996 Act or its legislative history suggests that Congress intended to alter the current classification of Internet and other information services or to expand traditional telephone regulation to new and advanced services.”
+But with
+its 2015 order
+, the FCC did away with this distinction and placed internet services under Title II regulation to support modified
+rules. It was another about-face. Gigi Sohn—who was once nominated for a commissioner position at the FCC and is now a staunch supporter of the current rule change—
+was clear in 2007
+that, “I don’t know anybody who is talking about going back to Title II … That is not what this debate is about.” The Electronic Frontier Foundation (EFF), another supporter of reclassification,
+warned
+years ago that the effort was sure to embolden the FCC and was probably a bad choice. But the EFF too had a change of heart.
+The reason the FCC is again adopting Title II-based rules is because the 2015 order was pulled after Trump’s election and after Ajit Pai was selected as chair of the FCC. Pai spearheaded the
+Restoring Internet Freedom Order
+, which is current law. This order mandated transparency for internet providers, pulled all content restrictions from 2015, and then
+set up an agreement
+with the Federal Trade Commission to protect consumers.
+Pai got death threats
+for a regulatory change that was both in line with communications law and ensured that consumers were protected.
+This move wasn’t a shot in the dark. Former FCC Commissioner Rob McDowell
+suggested this path
+in 2010, as did the Department of Justice in
+a 2007 filing
+. Personally, I think what the DOJ said back then is still true: “The FCC should be highly skeptical of calls to substitute special economic regulation of the Internet for free and open competition enforced by the antitrust laws.” Antitrust enforcers are the best equipped to protect innovation and consumers, so why not let them?
+And it bears repeating: Even without these rigid guidelines, Big Tech came into being. Innovation thrived without the need for strict enforcement of net neutrality rules.
+What’s fascinating looking back on this history is that network neutrality has never been a fixed policy. The goal posts were constantly shifting and expanding. In the end, this battle was never about protecting consumers—they were always protected by the antitrust authorities. Rather, net neutrality has always been a battle about the limits of agency action.
+But zooming out, I see net neutrality as one instance of a shifting landscape in the politics of technology.
+We are experiencing the birth of what we might call
+filter politics
+.
+Echo chambers, filter bubbles, Cambridge Analytica, Hunter Biden’s laptop, deplatforming, platform bias, cancel culture, and, yes, network neutrality are all about filtering, about
+information being withheld from the attention of other parts of the system. Our politics will have to come to terms with these profound adjustments in the coming years.

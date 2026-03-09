@@ -1,0 +1,79 @@
+PAGE_TITLE: 
+	Of Meta and Minors, Filters and Filings: An Uncertain Path Forward | American Enterprise Institute - AEI
+
+Meta faces a barrage of terrible publicity––from the
+Los Angeles Times
+,
+Wall Street Journal
+, and
+Washington Post
+to
+CNN
+,
+Fortune
+, and
+NPR
+––about its platforms’ design features that purportedly harm minors. Beyond the negative coverage, Meta’s appearance-altering image filters on Instagram are ensnared in litigation.
+Meta’s filter woes became clear with the
+late November release
+of a
+largely unredacted version
+of an
+earlier complaint
+filed by 33 state attorneys general. They
+assert
+that in April 2020, Meta CEO
+Mark Zuckerberg
+vetoed as “paternalistic”––contrary to “expert and Meta staff opinion”––a proposal to permanently “ban camera filters that simulated plastic surgery.” Zuckerberg’s veto allegedly came despite “concerns about the ‘severe impacts’ of these filters on users’ mental health,” including
+body dysmorphia
+and “unrealistic beauty standards.”
+The lawsuit contends that “as of October 2023, these filters remain available on Instagram.” It adds that “in addition to the plastic surgery filters, Meta offers other camera filters that it knows result in negative appearance comparison” and “persists in making beautification and other camera filters available to young users.”
+Via Adobe Stock
+Zuckerberg’s decision was first
+revealed in early November
+in an
+unredacted version
+of a different complaint
+filed by Massachusetts
+against Meta. Massachusetts is one of eight states, plus the District of Columbia, to sue Meta independent of the 33-state complaint.
+If one believes the allegations, then Meta knew the filters caused problems and did not––and continues not to––remedy the issue. That’s partly why the attorneys general are suing under their states’
+unfair and deceptive acts and practices statutes
+, as I
+explained earlier
+.
+Furthermore, appearance-altering filters are front-and-center in another federal
+complaint
+filed on behalf of hundreds of minors against ByteDance (TikTok), Google (YouTube), Meta, and Snap (Snapchat). In that case,
+a district court judge
+on November 14
+refused to dismiss
+design-defect claims targeting the companies for “making filters available to users so they can, among other things, manipulate their appearance.” Rejecting the platforms’
+First Amendment
+defense, the judge observed that the “plaintiffs assert the widespread use of such filters promotes unattainable beauty standards and facilitates social comparison, which combine to cause negative mental health outcomes for users, particularly young girls.”
+Amid this mounting litigation, Meta was one of
+more than 500 entities or individuals
+that filed comments
+in November with the
+National Telecommunications and Information Administration
+(NTIA). The comments came in response to the NTIA’s
+October request
+for “input and recommendations for consideration” by the Task Force on Kids Online Health & Safety.
+Created in May by the Biden administration
+, the task force is charged with “advancing the health, safety and privacy of minors online with particular attention to preventing and mitigating the adverse health effects of online platforms on minors.” One of the
+more than 20 questions
+on which the NTIA sought comments was: “What are the specific design characteristics that most likely lead to behavior modifications leading to harms or risks?”
+Meta’s comments
+, however, neither address this question nor mention image-altering filters. Instead, they articulate support for “federal legislation that puts parents in charge, requiring parental approval of app downloads for teens under 16 at the app store or operating system (OS) level.” Meta thereby shifts the burden to app stores and OS sellers to obtain parental consent and verify ages before minors can “download all apps other than general online services.” Meta also supports legislation requiring “industry to develop consistent age appropriate content standards across the apps teens use” and preempting inconsistent state laws.
+Meta’s proposal is laudable because it (1) recognizes that parents, not the government, must play the primary role in controlling their children’s app usage; (2) calls for industry-wide collaboration on establishing uniform standards for age-appropriate content that parents can understand; and (3) eliminates an inefficient and inconsistent patchwork of state statutes, thereby providing essential clarity and efficiency for businesses.
+Yet Meta missed an excellent opportunity to address head-on how it and the government should navigate appearance-altering filters. Meta’s comments profess a commitment to “
+safeguard[ing] teens’ well-being
+” and providing “age-appropriate experiences.” But perhaps Meta’s appearance-altering filters aren’t always age appropriate or well-being enhancing.
+Meta recently
+said
+it bans filters “that directly promote cosmetic surgery, changes in skin color or extreme weight loss.” That raises key questions: (1) What does “directly” mean, and what’s the difference between directly and indirectly promoting cosmetic surgery? and (2) What constitutes “extreme” weight loss and how does Meta define extreme versus non-extreme weight loss?
+Facebook’s
+community standards
+boast that “authenticity” is a primary goal: “We want to make sure the content people see on Facebook is authentic.” Similarly, Instagram’s
+community guidelines
+proclaim: “We want Instagram to continue to be an authentic and safe place for inspiration and expression.”
+Authenticity must be more than a buzzword. Meta’s authenticity commitments should extend to visual images minors create. Visual authenticity, not appearance-altering manipulation, might make Instagram a safer place for minors.

@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	Cybersecurity Concerns with QR Codes: Staying Safe in the Digital Age | American Enterprise Institute - AEI
+
+Quick Response (QR) codes, those black and white squares whose popularity surged with the rise of contactless interactions during the COVID-19 pandemic, from restaurant menus to parking meters, have become a convenient shortcut in our digital world. These codes now offer a simple way to access information with a quick scan from your smartphone. However, they are now a favorite tool for scammers and a potential gateway for fraud, making it crucial to understand the risks associated with these seemingly harmless squares.
+Via Adobe
+As we celebrate Cybersecurity Awareness Month, it’s important to understand how these square-shaped codes that offer a convenient way to access information, make payments, and interact with businesses also open new avenues for cybercriminals to exploit unsuspecting victims, as noted in the Federal Trade Commission
+consumer alert
+.
+Now is an excellent time to become more aware of the potential risks associated with QR codes, learn how to protect yourself from scams, and understand how QR codes are used for deception, creating fake codes that lead users to malicious websites or trigger malware downloads.
+Kushal Tantry, CEO of QR Code Developer, has
+identified
+six common QR code scams currently making the rounds. Let’s explore these scams and learn how to avoid falling victim to them.
+1. Parking Information and Payment Scams
+. One of the most prevalent QR code scams involves fake codes placed on parking meters or information signs. These codes direct victims to official looking websites designed to steal credit card information. The scam is particularly effective because people often hurry to pay for parking, especially during busy events or holidays. If you must use a QR code for parking, carefully check that the web address matches the expected website. Look for spelling or grammatical errors that might indicate a fraudulent site.
+2. Posters and Information Board Scams
+. Public spaces are prime targets for QR code scams. These scams often target tourists or locals seeking additional information about events or attractions. Fake codes on posters or information boards can lead unsuspecting individuals to malicious websites or trigger harmful downloads. Be wary of QR codes that appear to be stickers placed over existing codes.
+3. Social Media Message Scams
+. Social media scams often play on trust and may be disguised as part of trendy challenges or seasonal events. Hackers may compromise accounts and send messages containing malicious QR codes to the victim’s friends and family. If a message seems out of character or comes from a long-lost contact, verify its legitimacy by contacting the person directly through other means.
+4. Phishing Email Scams or “Click-jacking
+.” The Department of Homeland Security released this
+report
+last year to explain how scammers send emails with fake QR codes, often masquerading as communications from well-known retailers about failed transactions or special offers. These scams can be particularly convincing during the holiday shopping season. Treat QR codes in emails with the same caution as suspicious links. When in doubt, contact the company directly through their official website rather than interacting with the email.
+5. Physical Mail and Package Scams
+. Be skeptical of unsolicited mail containing QR codes, mainly if it uses urgent language or offers enticing rewards. If the mail claims to be from a company you recognize, verify its authenticity by checking your account on the company’s official website or contacting their customer service line.
+6. QR Code Scanner App Scams
+. While most smartphones can scan QR codes natively through their camera apps, some users may be tempted to download dedicated scanner apps. Cybercriminals exploit this by creating malicious scanner apps that install malware on victims’ devices, potentially compromising personal data and security. Use your device’s built-in QR code scanning capabilities whenever possible. If you must download a scanner app, use only official app stores. Be cautious of apps requiring extensive permissions or prompting significant updates immediately after installation.
+To recap, here are the basics:
+Always verify the source of a QR code before scanning it.
+Check the URL you’re directed to before entering personal information.
+Keep your device’s operating system and security software current.
+Be especially vigilant during busy holiday seasons and events when scammers may be more active.
+Trust your instincts—if something seems off, it probably is.
+As we embrace QR codes’ convenience, let’s also embrace the responsibility of navigating our increasingly connected world with a safety mindset. Stay safe, stay informed, and enjoy the benefits of technology without falling prey to those who would exploit it.

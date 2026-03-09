@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Empowering Job-Seekers and Workers in the Digital Age | American Enterprise Institute - AEI
+
+Much of the conversation about AI revolves around fears of job loss. However, there’s a compelling counter-narrative emerging—one that positions AI as a powerful ally of job-seekers and workers. As demonstrated in a recently published
+suite
+of AI tools for job seekers, AI has the potential to revolutionize the job search process and level the playing field for workers.
+Finding the right job can often feel like searching for a needle in a haystack, especially for recent graduates and those without extensive networks or professional guidance. AI job search and matching assistants like
+JobPal
+and
+Olivia
+by Paradox, as well as tools from companies like
+Google
+,
+LinkedIn
+,
+ZipRecruiter
+, and
+Eightfold.ai
+help simplify this process. These tools aggregate job postings from various sources and provide personalized recommendations, increasing the chances of finding a role that aligns with an individual’s skills and career goals.
+One of the most important aspects of job hunting is creating a resume that stands out to employers and passes through Applicant Tracking Systems (ATS). AI-powered resume builders like
+Rezi
+,
+Skillroads
+, and
+Jobscan
+are game-changers in this regard. These tools help job seekers optimize their resumes by identifying and incorporating keywords that resonate with employers and ATS.
+Interviews are another critical part of the job search process and, as such, often generate great anxiety. AI-driven interview preparation tools offer invaluable support. These platforms can help users conduct realistic mock interviews, providing them with feedback that refines responses and helps build “game-day” confidence. While ChatGPT and other LLMs can provide you with mock interview questions and help you polish your answers,
+Final Round AI
+and
+InterviewBuddy
+leverage multi-modal capabilities and can offer you more comprehensive feedback on your answers and communication abilities.
+One of the final hurdles in the job search process is negotiating a fair salary. AI-powered salary estimation tools offered by companies like
+Salary.com
+,
+Payscale
+, and
+Glassdoor
+offer accurate compensation data based on factors such as location, industry, role, and experience. These tools empower job seekers with the knowledge needed to negotiate salaries, ensuring they receive fair compensation for their work.
+As AI tools proliferate and improve, AI’s ability to empower workers is becoming more apparent. By improving job search, resume building, interview preparation, and salary negotiation, AI tools can significantly enhance workers’ career prospects. These tools are helping to democratize the job search process so that less experienced and resourced job seekers and workers have a more level playing field. Increasingly, AI is becoming a personal employment coach for everyone.

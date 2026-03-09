@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	AI and American Dynamism | American Enterprise Institute - AEI
+
+Last year, I published a report,
+The Age of Uncertainty
+, on the challenges in understanding and estimating the job and skill impacts of artificial intelligence. One of the big problems was how quickly expert estimates become outdated, not due to any fault on the part of the experts, but because of how rapidly AI is evolving. Two reports from the Brookings Institution—one from 2019 and another just last week—illustrate the fluid and unpredictable nature of AI development.
+The
+2019 Brookings study
+analyzed data from 1980 to 2016, using early computer and automation trends to estimate AI’s impact on 800 occupations through 2030. It warned that routine physical and cognitive tasks were the most vulnerable to automation, which would disproportionately impact rural populations. In other words, based on previous automation trends, the study forecasted a potential repeat of the automation shock that hit Midwest and South in the 1990s and early-2000s.
+Generative AI has since upended the assumptions of the 2019 paper. Brookings’ more recent publication,
+The Geography of Generative AI’s Workforce Impacts
+, argues the workforce impacts of generative AI will likely differ from previous technologies, since generative AI excels at cognitive, nonroutine tasks performed by office-based workers. Another key shift in perspective is a shift from “risk” to “exposure” or “involvement” with AI, suggesting that jobs incorporating AI into business processes aren’t necessarily at higher risk of job
+loss
+. In fact, based on the limited evidence we have thus far on the incorporation of AI into business workflows, greater implementation seems to be associated with
+increased headcounts
+.
+This isn’t to say that AI isn’t pressuring certain high-skill workers, including those who are
+suddenly competing
+with AI co-pilots for front-end coding work. Many have coding degrees or other credentials, but lack the education and experience for in-demand occupations like data science, systems architecture, and the application of AI more generally.
+This brings us to the other important point of the new Brookings paper relating to AI “geography”: The map below shows how the big urban centers along the East and West coasts have the greatest concentrations of AI exposure (along with the urbanized areas of the interior US) because these are the places where the bulk of the cognitive, office-based workforce lives.
+This geographic distribution of AI exposure allows for at least two somewhat contradictory conclusions. The first is that the relative exposure of information and knowledge workers on the coasts is good news for the regions of the country that lost jobs during the prior round of automation and trade impacts. We already automated a lot of the “muscle” work, the thinking goes, and now we’re automating the brain work. Other data supports this, showing that until robotics catches up with generative AI, physical work in sectors like
+construction
+,
+agriculture
+, and
+frontline health care delivery
+are relatively AI-resistant.
+There is, however, a less optimistic way of looking at the map. The areas of the country with relatively less exposure to AI may be at risk of falling further behind the coastal and urban AI hubs in terms of economic dynamism and opportunity. The agglomeration effects associated with high levels of AI deployment across metropolitan workforces are likely to accelerate economic growth in those areas. AI saturated regions workforces are more likely to experiment with the technology and learn from each other. Dynamism is viral.
+If AI isn’t widely used outside of urban centers, students and workers in those locales will likely be at a disadvantage in competing for good jobs in an AI-powered economy. A population with fewer AI-literate workers will also become less attractive for entrepreneurs looking for locations to start or expand businesses. Technological and skill stagnation might reinforce rural “brain drain,” as the most skilled and motivated students and workers continue to migrate toward metropolitan areas, further exacerbating rural population, education, and skills challenges. In such a scenario, those that “have” the benefits of AI will tend to get more, while those who “have-not” will see their opportunities further diminish.
+We certainly need to be concerned about possible AI-led displacement of college educated workers living in metro areas, and we need close monitoring of how coders, technical writers, and information management workers are navigating reemployment at the leading edge of AI adoption. Where AI causes job loss, a creative,
+flexible response
+to reskilling and retraining is necessary.
+At the same time, we also need to pay attention to AI adoption and use in nonmetropolitan areas, with an emphasis on encouraging AI education and training in schools, businesses, local governments, and community colleges. In doing so, we can help those at greatest risk of falling behind gain access to the opportunities this important new tech affords.

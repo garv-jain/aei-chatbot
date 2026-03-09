@@ -1,0 +1,41 @@
+PAGE_TITLE: 
+	The Case of TikTok and Lessons on User Data | American Enterprise Institute - AEI
+
+After President Donald Trump
+told reporters
+he would ban TikTok last Friday, many ruminated on how such a ban of the popular social media app could be implemented. To review, the wildly popular TikTok now has
+more active users
+than Twitter and Snapchat. The app has been
+downloaded
+1.5 billion times globally and 122 million times in the US. But the elephant in the room is the fact that TikTok is owned by ByteDance, a Chinese company.
+A smartphone displays the TikTok logo on an American flag – via Reuters
+By Monday, ByteDance had
+agreed
+to divest itself of the US operations of TikTok, but the path forward for a sale to an American buyer (likely Microsoft) and the way security concerns around the app will be resolved remain unclear.
+TikTok is an interesting case because its recent domination of the social media scene has been amplified by the millions forced to stay home due to COVID-19. People have turned to TikTok to pass the time and connect with others, watching and creating viral videos of various types.
+For most, the entertainment value and information flow offered by the app outweighs any potential concerns about China or national security. But it is worth reviewing the US government’s concerns about TikTok, because important policy issues are at play regarding how we use technology and who has access to user data online.
+The executive branch’s authority over TikTok hinges on The Committee on Foreign Investment in the United States (CFIUS), which is reviewing ByteDance’s 2017
+acquisition
+of Musical.ly (a Chinese app that merged with TikTok). Although CFIUS would not traditionally have the legal oversight to investigate one Chinese company’s acquisition of another, that Musical.ly was conducting interstate commerce in the US before its acquisition
+grants
+CFIUS the authority to investigate its operations. While watching dance videos may not seem all that “critical,” especially two years after Musical.ly was acquired, the data transfers that take place in the TikTok app’s operations and the transport layer of the communications network used by the app could be cause for concern.
+A key issue here is where TikTok shares its user data and who has access to users’ data and devices because ByteDance is a Chinese firm. Australia’s intelligence agency investigated TikTok over these concerns, with Australian politicians
+warning that
+TikTok “may be a data collection service disguised as social media.”
+Cybersecurity firm Check Point Research
+reported
+in 2019 that TikTok had vulnerabilities that could allow hackers to gain access to users’ accounts, manipulate content, delete videos, upload unauthorized videos, make private videos public, and reveal personal information such as email addresses. TikTok has said that the issues in the Check Point report were resolved by the end of 2019. To be fair, any nefarious actor could engage in criminal activities from anywhere: They need not be based in China or use only TikTok. But the report on TikTok gave the US military enough concern to
+bar military personnel
+from having the app on government-issued smartphones due to spying concerns.
+The Federal Trade Commission (FTC) has had its own concerns about how TikTok has handled information collected on its app. The FTC filed a complaint against TikTok over violations of the Children’s Online Privacy Protection Act (COPPA), saying it had illegally collected personal information from minors through Musical.ly. TikTok
+agreed
+to pay a $5.7 million settlement to the FTC in 2019. A
+class-action lawsuit
+was also filed against TikTok, alleging that the app collects information about minors’ “characteristics, locations and close contacts, and quietly sends that data to servers in China.”
+While it may be concerning that
+TikTok
+has access to its users’ contacts and can access their smartphone cameras, photos, microphones, location data, and more, many other apps can do this as well. This is a key part of what gives apps their value and allows them to function; it is also one of the reasons we need transparency and accountability as part of a federal privacy law. Users may be fine with all this information gathering by a company such as TikTok, but what happens when you download and use an app should be clear to all users.
+The FTC has encouraged trust through transparency since its mobile privacy disclosures
+report
+in 2013. While the TikTok case highlights the national security implications that can arise from an app, this is also a good time for smartphone users to consider the security of their data overall. It’s important that users understand how much information they may be divulging from all their apps and that the apps themselves are transparent about what data are created, stored, shared, or sold.
+TikTok has brought many concerns about data collection to light, but this is also an opportunity to encourage responsible behavior by all app developers and inspire good security practices by their users everywhere.

@@ -1,0 +1,101 @@
+PAGE_TITLE: 
+	Technology Policy at AEI: 2021 Highlights, 2022 Predictions | American Enterprise Institute - AEI
+
+2021 was a busy year in technology policy, to
+say the least. Our team was hard at work, continually assessing how the
+institute’s core values of enterprise, human freedom, and innovation fit into
+the digital world. Here are our scholars’ closing thoughts on the past year,
+along with predictions about what next year might hold.
+As always, if you enjoy our scholars’ work,
+subscribe
+to the TechPolicyDaily newsletter for commentary on today’s hottest technology policy issues — in your inbox daily by 9am. You can also follow us on Twitter @AEITech.
+John Bailey
+In 2021, COVID-19 disruptions continued to accelerate the implementation of artificial intelligence and automation technologies for corporations and new digital delivery of government services. Federal stimulus programs provided more than $75 billion in funding to address the digital divide, most of which will be spent in 2022 and beyond. I think we’ll see Congress advance legislation next year providing additional funding and regulatory flexibility for telehealth, particularly as a way of scaling mental health services to adolescents and young adults. I am also optimistic that the United States Innovation and Competition Act could pass out of conference next year. It passed the Senate with strong bipartisan support, and there is growing support to bolster the nation’s research & development infrastructure.
+Claude Barfield
+On 5G, the coming year will give us a better
+understanding of whether, or at what pace, Open Radio Access Networks will
+succeed in replacing existing internet technology systems. Second, on
+semiconductor factories (or “fabs”), despite extensive discussions, I predict
+the US and EU will proceed on separate paths. Third, the US and China will
+likely continue down the road of (erratic) “strategic decoupling.”
+Jeffrey Eisenach
+2021 was, unhappily, the year in which tech policy analysis was silent (or silenced) on the most important issue of the day — COVID-19. Empirical analysis was shunned in favor of the rule of a “scientific” elite whose diktats were as demonstrably wrongheaded as its analysis and predictions were repeatedly proven wrong. Let 2022 be a year of progress and freedom: progress in the field of evidence-based analysis and freedom in the open expression of same.
+Jim Harper
+Privacy had a sleepy 2021 relative to
+expectations. It has become a bit ritualistic to expect omnibus federal privacy
+legislation at the beginning of any new administration or Congress. That may be
+as it should, as the “privacy” issue lumps together a panoply of different
+human values and interests that aren’t amenable to a legislative “fix.” Federal
+legislation could relieve some enervating effects of regulations out of Europe
+and California, but my bet is against anything happening in 2022.
+Cryptocurrency had another banner year, with
+its lodestar, bitcoin (BTC), reaching another all-time high against the dollar
+and the total value of the ecosystem reaching $3 trillion in “market cap.” It
+will be a while before the idea of dollar-based market capitalization loses
+meaning because everything is priced in BTC, but those are the pretensions of
+some in this techno-econo-social juggernaut. I think the coming year will be
+like the last. Regulatory actions and occasional congressional hearings will
+continue roughly and imperfectly making sense of increasingly relevant
+blockchain-based systems.
+Bronwyn Howell
+2021 was a year in which Australia and New
+Zealand went in different directions from the US. Australia continued its legal
+pursuit of online content providers, with court judgements and proposed laws
+seeking to make the online publishers of offensive content liable for it, even
+if they did not contribute themselves. New Zealand persisted with the mandatory
+use of its QR code-based COVID-19 contact tracing app, even though active users
+are recording fewer than three codes per day and locations of interest recorded
+on it are no longer being broadcast in Auckland — the epicenter of the current outbreak.
+Developments regarding both in 2022 will be of great interest to US
+policymakers.
+Mark Jamison
+The past year has seen a number of antitrust
+initiatives against Big Tech firms. From new regulations in Europe, to new
+legislation in Congress and in state legislatures across the US, to advocates
+for breaking up Big Tech being appointed to positions in the White House and
+Federal Trade Commission, government officials are pressing for greater control
+of and greater fines on US tech leaders. As best I can tell, these advocates
+are set in their conclusions, so I expect them to be even more active in 2022.
+Daniel Lyons
+The
+Section 230 debate that dominated tech policy discourse in 2021 is showing no
+signs of slowing down, though the bipartisan push to regulate Big Tech may
+falter as Congress turns its attention to specific bills that are unlikely to
+please critics on both ends of the political spectrum. Meanwhile, the
+confirmation of a fifth commissioner at the Federal Communications Commission will
+reignite the debate about regulating broadband. This presents opportunities to
+highlight how a light-touch regulatory model allowed broadband providers to
+support Americans through an unprecedented pandemic and to examine market-based
+solutions to ongoing problems with access and affordability.
+Michael Rosen
+The past year in intellectual property
+policy included a vigorous debate over proposals to waive patent protections
+for COVID-19 vaccines at the World Trade Organization, a debate that’s likely
+to intensify during the coming year. Over on Capitol Hill, legislative efforts
+at patent reform (including to the eligibility regime) appear to be regaining
+some momentum. Looking ahead to 2022, we can expect Congress to begin marking
+up these proposals and for the US Patent and Trademark Office to weigh in under
+the leadership of a new director.
+Bret Swanson
+In 2021, social media robbed us of one of the
+internet’s greatest gifts — heterogeneous ideas which can make the world
+healthier, wealthier, and wiser. Censorship, for example, blocked access to
+eminent physicians and scientific studies showing (1) alternative strategies
+could replace the devastating mass lockdowns and (2) several cheap, abundant,
+long-approved generic drugs were remarkably effective against COVID-19. When we
+reduce the range of acceptable discourse, we concentrate risk and create
+catastrophic bubbles of groupthink — or worse. In the case of COVID-19, the
+result was millions of people damaged and potentially hundreds of thousands of
+lives needlessly lost. Policies to reinvigorate the promise of internet
+diversity can help. The real action, however, will come with the already
+underway entrepreneurial explosion of crypto, blockchain, and Web3.
+Shane Tews
+We are seeing blockchain, digital payment
+platforms, and artificial intelligence become mainstream drivers of the digital
+economy in the way that voice, data, and cloud have been driving the growth of
+mobile technology. We need to ensure our government officials see the
+importance of these changes and craft smart policies that enable growth, not
+stifle technology in the name of “competition.”
+Click
+here
+for more research on technology and innovation from AEI.

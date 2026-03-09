@@ -1,0 +1,15 @@
+PAGE_TITLE: 
+	America’s AI Action Plan: Analyzing the Strategy for Global Leadership | American Enterprise Institute - AEI
+
+VIDEO
+Event Summary
+On July 29, AEI hosted an event examining the Trump administration’s AI Action Plan and its implications for businesses, consumers, and national security.
+The panel, moderated by AEI’s John Bailey, began with initial reactions to the legislation before diving into its detailed provisions. AEI’s Will Rinehart analyzed impacts on data centers and AI infrastructure. The Brookings Institution’s Molly Kinder examined workforce implications and effective AI literacy training. The AI Verification and Evaluation Research Institute’s Miles Brundage assessed consequences for frontier AI models and proper red-teaming protocols. The discussion concluded by highlighting the plan’s overlooked yet impactful sections.
+The session wrapped up with an audience Q&A.
+—Kate Beinkampen
+Event Description
+After six months of development, the Trump administration released its comprehensive national AI Action Plan this week—a sweeping 20-page blueprint designed to “sustain and enhance America’s global AI dominance in order to promote human flourishing, economic competitiveness, and national security.”
+The administration’s plan is expected to emphasize deregulation as a tool to catalyze innovation while preserving America’s technological edge. Simultaneously, leaders must navigate complex societal and geopolitical questions to ensure AI’s benefits are widely shared and its risks responsibly managed.
+Join us as a panel of AI experts, industry leaders, and researchers will examine the plan’s potential impact on innovation, the economy, and society at large.
+Event Materials
+Event Transcript

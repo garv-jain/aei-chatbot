@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	The Rise of ‘so-so Automation’ | American Enterprise Institute - AEI
+
+If you watched any of the Tokyo Olympics, you might have noticed several
+cooler-sized cars
+whizzing around the Japan National Stadium. No, those were not remote-controlled mini vehicles; they were autonomous robots. Despite their size and shape, these robots were not delivering cold beverages to athletes. And despite their complex camera arrays, they were not filming the action. They were retrieving athletics equipment like balls, javelins, and other tools of the athletic trade.
+This was both fun to watch and a reminder of Japan’s continuing technical and engineering prowess. While these machines are of limited practical value at this point—they were not doing anything in Tokyo that human beings can’t do better and more cheaply—they are a harbinger of things to come. As technology displaces human labor, it can lead to what historian Yuval Noah Harari has called an
+“unworking” class
+—a subset of workers rendered redundant by robots. Critics of the Harari view counter that automation has consistently
+create
+d more jobs than it destroys, with new labor demands that we can’t yet imagine “hidden” inside innovation. As the shift from a manufacturing to an information and services economy has shown us, there’s some truth in both narratives. Neither, however, addresses the main challenge we currently face: a human capital base—the American workforce—that has fallen behind the pace of technological change.
+Harvard professors Claudia Goldin and Lawrence Katz traced this problem a decade ago in their book
+The Race Between Education and Technology
+. The shift from the farm to the factory as the primary employer of American workers was driven by, and in turn drove, the expansion of publicly funded high school education. Putting more kids in school dramatically increased numeracy and literacy, which helped meet the demands of an industrializing economy and encouraged further investment in education. This massive increase in basic education set off a century-long virtuous cycle of economic expansion and rising incomes, education, and skills.
+But in the 1970s, Goldin and Katz say, the cycle broke down as worker education and skills failed to keep up with technology. The education and skills slowdown has multiple sources. As I argued
+elsewhere
+, educational failure in the United States appears to have tracked closely with changes in family structure and all its attendant impacts on student readiness and performance, as well as long-term socioeconomic outcomes. More unmarried births and divorces mean fewer children getting the social, psychological, educational, and economic benefits of two-parent families. From this perspective, the nation’s human capital challenges are part and parcel of broader social trends that have only an indirect connection to technology or the economy.
+Economic
+literature
+since the 1990s has also pointed to a demand shift away from low-skilled labor. MIT professor Daron Acemoglu’s work links this change to various forms of automation. In a new paper that measures the impact of
+task-displacing automation
+, Acemoglu argues that some forms of technology improve the productivity of human laborers while others tend to read workers out of the labor market. For instance, GPS technology improves truck-driver efficiency, allowing more deliveries in less time and broadly raising economic productivity. Similar to the Olympic Field Support Robot, a self-checkout machine at a grocery store, on the other hand, eliminates one kind of routine work—a grocery clerk—and substitutes “free” labor from customers. This latter kind of automation, which we might call “
+so-so automation
+,” reduces but does not eliminate demand for low-skilled workers. Since between-firm competitive pressures force companies to reduce overhead by whatever means available, so-so automation is likely to proceed apace.
+What’s a displaced, low-skill worker to do?
+Returning to the grocery-store example, an automation-displaced cashier faces a steep climb to reskill for the new back-office IT jobs that maintain the automated checkout (not to mention the fact that one IT specialist can maintain multiple cash registers). Without time and resources to reskill, these workers tend to search for jobs better matched to their existing skill levels. As a result, wages erode over time for jobs made up of routine tasks as growing numbers of displaced low-skill workers compete for low-skill positions. It’s almost as if the virtuous cycle of education-skills-income that marked the American labor market in the twentieth century shifted into reverse: accelerating technological change driving more workers toward lower-skill jobs.
+Whether the challenge of low-skill employment is a “supply-side” problem emerging from changes to family structure and its impact on learning and work-readiness or a product of shifting demand relating to structural changes in the economy (in my view, it’s some of both), it has proven to be a stubborn problem.
+Much of our policy attention is focused on training and education strategies that equip workers with relatively narrow skills (e.g., certifications in advanced manufacturing technology) that tend to equip workers for only immediate market needs. The problem with this approach is twofold. First, the over-focus on technical skill training doesn’t match well to what employers say are
+their top workforce priorities
+, which are overwhelmingly concentrated in nontechnical domains. Second, by continuing to double down on narrow, technological credentials, we may be exacerbating the very problem we are trying to solve by equipping people with the same skills that are most exposed to the forces of technological change.
+An alternative approach is to step back and ask what “master skills” are required for workers to stay abreast of change and advance along career pathways. These skills come by a variety of names: “noncognitive,” “social-emotional,” “
+soft skills
+,” and “durable skills” among them. They include such capacities as communication, teamwork, critical thinking, and interpersonal skills. In “
+Minding Our Workforce
+,” a recent AEI volume I edited, a diverse group of scholars and practitioners delved into difficult questions about the origins, development, and remediation of noncognitive skill deficits. As we detailed in the book, acquiring these skills takes time, but they help cushion workers against sudden technological shifts, improve work readiness and workplace productivity, and aid advancement into higher-paying management and leadership roles.
+Of course, we need to avoid the trap of setting technical and noncognitive skills against each other. Both are prerequisites for finding, keeping, and advancing in good jobs, and the best employees are strong in both. In the current context, however, there’s an urgent need to redress an imbalance of political, policy, and cultural influences that pushes students and workers toward the technical domain while largely waving away discussion of critical noncognitive skill issues.
+Whether automation adds to productivity and raises incomes or simply improves firm profitability, there is no preventing it. (Just ask
+the Luddites
+.) Rather than fight technology or attempt to compete with it, we ought to be attending to human capital development—both technical and noncognitive—as the best way to reset the race between education and technology and restore the American economy as an engine of opportunity and prosperity for all.

@@ -1,0 +1,36 @@
+PAGE_TITLE: 
+	Are Choosy Workers Causing a Labor Market Stall-out? | American Enterprise Institute - AEI
+
+Each month, the US Department of Labor publishes its Job
+Openings and Labor Turnover (JOLT) report looking at where the jobs are in the
+US economy by sector. In the wake of April’s disappointing job creation and
+unemployment numbers, it’s helpful to compare where the job market was prior to
+the pandemic and where it is now. What this data shows is rampant demand in an
+already surprisingly tight labor market.
+The table below is a simplified version of the
+March JOLT survey
+compared to the same survey from December 2019. In the first survey, the open job rate (open positions as a percentage of total jobs) was 4 percent; in March 2021, it had risen to 5.3 percent. In yellow are the sectors where the change in the rate of unfilled jobs substantially exceeds the national average.
+Source: Bureau of Labor Statistics, US Department of Labor
+Mining and Logging
+As the grandson and nephew of loggers and log-truckers, it’s gratifying to think that the depressed timber towns of the Pacific Northwest might be benefiting from rising incomes
+funded by urban DIYers
+. At the start of the pandemic, the forest products industry underestimated demand and closed mills. Getting them reopened, much less expanded, will take time.
+Manufacturing
+Open manufacturing jobs have almost doubled since March 2020. Pent-up, stimulus-driven demand has factories behind and trying to ramp up quickly. This effort runs up against a
+multi-decade shortage
+of skilled and trained manufacturing workers. In this recovery, the imbalance seems to be going critical.
+Leisure &
+Hospitality
+Service jobs were
+first to go
+early in the pandemic — driven more by the public’s decision to isolate than state and local closure orders — and businesses are struggling to find the staff they need to reopen. Employers are boosting wages and resorting to other incentives, including “
+interview bonuses
+” to coax potential workers back to jobs. The comparatively low wages in parts of this sector relative to the current unemployment insurance have likely increased work hesitancy. But it is also true that workers in this sector have disproportionately suffered the worst effects of COVID-19. Line cooks, for instance, had some of the
+highest COVID mortality rates
+of all worker categories. Caution, not just work avoidance, may be an issue.
+Long-term labor market dynamics may be the most under-appreciated aspect of the jobs problem. The chart below shows the number of unemployed workers per available job. At the peak of the Great Recession, there were about 6.5 unemployed workers per job opening, which fell to less than one worker per available job in March 2020. Currently, there’s just 1.2 unemployed per available job, making this a seller’s market for labor. Reducing or eliminating emergency unemployment programs will drive more low-wage workers back to jobs, but, short of an increase in the nation’s
+anemic labor force participation rate
+, it is unlikely to fix what looks like a
+chronic shortage
+of human capital.
+Source: Bureau of Labor Statistics, US Department of Labor

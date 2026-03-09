@@ -1,0 +1,110 @@
+PAGE_TITLE: 
+	Playing the Social Media Blame Game: Lawsuits and Legislation Everywhere | American Enterprise Institute - AEI
+
+Reviewing 2023 headlines, it’s clear that social media platforms are today’s whipping boy for almost any ill purportedly plaguing America. When problems arise—
+misbehaving school children
+,
+minors’ mental health issues
+, the
+spreading of false information
+and
+hate speech
+, or
+a horrific mass shooting
+—
+lawsuits
+and
+legislation
+targeting platforms inevitably follow. That’s bad news for business, consumers, and free expression.
+Fueling the fire, President Joe Biden invoked the “B” word (Big, as in Big Tech) nine times in a January
+op-ed
+, contending that “millions of young people are struggling with bullying, violence, trauma and mental health. We must hold social-media companies accountable for the experiment they are running on our children for profit.”
+Via Adobe Stock.
+The examples above of this finger-pointing phenomenon indicate eagerness from the government (
+public schools
+included) and some citizens to pin responsibility on (and seek money from) platforms for others’ actions and complex societal woes. One
+law firm
+even specializes in suing social media companies, using
+products liability theories
+to try to dodge
+First Amendment
+free-speech issues and evade statutory safeguards afforded to platforms for third-party content under the law called
+Sec
+tion 230
+. Briefly, they claim that the design of platforms’ content-recommending algorithms is responsible for harms people supposedly suffer, not the content that others post. Products liability and negligence theories
+failed
+against the video game industry when it was
+blamed for real-world violence
+.
+The blame-game framing often involves highly sympathetic people (minors and families of the deceased) against deep-pocketed (see Biden’s recurring usage of “Big Tech” to unsubtly pound that point) private enterprises. Those businesses are the same ones
+billions
+freely choose to use to speak and access speech by connecting with friends, reading news, and watching videos. The president’s op-ed failed to mention the First Amendment.
+A timely, related
+blame-social-media issue
+involves hate speech,
+misinformation
+, and the presence of violent images on platforms following Hamas’s attack against Israel. X (formerly Twitter) and
+TikTok
+are bearing
+the brunt
+of
+criticism
+. Lawmakers predictably express over-the-top
+outrage
+. Yet, as AEI’s
+Samuel J. Abrams
+recently
+wrote
+, social media has exposed reality, “vividly captured horrors and atrocities committed against the Jewish people by Hamas.” Additionally,
+Meta
+is
+aggressively
+“removing praise and substantive support for Hamas from its platforms.”
+Then there is public-school
+litigation
+seeking “financial support for the needed increase in mental health resources at schools.” The
+gist
+of these
+cases
+is that allegedly addictive social media applications cause minors mental harms (depression and anxiety) that teachers, in turn, must confront in the classroom. A law firm representing school districts around the country
+contends
+that defendants, including Meta, Snap, TikTok, and YouTube, “contribute to the youth mental health crisis through [their] algorithms, their marketing approach, and their business strategies.”
+Cynically viewed, the school-district plaintiffs view the platforms as lottery-ticket money trains rolling through town, just as some
+benefited
+from the
+Juul settlement
+. Furthermore, any buck-stops-here sense of parental or guardian responsibility for their minors’ online activities is missing from the schools’ narrative. More charitably, as trade association
+NetChoice
+asserted
+in response to
+Seattle Public Schools’ lawsuit
+, “It’s clear from the complaint that this suit is about finding a scapegoat for our problems instead of schools trying to teach kids how to better operate online.” In short, the government (public schools) already possesses the ability to address societal woes through digital literacy education. Such programs can also help people
+better sort out misinformation
+, although they might not prevent them from sharing it.
+Finally, there’s the horrific,
+hate-motivated mass killing
+of 10 Black people by an 18-year-old white man at a Buffalo supermarket in May 2022. Payton Gendron
+pleaded guilty
+the past November to “murder, murder as a hate crime, and hate-motivated domestic terrorism” and was
+sentenced
+this February to
+life in prison
+without possible parole. At his sentencing, Gendron
+said
+he “believed what [he] read online and acted out of hate.”
+That assertion—linking online
+speech
+consumption to murderous
+conduct
+—provides the
+entrée for lawsuits
+seeking monetary damages from social media companies, blaming them for Gendron’s rampage. A
+complaint
+, filed in May on behalf of a survivor and the families of three people Gendron killed, contends that defendants (Amazon, Google, Meta, Reddit, and YouTube, among others) “drew Gendron down a rabbit hole of increasingly racist and antisemitic sites, indoctrinating him in white supremacist replacement theory and violent accelerationism” and took “full advantage of the incomplete development of Gendron’s frontal lobe.”
+Another lawsuit
+was filed in August on behalf of
+people who witnessed
+the shooting.
+These matters involve shifting responsibility and misattributing causation. The government (public schools through lawsuits; legislators via statutes) and, plaintiffs’ attorneys foist responsibility on platforms for harms caused by individuals (Gendron, for example) or, like anxiety and depression, by myriad variables (as I earlier
+described
+regarding a federal effort to regulate minors’ access to online content).

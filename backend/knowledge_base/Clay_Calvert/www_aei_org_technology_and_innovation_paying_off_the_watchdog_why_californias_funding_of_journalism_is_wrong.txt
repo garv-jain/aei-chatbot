@@ -1,0 +1,82 @@
+PAGE_TITLE: 
+	Paying Off the Watchdog: Why California’s Funding of Journalism Is Wrong | American Enterprise Institute - AEI
+
+California officials took a public relations victory lap month upon reaching
+an agreement
+with Google under which a combination of state taxpayer dollars and financial contributions from the technology giant will
+finance
+a “News Transformation Fund” to “support California-based state and local news organizations.” Governor
+Gavin Newsom
+called it
+“a major breakthrough in ensuring the survival of newsrooms and bolstering local journalism across California.” State Assemblymember
+Buffy Wicks
+hailed
+the deal as “empowering local news outlets up and down the state to continue in their essential work.”
+The compact was brewing for more than a month, with Techdirt
+reporting
+in early July that Google had proposed a “$30 million contribution to a fund for journalism.” Ultimately, as
+reported
+by CalMatters, Google will deposit $55 million and California will contribute $70 million to the News Transformation Fund over a five-year period, with the
+University of California Berkeley School of Journalism
+administering it.
+Adobe Stock (c)
+The reality is that the agreement shelved enactment of a likely unconstitutional (and certainly litigation-bound) piece of amended legislation––
+Assembly Bill 886
+, the California Journalism Preservation Act (CJPA)––that Wicks
+introduced
+some 18 months ago.
+Pro-business and major tech stakeholders
+, including Google, had vigorously
+lobbied
+against it.
+The CJPA, which
+passed
+California’s
+Senate Appropriations Committee
+on August 15, attempted to compel extremely large online platforms (think Google and Meta’s Facebook) to pay “
+digital journalism providers
+“ when the platforms link to (including during search engine results) the providers’ news stories. The measure also
+barred
+platforms from blocking “access [to] content or changing the ranking, identification, modification, branding, or placement of the content of the digital journalism provider” if the provider sought CJPA funds from the platforms.
+The latter compelled-speech, must-carry provision is likely unconstitutional after the
+US Supreme Court’s
+July decision in
+Moody v. NetChoice
+. A majority of the justices recognized that online platforms “receive the First Amendment’s protection” of “editorial discretion” when they “make choices about what third-party speech to display and how to display it.”
+Flexing its information-gatekeeping muscles against the CJPA, Google earlier this year
+reportedly
+tested a process of removing some news links for California users. As the Associated Press
+put it
+, Google’s test “acted as a threat should the state Legislature pass a law requiring the search giant to pay media companies for linking to their content.” Google and
+Facebook
+reportedly had done
+something similar
+to counter such
+legislation in Australia
+.
+All of this plays out against a deteriorating journalistic landscape in which some individuals and news organizations blame Google and Meta for
+local journalism’s dire straits
+. As
+Courthouse News Service
+editor Bill Girdner
+stated
+when commenting on California’s agreement, “The fundamental problem in news publishing today is Google’s complete and total domination of the advertising market” and that “the news publishers that provide the grist of the search engine’s mill receive next to nothing from that enormous advertising income.” A
+union
+for journalists
+dubbed it
+an “undemocratic and secretive deal with one of the businesses destroying our industry.”
+Google denies responsibility for journalism’s current woes. As Google’s Jaffer Zaidi
+wrote
+in April when criticizing the CJPA, “[b]y helping people find news stories, we help publishers of all sizes grow their audiences at no cost to them.” He added that Google has “provided substantial support to help news publishers navigate the changing digital landscape and innovate. We’ve rolled out Google News Showcase, which operates in 26 countries, including the US, and has more than 2,500 participating publications.”
+Finger-pointing aside, and stipulating that journalism plays a vital role in a democratic society, the California agreement raises larger public policy questions of whether state governments should (1) be in the business of using taxpayer dollars to save local journalism and (2) strike deals with a single powerful private entity––not a broad cross section of the industry in which that entity operates––to fund journalism. As
+TechCrunch
+noted
+regarding the latter issue, “Google is the sole tech company participating” in funding.
+The first question affects the
+watchdog role
+or
+Fourth Estate
+function the press plays to expose government abuses of power. It requires significant separation between the government and the press. If journalism organizations depend on the government for cash infusions, will the watchdog stop barking and eventually become a passive lapdog? Journalists will deny the possibility of censoring negative news about government entities, but the watchdog might not risk biting the hand that feeds it. The second question raises the issue of whether journalists might go easier in their reporting on the one company that funds them and harder on others in the same business sector that don’t.
+California should have considered these problematic possibilities before entering a face-saving, taxpayer-handout deal that warded off a flawed law Wicks
+acknowledged
+“was going to spend five years in the courts being litigated.”

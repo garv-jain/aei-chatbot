@@ -1,0 +1,40 @@
+PAGE_TITLE: 
+	Searching for (AI) Safety | American Enterprise Institute - AEI
+
+This year saw a new battleground in data regulation open with California’s
+Senate Bill (SB) 1047
+, which passed the California State Legislature but was ultimately vetoed by Governor Newsom. SB 1047 can be called the first AI safety bill. AI safety is a nascent field of study that is focused on ensuring that artificial intelligence systems operate as intended and do not cause harm to humans or society.
+Created with generative AI
+SB 1047 had several shortcomings. It likely
+violated the First Amendment
+and the Stored Communications Act, it was built on the notoriously
+wonky concept of reasonableness
+, and one
+version of the bill required rate regulation
+. But setting aside these issues, SB 1047 seems to be built on the belief that the proper safety measures
+could be chosen by a government committee
+.
+Aaron Wildavsky in his seminal work,
+Searching for Safety
+, explains why this approach has limitations. On the very first page, he writes,
+To those who see safety as a goal we know how to achieve, the task of decision making is simple: choose the safer path. There is no need to look further, since we already know what to do; no act designed to secure safety could have the opposite effect. Imagine instead, however, safety as largely an unknown for which society has to search. An act might help achieve that objective, or it might not. Often, we would not know which, safety or danger, had in fact been achieved until afterwards.
+Wildavsky was a pioneer in safety studies. He believed that the core of safety lies in mastering how we think about risk. To this end, Wildavsky outlines three strategies for tackling risk that he believes should be more central in AI safety conversations. They include the principle of uncertainty, the axiom of connectedness, and the rule of sacrifice.
+The outcomes of today’s decisions, and the surprises of tomorrow, will always carry uncertainty. All decisions must be made assuming the principle of uncertainty. As Wildavsky put it, “Although some uncertainties may be reduced under some circumstances, a modicum of uncertainty is a universal condition.”
+The economist Tyler Cowen made a similar point
+when he wrote
+,
+Existential risk from AI is indeed a distant possibility,
+just like every other future you might be trying to imagine
+.
+All the possibilities are distant
+, I cannot stress that enough. The mere fact that AGI risk can be put on a par with those other also distant possibilities simply should not impress you very much. (Emphasis in the original).
+Wildavsky’s second approach to risk, the axiom of connectedness, deserves a central place in AI safety debates. The axiom is simple: safety and danger coexist in the same objects and practices. As he explained,
+The good and the bad (safety and harm) are intertwined in the same acts and objects. There may be unalloyed goods (though I doubt it) but, if so, they are few and far between. Take the two principles together—uncertainty cannot be eliminated and damage cannot be avoided. This combination stipulates the conditions (old risks cannot be reduced without incurring new ones) under which the question of how to increase safety should be considered.
+Wildavsky rightly acknowledges that “the search for safety is a balancing act,” but “if the safety we seek is ineluctably bound up with the danger that accompanies it, more harm than good may be done by efforts to avoid risk.”
+When the principle of uncertainty is combined with the axiom of connectedness, it leads to Wildavsky’s third strategy, the rule of sacrifice. The “macrostability of the whole [is] dependent upon the risk taking or instability of the parts.” After introducing the concept, Wildavsky makes it clear what he doesn’t mean,
+Does risk in the human context mean that specific individuals must give up their lives or limbs for a collective entity? No. It does mean that if the parts of a system are prevented from facing risks, the whole will become unable to adapt to new dangers.
+Adopting these three strategies to the AI safety debate leads to three observations:
+Uncertainty will always linger. We can’t eliminate the unknown, whether it’s the ripple effects of our actions now or the surprises we can’t predict.
+Safety cannot be chosen, it has to be searched for, and the search for safety is inexorably linked to AI progress. In other words, AI progress cannot be decoupled from AI safety.
+Allowing parts of a system to face risks is essential for resilience, making open-source AI a cornerstone of any AI safety strategy.
+Wildavsky reminds us that true safety isn’t achieved through top-down mandates or preordained solutions. It’s a continuous process of grappling with uncertainty, embracing the intertwined nature of risk and reward, and fostering resilience through measured risk-taking.

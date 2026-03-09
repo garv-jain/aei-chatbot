@@ -1,0 +1,63 @@
+PAGE_TITLE: 
+	Why the Supreme Court’s Rulings on the First Amendment Rights of Social Media Platforms May Be Narrow | American Enterprise Institute - AEI
+
+Have you ever begun a major project, gotten deeply into it, and then realized you might not know enough about it––might not understand some key information and details––to successfully complete it? Or have you ever tried assembling, maybe late on a Christmas eve, a complex toy train set and then discovered some crucial parts were missing, batteries weren’t included, and the instructions were incomprehensible?
+Some justices on the
+US Supreme Court
+expressed similar frustrations on Monday during oral arguments in two
+First Amendment
+cases––
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+––that could resolve how much power the government has to dictate the content on social media platforms. As I explained
+earlier
+, the cases center on Florida and Texas statutes “that force platforms to host content and users against their will and individually explain content-removal decisions,” thereby interfering with “platforms’ editorial control and autonomy to create, maintain, and evolve the speech-based communities they desire.”
+Via Adobe
+There’s nothing I’d like better than for the Court to deliver a full-throated First Amendment victory for the platforms and a home-run triumph for the right of private enterprises to control their speech-centric businesses, free from government compulsion. Unfortunately, after listening to nearly four hours of arguments and reviewing the transcripts in
+Moody
+and
+Paxton
+, I don’t believe that’s likely to happen when the Court issues its rulings (probably in June).
+What’s more likely is for the Court to do some combination of the following: 1) leave in place the current lower court injunctions blocking enforcement of Florida’s and Texas’s statutes (a temporary victory for the platforms); 2) strike down the statutes to the extent their content-moderation mandates affect what Justice Amy Coney Barrett
+called
+“classic social media sites” like Facebook, X, and YouTube (a clear victory for such platforms); 3)
+certify questions of statutory interpretation
+back to the state supreme courts of Florida and Texas regarding whether the statutes also apply to the likes of messaging services like
+WhatsApp
+and e-commerce sites and services
+Etsy
+and
+Uber
+; and 4) send the cases back down to the lower courts to more fully develop, via discovery, a factual record about the statutes’ respective applications.
+The good news? The votes seemingly exist to strike down Florida’s and Texas’s content-moderation mandates, especially as they apply to the likes of Facebook, X, and YouTube. The questions and comments from Chief Justice John Roberts and Justices Brett Kavanaugh, Elena Kagan, and Sonia Sotomayor indicate they would go that way. All that’s needed, then, is for one other justice to join them (very likely Barrett or Ketanji Brown Jackson, or perhaps Neil Gorsuch, but not Samuel Alito or Clarence Thomas). So, what’s the hesitancy about in delivering a sweeping pro-business, pro-First Amendment victory and striking down the statutes in their entirety?
+It boils down to the procedural posture of both cases as
+facial challenges
+, not
+as-applied attacks
+, to the states’ statutes to block their enforcement before taking effect and how, in turn, that left some things unclear, at least to some justices. This sounds like legal minutiae, but it could play an outsize role in the Court’s rulings. That’s partly because, as
+one article contends
+, the Roberts Court long ago expressed “its resistance to facial constitutional challenges and preference for as-applied litigation.”
+A facial challenge attacks a statute on its face––by its text and terms, standing alone, rather than as a statute was applied to a specific plaintiff in a specific factual scenario. As such, and in the pre-enforcement, facial-challenge context, there is no factual record demonstrating how lower courts
+have
+“construe[d] the law in the context of actual disputes.” The justices, in
+turn
+, “must be careful not to go beyond the statute’s facial requirements and speculate about ‘hypothetical’ or ‘imaginary’ cases.”
+Justices Alito and Thomas––Thomas penned the language quoted immediately above in
+a 2008 majority opinion
+––seemed particularly concerned in
+Moody
+that there was no “record” from the lower courts showing, in Alito’s words, either “a list of all of the platforms that are covered by the Florida statute” or “a list of all of the functions that those platforms perform.” In short, they profess not having sufficient facts about the statute’s scope to decide if it has the requisite “
+plainly legitimate sweep
+” for rebuffing a facial challenge. Thomas and Alito also seemed receptive during oral arguments to the states’ unified position that platforms should be treated as common carriers like telegraph and telephone companies, not as First Amendment speakers like
+newspapers
+or
+parade organizers
+.
+Ultimately, the likelihood of narrow rulings in
+Moody
+and
+Paxton
+tracks, as I wrote
+elsewhere
+, minimalistic decisions by the Roberts Court “in multiple cases over the years, affecting the development of various First Amendment doctrines.” The big-picture, pro-business victory eventually should come; it just might take a little longer to get there.

@@ -1,0 +1,66 @@
+PAGE_TITLE: 
+	The Benefits of Playing Small Ball and Other Observations About Social Media Litigation at the Supreme Court | American Enterprise Institute - AEI
+
+The US Supreme Court’s 2024 rulings involving social media platforms and
+First Amendment
+issues provided fodder for earlier posts drilling into matters such as
+the right to listen
+and Justice Amy Coney Barrett’s prominent role as
+a tech-savvy jurist
+. This post, concluding my review of
+Lindke v. Freed,
+Murthy v. Missouri
+, and
+Moody v. NetChoice
+, offers three observations.
+The Benefits of Playing Small Ball
+. In
+Moody
+, the Court expressed disdain for plaintiffs filing sweeping facial challenges––attacks claiming all of a statute’s applications are unconstitutional based on its text––against laws restricting how platforms moderate content. A central problem is that new technologies are complex, involving different functionalities and applications, despite lawmakers broadly lumping them together. The Court prefers incrementalism when developing its jurisprudence for evolving communication technologies.
+Delivering the Court’s opinion in
+Moody
+, Justice Elena Kagan bluntly
+wrote
+that “NetChoice chose to litigate these cases as facial challenges, and that decision comes at a cost. For a host of good reasons, courts usually handle constitutional claims case by case, not en masse.” She explained that facial challenges require justices to speculate about a “law’s coverage and its future enforcement” without having a factual record to know how it actually is applied in practice. Although disagreeing with much of Kagan’s opinion, Justice Samuel Alito aligned here,
+writing
+in a concurrence that “NetChoice contends that the Florida and Texas statutes facially violate the First Amendment, meaning that they cannot be applied to anyone at any time under any circum­stances without violating the Constitution. Such challenges are strongly disfavored.”
+Daniel Lyons
+explained
+that an “‘as-applied’ challenge, which asserts only that a particular application of the law is unconstitutional,” is the preferred methodology. As I
+wrote
+earlier when unpacking oral arguments in
+Moody
+and the related case of
+NetChoice v. Paxton
+, as-applied challenges examine how “a statute was applied to a specific plaintiff in a specific factual scenario.” They are far less speculative and sprawling than facial challenges.
+Speaking of sprawling, the benefits of plaintiffs playing small ball against the government are also raised by
+Murthy v. Missouri
+, in which a six-justice majority concluded that the plaintiffs (Missouri, Louisiana, and five individuals) lacked
+standing
+to challenge the Biden administration’s censorship-by-proxy campaign of
+jawboning
+platforms to remove conservative-leaning content. Writing for the majority, Barrett called the litigation “sprawling,” adding the Court had “to untangle the mass of the plaintiffs’ injuries and Government communi­cations.” Ruling against the plaintiffs, she concluded by
+writing
+:
+The plaintiffs, without any concrete link between their injuries and the defendants’ conduct, ask us to conduct a review of the years-long communications between dozens of federal officials, across different agencies, with different social-media platforms, about different topics. This Court’s standing doctrine prevents us from “exercis[ing such] general legal oversight” of the other branches of Government.
+One gets the feeling that if the plaintiffs hadn’t swung for the fences against everyone from President Joe Biden to lower-level White House officials to Surgeon General Vivek Murthy, the Centers for Disease Control and Prevention, and the FBI, things might have gone differently. Concentrating on two or three defendants and their communications with platforms not only would have streamlined the facts, but allowed greater judicial focus on the ones best militating for standing. I’m sympathetic to the plaintiffs against government officials’ strong-arm, behind-the-scenes censorial tactics of but plotting a pinpoint litigation strategy is essential to bring a case in the first place––to have, in other words, standing.
+Best Assertion for the Platforms
+. Although Alito
+lumped it
+together with other assertions Kagan made in
+Moody
+as “nonbinding
+dicta
+,” she was joined by five other justices in expressing it. Boding well for the First Amendment rights of paradigmatic social media platforms, Kagan
+wrote
+that Texas’s statute:
+prevents exactly the kind of editorial judgments this Court has previously held to receive First Amendment protection. It prevents a platform from compiling the third-party speech it wants in the way it wants, and thus from offering the expressive product that most reflects its own views and priorities. Still more, the law—again, in that specific application—is unlikely to withstand First Amendment scrutiny.
+In brief, the Court told the US Court of Appeals for the Fifth Circuit why and how it should now rule on Texas’s statute as it applies to Facebook’s News Feed and YouTube’s homepage.
+The Importance of Free Speech
+.
+Freedom of speech serves many valuable purposes, but its most important role is protection of speech that is essential to democratic self-government . . . and speech that advances humanity’s store of knowledge, thought, and expression in fields such as science, medicine, history, the social sciences, philosophy, and the arts.
+Those
+words
+by Alito in
+Murthy
+surely will be cited by plaintiffs anytime the government restricts expression affecting those subjects.

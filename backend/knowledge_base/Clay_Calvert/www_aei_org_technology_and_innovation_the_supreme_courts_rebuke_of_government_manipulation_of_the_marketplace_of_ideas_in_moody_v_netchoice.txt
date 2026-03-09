@@ -1,0 +1,68 @@
+PAGE_TITLE: 
+	The Supreme Court’s Rebuke of Government Manipulation of the Marketplace of Ideas in Moody v. NetChoice | American Enterprise Institute - AEI
+
+The
+US Supreme Court
+typically delivers momentous, often divisive rulings in late June, right before the summer recess. This year, the Court dove even deeper into the calendar, not releasing its
+First Amendment
+decision in the social-media regulation case of
+Moody v. NetChoice
+until July 1.
+Although dissent free,
+Moody
+features five opinions, including a solo concurrence by Justice Clarence Thomas and a concurrence by Justice Samuel Alito (joined by Thomas and Justice Neil Gorsuch) that sometimes both read more like dissents responding to Justice Elena Kagan’s opinion for the Court (joined fully by Chief Justice John Roberts and, in order of Court seniority, Justices Sonia Sotomayor, Brett Kavanaugh, and Amy Coney Barrett, and in part by Ketanji Brown Jackson). As I
+suggested
+earlier regarding the Court’s
+Murthy v. Missouri
+decision, free speech cases don’t always divide neatly along perceived ideological lines. Significantly, just as they were in their
+Murthy
+dissent, Alito, Thomas, and Gorsuch found themselves distanced in
+Moody
+from Roberts, Kavanaugh, and Barrett.
+Via Adobe
+But enough about divisiveness.
+Moody
+, which sweeps up the related case of
+Paxton v. NetChoice
+, involves Florida and Texas statutes that, as Kagan
+wrote
+, “restrict the ability of social-media platforms to control whether and how third-party posts are presented to other users,” thereby “limit[ing] the platforms’ capacity to engage in content moderation—to filter, prioritize, and label the varied messages, videos, and other content their users wish to post.” The key question is whether these laws violate the platforms’ First Amendment right to exercise their own editorial control and discretion over the content they host.
+On Monday, however, the Court dodged that issue. It sent both cases back to the lower courts to determine the statutes’ respective scopes and, specifically, to decide whether the statutes apply not only––in Kagan’s
+words
+––to “paradigmatic social-media platforms” like “Facebook’s News Feed and YouTube’s homepage,” but also to direct messaging services, online marketplaces like Etsy, payment applications like Venmo, and ride-sharing services like Uber.
+Pinpointing the precise scope and application of each statute––something the US Court of Appeals for Eleventh Circuit in
+Moody
+and the Fifth Circuit in
+Paxton
+failed to do––is vital because the
+NetChoice
+trade association contends both statutes are
+facially unconstitutional
+. As I explained
+earlier
+regarding oral arguments in
+Moody
+and
+Paxton
+, “[a] facial challenge attacks a statute on its face––by its text and terms, standing alone, rather than as a statute was applied to a specific plaintiff in a specific factual scenario.” To conclude that the statutes are facially unconstitutional as NetChoice wants, the Court must
+first
+identify “the full range of activities the laws cover”––all of the different types of platforms and functionalities they may regulate––and
+then
+conclude that “a substantial number of [those] applications are unconstitutional” relative to the statutes’ constitutionally legitimate applications. So, the Eleventh and Fifth Circuits now must take this two-step process before (almost certainly) the cases percolate back up to the Supreme Court.
+Despite this procedural delay, Kagan
+delivered
+two powerful pronouncements about the First Amendment rights of social media platforms––pronouncements intended to guide the lower courts in deciding whether a statute’s application to a type of platform or functionality is unconstitutional. First, the editorial judgments of Facebook in its News Feed and of YouTube on its homepage are constitutionally “protected expressive activity,” despite the Fifth Circuit’s earlier decision that such decisions amount only to conduct, not expressive choices subject to First Amendment safeguards. Kagan wrote that Texas’s
+statute
+, which bars large platforms from blocking, banning, removing, deplatforming, or otherwise discriminating against expression based on the viewpoint expressed:
+prevents exactly the kind of editorial judgments this Court has previously held to receive First Amendment protection. It prevents a platform from compiling the third-party speech it wants in the way it wants, and thus from offering the expressive product that most reflects its own views and priorities.
+While Alito’s concurrence dubbed this “nonbinding
+dicta
+,” it was a clear signal from at least five justices that Texas and the Fifth Circuit––to borrow from
+Lone Star State parlance
+––shouldn’t mess with such private editorial judgments.
+Second, the Court was explicit that a state cannot interfere with the editorial judgments of social media platforms in the interest of levelling the playing field between liberal and conversative viewpoints. Such government manipulation of online
+marketplaces of ideas
+is verboten. Kagan explained it’s not the government’s job “to decide what counts as the right balance of private expression—to ‘un-bias’ what it thinks biased, rather than to leave such judgments to speakers and their audiences. That principle works for social-media platforms as it does for others.”
+In sum, while one must wait a little longer for determinations about the constitutionality of Florida’s and Texas’s editorially intrusive statutes, NetChoice has much to
+celebrate
+.

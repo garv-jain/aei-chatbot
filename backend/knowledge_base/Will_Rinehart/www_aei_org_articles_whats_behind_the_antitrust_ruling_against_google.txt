@@ -1,0 +1,75 @@
+PAGE_TITLE: 
+	What’s Behind the Antitrust Ruling Against Google? | American Enterprise Institute - AEI
+
+In the groundbreaking case
+U.S. v. Google
+, Judge Amit Mehta of the United States District Court for the District of Columbia ruled Monday that the tech giant has been using its agreements with Apple, Mozilla, and wireless companies to become the default search engine, which illegally harms competition. “Google is a monopolist, and it has acted as one [through exclusive deals] to maintain its monopoly,” Mehta declared.
+The decision is a major win for the Justice Department (DOJ), which brought the case. It might also show that the judicial winds are blowing in favor of the government and against Big Tech. Apple, Amazon, Meta, and Google have all been slapped with antitrust suits, the result of
+an agreement brokered
+under President Donald Trump between high-ranking agency officials. The Google case was just the first one filed and the first to be decided, meaning Big Tech’s exposure to litigation risk just rose significantly.
+Google is likely to appeal, so there’s a chance the ruling will be overturned. The case has yet to go through proceedings to determine particular remedies, which might include limitations on the deals,
+ballot screens
+like those common in Europe, data sharing, or even breakups. (That last option is highly unlikely given the decision, though.)
+Still, the fact that the court sided with the DOJ puts a wrinkle in the broader movement to strengthen antitrust law. Some call it
+Neo-Brandeisianism
+, others call it “hipster antitrust.” Regardless of the name, advocates and policymakers alike have been pressing for stricter antitrust laws. But this decision undermines at least one of the central arguments for change in the law: that existing antitrust enforcement can’t be successful against big tech companies.
+As is always the case with these rulings, it’s helpful to reread
+the initial complaint
+before reading
+the court’s opinion
+. What I got from that one-two combo was the sense that this case always contained inconsistencies that were never resolved. I remain unconvinced that there is a problem that needs court intervention.
+To understand why, let’s dig in.
+The decision.
+Because
+U.S. v. Google
+was the first of the four antitrust lawsuits brought against the big tech companies, and because I find the search market so fascinating, I was following the case from the beginning. As
+I explained back in 2020
+, the case was about Google’s possession of exclusionary market power:
+The exclusionary market power at issue in the DOJ complaint originates from contracts that Google maintains across the software and hardware ecosystem. For example, Google contracts with Apple, ensuring that Google is the default search provider for iPhones and iPads. For Android device manufacturers, in return for the free use of the Android operating system and their app store, Google maintains the Mobile Application Distribution Agreement (MADA). This ensures handset manufacturers don’t distribute devices powered by a non-standard version of Android. Google also offers manufacturers that are parties to the MADA the opportunity to enter into revenue sharing agreements (RSAs). Revenue sharing agreements also extend beyond handset manufacturers to both U.S. wireless carriers such as AT&T, T-Mobile, Verizon, and browser developers such as Mozilla, Opera, and UCWeb.
+Between its exclusionary contracts, its owned properties (the Android operating system), and its operated properties (the devices that have Google set as the default search engine), the DOJ alleges Google has “dominance in 80 percent of the general search queries in the United States” and “has thus foreclosed competition for internet search.” According to the DOJ, the result is that “competitors are denied vital distribution, scale, and product recognition — ensuring they have no real chance to challenge Google.”
+I always felt skeptical about this case but still thought it was on the most solid ground alongside the
+other Google case from 2023
+about the company’s advertising technology products.
+By and large, Judge Mehta agreed with the complaint but also recognized that Google had been outcompeting everyone:
+Google has not achieved market dominance by happenstance. It has hired thousands of highly skilled engineers, innovated consistently, and made shrewd business decisions. The result is the industry’s highest quality search engine, which has earned Google the trust of hundreds of millions of daily users.
+But Google also has a major, largely unseen advantage over its rivals: default distribution. Most users access a general search engine through a browser (like Apple’s Safari) or a search widget that comes preloaded on a mobile device. Those search access points are preset with a “default” search engine. The default is extremely valuable real estate. Because many users simply stick to searching with the default, Google receives billions of queries every day through those access points. Google derives extraordinary volumes of user data from such searches. It then uses that information to improve search quality. Google so values such data that, absent a user-initiated change, it stores 18 months-worth of a user’s search history and activity.
+In other words, according to the decision, Google used these exclusive contracts to drive search volumes, which in turn drove user data that helped improve search quality to the detriment of its competitors.
+But buried in the decision, Mehta also recognizes that Google’s system is better than its competitors. As page 247 notes:
+Google has not sat still despite its dominant market share. Search has changed dramatically over the last 15 years, largely because of Google. Its [search engine result page], for example, is different today than it was even five years ago. Moreover, the evidence that Google has left innovative technologies on the shelf, or that its investments in R&D and human capital have fallen behind others in the industry, is sparse. “Go Big in Europe” is a one-time, discrete episode that is far from robust evidence that Google remains inert absent competition. In truth, Google’s penchant for innovation is consistent with the behavior of a monopolist. (“[M]onopolists have reason to invest in R&D,” as “innovation can increase an already dominant market share and further delay the emergence of competition[.]”).
+The decision also said that Google was able to offer a better deal to Apple. Apple and Microsoft occasionally had talks to make Bing the default search engine in Apple products, but they went nowhere because Google’s system was simply better overall. All of this is explained beginning on page 112, which I have lightly edited to remove the in-text citations:
+Microsoft “thought they had great [search] quality and they said that with [Apple’s] search volume, they could be even better,” but Apple disagreed. Moreover, Apple was concerned that despite the high revenue share percentage, Bing would not be able to bring in sufficient revenues because it was “horrible at monetizing advertising.” (“If you have an inferior search engine, customers wouldn’t use it, and so, therefore, I don’t know how you could monetize it well.”).
+Apple evaluated the potential financial impact of replacing Google with Bing. The analysis assumed that Microsoft would initially pay Apple 100% of Bing’s revenue share, while Google would continue paying Apple [redacted %] revenue share if retained as the default. The analysis showed that if Apple extended the [Google deal], it would gain about $40 billion from Google in the next five years, and then $70 billion in the following five years. This was double the $20 billion Microsoft offered Apple for the first five years. (“Clearly, Microsoft can’t commit to these numbers or even anything close to them.”).
+While the opinion redacted the number,
+reports
+late last year showed that Apple got 36 percent of the revenue from Google for these searches, according to their deal. So, putting all of the pieces together, even when Bing offered 100 percent of the revenue and got a bump in search volume, Microsoft’s deal would still be just half of what Google was expected to offer at just a 36 percent revenue share. If these deals truly were anticompetitive then the prices shouldn’t have differed all that much. But Google was able to offer effectively six times the value for the same referral.
+So, something else other than a default is at work here.
+The power of default settings.
+Both the DOJ’s complaint and the decision rest upon the notion that search engine defaults afford extraordinary economic power. Some expect that remedies will change these circumstances, but shifting defaults doesn’t always mean people will stay with that choice. In fact, there are only some cases where setting the default can move markets. As one study summarized,
+defaults tend to be powerful
+only when options are numerous, have complex attributes, or are difficult to distinguish. That’s not exactly what’s going on here; people know the difference between Google and Bing.
+Besides, Europe has already trudged down this path, with few market results. Because of a 2018 court ruling, Google was forced to unbundle its search products and apps from the Android operating system.
+The effect
+was that “Google started charging manufacturers anywhere from $2.50 to $40 per device for use of Google’s apps. Through the act of unbundling, the EC forced Google to make the value in the contract into an explicit cost because the bargained-for deal was no longer allowed to happen.”
+Also as part of the ruling, Android smartphones in Europe are now required to prompt users with a screen to choose a search engine. As Spencer Purnell, a tech analyst,
+pointed out
+, “European data show that search engine market shares remain unaffected by the choice screen. Google has maintained a roughly 92% market share in Europe before and after the European Union mandated the choice screen in Europe.” The European case shows that simply changing default settings is insufficient to disrupt Google’s dominant market position. It also fundamentally undermines the notion that these contracts are the reason for the company’s wide use.
+Adding it all up.
+Google now faces a trial to determine remedies.
+A lot of options
+have been floated, including choice screens like those in Europe, limitations on deals, data sharing, or even forced divestiture of Chrome or Android. But none of the proposed remedies seems all that well targeted, since the court’s opinion waffles on the exact harm that Google perpetrated.
+Google isn’t the only company that will be affected by this decision. Apple
+supposedly makes
+$20 billion a year for its contract with Google that is now under threat with this ruling. Mozilla, which maintains the Firefox browser, is largely
+reliant on the search deal
+for its income as well. According to the most recent financial statement Mozilla has posted, $510 million out of its $593 million in revenue came from Google. Expect both companies to struggle if the deals are struck down.
+The DOJ’s win also raises the risk of the other pending cases. As I mentioned in an earlier edition of
+Techne,
+legal academics have tended to rank Google’s cases as being on the strongest legal grounds. Daniel Crane, a law professor at the University of Michigan,
+reached out to several legal academics
+and found that they generally agreed:
+A clear separation emerges from the raw scores. Google is the consensus choice for the strongest government case; Amazon is the consensus choice for the weakest government case. Indeed, not a single respondent ranked Amazon the strongest government case, and only one ranked Google the weakest. … Respondents were consistently bullish on Google (from the government perspective) and bearish on Amazon. Facebook and Apple were a toss-up in the middle.
+There has been a growing chorus of voices calling for stricter antitrust laws. Advocates and policymakers have both pushed for reforms to better tackle the dominance of large tech companies. This decision, however, challenges the notion that existing antitrust laws are insufficient. By achieving a significant victory against Google, the case illustrates that antitrust enforcement can work effectively within the current legal parameters. I suspect that this ruling has weakened the push for legislative changes by showing that we already have available tools to address these complex issues.
+Still, I never thought the government had a great argument with this case. My bet was always on the other
+Google case
+on advertising products. As the other antitrust cases make their way through the courts, I will be sure to keep you updated.
+Next week, I am going to discuss what’s happening in geoengineering.

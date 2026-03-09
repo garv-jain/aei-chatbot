@@ -1,0 +1,43 @@
+PAGE_TITLE: 
+	Russians Aren’t Just Hacking the DNC - They Are Hacking America | American Enterprise Institute - AEI
+
+There is a
+growing consensus
+among American intelligence agencies that it was in fact Russia that was behind the DNC hack. But it’s not just the DNC that’s in trouble – Russian hacking has for a long time been a serious problem for businesses, governments, and citizens in America and around the world. As highlighted by recent news, candidates for America’s highest office are now a part of that list.
+Russian hacking is a problem for businesses, citizens, and now political parties. Fragmented global cybercrime efforts make tackling this issue a challenge. CREDIT: Twenty20
+A brief history of Russian hacking
+As Misha Glenny (and others) have
+pointed out
+, “there are two types of companies in the world: those that know they’ve been hacked, and those that don’t.” This is especially true when it comes to Russian intrusions; it seems like everyone and their mothers has been hacked by the Russians. A few examples include:
+This past April, a Russian hacker was
+sentenced
+in an Atlanta court after creating a piece of malware that automated attacks on banks and financial institutions. It is estimated that his work helped cyber criminals infect more than 10 million computers and caused over $1 billion is economic damage.
+Also this year, a Russian hacker gang was
+accused
+of seeding websites with malware that gave them access to their Russian victims’ computers and eventually their bank accounts. The estimated damage was over $25 million before they were shut down this past June.
+A US federal prosecutor has
+noted
+that Russian and Ukrainian hackers were behind the largest cyber-crime case in US history, costing companies over $300 million in bank-card fraud from 2010 to 2013. According to a
+World Economic Forum report
+, the cost of cybercrime to the global economy was $445 billion in 2014.
+Well-paid Russian “trolls”
+created a fake crisis in 2014
+when reports of text messages claiming a chemical leak in Louisiana made its way onto multiple media Twitter accounts. This disaster claim was, of course, all a hoax, but proved the extent to which Russian trolls can manipulate US interests using social media.
+US computer databases are a favorite target of foreign spy services. The Russians have shown an aggressive appetite for personal records that include data such as travel and medical records. Security clearance applications are especially interesting, making last year’s intrusion into
+the Office of Personnel Management (OPM)
+a hacker’s paradise. The same goes for
+the IRS records
+that were breached in 2015.
+The most egregious example of Russian hacktivism is perhaps their
+take-down of the Estonian Internet in 2007
+. Estonia recovered, but only after experiencing the massive challenge of running a country when citizens have no access to banks, government, or local services. This past week, fearing another Russian attack, the Estonian government started looking into
+sending virtual copies of its data
+to the United Kingdom as a backup plan.
+Tackling Russian hacking
+The above examples, along with years of reporting from companies like FireEye and Palo Alto Networks, put the pressure on lawmakers to make a change. What we need from our politicians are policies to help track down these criminals and take their networks off-line and out of commission around the globe.
+Doing this, however, is a significant challenge, given the ad-hoc and fragmented approach the global community has taken with respect to cybercrime. The situation with the DNC sheds light on the need for an international cyber treaty that creates the ability to prosecute cyber criminals for the damage they do to computer systems and the lost value of stolen data. It should also create penalties for nation states supporting or condoning hacking activities within their borders.
+Our lack of international coordination on cybercrime and inability to prosecute cyber criminals in other countries allows hackers to stay active behind their guarded country borders and it allows cyber hacking to stay a profitable business. We need to enact legal frameworks that facilitate cooperative efforts to take these criminals off the Internet.
+The cost of the economic damage done to American corporations and citizens is in the billions. And the privacy of government workers and US citizens has already proved easy to violate. We need to protect our critical infrastructure, the competitive economic edge of US companies, and the personal data of our citizens. Maybe being hacked themselves will help motivate our politicians to get moving on this issue.
+For a more comprehensive look at the threat cybercrime poses to our country and the solutions policymakers should consider, read AEI’s report,
+An American Strategy for Cyberspace
+.

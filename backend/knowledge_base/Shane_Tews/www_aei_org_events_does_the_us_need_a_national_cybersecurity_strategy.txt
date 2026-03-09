@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Does the US Need a National Cybersecurity Strategy? | American Enterprise Institute - AEI
+
+VIDEO
+Event Summary
+On October 19, AEI’s Shane Tews hosted a panel discussion on whether the US needs a national cybersecurity strategy.
+Stanford University’s James X. Dempsey predicted the Joe Biden administration will impose sector-by-sector regulations on private industry that require disclosure of cyber incidents to federal regulators. Sujit Raman of Sidley Austin LLP added that recent cyber directives have come from national security agencies under emergency authority — not core cyber agencies. It is thus in the administration’s best interest to clarify the cyber lawmaking process and identify the core agencies at hand so industry can prepare accordingly.
+Diane Rinaldo of Beacon Global Strategies called on the Federal Communications Commission to “rip and replace” Chinese telecommunications gear in US networks and advocated for a “zero-trust” cybersecurity strategy at every layer of digital networks. She warned that Congress and the administration would otherwise overlook future threats while playing whack-a-mole in the present.
+James Andrew Lewis of the Center for Strategic and International Studies agreed that industry will likely face mandatory federal cyber obligations. He cautioned, however, that discussions of current and future threats remain driven by over-the-top journalism. He concluded that improved data-collection methods would improve threat detection and enhance the solutions proposed by the panel.
+— William Rau
+Event Description
+The United States lacks a national cybersecurity strategy. Recent cyberattacks on key private networks and physical infrastructure have encouraged both government and industry to discuss and implement remedial cybersecurity measures, but absent a national agenda, the country remains vulnerable to ongoing threats.
+Meanwhile, US adversaries such as China have implemented clear national cyber strategies — with grave security and geopolitical implications for the US. How, if at all, should the US craft a national cybersecurity strategy? What steps are needed to ensure smooth and secure information sharing among industry and government stakeholders?
+Join AEI’s Shane Tews and a panel of experts for a discussion on what an effective national cybersecurity strategy might look like and lessons learned from recent cyber missteps.
+Event Materials
+Event Transcript
+Agenda
+2:00 PM
+Opening remarks:
+Shane Tews
+, Nonresident Senior Fellow, AEI
+2:05 PM
+Panel discussion
+Panelists:
+James X. Dempsey
+, Senior Policy Adviser, Geopolitics, Technology, and Governance, Cyber Policy Center, Stanford University
+James Andrew Lewis
+, Director, Strategic Technologies Program, Center for Strategic and International Studies
+Sujit Raman
+, Partner, Sidley Austin LLP
+Diane Rinaldo
+, Senior Vice President, Beacon Global Strategies
+Moderator:
+Shane Tews
+, Nonresident Senior Fellow, AEI
+2:45 PM
+Q&A
+3:00 PM
+Adjournment

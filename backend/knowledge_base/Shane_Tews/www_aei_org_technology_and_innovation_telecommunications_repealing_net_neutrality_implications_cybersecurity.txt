@@ -1,0 +1,19 @@
+PAGE_TITLE: 
+	Repealing Net Neutrality: Implications for Cybersecurity | American Enterprise Institute - AEI
+
+This past week, the Federal Communications Commission (FCC) website was hit with multiple distributed denial-of-service (DDoS) attacks. These attacks are a common method hackers use to make internet service inaccessible. Specifically, the attackers flood a specific open network system with large amounts of traffic to shut the systems down and create a temporary block to the target websites.
+Attackers like DDoS attacks because they are difficult to respond quickly to, and that meets the hackers’ goal of preventing the service from being available for its web visitors. A few years back, the United States government accused the Iranian government of using DDoS attacks against the US financial institutions as a tactic of retaliation for the economic sanctions levied on Iran for reengaging in its nuclear program.
+This past fall, Amazon, Netflix, Spotify, Twitter, and several other web-centric companies suffered a disconnection to their customers via a DDoS attack on their web service provider.
+DDoS attacks are effective because there is no priority in how servers receive or deliver traffic, especially emails. Everything has the same priority. If you go by the idea that internet traffic is simply traffic and no one packet takes priority over another packet, there will continue to be negative consequences. The same tactics used to take down the FCC’s comment system also allows hackers to interrupt citizens’ freedom of expression.
+Dave Piscitello, vice president for security at Internet Corporation for Assigned Names and Numbers, recommends in a
+blog post
+how to manage DDoS traffic that the victim’s web hosting provider should contact the internet service provider (ISP) to route traffic away from the victim’s server. He is right; that would help solve the problem, except it would include potentially prioritizing traffic through what engineers refer to as limit recursion, also known as throttling, disabling recursion, or blocking. This expert’s advice about the best ways to mitigate a cyber attack such as a DDoS attack is to throttle, block, and potentially prioritize traffic for a specific reason, all forbidden by the previous FCC chairman.
+The networks being able to scale for the next generation’s billions of bits and bytes is important to the future of technology. The onslaught of items with the Internet of Things that will demand a network connection with a prompt response will have even more challenges if it cannot prioritize packets. The technology that would allow ISPs to enable a more secure internet would involve those same companies managing internet traffic flow through monitoring movement of packets for its customers. Real-time monitoring would allow malicious traffic to be guided off-line to a contained environment and enable enhanced speed for items that can’t tolerate latency to function efficiently, such as health care devices or autonomous vehicles.
+The Open Internet Notice of Proposed Rulemaking (NPRM) by FCC Chairman Ajit Pai allows us to discuss the future of the internet. Commenting on this rule includes fixing the problems created by the architecture that does not allow for its engineers to inhibit malicious traffic.
+As noted by the Institute of Electrical and Electronic Engineers in
+their report
+on cybersecurity: A crisis of prioritization cybersecurity needs long-term solutions that must be built into future designs of the internet architecture and not just an add-on feature.
+If you want to comment on the FCC proceeding, you can express your opinion on
+the FCC website
+through the proper channel. Note that you have until May 18, which is the day of the notice of proposed rulemaking (NPRM) vote at the FCC.
+This post was originally published on TechPolicyDaily.

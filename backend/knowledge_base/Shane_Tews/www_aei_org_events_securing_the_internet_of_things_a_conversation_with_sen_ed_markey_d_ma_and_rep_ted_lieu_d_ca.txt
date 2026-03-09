@@ -1,0 +1,14 @@
+PAGE_TITLE: 
+	Securing the Internet of Things: A Conversation with Sen. Edward J. Markey (D-MA) and Rep. Ted Lieu (D-CA) | American Enterprise Institute - AEI
+
+Event Summary
+On Thursday, AEI hosted Sen. Edward Markey (D-MA) and Rep. Ted Lieu (D-CA) for a discussion on their Cyber Shield Act and efforts to improve Internet of Things (IoT) cybersecurity.
+Sen. Markey opened by saying the new era of IoT technologies would bring an untold number of new and useful devices online but that the number of cybersecurity threats could create an “Internet of Threats” as well. He explained that the Cyber Shield Act would create product labels that identify IoT devices that meet strong cybersecurity standards, giving consumers better information about the security of technologies they purchase.
+Rep. Lieu discussed his view that Congress should take a light-touch approach on technology issues because innovation moves faster than legislatures can. He explained that the voluntary program established by their proposed legislation would not be punitive and would rely on a commission of diverse experts to set standards.
+An expert panel then discussed ways that an IoT cybersecurity seal program could be implemented. They discussed the legal challenge of determining who is liable in cybersecurity incidents, explained why government mandates would be counterproductive, and agreed that improving the overall security of the IoT ecosystem would be a pressing need moving forward.
+—Matt Au
+Event Description
+The Internet of Things (IoT) is defining the next wave of internet innovation, as tens of billions of devices ranging from smart speakers to appliances, industrial sensors, geolocation tags, cars, cameras, and medical devices are connected to the internet. Analysts have predicted the economic impact of IoT technologies will grow to hundreds of billions or trillions of dollars in the next decade, but cybersecurity concerns have also mounted in recent years due to high-profile security incidents, the increasing popularity of internet-connected devices, and the connected nature of the IoT itself.
+Join AEI for remarks from Sen. Edward J. Markey (D-MA) and Rep. Ted Lieu (D-CA) on their Cyber Shield Act and efforts to improve the cybersecurity of IoT devices. Remarks will be followed by a discussion with AEI’s Shane Tews and a panel discussion on the role of government and the best ways to improve IoT safety and security in the future.
+Join the conversation on social media with @AEI on Twitter and Facebook.
+This event will not be livestreamed.

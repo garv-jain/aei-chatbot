@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	5G, Planes, and Progress | American Enterprise Institute - AEI
+
+Last week, Secretary of Transportation Pete Buttigieg
+testified
+before the Senate Appropriations Committee’s Subcommittee on Transportation, Housing and Urban Development, and Related Agencies. He said that the aviation industry is continuing talks with the wireless industry about lifting restrictions to enable 5G deployment around select airports through a voluntary agreement set to expire this summer.
+As a
+Wall Street Journal
+op-ed
+noted
+earlier this year, the aviation industry bringing the Biden administration’s transportation secretary into the multiyear industry tussle over spectrum management didn’t prevent “a collision over 5G wireless spectrum,” nor did it solve the underlying problem. Rather, it enabled the aviation industry to continue using the Department of Transportation (DOT) as a shield in a messy interagency process that has already been through multiple years of technical review cycles and public comment periods. In 2020, the process culminated in a
+258-page decision memo
+from the Federal Communications Commission (FCC), yet the interagency process is still struggling to bring the aviation industry to the table to reach a final solution.
+via Reuters
+As I have
+pointed out
+, the Federal Aviation Administration’s (FAA) own clearance process—not the change in spectrum use—created the currently cumbersome dilemma. When presented with the facts in 2020, the FCC issued the aforementioned interagency report to assuage aviation industry concerns around spectrum proximity by widening the guard band between the spectrum bands of concern by more than twice the amount engineers deemed sufficient to prevent signal interference. It seemed the issue had been put to rest, but two years and one
+record-breaking commercial spectrum auction later
+, alleged safety concerns from the FAA again
+threw a wrench
+in the process.
+The evolutionary path of 5G technology could actually help, not hurt, the aviation industry. A move toward higher speeds and lower latency for network operations could enable faster data transmission for more efficient ground operations and, by extension, faster services for airlines and their passengers. But at the heart of the dispute, a key fact remains: The airline industry is slow to embrace innovation that does not directly improve its financial bottom line, and it uses the interagency process to delay needed upgrades to the last generation of planes that are still flying with aging altimeters.
+New cross-industry standards created through years of engineering input are where the application of 5G can support innovative growth. The International Telecommunications Union has approved a set of worldwide 5G mobile technology
+standards
+that enable resilient network ecosystems to drive transformative innovation across multiple industry sectors. The aviation industry will benefit—as will many other industries—from increased efficiency and a capacity for faster data flows, which will bring about numerous technological enhancements, from agriculture to airports.
+With commercial air travel returning to full capacity, the aviation industry’s embrace of innovative technology is benefitting consumers, who enjoy access to website portals and mobile apps that help manage cost and convenience for both the airline and the passenger. Across global networks, these enhancements will continue to improve customer support on the ground via optimized network automation, faster reporting on delays involving weather and equipment-related incidents, easier boarding processes, and lost luggage (almost) becoming a relic of the past.
+Additionally, the interconnectivity of the supply chains that underpin employment and customer service depend on a collaborative evolution of technology. Airports are often near population centers that would benefit from 5G innovation processes that increase speed and access to data while enhancing corporate and industry productivity. As
+WIRED
+reports
+, next-generation wireless technology has the capacity to transform transportation, medicine, and manufacturing, but these breakthroughs could be unevenly distributed as stakeholders navigate local regulatory hurdles. Why create the same hurdles at the federal level?
+As FCC Chairwoman Jessica Rosenworcel
+told
+Axios, “If we have learned anything from our experience rolling out 5G, it’s that wireless policy matters for economic growth and national security.” Transportation innovation is a layered process that uses networks to transmit real-time information and seek logistical efficiencies around both equipment and passengers. State-of-the art technologies on the ground and in the air have improved both security at airports and safety during flights. But if the speed and progress required to improve our infrastructure design enhancements are left to the DOT, consumers may not experience the significant impact of 5G technologies for a while. Flight operations can benefit from hardware and software upgrades as many other industries already do—if the aviation industry agrees to embrace progress.

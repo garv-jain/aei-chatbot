@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	Improving Cybersecurity Through Cooperation, Not Regulation | American Enterprise Institute - AEI
+
+Editor’s note:
+The next president is in for a rough welcome to the Oval Office given the list of immediate crises and slow-burning policy challenges, both foreign and domestic. What should Washington do? Why should the average American care? We’ve set out to clearly define US strategic interests and provide actionable policy solutions to help the new administration build a 2017 agenda that strengthens American leadership abroad while bolstering prosperity at home.
+What to Do: Policy Recommendations for 2017
+is an ongoing project from AEI.
+Click here for access
+to the complete series, which addresses a wide range of issues from rebuilding America’s military to higher education reform to helping people find work.
+Cybersecurity is now entrenched in the public discourse of the digital world we live in, thanks to the ongoing dialog about Russian hacking. At the same time, the internet continues to drive the digital economy as we grapple with defining government’s role in helping industry defend their networks. The underlying internet infrastructure that enables us to reap the internet’s rewards is a collaborative effort by a variety of companies who trust each other every day with the hand off of data and information across their network boundaries. However, a Federal Communications Commission (FCC)
+white paper
+on cybersecurity risk reduction released in the final days of Tom Wheeler’s chairmanship fails to acknowledge the day-to-day trust these companies have in each other as they work across each other’s networks; instead, it recommends regulation that would hinder innovation, investment, and industry cooperation.
+A flawed argument for cybersecurity through regulation
+The FCC is now under the leadership of
+new chairman Ajit Pai
+, but it is useful to examine why the Wheeler-era paper is flawed. The FCC white paper essentially says the agency should regulate cybersecurity for commercial communications networks and internet service providers (ISPs). It says that since “the vast majority of the commercial communications infrastructure is in private hands and private actors act first to maximize shareholder value…there is residual risk that remains when a firm’s risk tolerance exceeds that which is in the public interest. This is particularly so when consumers are not aware of the risk they are being asked to bear.” The paper argues that regulators can play a role in managing cybersecurity risk for the internet ecosystem if market forces fail to produce results that protect consumer interests.
+It further argues that “[p]rotective actions taken by one ISP can be undermined by the failure of other ISPs to take similar actions. This weakens the incentive of all ISPs to invest in such protections.” This argument is fundamentally flawed. The paper overlooks an essential characteristic of commercial internet operations – the necessity of cooperation and collaboration between industry partners. Coordinating efforts to protect networks from harmful interconnections is not a luxury for network providers — it is a necessity. By design, the companies’ whose networks bind the global internet together have to collaborate to safeguard the network from threats and keep it operational. Their engineers continuously work together on issues of hardware, software, and network application capabilities.
+The writers of the FCC paper should have been more than familiar with the engagement between ISPs and communications companies on security issues – their work with the FCC’s Communications Security Reliability and Interoperability Council (CSRIC) highlights many of the concerns we have with today’s Internet; supply chain risk management, security by design, device utilization, enhanced network provisioning, and promoting security across network boundaries. There are also a plethora of other organizations
+enabling industry cooperation
+. The Communications Sector Coordinating Council (CSCC) enables industry and government cooperation on issues of communications critical infrastructure. Industry also has its “ISAC,” the Communications Information Sharing and Analysis Center (Comms-ISAC), and the Department of Homeland Security (DHS) has its National Cybersecurity and Communications Integration Center (NCCIC), where industry partners share best practices for all network and service operators and have the ability to inform and address industry and government on cyber incidents and mitigation efforts.
+A better solution for bolstering US cybersecurity
+We continue to see best practices being developed for cyber-risk management across multiple industries. This information is data that could be shared more efficiently if we continue to develop a voluntary cross-functional process that allows multiple industries to share cyberattack information with each other on almost real-time basis. Creating an efficient and effective platform (with the right liability protections) for industry and government experts to share cyber threat information could increase our ability to respond to attacks in real-time. A
+recent recommendation
+from House Homeland Security Committee Chairman Michael McCaul (R-TX) to create a cybersecurity component at DHS may be the best way for the government to facilitate information sharing in this way. On the topic of DHS, let us also remember that the FCC is not the appropriate venue for addressing cybersecurity issues –
+Congress has given DHS that job
+!
+Looking ahead, Chairman Pai has recognized the appropriate role for the FCC in cybersecurity in the past. In October of last year, he said
+that
+“there are other agencies that have a more well-defined space, legally speaking, and more well established expertise.” He added that he
+viewed the FCC as
+“operating in a ‘consultive role’ rather than ‘setting forth uniform rules that would apply to an entire industry,’” when commenting on the FCC’s decision not to issue network security rules.
+We need to encourage cooperation on managing cyber risk and promote investment in cybersecurity by network operators in all industries to improve cybersecurity. Establishing a systematic, reliable reporting process and a trusted repository for information-sharing across industries and the government would be a step in the right direction. Now is the time to embrace the importance of the internet for our digital economy and to acknowledge the risks that come with the rewards.

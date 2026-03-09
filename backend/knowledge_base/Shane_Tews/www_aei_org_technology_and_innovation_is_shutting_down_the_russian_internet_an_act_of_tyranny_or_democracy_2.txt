@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Is Shutting Down the Russian Internet an Act of Tyranny or Democracy? | American Enterprise Institute - AEI
+
+“Any sanctions that disrupt access of Russian people to information only strengthen Putin’s regime,”
+says
+the Internet Protection Society — an internet freedom group in Russia — in response to the Ukrainian government’s request that the Internet Corporation for Assigned Names and Numbers (ICANN) revoke Russia’s code domain names (.ru and .su) as part of the global sanctions regime against the Kremlin. Ukraine’s government
+sees
+its request as a tool to stop the “Russian propaganda machinery using websites continuously spreading disinformation, hate speech, promoting violence and hiding the truth regarding the war in Ukraine.” However, ICANN denied Ukraine’s
+petition
+to shut down the Domain Name System (DNS) root servers situated in Russia.
+Nations’ rights to access the underpinnings of the internet’s network operations is a
+heavily
+debated
+topic
+. The US government
+continues
+to support private sector leadership as part of the multistakeholder process and ongoing dialogue between commercial operators, academics, civil society, and governments. But other countries, such as Russia, have a history of embracing a more unilateral, top-down approach to internet access. This includes shutting down or blocking certain content from the outside world, with chilling implications for their citizens. Crippling Russia’s internet from the outside via DNS root-server shutdowns could worsen the situation.
+via Adobe open commons
+“Shutting down” the internet requires revisiting the two key components of the internet’s original architecture and infrastructure: identifying the host computer where the content resides and identifying a route to enable a connection between the host computer and another device. The security of the routing protocol can make a difference to the privacy of the message then sent between the two devices; some routes are encrypted, while others are open such that anyone along the route can see the content being shared. The DNS connects the addresses that make what is generally referred to as the “public internet” work. Even the decentralized DNS is a peer-to-peer network that also needs international networks to connect for communications.
+While social media is a strong medium for global communications, the actual internet’s underlying architecture and network connections are vital to global operations. As Internet Society CEO Andrew Sullivan
+explains
+, “The internet remains our best hope to communicate among the peoples of the world.”
+ICANN has long played the proxy for global internet governance struggles, as the crucial role of network infrastructure entails a constant balancing act between parties. A prime example is ICANN’s recent board
+decision
+to provide Ukrainian internet users $1 million of financial assistance for accessing internet infrastructure in emergencies. The rationale is that secure, stable, and resilient internet access could provide Ukrainians with vital and potentially lifesaving information and communications. ICANN Chairman Maarten Botterman also reiterated ICANN’s key role in continuing to support the world’s access to the internet DNS and unique identifiers — including permitting access to .ru and .su in the core root-zone operations of internet infrastructure.
+This past week, Lumen and Cogent, both backbone providers of internet connectivity, decided to cease routing traffic for Russia-based organizations. Lumen candidly
+stated
+that continuing to provide network services to Russian telecom giants Rostelecom and TransTelekom, as well as three in-country mobile operators, posed a security risk for the company. In response, Kentik’s Doug Madory
+commented
+that “a backbone carrier disconnecting its customers in a country the size of Russia is without precedent in the history of the internet.”
+This is where national security and diplomacy become tricky for corporations. While isolating Russia through sanctions gets the Kremlin’s attention, isolating Russian people is the wrong approach — especially when the Kremlin is
+already blocking
+access to major social media platforms. (Meta’s Facebook and Instagram were
+banned
+and deemed “extremist organizations,” and Russian state media blocked YouTube a week ago.)
+Meanwhile, the Biden administration has
+embraced
+TikTok as a platform for disseminating information about Russia’s invasion of Ukraine by inviting influencers to a White House digital-strategy briefing on the conflict’s underpinnings and the US government’s response. This is part of a greater strategy to contain Russian and other forms of disinformation by engaging TikTok content creators and keeping an open line of communication with social media outlets. For this strategy to be effective, social media outlets — and the underlying internet networks that host them — must remain as open as possible.
+Blacking out, blocking, and redirecting internet traffic are all tools that disrupt the free flow of news and information to both Russian and Ukrainian citizens. Cutting off Russian users may hurt Russia’s economy, but it will also reduce its citizens’ freedom. American government stakeholders in this process would not appreciate US government-controlled network paths that can be disabled when certain information is not to their liking. At a time when the free flow of information in the US is as vital as ever, the same should be true abroad.

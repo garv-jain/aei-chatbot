@@ -1,0 +1,25 @@
+PAGE_TITLE: 
+	Key Points from the Cyberspace Solarium Commission Report | American Enterprise Institute - AEI
+
+The US Cyberspace Solarium Commission released its final
+report
+last week. The commission, a bipartisan group created by the 2019 National Defense Authorization Act and chaired by Sen. Angus King (I-ME) and Rep. Mike Gallagher (R-WI), was tasked with creating a strategy for defending the US against cyberattacks and making recommendations for policies and legislation necessary to implement that strategy. The report makes some 75 recommendations for a strategic approach to cybersecurity called “layered cyber deterrence,” which aims to reduce the “probability and impact of cyberattacks of significant consequence.” Here are a few of the key recommendations from my perspective.
+via Twentyy20
+Part of the report reads like a list of “should haves” on
+improving public-private collaboration from the past decade, and here the
+commission is right. Cybersecurity should be strengthened by the government’s
+role, not compromised by it. But for years, unmanageable regulatory red tape
+and the inability for a wide spectrum of partners to collaborate and
+communicate with each other has hindered US public and private networks from
+being effectively protected. The report recommends establishing a number of
+coordinating bodies for reporting on cyber hacks and compromises to critical
+infrastructure and government networks. This includes getting around dated
+mandates for maintaining a division between the government and commercial
+markets as it pertains to sharing security vulnerabilities.
+The report discusses the National Risk Management Center, which is a great example of an organization that plays a crucial role as the liaison for the three industry sectors responsible for the nation’s critical digital infrastructure: telecommunications, energy, and finance. These three parts of the “tri-sector” understand that they face a common and dangerous set of threats and have a unique understanding of the challenges posed by cyber risk. The magnitude of their footprint means they need to be leaders in the oversight of the nation’s larger cybersecurity planning process.
+Knowing what actions to take with a bias for immediate action are fundamental for preventing a cybersecurity crisis. The ability for the government and private sector to discuss information about threats in real time can make a world of difference in outcomes. Having the leadership in place to align the appropriate motivations and incentives for multiple industry and government players in the cyber community would have a hugely positive impact on improving collective US cybersecurity.
+The report makes a good case for some centralized oversight in both the administration and Congress. It calls for the creation of a national cyber director and an assistant secretary of state with a new bureau at the State Department focused on developing and reinforcing international norms in cyberspace. It also recommends that both the House and Senate establish select committees on cybersecurity. These changes wouldn’t be so much for command and control purposes but to ensure the government is better organized and less fragmented to respond to threats with an eye toward mitigating damage to the economy and national security.
+One other key recommendation stood out to me when highlighted by commission member Suzanne Spaulding at the report’s release event: for Congress to establish a Bureau of Cyber Statistics. This bureau would collect and provide statistical data on cybersecurity and the cyber ecosystem to inform policymakers and government programs. A major problem that the government and industry currently face is that there isn’t enough data to provide a clear understanding of rapidly changing trends in cybersecurity. As the report
+says
+, “To address similar gaps in other policy areas, the United States established statistical agencies [like the Bureau of Labor Statistics] to inform both public policymaking and private decision making.” An organization like this could help provide clarity on the types of cyberattacks on US citizens and businesses and the effectiveness of various responses and security measures. This would go a long way toward helping the “insurance industry create more accurate risk models . . . and helping the U.S. government craft more effective cybersecurity policy and programs.”
+Avoiding or mitigating cyber risks in a timely manner requires aligning incentives to share intelligence that can help prevent a crisis. In the cyber ecosystem, vectors of vulnerability can vary widely due to our (in some cases total) dependence on digital assets. The US Cyberspace Solarium Commission’s recommendations, which are based on taking a more holistic and horizontal approach to a space that has historically focused on vertical siloes, could be a game changer — if its recommendations are taken seriously.

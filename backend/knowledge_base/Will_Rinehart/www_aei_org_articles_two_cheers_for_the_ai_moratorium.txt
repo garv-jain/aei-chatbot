@@ -1,0 +1,52 @@
+PAGE_TITLE: 
+	Two Cheers for the AI Moratorium! | American Enterprise Institute - AEI
+
+We need to get ahead of this thing.
+I’ve heard this refrain countless times over the past two years in AI policy circles. But listen closely, and you’ll discover the real message underneath, a quiet admission of past failure:
+We didn’t move quickly enough when it came to social media and we cannot make the same mistake with AI.
+Just this year, over
+1,000 AI bills
+have been proposed in the states. Thankfully, some of the worst have been stopped, and for the most part, state sessions are done for the year. But next year, legislators will be back at it.
+Via Adobe Stock.
+The breakneck speed at which states are rushing to pass AI legislation has been deeply troubling, largely because the quality of these bills has been so poor. Colorado’s experience is illustrative of this. Despite being the first state to pass comprehensive AI legislation, lawmakers
+have been debating a major overhaul
+of it due to the law’s flawed construction. Neil Chilson, former chief technologist at the FTC and current Head of AI Policy at the Abundance Institute,
+recently pointed out
+just how absurd the bill is, saying:
+Consider Colorado’s
+SB 24-205
+, a “comprehensive” AI law passed last year, which casts such a wide net that legislators clarify in the text that calculators and spellcheckers don’t count as AI … unless they become “a substantial factor in making a consequential decision.” How’s that for clarity?
+Even more telling is the European Union’s recent hesitation. After years of positioning itself as the global leader in AI regulation, the
+EU is now considering delaying implementation
+of its own AI Act due to practical concerns about how the law would work in practice. When both pioneering state legislators and seasoned international regulators start having second thoughts about their own AI laws, it suggests that the rush to regulate may be outpacing our understanding of how to regulate effectively.
+So I was happy to see the House
+approve a budget bill
+that contained a 10-year moratorium on state AI regulation. While it’s probably longer than optimal, Congress has needed to assert its authority in this space.
+The way that the bill is written, states could still use existing laws to address AI issues. Privacy laws, consumer protection rules, and fraud statutes still apply to AI companies. The moratorium doesn’t completely preempt state law, it simply stops states from creating new, AI-only regulations for a while, as Congress figures out a national approach.
+The inclusion of the provision kicked off a big debate about
+the merits and demerits of an AI moratorium
+. As one would expect, a lot of state legislators aren’t a fan. But in an unexpected twist, Colorado Governor Jared Polis, who actually signed his state’s AI Act into law, backed the federal moratorium. According
+to a statement from his office
+, Polis believes “a strong national policy governing AI consumer protection that supersedes state law would be the best course of action, as a state-by-state patchwork creates a challenging regulatory environment and would leave consumers worse off overall.” The governor supports suspending state AI laws for several years, giving Congress the breathing room needed to craft what he calls “a true 50-state solution to smart AI protections for consumers while driving innovation.” It’s remarkable for the same official who enacted the first state-level AI regulation to now argue for hitting the pause button.
+Policy guru Adam Thierer
+proposed the AI moratorium
+concept last year, drawing from his extensive experience in AI policy. Having witnessed the regulatory chaos surrounding privacy legislation, he cogently argued that a similar scenario was now unfolding with artificial intelligence. Since California passed the
+Consumer Privacy Act in 2018
+, states have rushed to enact their own privacy laws. Today,
+19 different state privacy bills exist
+, each with their own unique requirements and structures. This patchwork approach forces businesses to constantly adapt their compliance strategies with every new law that passes, creating exactly the kind of regulatory mess that Congress should have addressed years ago. But the federal gridlock persists largely because Senator Maria Cantwell, who chairs the key Senate committee, opposes any federal framework that would supersede California’s state law.
+I explored this dynamic
+in detail last year.
+The regulatory burden for privacy has become so complex that a senior policy executive at a major tech company once told me something I’ll never forget:
+We will be [legally] defensible, but I am not sure we could ever be technically compliant
+. This stark admission reveals why Thierer’s call for an AI moratorium deserves serious consideration. We are on track to repeat the same mistakes with artificial intelligence that we made with privacy regulation.
+The strongest argument I have heard against the moratorium is that it takes options off the table. I have written a lot about regulatory options, which you can find
+here
+and
+here
+. Optionality, like so much else, is a double-edged sword. Benefits on one side of the ledger appear as costs on another . The option to regulate for legislators
+often appears
+as a drag on investment. The moratorium flips this equation. By temporarily removing the option to regulate at the state level, it trades legislative flexibility for market certainty. Companies would know that for a defined period, they won’t face a constantly shifting landscape of state-by-state requirements.
+To be fair to the critics of the moratorium, a decade is a significant stretch of time, and AI’s potential for disruption is undeniable. The technology is advancing rapidly, and legitimate concerns exist about leaving it completely unregulated for too long. That’s why I’d be perfectly content with a five-year moratorium. Indeed, five years might be the sweet spot. It would give Congress enough time to study the technology, understand its implications, and craft thoughtful federal legislation without the pressure of competing state laws proliferating in the background. This is why I’m giving the current moratorium idea two cheers rather than three.
+The predictable objection to any federal moratorium will be that Congress moves at glacial speed. But this frustration, while understandable, misses the larger constitutional point. When businesses operate across state lines, as all major AI companies do, a patchwork of conflicting state regulations creates exactly the kind of interstate commerce problem the Constitution empowers Congress to address. Right now, lawmakers can point to state activity as evidence that the system is working and avoid making difficult decisions. Remove that escape hatch, and suddenly the pressure to craft thoughtful federal legislation becomes much more intense. And the pressure should be squarely on federal lawmakers to act. Not just on AI, but also on the broader suite of technology issues they’ve been dodging for years.
+Still, the moratorium is a pragmatic compromise that prioritizes getting regulation right over getting it fast. We need smart AI regulation. But we need it to be consistent and evidence-based. A temporary pause on state-level rules gives us the best chance to get this right.

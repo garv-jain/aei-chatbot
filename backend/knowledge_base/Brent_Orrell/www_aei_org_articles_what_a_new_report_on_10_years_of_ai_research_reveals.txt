@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	What a New Report on 10 years of AI Research Reveals | American Enterprise Institute - AEI
+
+‘Lifelong learning’ is not just a buzzword. It’s a necessity as artificial intelligence changes the workplace
+As artificial intelligence advances, the landscape of work may be undergoing a seismic shift. The economic potential of this emerging technology is
+staggering
+; many predict that it will be a transformative force on par with innovations like the steam engine, electricity or the transistor. To paraphrase Bette Davis in “All About Eve,” “Fasten your seatbelts. We’re in for a bumpy decade.”
+The question we all have to grapple with is how bumpy the ride is going to be and what we can do to prepare for it. In a new American Enterprise Institute
+report
+, we examine more than a decade’s worth of research on how AI may reshape jobs and the demand for skills. Some have predicted catastrophic losses in employment while others have suggested AI will generate even more jobs than it destroys as it raises income and wealth around the world. As Yogi Berra liked to say, predictions are hard — especially about the future.
+More recently, the advent of generative AI has ignited debates about how improvements in the technology in areas like creativity and even social and emotional reasoning give AI the
+potential
+to automate
+large swathes
+of currently human-dominated tasks. Generative AI’s remarkable strides in the past 18 months or so have turned the focus of concern toward white-collar professionals, especially writers and coders
+.
+Other analysts have pushed back, arguing that generative AI tools could assist workers with writing or coding, as well as with
+human interaction on the job
+. This application, they say, could lower barriers to entry and democratize skills, potentially boosting the labor market value of workers with less education and training.
+To date, however, efforts to predict the future have borne little fruit, even as some continue to worry about the worst possible outcomes of the technology. In the real world, the impacts of AI on skills and jobs have ranged from nonexistent to slight and even to positive as businesses turn to AI not to replace workers but to compensate for labor shortages and increase the efficiency and productivity of workers.
+Hollywood has
+conditioned
+us to worry about AI, and people understandably crave clarity regarding potentially seismic economic shifts. This craving is, however, unlikely to be satisfied completely (or even partially) not for lack of effort to tease out answers from data but simply because of the scale and complexity of the questions. In light of this uncertainty, how should workers, employers and institutions prepare?
+The answer is remarkably simple, even if it isn’t particularly easy. We need to equip students and workers with the underlying skills that promote flexibility and adaptation. “Lifelong learning” has been a workforce buzzword for decades. It is now becoming a fact of life. Building up the resiliency of our workforce requires developing those skills that undergird learning, the so-called “soft” or non-cognitive skills, while continuing to add and adapt technical work skills.
+Government has a significant role to play in encouraging and financing skill adaptation. In our report, we argue for increasing and enhancing the availability of education and career navigation supports at the secondary and post-secondary level; expanding worker-directed subsidies and resources that help pay for ongoing education; and increasing investment to replicate and expand
+sector-based training programs
+, which have a proven track record of boosting employment and earnings, especially for those at the lower end of the labor market.
+Another option is to modify programs like
+trade adjustment assistance
+so that it covers those who lose their jobs due to automation and need to develop new skills or relocate for new employment. What all these ideas share in common is a partnership approach between individuals, businesses and government to help buffer workers against changes that are beyond their personal control.
+As we stand on the brink of a new era in the workforce and the economy at large, the message is clear: When it comes to the future of work, the only certainty is uncertainty. This means the future belongs to those who can adapt, learn and innovate. By embracing the opportunities presented by AI while preparing for change, we can boost productivity and economic growth with AI and expand opportunities for workers at the same time.

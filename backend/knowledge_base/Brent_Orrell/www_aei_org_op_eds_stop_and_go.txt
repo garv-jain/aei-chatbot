@@ -1,0 +1,27 @@
+PAGE_TITLE: 
+	Stop and Go | American Enterprise Institute - AEI
+
+Automated driving is picking up speed.
+Several years ago there was a bit of a moral panic about the prospect of automated freight transportation replacing human truck drivers. These concerns were, in part, about the prospect of automating yet another large and important industry that was dominated by noncollege, male workers. The issue faded from public consciousness as it became clear automated trucking, and automated driving more broadly, was not advancing as quickly as its proponents had hoped, a fact highlighted by
+high-profile
+,
+fatal accidents
+involving self-driving cars.
+Time, and technology, however, have marched on, and automated driving – for consumers and the freight industry – is back.
+Comma
+, a tech firm specializing in self-driving technology for the mass market, recently began marketing a self-driving “add-on” that operates like the systems found in Teslas. For $1,000, Americans can have a smooth (and safe) self-driven commute without buying a new car.
+In parallel, commercial self-driving is also taking off. I recently had my first ride in a Waymo while visiting San Francisco. Frankly, it was a superlative experience. I enjoy chatting with Uber drivers as much as the next guy, but slipping into the quiet of a Waymo was almost, well, relaxing. Waymo is expanding its
+services
+in the Bay Area and to
+new cities
+.  DOGE-master Elon Musk has
+announced
+plans for expanded autonomous vehicle systems in California and Texas. It once appeared that widespread deployment of autonomous vehicles had stalled. Now they have come roaring back.
+Commercial transportation for freight hauling isn’t far behind. Volvo, DHL, and Aurora Innovation are
+launching
+automated freight transport next month between Dallas and Houston hoping to help overcome chronic labor shortages. Right now, there are about 80,000 open trucking jobs, a number the American Trucking Association (ATA) expects to double over the next five years. Over the next decade, ATA
+estimates
+the industry will need to hire over 1.2 million drivers. To take advantage of the convergence of driver shortages and advancing technology, Nvidia and Continental plan to
+scale-up
+manufacturing of driverless trucks and achieve mass production by 2027.
+The debate over AI and its impact on jobs and skills too often overlooks important context: relative to the size of our economy, the U.S. workforce is not keeping up with economic growth. In the race between workforce needs and available human labor, automation is essential to closing the gap.

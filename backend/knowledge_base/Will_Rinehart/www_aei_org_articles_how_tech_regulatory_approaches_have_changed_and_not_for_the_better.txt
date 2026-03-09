@@ -1,0 +1,89 @@
+PAGE_TITLE: 
+	How Tech Regulatory Approaches Have Changed, and Not for the Better | American Enterprise Institute - AEI
+
+As president, Bill Clinton had failures, both personal and professional, but one thing he got right during his time in office was the
+Framework for Global Electronic Commerce
+. Released in July 1997, the framework served as both a statement and guidance for internet policy in those early days of the technology.
+Back then, the tone was optimistic:
+Many businesses and consumers are wary of conducting extensive business electronically, however, because the Internet lacks a predictable legal environment governing transactions and because they are concerned that governments will impose regulations and taxes that will stifle Internet commerce.
+And so the Clinton administration developed the framework to foster “increased business and consumer confidence in the use of electronic networks for commerce.” Ira Magaziner, who formerly led the administration’s disastrous health care initiative,
+spearheaded the effort
+, which presented five principles based on the administration’s “consultation with industry, consumers groups, and the Internet community.”
+1. The private sector should lead. The Internet should develop as a market driven arena not a regulated industry. Even where collective action is necessary, governments should encourage industry self-regulation and private sector leadership where possible.
+2. Governments should avoid undue restrictions on electronic commerce. In general, parties should be able to enter into legitimate agreements to buy and sell products and services across the Internet with minimal government involvement or intervention. Governments should refrain from imposing new and unnecessary regulations, bureaucratic procedures or new taxes and tariffs on commercial activities that take place via the Internet.
+3. Where governmental involvement is needed, its aim should be to support and enforce a predictable, minimalist, consistent and simple legal environment for commerce. Where government intervention is necessary, its role should be to ensure competition, protect intellectual property and privacy, prevent fraud, foster transparency, and facilitate dispute resolution, not to regulate.
+4. Governments should recognize the unique qualities of the Internet. The genius and explosive success of the Internet can be attributed in part to its decentralized nature and to its tradition of bottom-up governance. Accordingly, the regulatory frameworks established over the past 60 years for telecommunication, radio and television may not fit the Internet. Existing laws and regulations that may hinder electronic commerce should be reviewed and revised or eliminated to reflect the needs of the new electronic age.
+5. Electronic commerce on the Internet should be facilitated on a global basis. The Internet is a global marketplace. The legal framework supporting commercial transactions should be consistent and predictable regardless of the jurisdiction in which a particular buyer and seller reside.
+Confronted with the transformative potential of AI, the Biden administration implemented the “
+Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence
+,” a sprawling document that spans 13 sections, extends more than 100 pages, and lays out nearly
+100 deliverables
+for every major agency of the executive branch.
+The consensus that produced the Clinton-era framework no longer exists.
+The techlash is real
+. The sense that
+we got this wrong and we didn’t regulate quick enough
+has been driving the politics of AI. You can see it at every level of government, in statehouses, in government agencies, and in Congress. Tech needs to be reined in.
+I might have had occasional quibbles, but up until recently, I thought the Federal Trade Commission and the Department of Justice did a fairly
+good job of rectifying bad behavior, like policing fraud, without going too far. But under the Biden administration, that’s changed. Jonathan Kanter, assistant attorney general for the Antitrust Division, and Chair Lina Khan of the FTC
+are trying to redirect the focus
+of each agency.
+There is a
+lot of good evidence
+to suggest that internet platforms and e-commerce sites flourished in the United States because the government kept to its core competencies, working to “ensure competition, protect intellectual property and privacy, prevent fraud, foster transparency, and facilitate dispute resolution, not to regulate.”
+That older era, which is giving way to something new, might be thought of as the era of minimally viable regulation. In the startup world, the minimally viable product (MVP) is the simplest form of a product that solves a core problem and allows for quick user feedback. Like a MVP in business, thinking about the minimally viable regulation focuses us to seek the least amount of regulatory intervention necessary to achieve a specific policy goal. The idea is to start with simple, essential rules and adjust them based on outcomes, feedback, and technological or societal shifts, rather than imposing a complex, fully developed regulatory framework from the outset. Issues largely got worked out in the courts but in some rare cases, a case might make it to the Supreme Court or catch the eye of a leader in Congress.
+The experience of the last decade with social media has irrevocably shifted the politics of tech regulation at all levels of government. Constraint has given way to more muscular policy agendas.
+A bit of the backstory.
+In 1997, the United States was on the cusp of the internet boom. The internet had been fully commercialized and eBay had been founded only two years earlier; Amazon was only just up and running. The Clinton administration’s framework reflected what was then a bipartisan understanding: Technologies and markets could offer immense potential for economic expansion and innovation, so long as they weren’t hindered by premature or excessive regulatory oversight.
+From the very beginning, the internet was populated by “the granola-eating utopians, the solar-power enthusiasts, serious ecologists and the space-station crowd, immortalists,  Biospherians, environmentalists, [and] social activists,”
+observed Howard Rheingold
+, the first executive editor of
+Wired
+magazine.
+From this crucible
+came the hacker ethics
+, an impulse that “expresses itself via a constellation of minor acts of insurrection, often undertaken by individuals, creatively disguised to deprive authorities of the opportunity to retaliate.” The internet boosters saw themselves as vanguards resisting government interference.
+John Perry Barlow’s “
+A Declaration of the Independence of Cyberspace
+” was written in 1996 at the height of internet optimism. It opened with a salvo:
+Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone. You are not welcome among us. You have no sovereignty where we gather.
+Barlow was eclectic. He was a lyricist for the Grateful Dead and a founding member of the Electronic Frontier Foundation, an advocacy organization. But it makes sense that he had a hand in both;
+the two cultures
+, San Francisco and Silicon Valley, were twinned.
+Now, just two years after the public release of ChatGPT 3.5, we are on the eve of another technological revolution, even more disruptive, and the expectations have shifted completely. It is inconceivable to think that any leader would call for another framework along the lines of Bill Clinton’s. Nor can I imagine an advocacy group making another declaration like Barlow’s.
+Congress poised for AI action.
+If the 1996 cyberspace declaration and the 1997 e-commerce framework are products of their time, then
+the production function
+has changed. One of the big changes is that tech became big. Apple, Google, Facebook, and Amazon rose to the top of the stock market and moved up on political agendas. They are now in the crosshairs of the Federal Trade Commission, the Department of Justice, and Congress. In becoming big, technology companies were bound to court political controversies, engendering a reaction. The techlash is reshaping the politics of tech.
+In California, state Sen. Scott Wiener got a sweeping
+AI safety bill
+passed only for it to be vetoed by Gov. Gavin Newsom.
+As Wiener explained it
+, the bill was “an opportunity to apply hard lessons learned over the last decade, as we’ve seen the consequences of allowing the unchecked growth of new technology without evaluating, understanding, or mitigating the risks.” He’s not alone in wanting more stringent AI regulation: There are hundreds of bills being proposed in the states.
+You can see the techlash in the executive branch with Biden’s order, you can see it in the states, and you can see it in Congress with the “
+Roadmap for Artificial Intelligence (AI) Policy in the United States Senate
+,” spearheaded by Senate Majority Leader Chuck Schumer along with Sens. Mike Rounds, Todd Young, and Martin Heinrich. It is a 31-page document dotted with action items for regulating uses of AI. Fully implemented, it
+could cost $32 billion
+.
+While negotiations are in flux, it seems like Schumer will be pushing to secure
+an AI bill package in the lame duck session
+of Congress this year. A number of measures have already passed, including
+nine bills
+out of the House Science Committee, and
+10 bills
+from the Senate Committee on Commerce, Science, and Transportation. But from everything I’ve heard on Capitol Hill, Schumer wants to establish the National Artificial Intelligence Research Resource (NAIRR) program and pass
+the Future of AI Innovation Act
+.
+NAIRR would provide academic and nonprofit researchers with the compute power and government datasets needed for education and research. Given that there would be new spending involved, the bill would need to come through the omnibus or the National Defense Authorization Act. That could be a tall order.
+On paper, the Future of AI Innovation Act establishes artificial intelligence standards, metrics, and evaluation tools. But in practice, it formally codifies what the Biden administration was already doing with his executive order and the AI Risk Management Framework.
+I’ve written before about my concerns with its approach
+but I like how tech policy guru
+Adam Thierer described this catch-22
+,
+While there is nothing wrong with federal agencies being encouraged through the EO to use
+NIST’s AI Risk Management Framework
+to help guide sensible AI governance standards, it is crucial to recall that the framework is voluntary and meant to be
+highly flexible and iterative
+—not an open-ended mandate for widespread algorithmic regulation. The Biden EO appears to empower agencies to gradually convert that voluntary guidance and other amorphous guidelines into a sort of back-door regulatory regime (a process made easier by the lack of congressional action on AI issues).
+I’m just old enough to remember that bygone world of internet optimism.
+I’m not nostalgic for much, but I do think we’re losing something uniquely American as the tech debate has soured.

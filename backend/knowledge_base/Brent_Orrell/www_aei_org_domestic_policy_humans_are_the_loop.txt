@@ -1,0 +1,20 @@
+PAGE_TITLE: 
+	Humans Are the Loop | American Enterprise Institute - AEI
+
+Lightcast, a labor market analysis firm, recently released
+Beyond the Buzz: Developing the AI Skills Employers Actually Need
+, a revealing look at 1.3 billion job postings to see how employer skill needs are shifting in the wake of artificial intelligence. The takeaway: AI mentions in job postings are growing rapidly—especially outside the tech sector—and the jobs reshaped by AI still depend heavily on human skills.
+AI’s spread into the economy of goods and services—not just the economy of 1s and 0s—marks the leading edge of a transformation that could help us break out of sluggish productivity growth and accelerate innovation. Since 2022, job postings mentioning AI have increased eightfold, with most now outside IT. As one commentator put it, we’re moving from a knowledge economy that prized deep but narrow expertise to a
+judgment economy
+that values a balanced portfolio of technical skills and those needed to assess and manage the flood of machine-generated analysis and ideas.
+These findings align with my own research in
+De-Skilling the Knowledge Economy
+in which I likened the rise of office-based automation to robotics in manufacturing: some workers are replaced, others are augmented, with the biggest rewards going to those who can leap from line work to robot supervision. Lightcast’s data shows that jobs requiring AI skills now carry a median salary premium of 28 percent. Business operations roles average $90,000 per year. With one AI skill that jumps to $120,000; with two or more, $130,000. As
+Geoffrey Hinton
+, the “godfather of AI,” recently said, “The ability to do routine cognitive work is as economically useful as having big muscles.” Knowledge workers who can incorporate AI skills are increasingly valuable and being rewarded in paychecks.
+So, what makes for an effective AI-savvy worker? In AI-infused roles, soft skills dominate. Of the top 10 most in-demand skills in these postings, only two are AI-specific. The rest—communication, management, operations, leadership, research, customer service, writing, problem solving—are non-technical. Lightcast’s “AI Skills Disruption Matrix” shows the highest-value capabilities are strategic, interpretive, and relational which form the bedrock for managing AI systems.
+These skills also help navigate AI’s shortcomings. Generative AI is prone to “hallucinations” and confirmation bias: producing false information or overly affirming responses. The underlying problems are the reliability and predictability of AI systems, which affect their stability, accuracy, and performance in the short and long term. Both remain unsolved challenges that require ongoing human oversight and engagement.
+Which brings us to a tired but telling catchphrase: “humans in the loop.” In tech circles, this suggests human oversight is a temporary concession to a fully automated future. In reality, it overstates AI’s maturity and underestimates the enduring importance of human judgment. As long as reliability and predictability continue to be open questions, the human role will be central.
+People are not in the loop.
+They are the loop
+—the governing intelligence managing technological development for human ends. Lightcast’s data and the moral weight of personhood point to the same truth: the future we want—higher wages, better health, broader opportunity—depends on preparing workers to lead the AI revolution, not just watch it unfold.

@@ -1,0 +1,14 @@
+PAGE_TITLE: 
+	AI and People: Better Together | American Enterprise Institute - AEI
+
+The rapid advancement of artificial intelligence (AI) has sparked widespread debate about its potential to displace highly-skilled workers. Recent research by Emilio Colombo and his colleagues,
+Towards the Terminator Economy
+, offers a more encouraging view. The authors’ findings suggest that among more highly skilled workers, generative AI may actually enhance productivity, increase wages, and boost employment.
+Columbo and his colleagues created a Task Exposure to AI (TEAI) index to measure how susceptible various occupations are to AI-driven automation. By analyzing over 19,000 job-related tasks across nearly 1,000 occupations, they found that approximately one-third of US employment is highly exposed to AI—mainly in high-skill jobs that demand advanced education.
+Interestingly, between 2019 and 2023, this exposure correlated positively with employment levels and wage growth. In other words, AI integration has, so far, driven up labor demand and increased compensation in high-skill roles. This follows on another recent study finding that AI skill
+democratization
+may help reduce barriers and allow workers further down the skill ladder to move into higher paying jobs. In other words, AI looks like it may have the important effect of raising skill levels across society, which has long been the key to raising standards of living.
+The study’s observations about how social or
+noncognitive skills
+fit with AI are worth considering as well. Different researchers have different definitions for noncognitive skills. In this study, “critical thinking” and “management” are examined separately from “social skills” which may be more of a distinction than a difference. At senior levels, there’s a lot of overlap between critical thinking, management and noncognitive skills—all of which add significantly to individual, group, and firm-level productivity. Further, these skills appear to be “gateway” skills that enable workers to move from frontline to management roles. In an “up or out world,” noncognitive skills point up.
+It will be years before we know how exactly AI will impact workers, skills, and jobs. This study is helpful confirmation that, at this point, AI is helping to boost worker productivity rather than replace workers. It also helps us see that even in our AI future, it is our humanity and our ability to collaborate that are the essential ingredients of long-term success.

@@ -1,0 +1,72 @@
+PAGE_TITLE: 
+	Tips for Lawmakers About Protecting Minors Online as Instagram Steps Up Safety | American Enterprise Institute - AEI
+
+A federal court last week in
+NetChoice v. Reyes
+preliminarily blocked enforcement of
+a Utah law
+for likely violating the
+First Amendment
+speech
+rights
+of social media companies “to collage user-generated speech into their ‘own distinctive compilation[s] of expression.’” While acknowledging the state’s “earnest desire to protect” the minors’ mental health and privacy interests, US District Judge
+Robert J. Shelby
+deemed the law a content-based restriction on speech that probably wouldn’t survive the rigorous
+strict scrutiny
+standard of review.
+Utah’s law
+applies
+only to “social media service[s]” that “allow users to interact socially with each other,” not to websites that simply present content like news, sports, and entertainment. That’s a pivotal distinction because it makes the law content-based (and thus subject to strict scrutiny) by distinguishing between what Shelby
+called
+“‘social speech’ and other forms of speech.”
+Via Reuters/Thomas White
+Under the law, companies operating social media services
+must
+(1) implement age-verification requirements to determine if account holders are minors; (2) set stringent default privacy settings on minors’ accounts limiting their access to (and ability to share) content; and (3) disable “features that prolong user engagement” such as push notifications. The privacy settings can be changed by minors only
+after
+“obtaining verifiable parental consent.”
+If this seems familiar, it’s likely because––as
+NetChoice
+stated in a
+press release
+following the
+Reyes
+decision––it marks “the sixth court ruling demonstrating yet again that these types of state laws clearly violate the First Amendment, parental rights and data security.” While these measures are well intended, the outcomes should give lawmakers pause to consider whether voluntary efforts and educational programs for minors and parents might more efficiently and effectively accomplish their goals.
+Meanwhile, laudable voluntary efforts to safeguard minors that entail measures similar to some of those Utah lawmakers’ want are occurring. As the
+Wall Street Journal
+reported
+on September 17, Meta’s Instagram platform now is “automatically making youth accounts private, with the most restrictive settings. And younger teens won’t be able to get around it by changing settings or creating adult accounts with fake birth dates.” Meta’s
+press release
+proclaimed, “We’re reimagining our apps for teens with new Teen Accounts. This new experience is designed to better support parents, and give them peace of mind that their teens are safe with the right protections in place.”
+This certainly beats flawed legislation. As I’ve
+written
+before, “Shoddy draftsmanship of any kind serves no function in the long run, clogging courts with cases and squandering taxpayers’ money on defense costs.” Furthermore, what some lawmakers may not realize is that when a plaintiff prevails in a
+federal civil rights lawsuit
+against a state official for violating the First Amendment, a
+federal statute
+allows courts to award the prevailing party “a reasonable attorney’s fee.” In other words, taxpayers may pick up two legal tabs––the government’s bill and part of the plaintiff’s.
+If lawmakers insist on adopting statutes, however, then they should first consider devoting serious time to (1) understanding the difference between a content-based and content-neutral law and how that distinction affects the level of judicial scrutiny to which a statute is subject; (2) reading the US Supreme Court’s 2024 majority opinion by Justice Elena Kagan in
+Moody v. NetChoice
+recognizing the First Amendment editorial rights of prototypical social media platforms (i.e., YouTube’s homepage and Facebook’s News Feed) to curate and present content as they see fit; and (3) reviewing the Court’s 2011 ruling in
+Brown v. Entertainment Merchants Association
+striking down a California law limiting minors’ ability to access violent video games.
+The
+Brown
+decision is one my colleague
+Daniel Lyons
+has
+addressed
+and one I’ve previously
+examined
+. Akin to what they used to say in movie commercials, “If you read just one Supreme Court decision this year, make it
+Brown v. Entertainment Merchants Association
+.” There’s tons for lawmakers to learn in
+Brown
+: (1) the First Amendment speech rights of minors, (2) the strict scrutiny test, (3) the requirement for the government to prove a direct causal link between regulated speech and harm (a mere correlation won’t pass judicial review), (4) problems with laws being
+underinclusive
+(doing too little to truly address a problem) and overinclusive (sweeping up more speech than is necessary to deal with alleged harms); and (5) the need for lawmakers to consider whether there are alternative methods of serving their interests that restrict less speech.
+Brown
+was repeatedly cited by Judge Shelby in
+Reyes
+. One example: He observed that Utah had “not provided evidence establishing a clear, causal relationship between minors’ social media use and negative mental health impacts.” Without such proof, the government lacks a compelling interest necessary for surviving strict scrutiny.
+In sum, voluntary efforts like Instagram’s are the right way to go, but if lawmakers want to regulate online businesses, their homework assignment described here awaits.

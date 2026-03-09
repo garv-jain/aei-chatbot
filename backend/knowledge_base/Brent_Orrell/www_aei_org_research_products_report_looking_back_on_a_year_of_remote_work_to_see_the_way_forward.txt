@@ -1,0 +1,45 @@
+PAGE_TITLE: 
+	Looking Back on a Year of Remote Work to See the Way Forward | American Enterprise Institute - AEI
+
+Key Points
+At the peak of the COVID-19 pandemic, 35 percent
+of employees were working from home. About 14 percent continue to do so,
+roughly double the pre-pandemic rate.
+Remote-work prevalence and preference vary by
+demographic characteristics, income level, occupation, and political and
+ideological orientation.
+Employee outcomes include increased productivity
+and costs and savings in time and money. Increased electronic monitoring by
+employers has limited anticipated increases in worker autonomy. Working from
+home may harm employees’ mental and physical health.
+Employers benefited from increased worker
+productivity and the opportunity to reduce real estate footprints and costs.
+However, they faced challenges with company culture, cybersecurity, and new
+legal risks associated with equal treatment of in-office and remote employees.
+The future of remote work will be determined by
+a market-driven negotiation process between workers and employers navigating
+the costs and benefits of online work.
+Read the PDF.
+Introduction
+The first office was built in London in 1726 to manage trade with other parts of the British Empire. The early office offered unprecedented opportunities for the agglomeration of talent, faster communication, and accelerated innovation.
+Almost 300 years later, the US boasts 5.6 million commercial
+buildings, which collectively account for 71 percent of American floor space.
+1
+In many ways, the idea of the office has become inextricably linked to our idea of work and would have likely continued unchallenged without the COVID-19 pandemic, which has dramatically accelerated the shift to remote work and working from home.
+In March 2020, the percentage of workers telecommuting skyrocketed from 8 percent to 35 percent. It continues to hover around 14 percent, almost double its pre-pandemic level.
+2
+In the fall of 2020, Matthew Leger and I published a report on the trade-offs of fully remote work.
+3
+Nearly a year later, some of the anticipated benefits and drawbacks have been realized, and others turned out more complicated than initially expected. In the meantime, data on remote work have begun to accumulate, telling us something about what happened and what may happen next.
+Read the full report.
+Notes
+University of Michigan, Center for Sustainable Systems, “Commercial Buildings Factsheet,” October 2020,
+https://css.umich.edu/factsheets/commercial-buildings-factsheet
+.
+Alexander Bick, Adam Blandin, and Karel Mertens, “Commuting Patterns During COVID-19 Endure; Minorities Less Likely to Work from Home,” Federal Reserve Bank of Dallas, September 1, 2020,
+www.dallasfed.org/research/economics/2020/0901
+.
+Brent Orrell and Matthew Leger,
+The Trade-Offs of Remote Work: Building a More Resilient Workplace for the Post-COVID-19 World
+, American Enterprise Institute, November 16, 2020,
+www.aei.org/research-products/report/the-trade-offs-of-remote-work-building-a-more-resilient-workplace-for-the-post-covid-19-world/

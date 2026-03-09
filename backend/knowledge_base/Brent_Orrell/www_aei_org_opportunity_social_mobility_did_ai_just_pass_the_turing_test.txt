@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	Did AI Just Pass the Turing Test? | American Enterprise Institute - AEI
+
+A recent
+study
+by UC San Diego researchers brings fresh insight into the ever-evolving capabilities of AI. The authors looked at the degree to which several prominent AI models, GPT-4, GPT-3.5, and the classic
+ELIZA
+could convincingly mimic human conversation, an application of the so-called
+Turing test
+for identifying when a computer program has reached human-level intelligence.
+The results were telling: In a five-minute text-based conversation, GPT-4 was mistakenly identified as human 54 percent of the time, contrasted with ELIZA’s 22 percent. These findings not only highlight the strides AI has made but also underscore the nuanced challenges of distinguishing human intelligence from algorithmic mimicry.
+A selection of conversations between human interrogators (green) and witnesses (grey). Only conversation B is with a human.
+The important twist in the UC San Diego study is that it clearly identifies what constitutes true human-level intelligence. It isn’t mastery of advanced calculus or another challenging technical field. Instead, what stands out about the most advanced models is their social-emotional persuasiveness. For an AI to catch (or fool a human) it has to be able to effectively imitate the subtleties of human conversation. When judging whether their interlocutor was an AI or a human, participants tended to focus on whether responses were overly formal, contained excessively correct grammar, or repetitive sentence structures, or exhibited an unnatural tone. Participants flagged stilted or inconsistent personalities or senses of humor as non-human.
+Proportion of interrogator reasons for AI verdicts (left) and Human verdicts (right), excluding ELIZA games. In both cases, interrogators were much more likely to cite linguistic style or socio-emotional factors such as personality, rather than factors more traditionally associated with intelligence, such as knowledge and reasoning.
+The study’s revelation that socio-emotional factors were more decisive than factual or logical reasoning in passing the Turing test speaks volumes about the nature of human communication. When interacting, we expect emotion, empathy, and inflection, subtle elements that there is someone home in the mind of our interlocutor. Machines are increasingly improving at these things. Last week, OpenAI
+demoed
+their GPT-omni model, which put on a startling performance as a human interlocutor.
+AI’s ability to emulate human interaction comes with a mix of risks and benefits. On the positive side, AI can revolutionize education and productivity by acting as personal tutors or assistants, and helping to smooth out skill deficiencies. It could also help
+teach us the socio-emotional skills
+that it increasingly excels at, perhaps especially
+benefiting
+neurodiverse
+individuals in the workplace.
+In the nature of things, these possible benefits come in a package with potential costs. A socially and emotionally adept AI might, for many people, be preferable to the messiness of actual human relationships, a scenario explored in the 2013 movie
+Her
+. Of more immediate importance, however, is how AI might be used for financial fraud,
+deception
+, and
+disinformation
+.
+To fully harness the benefits of AI while mitigating its risks, there is an urgent need to improve  AI literacy among the general public and to create a system for alerting the public to novel AI efforts at manipulation and theft. Schools and other public institutions have a role to play here as do traditional media. Special outreach to vulnerable populations (e.g., the elderly and others less familiar with technology) can help build awareness that when it comes to AI, seeing (or hearing) is not believing. This can help people reap the rewards of AI and minimize the risks of it becoming an engine for fraud and social conflict.
+AI is not just here to stay; it has only just arrived. We can anticipate that for each good use there will be someone, somewhere, trying to use the technology to gain unfair profit or advantage or simply make mischief. Getting smart about AI—understanding both its positives and negatives—is our best defense.

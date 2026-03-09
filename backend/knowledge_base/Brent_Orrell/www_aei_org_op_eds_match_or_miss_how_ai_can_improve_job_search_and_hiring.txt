@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Match or Miss? How AI Can Improve Job Search and Hiring | American Enterprise Institute - AEI
+
+While job seekers are eager to use AI to improve their chances of landing a job, they are much less enthusiastic about employers using AI to sort candidates
+We often talk about how AI is changing the demand for skills in the job market, but it is also changing the job search process. Job marketing and the way that buyers (employers) and workers (sellers) find each other is a process that can often feel chaotic and arbitrary.
+For some, the emergence of AI has been a cause for relief and celebration, helping to simplify the arduous task of looking for work. For others, it has inspired a fear of dehumanization.
+A recent LiveCareer
+survey
+of 1,150 US workers conducted by LiveCareer provides a glimpse into these dynamics. According to the survey,
+79 percent of workers have already adopted AI tools in their job search—using them to write letters, resumes, acceptance letters, thank-you notes, and complete skills tests.
+These tools also assist with industry research, interview prep, and salary and benefits negotiation.
+As job seekers become more familiar with AI, their confidence in using these tools is increasing, helping them navigate the job market more effectively.
+Some 39 percent of workers reported that AI has “revolutionized” their job search process, making it easier to find jobs, build resumes, and prepare for interviews.
+AI has also improved the quality of their job applications, strengthening their grammar, writing, and vocabulary. As a result,
+42 percent noted increased numbers of interviews and offers.
+Moreover, AI also helps to speed up the job search with 85 percent of respondents indicating that it helped save time on their applications. For job seekers who struggle with presenting themselves, this is a huge leg up, helping to rebalance the recruitment playing field toward qualifications and away from high-stakes interviews.
+While job seekers are eager to use AI to improve their chances of landing a job, they are much less enthusiastic about employers using AI to sort candidates.
+About 75 percent of workers would like the government to prohibit employer use of AI in hiring decisions out of concern that algorithms will overlook qualified candidates.
+This is a case of the geese arguing over who gets the sauce. In a sense, AI is indivisible; it will either be used everywhere or nowhere and all the time or not at all. In a variety of settings, including areas like medicine,
+people still want the “human touch” and fear being left at the mercy of an unfeeling machine.
+But what if that fear is misplaced? The risk of machine error has to be weighed against human
+fallibility and bias
+. An algorithm might overlook a qualified candidate, but so might a human reviewer.
+As is true with AI more generally, we need to think about augmenting rather than replacing human judgment
+. AI tools can review hundreds or thousands of resumes without getting tired or applying inconsistent standards. The technology can also be helpful in
+identifying attributes
+that might be overlooked or undervalued by human reviewers. By helping to find all the potentially appropriate needles in giant haystacks of applicants, AI can help ensure thorough, fair – and fast – review without supplanting humans, who still have the final say based on subtle, intangible factors relating to job fit.
+As Equal Employment Opportunity Commissioner Keith Sonderling pointed out in an
+episode
+of
+Hardly Working
+, ensuring that AI systems are transparent and unbiased is crucial for their ethical–and legal–use in hiring decisions. This underlines another important point: we do not need much in the way of new legal authority to regulate AI fairness in human resources decision-making.
+Existing civil and employment rights laws and regulations are largely sufficient to ensure that employers will be cautious about adoption and use of AI systems with the potential to discriminate.
+When such discrimination or disparate impact arises, employment rules and systems create avenues for appeal and redress.
+There is no perfect world. AI provides significant benefits to workers, job seekers, and employers in a tight and competitive labor market. For the time being, we should let AI do what it does best: find the patterns that will improve alignment between individual skills and organizational needs. New laws and regulations can wait until we have evidence of actual harms.

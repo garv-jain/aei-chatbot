@@ -1,0 +1,102 @@
+PAGE_TITLE: 
+	A Sweltering Pandemic Summer | American Enterprise Institute - AEI
+
+Were it possible to ask the country, “So, how was your summer?” the only possible answer would be: “Not great. In fact, it was
+terrible
+.” Pandemic illness, economic collapse, social distancing, and stifling mask-wear has a way of taking the fun out of the season of sun.
+With
+multiple
+studies
+showing that a more realistic and better organized response by federal and state governments could have dramatically reduced suffering and death, it is doubtful that the epidemic had to unfold the way it did. In fact, there’s a strong
+prima facie
+case to be made that our current increasingly dire health and economic straits are the product primarily, if not exclusively, of our ongoing partisan divide and the way that it distorts our politics and governance.
+One only needs to spend a little time with the testing and case data from across the country to see this pattern. As we approach fall, states governed by moderate to liberal, technocratic governors of both parties are in a much better position to respond to the threats and opportunities of the coming months than those governed by Republicans, who are taking their pandemic management cues from President Trump’s leadership. There is an arc of states running from Maine to Wisconsin who suffered the worst of the outbreak in the early months of the pandemic that appear, for the moment, to have the upper hand in battle against COVID-19. The West Coast and Pacific states place second in this analysis, where conditions have deteriorated slowly and unevenly slowly over the summer, with crushing blows against the virus followed by sudden flares.
+That’s the good news.
+Leaders in the rest of the U.S., including the South, Great Plains and Mountain West, have largely seen the virus slip the leash in their states despite having the benefit of observing what it could do in places like New York, New Jersey, Illinois and Michigan. After reviewing state-by-state testing, hospitalization, and mortality rates it seems clear that for much of the country the initiative is fully on the side of the virus. If COVID behaves like other respiratory viruses, when temperatures start to drop our sweltering pandemic summer may turn out to be a prelude to an even more difficult and tragic fall.
+How did we, the wealthiest and most technologically advanced nation in the world, a country with an unrivaled biomedical capacity, get here?
+The answer is surprisingly prosaic: badly flawed politics and governance at the national and state and local levels. To arrive at this conclusion, I reviewed the basic data about state testing sorted by the political orientation of the party that holds the governorships and state legislatures. In 21 states, these offices and bodies are controlled by Republicans compared to 15 states run by Democrats. The remaining states are divided with one party holding the governorship and the other the legislature. (For the purposes of this discussion, I’m counting Nebraska with its nonpartisan, unicameral legislature, and Alaska, with a tie in one legislative chamber, as unified Republican states. The District of Columbia is included as a Democratic-controlled jurisdiction).
+As shown in the chart below, since May, the Republican “trifecta states” – governor and both houses of the legislature held by the GOP – have seen a
+four-fold growth
+in positive COVID tests. Democratic-trifecta states, that during the summer months were recovering from the sky-high infection rates of the early outbreak, saw their positive counts fall dramatically. In states where government is divided between the parties, summer COVID positive test growth falls between the two.
+GOP Controlled
+Dem Controlled
+Divided Control
+May to August positive COVID test growth factor
+4.09x
+1.97x
+2.34x
+Since averages reveal and conceal, it’s important to look at the performance of individual states as well. The chart below compares the larger (in terms of population, positive cases or both) GOP-, Democratic- and split-control states in terms of the trajectories of their positive COVID test results between May and early-August.
+Low
+Peak
+Current
+Florida
+2.3
+19.6
+17.7
+Texas
+4.7
+24.2
+23.7
+Arizona
+6.5
+27.6
+11.2
+California
+4
+8
+6.7
+New York
+.9
+32.9
+.9
+New Jersey
+1.3
+47.1
+1.7
+North Carolina
+5.2
+12.7
+6
+Massachusetts
+2.1
+29.4
+2.1
+Maryland
+5
+26.3
+5
+Source: Johns Hopkins COVID Tracking Project
+The most salient feature of this data is how the positive rates of states under full GOP control went up and mostly stayed up. While a number of the Democratic-controlled and split-control states touched similar peaks, they have managed their way down to something that begins to approach a tolerable degree of spread. The highest of the non-GOP states, California and North Carolina, currently have about half the positive rate of Arizona.
+The red-state governors share in common an approach to epidemic management that can most generously be called “uneven”: late to impose shutdowns, reluctant to require, or in some cases even permit localities to require, masking, and favoring economic restarts over disease control. The GOP-controlled states above, and many of the others not shown in the chart who share their orientation toward pandemic management, are going into the fall season with a powerful headwind of spreading disease.
+How important are these numbers? Epidemiologists are (almost) like economists, deep in the data and prone to arriving at different conclusions. Some believe we have passed through the worst of the epidemic because actual exposure and infection rates are likely so much higher than the recorded numbers suggest, some saying on the
+scale of 10-to-1
+. If that’s true, perhaps these states have made a significant down-payment on herd immunity which may limit future infection and illness. The Southern, Midwestern, and Plains states are effectively betting this is the case. Who knows? COVID’s a “novel” virus. They might be right!
+But there is another, less hopeful, scenario. When the virus hit New York City, it was still winter and the disease spread widely and lethally beginning in January before federal, state, and local leaders clearly grasped and responded to the threat. This, combined with serious mistakes in handling nursing homes, caused staggering losses requiring a near-total economic lockdown to contain the disease.
+By contrast, much of the rest of the country has had its initial encounter with COVID during the warmer spring and summer months. With respiratory viruses, seasons matter a lot. Virtually every respiratory illness tends to spread faster and more lethally during the winter months. Influenza, for instance, virtually disappears during the spring and summer in the northern and southern hemispheres. For reasons we don’t fully understand, these viruses cause more disease and more severe disease during the colder months. Recent developments in
+Melbourne, Australia
+and
+New Zealand
+, where it is deep winter, ought to pique our interest in this regard.
+In 1918, the fall wave of the influenza pandemic was 12-times larger than the spring/summer wave. COVID, thank God, does not have the lethality of that influenza although
+it isn’t as far off as we first believed
+, either. If COVID follows a similar seasonal pattern, it is possible we might see a significantly higher peak in the fall/winter than what we saw over the past few months. The greater the degree of community spread underway as we enter the colder months, the more cases we are likely to see. The question that hangs over us is this: Is COVID-19, now entrenched throughout the country, a viral bomb set to go off as the mercury falls and the school year begins? We don’t know for certain but the possibility helps explain why key government figures like
+Deborah Birx
+,
+Anthony Fauci
+, and
+Robert Redfield
+are issuing increasingly dire warnings about the fall – even at the risk of crossing the President.
+If anything’s been demonstrated conclusively since the pandemic started, it’s that hard-eyed realism is what’s most necessary to combat it. This is where political and governance questions become critical. Over the past three months, you can find red states with blue governors (Kentucky) that have struggled, and you can find blue states with red governors who have done reasonably well at avoiding disaster (Maryland and Massachusetts). What’s vanishingly rare (Mike DeWine’s Ohio being the lone exception) is a state with unified Republican control that has not seen their COVID caseloads rise dramatically, or even explode, during the summer of 2020 because they have refused to take the basic, necessary steps to contain the illness: lock-down, mask-up, and follow social distancing. And it isn’t just elitist DC commentators who think these states have a governance problem; voters are sending the same message. The Republican governors in
+Arizona
+,
+Texas
+, and
+Florida
+have all seen their approval ratings collapse based on the perceived failures of their COVID responses. These do not compare well with governors in places like
+Michigan
+,
+New Jersey
+,
+Connecticut
+, whose approval ratings have jumped markedly due to their aggressive responses to the viral threat.
+What explains the reluctance of red state elected officials to take the obviously necessary steps against COVID? There’s little doubt that President Trump’s hold over the rank-and-file of his party, and the way it limits the ability of state and local officials to respond to the pandemic, is a key factor. None of these governors can afford, for purposes of day-to-day decision-making and their longer-term political prospects, to have daylight between themselves and the Trump-controlled GOP populist wing. Any position the President stakes out no red state Republican governor can openly dispute much less defy without sizable political repercussions. It’s been easier for these leaders, with the consent and encouragement of their base voters, to try to wish COVID away. Which tells you a lot about what’s wrong with American politics today and especially with the Republican party.

@@ -1,0 +1,76 @@
+PAGE_TITLE: 
+	Artificial Intelligence and Morphed Sexual Imagery of Real Minors: Pushing the Free-Speech Envelope Too Far | American Enterprise Institute - AEI
+
+In April, AEI’s
+Daniel Lyons
+presciently
+described
+the “frightening concern” that artificial intelligence (AI) will produce “virtual”
+child sexual abuse material
+of a visual quality “indistinguishable from the real thing.” Seven months later, a slightly different variety of nefarious underage content—one melding non-nude images of real, identifiable minors with AI-generated renderings of their naked bodies—is garnering headlines.
+The Wall Street Journal
+reported
+in early November about New Jersey’s
+Westfield High School
+where “at least one student had used an AI-powered website to make pornographic images using girls’ photos found online, then shared them with other boys in group chats.” The girls “found out boys were sharing nude photos of them,” but the nudity wasn’t real.
+Via Adobe Stock
+The Washington Post then published
+a story
+describing how a 14-year-old girl, who had “never posed nude,” discovered “a nude picture of herself.” According to police, “a group of local boys had grabbed clothed photos from the social media profiles of several girls in their town and used an AI ‘nudifier’ app to create the naked pictures.”
+These images are a subset of
+deepfakes
+, which Professors
+Mary Anne Franks
+and
+Ari Ezra Waldman
+describe
+as “audio or visual material digitally manipulated to make it appear that a person is saying or doing something that they have not really said or done.” They add that “deep-fake technology leverages machine-learning algorithms to create highly realistic impersonations from images or audio recordings of actual people.”
+Are fake nude images of actual, identifiable minors—
+morphed child
+sexual abuse material—protected by the
+First Amendment
+’s guarantee of free expression? Morphed sexual images of “actual” and “identifiable” minors are banned, respectively, by two federal statutes: 18 U.S.C.
+§ 2252A(a)
+and
+§ 2256(8)(C)
+. The
+US Supreme Court
+hasn’t ruled on their constitutionality. However, it has decided matters that can help one unpack the current controversies.
+Actual Child Sexual Abuse Material
+: The Court
+concluded
+in 1982 that producing and distributing child sexual abuse material involving real minors is not protected by the First Amendment, even if the content doesn’t rise to the graphic level of
+obscenity
+(a distinct category of unprotected expression) had it involved adults (i.e., obscenity is
+not
+the same thing as actual child sexual abuse material). Eight years later, the Court
+added
+that “the possession and viewing of [actual] child pornography” is
+not
+constitutionally protected, thereby disincentivizing its production. In short, it is illegal to create, distribute, and possess child sexual abuse material involving real children. A
+federal statute
+, along with state analogs, defines the types of sexual conduct involving minors (those under age 18) that constitute child sexual abuse material.
+Virtual Child Sexual Abuse Material
+:
+The Court in 2002 declared that a federal statute banning virtual child sexual abuse material— “sexually explicit images that appear to depict minors but were produced without using any real children”—was too broad and violated the First Amendment. Justice Anthony Kennedy reasoned for the majority that no real minors are harmed when producing such content, and therefore punishment of its viewers constitutes punishment for a thought crime.
+Morphed Child Sexual Abuse Material
+:
+In the same decision where it protected virtual child sexual abuse material, the Court passed on addressing whether a statute banning morphed child sexual abuse material— “altering innocent pictures of real children so that the children appear to be engaged in sexual activity”—was constitutional. Morphed child sexual abuse material, Kennedy wrote, “implicate[s] the interests of real children” that are closer to those that spurred the Court’s 1982 ruling banning “actual” child sexual abuse material. Those interests include protecting the “
+physiological, emotional, and mental health of the child
+,” plus guarding against the permanent record of sexual abuse that could haunt minors years later.
+Do statutes banning morphed—not virtual—child sexual abuse material violate the First Amendment? Although the US Supreme Court hasn’t ruled on the issue, other courts have. For instance, Ohio’s Supreme Court in 2007
+upheld
+a state law regulating morphed child sexual abuse material. In 2011, a federal appellate
+concluded
+that such morphed images are unprotected by the First Amendment, observing “that the interests of actual minors are implicated when their faces are used in creating morphed images that make it appear that they are performing sexually explicit acts.” Another federal appellate
+agreed
+one year later, and in 2020 the US Court of Appeals for the Fifth Circuit
+expressed its agreement
+“with the majority view that morphed child pornography does not enjoy First Amendment protection.”
+But as “majority view” suggests, and as Professor
+Stacey Steinberg
+writes
+, some state “courts have held that morphed images do not constitute child pornography” and thus are legal. Complicating the matter is what precisely the images in question depict. Nudity of minors alone does not constitute child sexual abuse material; there must at least be a “
+lascivious exhibition
+” of private areas.
+Hopefully today’s controversies will soon prompt the Supreme Court to declare morphed child sexual abuse material outside the ambit of First Amendment protection.

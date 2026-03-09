@@ -1,0 +1,34 @@
+PAGE_TITLE: 
+	Age Verification Laws vs. Parental Controls: Why the Legislatures, Courts, and Tech Aren’t on the Same Page | American Enterprise Institute - AEI
+
+Technology is an integral part of our daily lives. Whether we connect with friends, seek instant information, or find entertainment, the online world is intricately woven into our life experiences. However, policymakers are encountering an increasing number of parents demanding regulations as their answer to protect America’s children. Some lawmakers in Congress and state legislatures nationwide have turned to age verification legislation as a solution.
+Via Adobe
+Many draft legislative efforts would require technology companies—device manufacturers, app stores, websites, and internet service providers (ISPs)—to identify underage users and block them from certain apps or online content. However, these broad age verification mandates present risks of government overreach and even threaten to undermine efforts to keep children safe online. These bills would also significantly threaten the free speech rights of all Americans, and the data privacy risks they pose contradict the stated intentions of such legislation. My AEI colleague, Clay Calvert, has
+written
+extensively about the legal challenges and the balancing of interests between protecting minors and respecting the First Amendment rights of adults.
+The US Supreme Court will rule this spring in the case of
+Free Speech Coalition v. Paxton
+.
+It addresses the constitutionality of a Texas online age-verification
+statute
+that ostensibly is designed to limit minors’ access to sexually explicit content that Texas deems is harmful to them. The Court will determine whether online age-verification statutes like Texas’s must clear the rigorous strict scrutiny standard or whether they only need to pass the rational basis test.
+Broad age verification proposals raise significant constitutional concerns. Historically, the Supreme Court has invalidated similar laws that restrict users from accessing certain kinds of content due to violations of the First Amendment. Age verification proposals pose the same issues. Furthermore, age verification laws impose unconstitutional burdens on adult speech, as established by court rulings. Many federal courts have blocked such statutes in states, including Arkansas, Ohio, Texas, Utah, and others. Legislators considering age verification legislation in their states should understand that any such law will likely become mired in costly legal disputes—to the detriment of taxpayers—only to fail on First Amendment grounds that the courts have already addressed.
+In 2023, Arkansas
+passed
+a law mandating that social media users verify their age using government-issued ID or biometric data. District Judge Timothy L. Brooks
+blocked
+this law, stating it was likely in violation of the First Amendment. He referenced a 1997 Supreme Court case (Reno v. ACLU), explaining that requiring adults to verify their age would deter many individuals from using social media platforms, thereby limiting free speech.
+Some argue that modern technology has resolved the issue of unconstitutional age verification laws. However, this is not accurate. Even in Europe, France’s data protection agency
+found
+that no current age verification system effectively meets three essential requirements: verifying age accurately, being user-friendly for everyone, and protecting user privacy. This indicates that despite technological advancements, the necessity for age verification still encounters the same fundamental challenges today.
+While lawmakers promote age verification mandates as a solution for children’s online safety, these measures often create more problems than they solve. Children can easily circumvent restrictions through VPNs, shared accounts, or alternative devices, while parents develop a false sense of security relying on these ineffective barriers. More concerningly, these systems require collecting sensitive personal data like government IDs and biometric information, which could be compromised in data breaches, creating greater risks than the original issues they aimed to address.
+A more effective approach would focus on providing parents with practical tools and education to help protect their children online.
+This guide,
+which I created, provides detailed information about parental control tools and practical strategies for protecting children online. This knowledge-based approach creates a safer digital environment without compromising privacy or access to information.
+As I’ve
+written
+about in the past, parents, communities, schools, government officials, and tech companies must thoughtfully consider their roles in promoting children’s mental and social wellness while also taking measures to protect them online. Policymakers in various states have launched programs to empower parents and raise awareness about the tools available to safeguard children. These controls are typically easy to access and set up, enabling parents to restrict internet content and the types of applications children can download. For example, in Florida, children receive training on the dangers associated with social media and other harmful online content. As Edward Longe, the director of the Center for Technology and Innovation at The James Madison Institute,
+stated
+, “Think of driver’s ed for social media.”
+By focusing on real, practical solutions, we can create a safer digital world for children—without compromising privacy, free speech, or access to information
+.

@@ -1,0 +1,78 @@
+PAGE_TITLE: 
+	The Right to Listen: Wrongly Rejected in Murthy v. Missouri? | American Enterprise Institute - AEI
+
+The
+US Supreme Court
+this year ruled on three cases—
+Lindke v. Freed
+,
+Murthy v. Missouri
+, and
+Moody v. NetChoice
+—affecting social media platforms and the
+First Amendment’s
+guarantee of free expression. While prior posts encapsulated the decisions in
+Lindke
+,
+Murthy
+, and
+Moody
+, this one and others will dive deeper into significant aspects of the opinions I’ve not addressed.
+The Court’s rejection in
+Murthy
+of
+claims
+by states and individuals that they possess a “right to listen” sufficient to pursue an order barring federal officials from prospectively violating it is my focus here. Fundamentally, the right to listen pits a state’s ability to hear its citizens’ views on matters of public concern and to help its citizens receive others’ speech against the federal government’s power to persuade private entities—social media platforms—to suppress or deprioritize messages that otherwise would expand the diversity of perspectives to which both state officials and citizens are exposed.
+Via Reuters
+In
+Murthy
+, the federal government’s power prevailed. A six-justice majority concluded that the plaintiffs—Missouri, Louisiana, and five individuals—lacked
+standing
+to seek an injunction
+barring
+multiple Biden administration officials and federal agencies “from pres­suring or encouraging” social media platforms to suppress First Amendment-pro­tected speech about matters like COVID-19 policies and the 2020 presidential election. That conclusion reversed the
+US Court of Appeals for the Fifth Circuit’s
+October
+ruling
+not only that every plaintiff had standing to sue, but that “[f]ederally coerced censorship harms the [states’] ability to listen to their citizens.” The Fifth Circuit added that “[t]his right to listen is ‘reciprocal’ to the [states’ own] right to speak,” noting that “[o]fficials from . . . the States of Missouri and Louisiana testified that they regularly use social media to monitor their citizens’ concerns.” It explained that
+when the federal government coerces or substantially encourages third parties to censor certain viewpoints, it hampers the states’ right to hear their constituents and, in turn, reduces their ability to respond to the concerns of their constituents. This injury . . . means the states likely have standing.
+In short, the people’s elected representatives get to peer into their citizens’ mindsets and outlooks on social media, thereby informing public policy and lawmaking without necessitating opinion polling. The plaintiffs
+contended
+before the Supreme Court that a state’s right to listen to its citizens is a “sovereign interest.”
+In the same filing, the five individual plaintiffs—three scientists plus Jim Hoft, a
+founder and owner
+of the
+Gateway Pundit
+, and Jill Hines,
+a co-director
+of
+Health Freedom Louisiana
+—asserted a First Amendment right to listen to others whose speech they alleged was suppressed by prominent platforms in line with the government’s desires. As the
+brief
+averred, “The First Amendment is violated when the government prevents a listener from receiving information and ideas.” The individual plaintiffs claimed an “interest in commenting on, engaging with, and re-posting the content of the censored speakers,” with “the scientist Plaintiffs—
+[Jayanta] Bhattacharya
+,
+[Martin] Kulldorff
+, and
+[Aaron] Kheriaty
+—emphasiz[ing] that following others’ speech is essential to their scientific inquiry.”
+The Supreme Court has long recognized an individual’s First Amendment
+right to receive information
+. A 1965
+opinion
+determined that “[t]he right of freedom of speech and press includes not only the right to utter or to print, but the right to distribute, the right to receive, [and] the right to read.” Four years later, the Court
+deemed
+it “well established that the Constitution protects the right to receive information and ideas.”
+What went wrong with the right-to-listen argument at the Supreme Court? Writing for the majority, Justice Amy Coney Barrett
+called
+the individual plaintiffs’ right-to-listen theory “startlingly broad, as it would grant all social-media users the right to sue over
+someone else’s
+censorship—at least so long as they claim an interest in that person’s speech.” (Emphasis in original.) In brief, the proverbial floodgates of litigation would swing open, drowning the judiciary with complaints. Barrett added that while “the plaintiffs em­phasize that hearing unfettered speech on social media is critical to their work as scientists, pundits, and activists,” they failed to “point to any specific instance of content moderation that caused them identifiable harm.” She found similar shortcomings with the states’ right-to-listen theories: They “have not iden­tified any specific speakers or topics that they have been unable to hear or follow.”
+What’s the problem with the majority’s analysis?
+Philip Hamburger
+of the
+New Civil Liberties Alliance
+asserts
+that the majority’s floodgates concern “is especially disturbing when the government has censored millions upon millions of posts with the primary goal of suppressing what the American people can hear or read.” In sum, whether it’s a state’s sovereign interest or an individual’s unenumerated First Amendment right, the right to listen was closely cabined in
+Murthy
+. That will hinder states in future online free speech litigation against the federal government.

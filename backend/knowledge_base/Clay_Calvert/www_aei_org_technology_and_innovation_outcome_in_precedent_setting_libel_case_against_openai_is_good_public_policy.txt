@@ -1,0 +1,79 @@
+PAGE_TITLE: 
+	Outcome in Precedent-Setting Libel Case Against OpenAI is Good Public Policy | American Enterprise Institute - AEI
+
+Imagine a generative artificial intelligence (GenAI) tool such as ChatGPT produces false and defamatory content about you in response to a journalist’s query. The journalist then incorporates the same libelous statements into an article that her newspaper publishes.
+What are your odds of winning a libel case against the maker of the GenAI tool? They’re slim, especially if a May ruling by a Georgia court in
+Walters v. OpenAI
+is correct. Conversely, if you sue the newspaper, your odds of success increase.
+Via Adobe Stock.
+The likelihood of such divergent outcomes is sound public policy, given
+Judge Tracie Cason’s
+logic in ruling for defendant OpenAI (ChatGPT’s owner) on its
+summary judgment motion
+in
+Walters
+. Her decision incentivizes companies like OpenAI not only to repeatedly warn users about possible falsities, but also to maximize research and training efforts to reduce them. Furthermore, it incentivizes journalists not to negligently rely on AI-generated responses but to independently verify facts with sources more reliable than fallible GenAI products.
+Here are some key facts from
+Walters
+, a case I first examined in
+August 2023
+and then in
+January
+. It
+is
+“the first-ever case against an artificial intelligence developer by a plaintiff claiming that he had been defamed by ‘hallucinated,’ or factually inaccurate, generative AI output.”
+The dispute stems from Frederick Riehl’s use of ChatGPT in May 2023. Riehl, the editor-in-chief of
+AmmoLand.com
+, asked ChatGPT to summarize a complaint filed by the Second Amendment Foundation (SAF) against Bob Ferguson, then-attorney general of Washington state. According to Cason’s
+decision
+, “Riehl pasted sections of the
+Ferguson
+complaint into ChatGPT and asked it to summarize those sections, which it did accurately.” Riehl then fed into ChatGPT a URL link to the complaint, asking it for a summary. ChatGPT, however,
+told
+Riehl “it did ‘not have access to the internet and cannot read or retrieve any documents.’” Two further efforts by Riehl to make ChatGPT read the complaint via the same URL ultimately led it to falsely claim the complaint accused Mark Walters of embezzling SAF’s money. Riehl then asked ChatGPT for related news reports,
+but
+“ChatGPT responded that it had a ‘knowledge cutoff date of September 2021,’ well before the
+Ferguson
+complaint was filed, and told Riehl that it did ‘not have any information about news reports on this specific case.’” Riehl quickly
+realized
+ChatGPT’s output about Walters “was not true.”
+Mark Walters
+is a gun rights advocate
+and
+“a nationally prominent radio show host.” He
+sued
+OpenAI for libel, claiming “[e]very statement of fact in [ChatGPT’s] summary pertaining to Walters [was] false.”
+Cason ruled against Walters for two reasons––warnings and fault standards––beyond damages-related problems. First, she
+observed
+that OpenAI repeatedly warns users “that ChatGPT can and does sometimes provide factually inaccurate information” and that Riehl had indeed “received the repeated disclaimers warning that mistaken output was a real possibility.” She additionally noted that:
+ChatGPT warned Riehl that it could not access the internet or access the link to the
+Ferguson
+complaint that Riehl provided to it, and that it did not have information about the period of time in which the complaint was filed.
+These warnings and red flags defeated Walters’ libel claim
+because
+a “reasonable reader” in Riehl’s position would understand “that the challenged ChatGPT output was not stating ‘actual facts.’” Successful libel suits require false
+factual
+assertions, so Walters’ claim failed.
+This outcome incentivizes transparency by GenAI companies about disclosing problems with their products. To wit, OpenAI’s
+terms of service
+warn users that “[o]utput may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information” and that “[y]ou must evaluate Output for accuracy.”
+Second, Walters lost because he couldn’t prove either the negligence or
+actual malice
+fault standards in libel law. OpenAI wasn’t negligent in letting ChatGPT produce falsities
+because
+OpenAI exercises reasonable care in designing ChatGPT to “reduce the likelihood of hallucination.” In short, OpenAI acted as a reasonable publisher of information in its position to “avoid mistaken output.” This outcome incentivizes
+all
+GenAI companies to undertake similar efforts to minimize falsities.
+OpenAI didn’t publish the falsities with actual malice because Walters offered “no evidence that anyone at OpenAI had any way of knowing that the output Riehl received would probably be false.” Cason
+wrote
+that “only such evidence could meet Walters’ burden of showing ‘actual malice.’” The mere
+possibility
+that OpenAI
+might
+make a mistake is not the same as proving that OpenAI was subjectively aware of the
+probable
+falsity of “the specific challenged output itself.”
+Cason’s ruling incentivizes journalists not to rely on GenAI-produced information. That’s because they would be acting negligently and recklessly by depending on a technology that can’t be trusted to produce “
+actual facts
+.”
+In sum, Cason’s opinion incentivizes constructive conduct by both GenAI companies and news organizations.

@@ -1,0 +1,62 @@
+PAGE_TITLE: 
+	Perspective: Is Your Boss on Your DOS? How Remote Work Monitoring Can Work | American Enterprise Institute - AEI
+
+As COVID-19 recedes, American workers are filtering, slowly and fitfully, back to the office. In the past few years, remote work has gone from rarity to commonplace to an ongoing, contentious renegotiation between workers and employers. One front in this tug-of-war is electronic monitoring of remote workers.
+You’ve heard of
+Elf on a Shelf
+? Welcome to the world of “Boss on your DOS.”
+Countless
+media stories
+have shed a not-so-flattering light on employers’ use of remote work monitoring tools to combat “
+cyber loafing”
+when employers believe remote workers are goofing off or using company resources for personal benefit. Electronic monitoring of remote workers is partly an anxiety response when managers fear someone, somewhere isn’t working as hard they could.
+Much of this concern seems to be misplaced. Stanford University’s Nicholas Bloom and his research team estimate productivity will
+significantly increase
+simply due to less time spent on commuting. If so, it’s worth asking whether remote work monitoring is, in reality, a solution looking for a problem.
+Trust and markets
+Our entire economic system depends on an experience-based belief that most people and businesses can be trusted to keep their ends of the bargains. The invisible threads of trust — backed by explicit laws, rules and courts — help ensure we can transact business with relative confidence we will get timely value for money.
+Employment arrangements are part of this trust-based system too. Business owners go to great lengths to identify trustworthy workers, part of the
+noncognitive characteristics
+that employers depend on far more than the technical skills used to carry out individual tasks. Conversely, workers trust that employers will pay fairly and ensure safe and comfortable working conditions. If an employer or worker breaks this trust, either party can seek a new situation.
+Right now, most American workers appear to be happy with their current arrangement. A recent American Enterprise Institute
+survey
+on worker attitudes found that 93% of American workers say their boss “trusts me to do my job” and 88% believe their boss treats them fairly. Trust is our economy’s most important asset and introducing technologies that potentially erode trust carries significant risk of reducing economic efficiency and performance.
+Erosion of trust
+The initial returns on remote worker monitoring are not promising. In fact, use of electronic monitoring
+may be eroding trust
+between workers and supervisors and is creating adversarial employee-employer relationships. Monitoring seems to
+increase worker anxiety
+,
+reduce workers’ sense of agency
+and sometimes distort work behavior. For example, when monitoring technology was used, hospital chaplains were
+rewarded more
+for spending time with families who experienced death than they were for spending time with patients and families while the individual was still alive. In essence, monitoring incentives encouraged chaplains to leave people on their deathbed without pastoral support. They stopped helping families and started serving their metrics.
+Monitoring programs can also be remarkably rigid and clumsy. The system might flag a worker with too few keystrokes, too little mouse activity, or eye and head movements suggesting they were unproductive. This can draw unwarranted intervention from a supervisor that
+disrupts workflow
+, resulting in additional stress and lost productivity. Once immersed in the implicit mistrust of monitoring, workers may try to counteract it. Some employees have resorted to
+“mouse shakers”
+and other technologies that mimic productive behaviors to avoid being flagged by monitoring tools. Carried to extremes, electronic monitoring may lead to
+employer overreach
+, invasive surveillance and discrimination on the job.
+It’s easy to see how this might cause a downward spiral. Increased monitoring damages employee trust and mutuality fueling
+burnout, damaging morale
+, reducing
+motivation
+and
+increasing propensity for turnover
+. Turnover increases recruitment and training costs and reduces business performance, incentivizing companies to find other ways to cut costs and boost productivity, including tighter monitoring. By attempting to address a perceived productivity problem, employers end up aggravating or amplifying it.
+Monitoring that works
+For all remote work monitoring’s drawbacks, it could be used to improve management practices by reinforcing the virtues of workplace trust. Here’s how.
+Transparency
+Transparency is a key consideration for companies using electronic monitoring. Employees need to have a clear understanding of what data their company collects and how it will be used. They should also be regularly reassured that the company will build adequate safety and privacy checks into the system. Bright-line policies on how the system will
+not
+be used (e.g., punitive or overly intrusive practices) are also needed.
+Strengthen the cycle
+In the AEI report “
+Dignity at Work
+,” we argue that a healthy workforce culture should have a cycle of recognition, development, and expression of worker interests, knowledge, skills, and abilities. Within this framework, the data collected via electronic monitoring can be critical in promoting job satisfaction and stability. If a worker performs at an above-average level on a task, this could provide important guidance for their career within the organization. Similarly, persistent challenges in performing tasks may help employers target training opportunities or reconfigure job responsibilities to maximize worker satisfaction and productivity.
+Focus on organizations
+Aggregated monitoring data can identify firm-wide bottlenecks by uncovering areas of
+organizational weakne
+ss rather than individual weakness. By focusing on ways of improving systemic function rather than eroding interpersonal trust, employers, managers and workers all win.
+Raising the productivity of the American workforce is the key to increasing income and raising living standards. If remote work continues to grow, employers will need tools to monitor and improve performance and productivity. The challenge is to develop and use tools that reinforce trust rather than weaken it.

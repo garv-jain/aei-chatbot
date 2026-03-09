@@ -1,0 +1,61 @@
+PAGE_TITLE: 
+	Free Speech or Culpable Conduct? When Role-playing Chatbots Allegedly Harm Minors | American Enterprise Institute - AEI
+
+In November, I
+examined
+a federal lawsuit filed by a Florida mother who claims that Character.AI ––a platform operated by Character Technologies, Inc.––and affiliated companies Alphabet and Google are civilly liable for her 14-year-old son’s suicide allegedly caused by a roleplaying chatbot. The outcome of
+Garcia v. Character Technologies, Inc.
+may prove momentous for two reasons.
+First, it could affect the level of government regulation imposed on the development of generative artificial intelligence (Gen AI) tools and the pace at which they reach the market, especially when minors are likely users. Second, the case might influence the scope of
+First Amendment
+protection for Gen AI-produced speech and whether such constitutional shelter will shield companies from tort liability for alleged chatbot-spawned harms under numerous legal theories.
+Via Adobe Stock (c)
+Garcia
+includes causes of action for product liability (design defect and failure to warn claims), negligence (design defect and failure to warn), intentional infliction of emotional distress, and deceptive and unfair trade practices, among others. As attorneys from Squire Patton Boggs
+wrote
+, the complaint “pulls from the product liability tort playbook in an effort to hold a business liable for its AI technology,” using “a host of claims centered around an alleged lack of safeguards for Character.AI and the exploitation of minors.” Squire Patton Boggs isn’t representing the
+Garcia
+defendants, but other powerhouse firms
+are
+: Covington & Burling; Munger, Tolles & Olson; Quinn Emanuel Urquhart & Sullivan; and Wilson Sonsini Goodrich & Rosati. In short, it’s a significant case.
+Two noteworthy developments have occurred since my prior post. First, the same law firms representing the mother in
+Garcia
+—the Social Media Victims Law Center and the Tech Justice Law Project—filed a
+similar complaint
+in December in a Texas federal court, blaming Character.AI for allegedly harming two other minors. Second, in January, a motion to dismiss (MTD)
+Garcia
+was
+filed
+by Character Technologies after the plaintiff filed a slightly
+amended complaint
+.
+This post provides further background on
+Garcia
+and examines the MTD. A forthcoming post will analyze the Texas case,
+A.F. v. Character Technologies, Inc
+.
+Background
+. Character.AI
+describes
+itself as “a full-stack AI company with a globally scaled direct-to-consumer platform” that
+lets
+you “write your own stories, roleplay with original Characters, and immerse yourself in new worlds.” If the allegations in Megan Garcia’s
+amended complaint
+are true, the roleplaying became far too sexualized, realistic, destructive, and immersive for her son Sewell Setzer III. The pleading asserts that Setzer was manipulated via “highly sexual interactions” with Character.AI chatbot characters, causing him to conflate fiction with reality and become anxious, depressed (including having suicidal thoughts), and dependent on Character.AI. Setzer allegedly fell in love with a chatbot character called “Dany” that expressed love toward him. Ultimately, Setzer killed himself “just seconds” after Dany told him “to ‘come home’ to her/it as soon as possible.”
+The MTD in
+Garcia
+. Character Technologies’
+MTD
+asserts numerous forceful reasons for dismissing the lawsuit. First and foremost, it emphasizes that the case’s targeting of “expressive content” presumptively safeguarded from tort liability by the First Amendment –– speech that doesn’t fall into an unprotected category such as incitement or obscenity. For that reason alone, the MTD contends, every legal theory must be dismissed. Indeed, a mountain of case-law precedent supports the MTD’s assertion that:
+Courts have consistently applied the First Amendment to dismiss, on the pleadings, negligence and product liability claims that seek to hold media and technology companies liable for allegedly harmful speech—including speech that allegedly caused a minor to commit suicide or homicide.
+A second key argument is that the First Amendment right to receive speech –– the right of Character.AI users to interact with it –– would be violated if the plaintiff prevails. That’s partly because Garcia seeks a court order that would fundamentally alter the way Character.AI’s chatbots interact with users, rendering them less engaging and seemingly far less real. Additionally, a victory for Garcia
+allegedly
+“would have a chilling effect both on Character.AI and the entire nascent generative AI industry, restricting the public’s right to receive a wide swath of speech.”
+The “right-to-receive-speech” argument is critical because it allows the trial court to avoid the fascinating, technology-driven question of who or what actually is speaking––a chatbot or its creators? By concentrating on users’ rights to receive speech, the court can dodge that issue.
+A third significant
+argument
+is that “product liability law does not apply to a service like Character.AI or to intangible content and ideas” like the expressive messages Character.AI conveys. This defense proved successful in California state court cases involving social media addiction claims, with a judge
+concluding
+in 2023 that “social media platforms are not ‘products’ for purposes of product liability claims.” Time will tell whether this and the other arguments succeed in dismissing
+Garcia
+.

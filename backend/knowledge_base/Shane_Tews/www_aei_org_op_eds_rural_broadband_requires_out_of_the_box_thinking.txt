@@ -1,0 +1,43 @@
+PAGE_TITLE: 
+	Rural Broadband Requires Out-of-the-Box Thinking | American Enterprise Institute - AEI
+
+Rapid broadband accessibility remains a U.S. priority.
+With the passage of the bipartisan Infrastructure and Jobs Act and implementation of the Federal Communications Commission’s Rural Digital Opportunity Fund, closing the digital divide may be on the horizon — at least when it comes to broadband at home.
+But while these programs are focused on wiring up our rural communities — stringing fiber on poles and down conduits — neither focuses on mobile broadband, a critical part of the equation for those that want to be connected.
+via Reuters
+The vast majority of Americans (83%!) now rely on their cellphones to communicate on the go, with an increasing number relying on 5G.
+5G and its applications are made to serve rural communities. Widespread 5G can help rural, low-income Americans access important medical appointments hundreds of miles away via telehealth apps or allow their children to attend remote tutoring sessions.
+The promise of 5G will untether the Internet in ways we can’t even imagine.
+But rural America has a 5G problem —
+82 million Americans
+are not yet covered by 5G networks. Even worse, 8 million Americans cannot even access 4G LTE mobile broadband at speeds of 10/3 Mbps — which is slower than the federal benchmark of 25/3 Mbps.
+So what can be done about it? A lot.
+Spectrum is the lifeblood of any wireless network, and more is needed
+First and foremost, there’s a need for more spectrum, the lifeblood of any wireless network.
+Over the past six years, the FCC has
+opened up
+more than 6 GHz of spectrum for licensed 5G services, with the auction of the 2.5 GHz band to commence this summer.
+That auction has been delayed by over a year, and an assortment of stakeholders have tried to delay past auctions at the last minute. The FCC must stand firm and move forward with the auction on schedule — rural America cannot wait any longer.
+Unlicensed spectrum is also important. It offers carriers the ability to supplement their licensed spectrum. And it creates an opportunity for wireless Internet service providers to fill in coverage gaps left by the larger players.
+There too the FCC has made significant progress, opening up the 6 GHz band for new unlicensed uses. But actual use of the 6 GHz bands for rural America has been delayed by electric companies attempting to relitigate the FCC’s decision.
+The FCC should resolve these concerns and move forward quickly to ensure rural Americans can benefit from this spectrum as soon as possible.
+Next, we’ve got to make sure we make better use of the spectrum we already have.
+Earlier mobile networks were built using low-band spectrum — radiofrequencies that can penetrate buildings and offer service from miles away.
+Fortunately, carriers have started to refarm this spectrum for 5G services.
+One problem, however, is that opportunistic vendors are attempting to slow down this transition.
+Alarm companies and others slow-rolled the deployment of upgrades to their customers to move them off 3G networks and onto modern facilities. It’s allowed them to profit enormously, and now they’re trying to delay the upgrade to 5G in order to stave off the cost of new equipment.
+But again, rural Americans shouldn’t be told to wait — they want and need the next-generation networks found in the cities.
+It’s time for the FCC to dismiss these misplaced concerns and make clear carriers can move forward with the 5G upgrade.
+Another problem is outmoded thinking on how Americans can get mobile broadband.
+Since the 1980s, the FCC has limited cellular networks to terrestrial operations. But with the New Space Age dawning, it’s time to heed the words of the late Stephen Hawking: “Remember to look up to stars and not down at your feet.”
+New American constellations like SpaceX’s Starlink and Amazon’s Kuiper will be offering ubiquitous broadband to rural America. And new entrants like AST SpaceMobile are looking to leverage innovative direct-to-cell satellite technology to bring 5G to rural America.
+Move forward with allowing terrestrial licensees to connect the unconnected
+The FCC should move forward with allowing terrestrial licensees to connect the unconnected to 5G on their frequencies in partnership with satellite operators.
+Letting a satellite reflect a carriers’ signal back to Earth could extend the reach of traditional 5G towers by hundreds of miles at minimal cost.
+If the FCC allowed flexible use of wireless rules to allow satellite-provided 5G on their own licensed frequencies, it could bring next-generation mobile broadband to 82 million Americans in short order.
+And there’s much more the FCC could do, but all such actions face greater obstacles.
+It could continue its work over the last decade to streamline permitting and pole attachments — but States, localities, and electric companies are sure to object.
+It could move forward with its $9 billion 5G Fund established to bring next-gen services to rural America — but that funding can’t start until FCC has new coverage maps, which may not even be available this year.
+America needs and deserves an all-of-the above approach to ensure every family can connect with 5G.
+Moving forward on the 2.5 GHz auction, the 6 GHz implementation, rejecting attempts to wind down last-gen networks, and allowing satellite-terrestrial partnerships are all actions within the FCC’s grasp. And all these solutions will bring 5G to rural America quickly and with minimal cost to the government.
+It’s time to get to work.

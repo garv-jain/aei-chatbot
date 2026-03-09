@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	Securing the Internet Starts with Planning and Awareness | American Enterprise Institute - AEI
+
+As part of National Cybersecurity Awareness Month, the Department of Homeland Security
+highlights
+cybersecurity best practices every October. In 2016, President Barack Obama created the Commission on Enhancing National Cybersecurity to assess the state of US cybersecurity and recommend steps the government, businesses, and individuals could take to better protect their data and digital ecosystems. But data breaches continue to pop up in weekly headlines, with seemingly no end in sight. What can be done?
+The digital economy is stronger than ever, but just as data add value to a business, they also becomes an asset worth stealing. Protecting information technology infrastructure has become just as important as protecting physical infrastructure.
+A recent
+report
+from Code42, a data loss protection firm, notes that the highly portable nature of information also makes it a security risk. The report says that most security leaders think employees are an effective front line of defense against data breaches, failing to consider that insider threats can be just as troublesome as those from the outside. Employees can be weak links in internal network operations or risks to steal source codes and other sensitive corporate information. And employees don’t need to steal data outright: They can give outsiders access to internal systems by sharing links to data on social media or by using personal email addresses that lack authentication mechanisms.
+One way to improve cybersecurity moving forward would be to increase the attention and value placed on enterprise cybersecurity governance and testing corporate cybersecurity governance plans regularly. Proper network security monitoring for event management and fraud protection should be a top priority for the private sector.
+For any organization to achieve meaningful cybersecurity gains, all employees must play a role in achieving a fully secured network. And to properly prepare for and respond to threats, enterprise cybersecurity teams need access to real-time network data across end points, including Internet of Things (IoT) devices attached to enterprise systems, cloud access, individual computers, and employees’ mobile devices.
+Training employees to better protect digital perimeters may require cultural changes. An oft-repeated phrase by cybersecurity expert Richard Bejtlich comes to mind: “
+If you can’t protect it, don’t collect it
+.”
+Businesses and their leaders should prioritize having processes in place and staff trained to manage data across all network platforms. Chief information security officers also have the challenge of managing older equipment with legacy access points that may no longer fit into a new, more secure environment. Creating and enforcing policies that ensure secure practices throughout the life cycle of data and a respect for security practices are vital.
+Zero-trust architecture
+helps create and enforce the mindset that employees with access to valuable data must prove they can be trusted to have continued access. Everyone and everything connected to the network has to be verified and authenticated onto the entire network operating system. The advent of IoT will make this approach even more valuable.
+Training employees to be aware of data security risks and
+rules helps limit the possibility that the network (or information) is misused.
+Transparent best practices that hold employees accountable are a must for limiting
+attacks and leaks from both insiders and outsiders.
+In the same way as enterprise users, individual consumers should also abide by security guidelines for smart home devices. IoT devices are easy targets for hacking and information exfiltration, so they should be password programmable and use two-factor authentication when available. The National Institute of Standards and Technology has
+outlined
+several risk factors for both individuals and workplace environments to consider before attaching new IoT devices to a network. Just like securing an enterprise system, a regular review of and knowing exactly who has access to what devices on home networks is key for network security.
+Protecting essential information should be a priority whether you’re a corporate CEO or the CEO of a family. Information technology teams have the challenging job of keeping outsiders out and keeping internal users secure. Organizations large and small should test their preparedness for cyber incidents before one happens. Knowing who to contact and when ensures that any breach can be mitigated quickly and effectively. Everyone has a part to play in keeping the internet safe so we can continue to enjoy the digital economy’s bounty.

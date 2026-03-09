@@ -1,0 +1,95 @@
+PAGE_TITLE: 
+	A New Proposed AI Regulation in California | American Enterprise Institute - AEI
+
+California is the undisputed champion of state data regulation. In 2018, Gov. Jerry Brown signed the California Consumer Privacy Act (CCPA), making California the first state with a comprehensive data privacy law. CCPA has since been followed by the California Privacy Rights Act ballot measure in 2020, at least nine revisions to fix definitional problems in those two laws, and a raft of other supplementary laws to regulate data in the state.
+It’s no surprise, then, that
+31 bills that would regulate artificial intelligence (AI) systems
+are currently before California’s state legislature.
+SB 1047
+—the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act—seems increasingly likely to pass. SB 1047 is authored by Democratic Sen. Scott Wiener, the darling of the pro-housing movement; has garnered the support of online writers
+Zvi Mowshowitz
+and
+Scott Alexander
+; and has at times hovered around a 50 percent passage rate
+in the futures markets
+. This bill could very well become law.
+In advocating for the legislation, Sen. Wiener said that it would establish “clear, predictable, common-sense safety standards for developers of the largest and most powerful AI systems.” But there is nothing about this bill that is common sense to me. It is an extensive safety compliance regime that accords serious power to a new agency and has countless gaps. Artificial intelligence (AI) safety advocates have been dramatically underplaying how extensive these requirements would be, and
+as I’ve pointed out earlier
+, there has been effectively no discussion about the dubious constitutionality of the bill.
+If enacted, SB 1047 would regulate the next generation of advanced models or frontier models. When large models such as ChatGPT or Meta’s LLaMA hit a certain computing threshold, they would be designated as a “covered AI model” in California and be subject to a litany of requirements, including safety assessment mandates, third-party model testing, shutdown capability, certification, and safety incident reporting.
+Covered AI models under SB 1047 are partially defined by the amount of computing power needed to train the model. The industry typically couches AI models in petaFLOPS, which are 10^15 floating-point operations. OpenAI’s GPT-4 is estimated to have taken
+21 billion petaFLOPS
+to train, while Google’s Gemini Ultra probably took 50 billion petaFLOPs. Similar to the standard set by  President Joe Biden’s
+executive order on AI
+, SB 1047 would apply to models with greater than 10^26 floating-point operations, which amounts to 100 billion petaFLOPS. So the current frontier models are just below the covered AI model threshold, but the next generation of models—including GPT-5—should probably hit that regulation mark.
+But SB 1047 goes further than Biden’s executive order because it also captures any model “trained using a quantity of computing power sufficiently large that it could reasonably be expected to have similar or greater performance … using benchmarks commonly used to quantify the general performance of state-of-the-art foundation models.” Like so much else in the bill, the language here is convoluted. A plain letter reading of the proposed law suggests that once the threshold of 100 billion petaFLOPS is met, models that match or best those regulated models in
+common benchmarks
+like
+ARC
+or
+HellaSwag
+would also be subject to regulation, creating a cascading downward effect. Microsoft, for example,
+has been working on small-language models
+that achieve remarkable performance on a variety of benchmarks, which are likely to get caught up in the regulatory scheme.
+If SB 1047 is enacted, before a covered AI model is even trained, the developer of the model would be required to:
+“Implement administrative, technical, and physical cybersecurity protections to prevent unauthorized access to, or misuse or unsafe modification of, the covered model, including to prevent theft, misappropriation, malicious use, or inadvertent release or escape of the model weights from the developer’s custody, that are appropriate in light of the risks associated with the covered model, including from advanced persistent threats or other sophisticated actors;”
+Build in a killswitch;
+Implement all covered guidance by the newly created Frontier Model Division;
+Implement a detailed safety and security protocol that is certified by the company;
+Conduct an annual review of the protocol “to account for any changes to the capabilities of the covered model and industry best practices and, if necessary, make modifications to the policy;”
+“Refrain from initiating training of a covered model if there remains an unreasonable risk that an individual, or the covered model itself, may be able to use the hazardous capabilities of the covered model, or a derivative model based on it, to cause a critical harm;” and finally
+“Implement other measures that are reasonably necessary, including in light of applicable guidance from the Frontier Model Division, National Institute of Standards and Technology, and standard-setting organizations, to prevent the development or exercise of hazardous capabilities or to manage the risks arising from them.”
+Then, before the model goes public, developers of covered AI models would have to perform capability testing, implement “reasonable safeguards,” prevent people from using “a derivative model to cause a critical harm,” and refrain from deploying “a covered model if there remains an unreasonable risk that an individual may be able to use the hazardous capabilities of the model.”
+To top it all off, developers of covered AI models would be required to implement “other measures that are reasonably necessary, including in light of applicable guidance from the Frontier Model Division, National Institute of Standards and Technology, and standard-setting organizations, to prevent the development or exercise of hazardous capabilities or to manage the risks arising from them.”
+Covered AI models could get a “limited duty exemption” from all of the requirements above if they could demonstrate that the model could not be used to enable:
+“A chemical, biological, radiological, or nuclear weapon in a manner that results in mass casualties;”
+“At least five hundred million dollars ($500,000,000) of damage through cyberattacks on critical infrastructure via a single incident or multiple related incidents;”
+“At least five hundred million dollars ($500,000,000) of damage by an artificial intelligence model that autonomously engages in conduct that would violate the Penal Code if undertaken by a human;” or
+“Other threats to public safety and security that are of comparable severity to the harms described in paragraphs (A) to (C), inclusive.”
+Whether exempt or not, all covered AI models would have to report incidents to the Frontier Model Division, a new regulatory body created by the law that would set safety standards and broadly administer the law. Additionally,
+SB 1047
+would impose a “know your customer” requirement onto computing clusters, a regime that was designed for anti-money laundering and terrorism enforcement. Intended to guard against malicious intent, this provision of the law would mandate that organizations operating computing clusters obtain identifying information from prospective customers who might make a covered AI model.
+The penalties for developers who violate the legislation’s provisions are high: a fine of 10 percent of the cost of training the model for the first violation, and 30 percent of the model’s cost for every violation after that. The bill would also give California’s attorney general the ability to ask a judge to delete the model. Then, to top it all off, the bill would establish a new, publicly funded cloud computing cluster called “CalCompute.”
+The constitutionality and gaps in SB 1047
+.
+As I have
+explained elsewhere
+, the discourse over AI regulation “has largely been bereft of legal analysis.” I focused primarily in that piece on the constitutionality of pausing AI development, but the analysis could just as easily be extended to most of SB 1047. AI bills run right into issues of constitutionality and the First Amendment:
+As [John Villasenor of the Brookings Institution] explained it, “to the extent that a company is able to build a large dataset in a manner that avoids any copyright law or contract violations, there is a good (though untested) argument that the First Amendment confers a right to use that data to train a large AI model.”
+The idea is untested because the issue has never been formally ruled on by the Supreme Court. Instead, it’s been the lower courts that have held that software is a kind of speech. All of the modern cases stem from the
+cryptography wars of the early to mid-1990s
+.
+Bernstein v. United States
+stands as the benchmark. Mathematician, cryptologist, and computer scientist
+Daniel Bernstein brought the cases
+, which contested U.S. export controls on cryptographic software. The Ninth Circuit Court recognized software code as a form of speech and stuck down the law.
+Junger v. Daley
+also suggests that software is speech. Peter Junger, a professor specializing in computer law at Case Western Reserve University, initiated the legal challenge due to concerns over his self-created encryption programs. Junger intended to publish these programs on his website but worried about potential legal risks so he sued. Initially, a District Court judge determined that encryption software lacked the expressive content needed for First Amendment protections. On appeal, the Sixth Circuit Court
+was clear
+: “Because computer source code is an expressive means for the exchange of information and ideas about computer programming, we hold that it is protected by the First Amendment.”
+SB 1047 might also conflict with federal law. As Kevin Bankston, a law professor and well-respected expert in technology law,
+pointed out
+, the “know your customer” provisions of SB 1047 “appear to violate the federal Stored Communications Act.” He’s
+not the only one
+to express such concerns, but broadly, the government has to get a subpoena or court order for that kind of information.
+Beyond the serious constitutional and federal concerns, there are countless holes in the bill. The definition of covered AI models is unclear. A lot of power is granted to the Frontier Model Division to define the rules. The bill is riddled with reasonableness standards, which are
+notoriously tricky to define in the law
+. The penalties are remarkably steep, and the legality of a court-ordered deletion is dubious. Oh, and all of this is funded by fees assessed on covered AI models that will also help fund CalCompute. But the details of CalCompute aren’t at all fleshed out.
+The bigger picture.
+Stepping back for a second, all of this feels like too much too quickly. ChatGPT is not even two years old, and yet there are already significant and wide-ranging bills being proposed to rein it in. But that’s by design. In making the case for the bill,
+Wiener argued that
+:
+[The rise of large-scale AI systems] gives us an opportunity to apply hard lessons learned over the last decade, as we’ve seen the consequences of allowing the unchecked growth of new technology without evaluating, understanding, or mitigating the risks. SB 1047 does just that, by developing responsible, appropriate guardrails around development of the biggest, most high-impact AI systems to ensure they are used to improve Californians’ lives, without compromising safety or security.
+I’ve heard this argument before, and I think it is profoundly mistaken. Big Tech companies aren’t saints, but if there is a lesson to be learned from the past decade in tech policy, it is that these rules impose serious costs on the tech ecosystem, so policymakers should be careful how they match legislative solutions to clearly established harms. I wrote all about this
+in a previous edition of
+Techne
+on privacy laws, and it applies to AI regulation too.
+If Sen. Wiener gave me the pen, I would probably scrap most of this bill. Besides, a lot of it is probably illegal under the First Amendment anyway. So I tend to agree with Dean Ball (a
+Dispatch
+contributor
+!) when he
+opined that
+:
+SB 1047
+was written, near as I can tell, to satisfy the concerns of a small group of people who believe widespread diffusion of AI constitutes an existential risk to humanity. It contains references to hypothetical models that autonomously engage in illegal activity causing tens of millions in damage and model weights that “escape” from data centers—the stuff of science fiction, codified in law.
+Policymakers need to ensure that their legislative solutions are precisely tailored to address clearly defined problems, rather than imposing broad requirements because those mandates can reverberate back into the industry with distorting effects. In the coming months, I’ll dive further into this topic and explain what should be done to assuage AI doomsayers who worry about catastrophic and existential risk.

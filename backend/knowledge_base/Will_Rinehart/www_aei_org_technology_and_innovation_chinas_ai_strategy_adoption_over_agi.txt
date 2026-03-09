@@ -1,0 +1,36 @@
+PAGE_TITLE: 
+	China’s AI Strategy: Adoption Over AGI | American Enterprise Institute - AEI
+
+Last week, the Center for a New American Security held an
+event
+on “The Stakes of Sino-American AI Competition.” Near the end, audience member
+Harry Krejsa
+of the Carnegie Mellon Institute for Strategy & Technology posed the most
+important question
+of the session, asking:
+Why hasn’t this already been more destabilizing in the US-China relationship? If I were Xi Jinping listening to what some of the frontier labs are saying about AI transforming the economy, I would find it nearly intolerable that there was an—albeit tenuous—American lead in this race.
+Krejsa’s question, which went largely unanswered by the panel, exposes the distance between the US and China on AI policy. In the United States, officials and researchers obsess over safety, alignment, and the long-term prospect of artificial general intelligence (AGI). In contrast, Chinese policymakers are far more concerned about near-term diffusion and large-scale adoption. Rather than competing for AGI breakthroughs, China’s race is about embedding AI throughout its economy as quickly as possible.
+Via Shutterstock.
+Nearly every month, the Chinese Politburo holds a half-day study session on a topic chosen by General Secretary Xi Jinping. April’s session was on AI, and the central message (as conveyed by the
+CCTV News headline
+) was to “uphold self-reliance and self-strengthening, maintain an application-oriented approach, and promote the healthy and orderly development of artificial intelligence.”
+Bill Bishop’s
+translation of the official readout
+is worth reading in full, but there are some clear highlights. For one, Xi was upfront about China’s strategic priorities as they relate to AI:
+Xi Jinping pointed out that China possesses rich data resources, a complete industrial system, broad application scenarios, and vast market space. We must promote deep integration of AI technological innovation and industrial innovation, build a collaborative innovation system driven by enterprises involving industry, academia, research, and application, support the transformation and upgrading of traditional industries, and open up new tracks for the development of strategic emerging industries and future industries. It is necessary to coordinate the construction of computing infrastructure and deepen the development, utilization, and open sharing of data resources.
+Beyond domestic development, the official report also emphasized China’s intention to position itself as a global leader in AI cooperation:
+Xi Jinping emphasized that AI can become an international public good that benefits all humanity. We must vigorously engage in international cooperation on AI, help Global South countries enhance their technological capabilities, and contribute [to] China’s efforts toward bridging the global intelligence divide. Efforts should be made to promote greater alignment and coordination among all parties in terms of development strategies, governance rules, and technical standards, and to form a global governance framework and standards with extensive consensus as early as possible.
+And as for practical policy measures,
+Xi Jinping emphasized that as a new technology and a new field, policy support is crucial for artificial intelligence. We must make comprehensive use of policies such as intellectual property rights, fiscal and tax incentives, government procurement, and open access to facilities, and make good use of science and technology finance. It is necessary to promote AI education across all levels of schooling and popular AI literacy education across society, continuously cultivating high-quality talent. We should improve mechanisms for supporting AI research, career development, and talent evaluation, creating platforms and conditions for various talents to demonstrate their abilities.
+These statements aligned with observations from the 2024 annual meeting of the National People’s Congress, commonly referred to as the Two Sessions. As the
+ChinaTalk
+Substack
+described
+it,
+With the government focused on the nation’s industrial capability, proposals on basic research of AI algorithms and architectures related to artificial general intelligence (AGI) tend to get sidelined. Compared to
+last year’s Two Sessions
+— where some delegates cheered for an AGI moonshot — most delegates this year view AGI as a distant goal, detached from China’s economic reality.
+These are not just two isolated events, as Lingua Sinica’s
+China Chatbot bulletins
+make clear. Rather, Chinese leadership is systematically aligning its AI strategy with broader economic and political goals, focusing on achieving rapid, large-scale adoption.
+As the US grapples with its own regulatory and safety concerns, China is rapidly positioning itself to dominate the global AI landscape by prioritizing tangible, widespread applications. This stark contrast in approach will undoubtedly influence future geopolitical dynamics, with AI becoming not just a technological race, but a fundamental component of national and global power structures. US leaders should pay closer attention to China’s actual AI strategy, as the current focus on AGI research and regulation may unintentionally hinder the US from capitalizing on AI’s more immediate, transformative potential.

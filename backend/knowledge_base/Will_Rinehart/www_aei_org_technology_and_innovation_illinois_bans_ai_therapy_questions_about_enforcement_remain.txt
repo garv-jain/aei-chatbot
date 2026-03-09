@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	Illinois Bans AI Therapy. Questions about Enforcement Remain. | American Enterprise Institute - AEI
+
+Last week, my home state of Illinois became one of the first in the nation to ban AI therapy when Governor Pritzker signed the
+Wellness and Oversight for Psychological Resources Act
+(WOPR) into law. The bill, which is a clear nod to the 1983 film
+WarGames
+and its ominous supercomputer, signals lawmakers’ wariness about artificial intelligence in mental healthcare. Illinois joins
+Nevada
+in posting a clear sign: humans only need apply for therapy jobs.
+The Act operates on two fronts. First, it bans licensed professionals from using artificial intelligence “in providing supplementary support in therapy or psychotherapy where the client’s therapeutic session is recorded or transcribed unless” it falls into the category of “administrative support.” This includes
+managing appointment scheduling and reminders;
+processing billing and insurance claims; and
+drafting general communications related to therapy
+Via Adobe Stock.
+Second, and far more important, the new law limits individuals, corporations, and other entities from being able to “provide, advertise, or otherwise offer therapy or psychotherapy services, including through the use of Internet-based artificial intelligence, to the public in this State unless the therapy or psychotherapy services are conducted by an individual who is a licensed professional.”
+The law has already had an impact. Ash Therapy, which markets itself as “the first AI designed for therapy,” now blocks Illinois users
+with a message explaining
+that “The state of Illinois is currently figuring out how to set policies around services like Ash. In the meantime, we’ve decided not to operate in Illinois.”
+In signing the bill into law, the Governor
+was clear that the purpose of the Act
+was to “protect patients from unregulated and unqualified AI products, while also protecting the jobs of Illinois’ thousands of qualified behavioral health providers.” The Governor’s statement reveals that Illinois’ AI therapy ban isn’t purely about patient safety: It’s also explicitly designed to protect existing jobs. This dual motivation places the WOPR Act within a broader pattern of AI-direct laws that blend legitimate safety concerns with economic protectionism.
+Illinois now faces the difficult challenge of parsing out illegal actions from permitted ones. The law explicitly bans offerings that “diagnose, treat, or improve an individual’s mental health or behavioral health.” But what about services that inadvertently do this? ChatGPT doesn’t market itself as a therapy app but many users treat it as such, creating a regulatory blind spot where the law’s application becomes murky. The legislation provides minimal guidance for navigating the borderline scenarios: Should meditation apps offering stress-reduction techniques be restricted? What about journaling platforms that track mood patterns? How should regulators approach general-purpose AI systems that naturally provide empathetic responses to users’ emotional concerns?
+Still, Illinois’ AI therapy ban exemplifies a fundamental tension emerging across American law. The United States’ sectoral approach to regulation is colliding with the inherently boundary-crossing nature of AI systems.
+For centuries, legal systems have relied on clear categorical distinctions to maintain coherence. Healthcare law governs medical practice, financial regulation oversees banking, and educational statutes manage schools. These boundaries reflected genuine differences in expertise, risk profiles, and societal functions. A doctor providing medical advice operated in a fundamentally different context than a friend offering comfort, making separate regulatory frameworks both logical and necessary.
+Chatbots dissolve these carefully constructed boundaries. When a user asks ChatGPT about depression symptoms, receives coping strategies, and feels emotionally supported, the interaction spans multiple regulatory domains simultaneously. The same conversation might constitute unlicensed medical advice, peer counseling, educational content, and casual friendship. These categories that law has traditionally kept separate are collapsing within a single AI interaction.
+Another pathway is possible for regulating AI use in therapy. Just a couple months back, Utah passed
+HB 452
+which creates disclosure requirements, advertising restrictions, and privacy protections for the use of mental health chatbots. Rather than banning AI therapy outright, this regulatory model focuses on informed consent and ethical guidelines, requiring clear disclosure while allowing innovation to continue.
+Then, there is the sleeper issue of constitutionality. Paul Sherman, a Senior Attorney at the Institute for Justice, recently alerted me to
+Chiles v. Salazar
+, a Supreme Court case examining whether laws restricting counselor-client conversations based on viewpoint violate the First Amendment or merely regulate conduct. The decision could provide a clear roadmap for challenging Illinois’ ban on AI therapeutic communication.
+Illinois has chosen the path of prohibition over regulation, but whether other states follow suit may depend on how effectively this pioneering law can actually be enforced. The WOPR Act represents a bold first step into uncharted regulatory territory, but like its cinematic namesake, it may discover that the only winning move is not to play at all.

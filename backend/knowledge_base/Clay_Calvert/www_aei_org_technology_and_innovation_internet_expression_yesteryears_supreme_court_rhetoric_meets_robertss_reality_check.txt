@@ -1,0 +1,40 @@
+PAGE_TITLE: 
+	Internet Expression: Yesteryear’s Supreme Court Rhetoric Meets Roberts’s Reality Check | American Enterprise Institute - AEI
+
+Chief Justice John Roberts’ 2024 year-end
+report
+about the federal judiciary garnered significant mainstream news
+attention
+because of its focus on threats to both judicial independence and individual jurists. A
+Wall Street Journal
+headline
+crisply captured the thrust of Roberts’ sentiments: “Chief Justice Says Intimidation and Violence Threaten Judicial Independence.”
+To wit, former President George W. Bush’s high-court nominee
+wrote
+that while “criticism comes with the territory” of a being a judge in a country that values “robust First Amendment protections,” “violence, intimidation, and defiance directed at judges because of their work undermine our Republic, and are wholly unacceptable.” That’s a vital distinction, and Roberts is spot on.
+Via Reuters
+Digging deeper, however, the report reveals another problematic development—a growing gulf between the US Supreme Court’s past lofty pronouncements about the benefits and promises of free expression on the internet, on the one hand, and today’s much more sordid and distressing realities involving multiple online problems described in Roberts’
+report
+, including
+doxing
+, disinformation, falsities, rage and threats, on the other. Regarding some of the latter deleterious items, the Chief Justice asserted that “the modern disinformation problem is magnified by social media” and that:
+in the computer era, intimidation can take different forms. Disappointed litigants rage at judicial decisions on the [i]nternet, urging readers to send a message to the judge. They falsely claim that the judge had it in for them because of the judge’s race, gender, or ethnicity—or the political party of the President who appointed the judge. Some of these messages promote violence . . .
+Contrast those observations with some of the language about the internet found in Supreme Court opinions of yesteryear. Back in 1997, when the nation’s highest court issued its first major
+decision
+affecting online speech rights, the justices expressed concern about protecting what they called the “vast democratic forums of the internet” from the type of heavy-handed government regulation that over-the-air broadcasters face. Extolling the virtues of an emerging medium he called “cyberspace,” Justice John Paul Stevens wrote for the majority in
+Reno v. ACLU
+that anyone “with a phone line can become a town crier with a voice that resonates farther than it could from any soapbox.” The Court concluded that internet speakers receive the full panoply of First Amendment rights against government censorship, just like the editors of print newspapers. There was no need to cabin or qualify the scope of those rights in the ways that broadcasters and, to a slightly lesser extent, cable system operators face.
+Indeed, Stevens hailed the internet as a “new marketplace of ideas,” invoking the venerable laissez-faire, economic-based metaphor that underlies so much of First Amendment law. It has done so since 1919 when Justice Oliver Wendell Holmes, Jr.
+wrote
+that “the ultimate good” of truth discovery “is better reached by free trade in ideas” rather than by government censorship “of opinions that we loathe.” In short, the Court in
+Reno
+bridged Holmes’ rationale for safeguarding free expression with extending robust speech protection to internet messages.
+The lofty hype for the noble aspirations of internet communication continued at least through the Court’s 2017 opinion in
+Packingham v. North Carolina
+. Writing for the majority there, Justice Anthony Kennedy called it “clear” that the internet (generally) and social media (specifically) were among the “most important places . . . for the exchanges of views.” Kennedy gloriously heralded social media as “the modern town square” for speaking, listening, and “otherwise exploring the vast realms of human thought and knowledge.” He added that “social media allows users to gain access to information and communicate with one another about it on any subject that might come to mind.”
+So, why is the chasm that now separates the Court’s prior optimistic rhetoric about internet expression from Chief Justice Roberts’ much more grim, first-hand observations troubling? Roberts’ report witnesses the nation’s top jurist pulling back the curtain and exposing the unseemly underbelly of internet communication that jeopardizes lives and democratic institutions. The more the justices recognize and understand these grave dangers, the less likely they may be to extend internet-based expression and speakers full-throated constitutional protection.
+Roberts’ report comes shortly after the Court’s 2024 opinion in
+Moody v. NetChoice
+. The justices were clearly cognizant that not all is rosy on social media, with Elena Kagan writing for the majority that:
+The novel services [social media platforms] offer make our lives better, and make them worse—create unparalleled opportunities and unprecedented dangers. The questions of whether, when, and how to regulate online entities, and in particular the social-media giants, are understandably on the front-burner of many legislatures and agencies.
+With rhetoric now crashing against reality, social media companies and internet advocates will need to do a better job of justifying and explaining to jurists why providing expansive First Amendment protections are warranted.

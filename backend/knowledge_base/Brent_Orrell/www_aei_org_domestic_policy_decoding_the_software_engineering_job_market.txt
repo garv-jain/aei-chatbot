@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	Decoding the Software Engineering Job Market | American Enterprise Institute - AEI
+
+Two weeks ago,
+I wrote a piece
+about how some software coders are hitting labor market turbulence in the wake of a post-pandemic retrenchment and the sudden shift to generative artificial intelligence (AI)—the hot, new technology in Silicon Valley. Earlier this week, Gergely Orosz, who writes
+The Pragmatic Engineer
+newsletter on Substack, took a
+deep dive
+into the contours of the software engineering job market. For great coders and managers, things look optimistic (especially in India). For less-experienced and less-skilled coders, the picture isn’t bright.
+There are a couple of key points to keep in mind. First, since the recovery from the dot-com bubble in the early-2000s, software engineering has been on a tear. After a period of stagnation between 2001 and 2004, US software engineering and coding jobs have experienced a steady climb, growing from 100,000 to nearly one million jobs. Just as the market was starting to plateau in 2019, the COVID-19 pandemic sparked an additional mini-run on coder talent to help meet the demand for online services.
+It wasn’t until the Federal Reserve moved to douse inflation with a historic series of rate hikes that the “free money,” which was a principal driver of the tech boom, dried up and job opportunities for coders became fewer and farther between. Trends in overall US hiring have now flattened and, for some coders, has entered a steep decline.
+Naturally, the software engineer job market isn’t uniform. According to Orosz, the main distinction lies between “front-end” and “back-end” workers. Think of the front end like the window displays at Macy’s during Christmas: It’s where the marketing, visual design, and user interface live. By contrast, the back-end is the grimy, rise-and-grind, nuts-and-bolts of the operation, where machine learning experts, data scientists, and experienced engineers keep the motors running efficiently, effectively, and securely.
+For several reasons, front-end coders are struggling. First, AI is, ironically, automating coding tasks. Front-end work is simple in comparison to back-end work, so these types of tasks are disproportionately exposed to AI-powered development tools. In a clear example of skills democratization, low-code and no-code platforms enable even those with minimal computer science training to build user interfaces. In other words, less-experienced, entry-level coders have fewer job opportunities in an AI-infused technology environment. Overall, open software engineering jobs have declined from over 100,000 in 2022 to about 60,000 today, with front-end jobs seeing little to no growth in the past five years.
+Back-end software engineers, however, continue to enjoy strong demand. Senior software engineers—those with broad industry experience who provide conceptual leadership, oversee teams of engineers, and ensure quality “full-stack” solutions—have benefited from a 13 percent increase in job openings since 2019. This is consistent with the “up or out” pattern of the industry in the past few years in which software engineers with management ability (a.k.a.,
+noncognitive skills
+), step back from coding and become team leaders. Two other back-end, critical categories in AI—machine learning specialists and data engineers—continue to see robust growth with openings up by 65 percent and 32 percent, respectively, during the same period.
+Off-shoring is also putting pressure on the software engineer job market. Cities like San Francisco, Seattle, and New York City have the highest concentration of these jobs in the US. Bengaluru has
+almost the same number
+of software engineers as the top three US cities combined (Seattle, San Francisco, and New York). Wages, while high by India’s standards, are well below those in the United States. Major American tech firms are leveraging this combination of skilled workforce and lower wages to build substantial research and development teams at costs that are far below those of the United States. When it comes to tech, we now have significant and growing talent supply chains based in Asia.
+For American workers and students, here are the take-home lessons from the decline of coding. First, the narrower and more specialized the credential—say, a coding bootcamp certificate—the more likely it is to become obsolete as technology advances. At the same time, certain subspecialities—like data engineering, machine learning, and large language models—remain in demand. Thus, students and incumbent workers should build up their
+knowledge and skills in these areas
+. Familiarity with coding and exposure to adjacent fields should make bridging positions at least somewhat easier. Meanwhile, strong software engineers with extensive experience
+and
+strong interpersonal skills will likely remain in high demand for the foreseeable future.
+Experience can only come with time and practice. But people skills are something we can work on and improve every day. Take up a team sport, join Toastmasters, or find opportunities to get involved in your community. These types of experiences and knowledge can help workers become better leaders and learners which is good for your career and your life.

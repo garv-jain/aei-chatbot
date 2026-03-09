@@ -1,0 +1,64 @@
+PAGE_TITLE: 
+	The Future of Remote Work: Highlights from My Conversation with Nicholas Bloom | American Enterprise Institute - AEI
+
+When the COVID-19 pandemic hit in March of 2020, the remote
+workforce skyrocketed almost overnight from only 7 percent of the working
+population to nearly 40 percent at the height of the pandemic. Today, the
+pandemic is winding down, but remote work is likely here to stay for many
+workers.
+My research at the American Enterprise Institute this year has explored the
+impacts
+of remote work on the American workforce. Recently, I had the opportunity to sit down and compare notes with
+Dr. Nicholas Bloom
+, a professor at Stanford University and an expert on remote work. We
+discussed
+different work arrangements, worker-employer bargaining over work from home, and the future of remote work. Below are Q&A highlights from our discussion that have been edited for length and clarity. You can find the full transcript
+here
+and listen to the audio podcast on
+Hardly Working
+.
+Orrell: Talk about your own kind of vocational pathway. How did you wind up as a professor of labor economics?
+Bloom: It’s a bit of a weird path. I never honestly intended to be an academic. After I did a Master’s in Oxford in Economics, I got a job [with] the Institute for Fiscal Studies, a research think tank in London. When I was there, I realized that a lot of the people doing policy research are trying to use economics to make the world a better place. So I thought, I could get a PhD. And at that point, the IFS had a great deal with UCL, University College London. You could do a PhD while continuing to work. So I basically had a day a week, which I wasn’t paid for, and used that to work on a PhD. And so, at the end, I ended up as a PhD, and ended up in Stanford in 2005 almost by accident.
+Your 2015 paper on remote work in China has really been key to a lot of people’s thinking over the last year and a half. Can you talk a little bit about that paper?
+So we hatched a plan to set up what’s called a randomized control trial. We took two divisions in an [online travel company] headquarters in Shanghai and asked them who wants to work from home four days a week. The evens got work from home and the odds stayed in the office. We had 125 in the treatment group [working from home], and 125 people that were in the control group [coming to the office]. These people are making telephone calls, taking bookings. We tracked their performance, minute by minute, for the next 21 months and collected a lot of other [data] on who quit, who got promoted, who did well, who made bonuses, etc.
+Contrary to expectation, astoundingly, the working-from-home
+employees were 13 percent more productive than the folks in the office [which
+amounts to] almost a day a week extra. And when we drilled down into it, about
+4 percent [out of the 13 percent] was because they were more productive per
+minute. And when we interviewed them, they said, “Look, it’s quieter. At home,
+we can just work better.”
+The rest of the increase in productivity (9 percent) was due to the
+fact that folks at home just worked more. Their quit rates were almost half
+because they were a lot happier. But see, the one big sting in the tail is
+their promotion rates were almost half of the ones at the office. So, you know,
+it’s a bit of a mixed blessing. For the firm, on average, it was net good
+because they were more productive, and they saved on office space. If you are
+working from home in teams, when most other people around you are not, there’s
+definitely a hit to a promotion.
+Via Twenty20
+What new remote work research is underway on the experience of the last 18 months?
+Certainly you can expect a lot of papers. In terms of the performance impact, there’s a couple of ways to look at it. One, at just a very, very macro level: GDP right now is now above its pre-pandemic level. But we’re still 5 million short of unemployment. So we have 5 million fewer people working now than they were two years ago, but we actually produce more. So if you look at productivity, we’re actually significantly up. We’re about 5 percent up, which suggests that given half of Americans are currently working from home, it probably can’t be that bad, particularly because the pandemic has been negative for productivity.
+We’ve been surveying 5,000 Americans a month. Since the pandemic
+began, we calculate, productivity is probably about 3 percent to 5 percent
+higher and certainly will be long run from working from home. If we maintain a
+largely hybrid model — three days in, two days out — that’s likely to increase
+productivity by 3 percent to 5 percent. A large share of that increased
+productivity comes from saved commuting time. Saving on commute is an enormous
+benefit, not just to productivity, but to us individually because we just get
+more free time.
+What do you think the employer’s perspective is on this now? Do you think that the message has gotten through to the leadership that having flexible work arrangements is actually in their business interest?
+Yes, completely. I’ve probably talked to 500 managers by now. Corporate America now understands that hybrid working — which is something like three in the office, two at home post-pandemic — improves productivity and is the correct business decision. In terms of profit, the reason this is such a big deal is that it’s really valuable to employees. Employees report it’s worth something like 7 percent to 8 percent increase in salary in order to get to work from home for 2 days a week. If you try and force all your employees back 5 days a week, we know from the survey data, you’re going to find 30 percent, 40 percent of them pretty actively start looking for another job.
+Are there any other factors that you think play into this other than worker happiness and productivity? Are there other savings or gains that are made from flexible working arrangements?
+It’s very clear that we are going to have some long-run residual fear of density. In particular. I think it’s 76 percent of people say they will be nervous post-pandemic — even vaccinated people — of getting into crowded elevators, packed subway trains. I think I might put myself in that. I’m not sure, you know, I would feel totally comfortable getting in a jammed elevator with 50 people.
+One of our scholars, Scott Gottlieb, has talked about changing work norms. If you have a cold or the flu, don’t come into the office.
+I totally agree with Scott’s take on this, and working from home helps this a lot. Because imagine you’re in a hybrid mode, you’re working, you know, three days a week in the office, two days a week at home. You, of course, have the ability to work from home, well set up and it’s normed. And so, if you’re not feeling great, you just take a home day.
+So, you put out a paper in May that was entitled, “Don’t let employees pick their work from home days.” I’d just like you to give a summary of that and why you think it’s important that employers set the ground rules for remote work.
+One is the problems of mixed-mode, with some working at home and some in person. It turns out, it doesn’t work very well to have some people in the office and some at home. So you imagine initially that those in the office will crowd into the conference room, but they’re on one small screen on Zoom, there’s whispering, and you can’t really see what goes on. Most companies have a rule now whereby if there’s one person or more at home on Zoom, everyone in the office should also join independently on their Zoom or Teams, whatever it is. Second issue, if you look at the survey data we’ve been collecting, you know, the thousands of people every month, you ask them, Which two days would you like to work from home?” Brent, which two days would you guess?
+I’m guessing Friday and Monday . . .
+Yep, exactly. Everyone basically says Friday and Monday. So, the second problem with choice is if you want to use your office space efficiently — or you want to hold your office space as it is, but reduce density — then you probably don’t want to allow complete choice. And then the final issue that is the hardest to explain, but it’s potentially the most problematic in the long run. You need to think of two things. So, one is, who wants to work from home is not random. In the survey data, disabled people report on much higher preference than non-disabled. You see amongst college educated employees with kids under the age of 12, women report a significantly higher preference than men. We see that varies by race. So black and Asian workers report significantly higher preferences than white and Latinx workers. People living further from the office have a higher preference to work from home than those living nearby, and they’re typically lower income. The problem is it collides with the second fact, which is, if you are working from home, in a team where other people are coming in more days than you, you’re likely to suffer in promotions. Folks randomized into working from home after 21 months had 50 percent lower rate of promotion.
+My advice has been to try and limit it in both directions. So, you
+want to make sure people are in the office two days a week, let’s say, because
+it is important to come in, but you also want to make sure people work from
+home for two days a week because this is the classic prisoner’s dilemma.
+Central business districts have taken a huge hit and not just the people who own the buildings and rental space, but all the businesses that go into supporting the commuters food, and clothing, and bars, and restaurants. Have you looked at that?
+Yeah, I mean with Jose Barrero and Steve Davis, we did look. I would say, it’s definitely substantial. We estimate New York, San Francisco, such city centers may lose something like, long run, 5 percent to 10 percent of spending. I have another paper with Arjun Ramani, where we’ve actually pulled US Postal Service change of address dates, and you can break it out for residential and businesses. There has been about a 15 percent drop in a number of people and businesses and city centers over the pandemic. From a commuter standpoint, cities have emptied out and haven’t yet recovered.

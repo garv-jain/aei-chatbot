@@ -1,0 +1,22 @@
+PAGE_TITLE: 
+	AI Gets Political: How Do We Keep Fake News Out of Campaign Ads? | American Enterprise Institute - AEI
+
+Deceptive political advertisements are
+nothing new
+. But, as one news organization recently
+reported
+, generative artificial intelligence (AI) is launching “a new era where it could become even harder for voters to discern truth from lies.”
+A June 5 Wall Street Journal
+article
+concurred, asserting that sophisticated, AI-generated videos and images pose “a major threat to political campaigns as 2024 contests get under way.”
+For example, Forbes
+reported
+in late May that a super-PAC supporting Republican presidential candidate and Florida governor
+Ron DeSantis
+created a video using AI that falsely depicted “a group of fighter jets appear[ing] to fly overhead as DeSantis speaks” to a crowd. Alex Thompson, debunking the fake flyover in Axios,
+called it
+“the latest instance of political ads including digitally altered videos to promote or attack candidates, making it difficult for viewers to discern what’s real.”
+So, what can be done to address political
+deepfakes
+?
+Read more on The Hill.

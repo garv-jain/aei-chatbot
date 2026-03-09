@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	Virtualized Networks and O-RAN Will Be Key for American 5G Success | American Enterprise Institute - AEI
+
+The economic benefits of 5G wireless and its ability to
+power a new generation of technologies have received much fanfare. But for the
+planned 5G buildout in the US to reach its potential, open radio access
+networks (O-RAN), the creation of virtualized networks using software-defined networking,
+and cloud computing will be key.
+A 5G sign at the Mobile World Congress in Barcelona, Spain, February 26, 2019 – via REUTERS
+In response to security concerns about the Chinese telecom giant
+Huawei — and its dominant position in the global
+5G equipment market — there has been a frantic search for ways to
+ensure more supplier choices are available to mobile operators. Until recently,
+if a mobile operator wanted to avoid using Huawei network equipment, the only options
+have been Nokia and Ericsson.
+A promising solution to the problem of limited vendor choice in 5G equipment may have emerged recently in the recently announced
+O-RAN Alliance
+, an industry coalition that aims to be an open source software platform for mobile Radio Access Networks (RAN). RAN equipment connects phones and other devices to telecommunications networks. The alliance aims to evolve its open source process that would transform the backbone of 5G networking into an open ecosystem with many vendors, moving away from the proprietary network equipment challenges of the past. The O-RAN Alliance is pushing for its member companies to achieve interoperability between their equipment; it is good news that Nokia and Ericsson have agreed to participate.
+Discussing 5G supply chain security on a recent
+episode
+of my podcast, “Explain to Shane,” Telecommunications Industry Association CEO David Stehlin said that “historically, a service provider will buy a whole system from an equipment manufacturer. If you’re a service provider X, you might use Nokia in half of your network and Ericsson in the other have of your network . . . but then you’re restricted to use only those types of gear.” Open interfaces would increase competition in the 5G network gear market by opening up network architecture design. Under such a framework more companies could enter the market, moving away from the old model where “vendor lock-in” has driven prices up, slowed innovation, and enhanced the Huawei, Ericsson, and Nokia juggernauts.
+Service providers will also gain new options for building virtual networks that are able to leverage interoperable gear manufactured by different vendors. With more vendors able to enter the ecosystem, the RAN market is
+projected
+to grow into a nearly $15 billion opportunity for interoperable components by 2023. The improved capabilities of software-driven networks will make possible data-rich applications in the medical, industrial, and agricultural fields that have long been touted as part of the 5G future. Redesigned network architectures will facilitate a great increase in devices connected to the same network doing very different functions. Machine-to-machine communications will have the faster speeds and low latency necessary to enable revolutionary new applications.
+Virtual networks will reduce costs tremendously while
+increasing capability, allowing network operators to engage in “network slicing,”
+which allows multiple unique applications to be delivered simultaneously to different
+customers, all using the same backbone infrastructure. Compared with using hardware
+dedicated to a specific function, network slicing gives enterprise customers
+the ability to deploy software as needed via the cloud, and discard it once its
+purpose has been served, saving space on enterprise servers and cutting costs.
+At the same time that mobile network infrastructures are being
+modernized, regulations need to be updated as well. Greater speed and network
+capacity will help with future increases in network traffic, but it remains
+vital that the government allocate enough spectrum to the right markets if
+virtualized networks are to function properly. Increasing the amount of available
+spectrum — both licensed (for operators to enhance 5G networks)
+and unlicensed (for Wi-Fi buildout) will make investments in new network infrastructure
+pay off.
+As my AEI colleague Claude Barfield has
+described
+, the success of 5G rests on a delicate balance of private sector investment, regulatory changes, public policy, and global politics. Allowing for open network architectures is a fundamental part of ensuring these imperatives are balanced. Ensuring a competitive market of vendors exists through an open-standards platform is not only good for the economy; it allows mobile operators to prioritize consumer and national security as well. As we manage the economic, public health, and technological challenges brought on by the COVID-19 pandemic, many of the innovations that will power the future are arriving just in time. It will be up to this diverse set of actors in the 5G world to make the right moves.

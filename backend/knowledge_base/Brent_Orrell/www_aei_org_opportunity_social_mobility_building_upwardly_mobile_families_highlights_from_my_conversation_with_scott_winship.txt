@@ -1,0 +1,182 @@
+PAGE_TITLE: 
+	Building Upwardly Mobile Families: Highlights from My Conversation with Scott Winship | American Enterprise Institute - AEI
+
+Federal anti-poverty “safety-net” programs
+have worked miracles for tens of millions of Americans, helping to drastically
+reduce “consumption poverty” — the number of people who lack sufficient resources
+for basic life needs — since 1960. It hasn’t all been upside, however, as some
+federal programs and policies have ensnared low-income Americans in a poverty
+trap. AEI scholars and researchers have been at the forefront of efforts to
+identify what works in anti-poverty policy, as well as what isn’t working, and
+proposing alternatives that meet our shared goals of opportunity and prosperity
+for all Americans.
+AEI’s Director of Poverty Studies, Scott Winship, has brought keen analysis to the debate over President Joe Biden’s proposals to extend and expand child tax credits. In his recent report, “
+Reforming tax credits to promote child opportunity and aid working families
+,” Winshipfocuses on ways to provide support to working families without discouraging work and family formation. For more details on Winship’s report, check out
+this week’s
+episode of “Hardly Working.” Below you will find a short Q&A highlight from our conversation. The full transcript can be found
+here
+.
+This transcript has been edited for length and clarity.
+Orrell:
+Why don’t you give us the background on Scott Winship and how he got to be one
+of the most influential intellectual leaders on welfare policy in America?
+Winship: I came from a small-town background and was fortunate enough to get to go to a great school, Northwestern. And then what was really influential is that in the spring of my freshman year, the LA riots happened in 1992, which really made me, I think, for the first time kind of want to understand better poverty, issues of racial inequality. And so I changed my major. I took an urban policy class with
+Christopher Jencks
+while I was there and ended up being a research assistant for him. And then later, he was my grad school advisor. And in between grad school and then, I did a stint doing community organizing at ACORN, which was, you know, a quite liberal, borderline-radical community organization.
+Can
+you talk a little bit about that? What happened?
+So my first job out of college, I
+ended up going to St. Louis and taking this community organizing job. And to
+some extent, it was a bad fit. I wasn’t there all that long. My main job was to
+kind of figure out what the policy details should be for a ballot initiative
+campaign that we wanted to do statewide in Missouri to raise the minimum wage.
+I realized it was going to be a bad
+fit was when I said, “Well, are you at all concerned that 70 percent of
+Missouri residents live in either Kansas City or St. Louis, and there’s a state
+on the other side of the river in both of those cities where the minimum wage
+is going to be $2 lower? Are we concerned that businesses are going to start
+relocating, that will hurt economic growth in a way that will hurt the people
+that we’re working for in the end.”
+And the response was something to the
+effect, “This is economist malarkey.” And so, you know, it was just a very
+different orientation. When my student loans came due, my employer tried to
+encourage me to just default to my student loans as previous generations of
+activists had done. And we parted ways soon after that.
+So in 2005, I moved down to DC and promptly got very distracted. And wouldn’t end up finishing my PhD until 2009 because I took jobs in DC, first running an online magazine called The Democratic Strategists — so that sort of tells you, politically, I was still a Clinton Democrat — and that led to a job with a think tank that’s still around doing great work called
+Third Way
+. From there, I went to The Pew Charitable Trusts and was the research manager of something called the
+Economic Mobility Project
+. That led to a job at The Brookings Institution. From there, I ended up running something called the
+Social Capital Project
+at the Joint Economic Committee, working for Senator Mike Lee, who was eventually the chair of the committee. And now I’m here at AEI.
+There’s
+lots of give and take around the president’s proposals to expand the child tax
+credit and other mechanisms for getting more resources to low-income families.
+I’d like you to back up and give people the context for how this debate is
+unfolding.
+From the mid-1960s onward, the biggest
+anti-poverty program that we had was something called Aid to Families with
+Dependent Children (AFDC), which was primarily cash assistance in the form of a
+monthly check mostly to single mothers and their kids, single fathers as well,
+to some extent, and a very small number of married couples. But mostly, this
+was a program with roots in the New Deal when it was really intended for widows
+and their kids. At the time, there wasn’t a lot of divorce, so single-parent
+families tended to be families where one of the spouses had actually died or
+occasionally deserted.
+But AFDC was expanded over decades.
+And by the time we get to 1990, a sizeable share of kids are being raised by
+parents who are getting AFDC benefits. There’s a lot of concern about whether the
+program constitutes a poverty trap. If you’re receiving benefits and then you
+take a job, your AFDC benefits would be reduced. And so there were these real
+disincentives to going off of the program, especially when you combined it with
+other benefits — with food stamps and with Medicaid and things like that. The
+total benefit package often compared reasonably well against what the expense
+would be of taking a low-wage job, having to pay for childcare, potentially
+losing your Medicaid and not having employer-provided coverage.
+There were bipartisan calls for
+reforming the program. Bill Clinton ran in 1992 on, among many other things, “ending
+welfare as we know it.” He, from the start of his presidential term, was
+working on an ambitious proposal to reform AFDC. President Clinton decided to
+put healthcare reform first and the rest of the sort of history with Republicans
+taking control of Congress in ‘94 and pursuing their own vision of welfare reform.
+Bill Clinton, announcing initiatives designed to ensure those remaining on welfare rolls will make a successful transition back to the workforce. GAC/HB/JDP
+Via REUTERS
+The bipartisan welfare reform essentially
+gave states a big block grant and a lot of flexibility as to how they would
+spend it, instituted time limits for families that were on what was now called Temporary
+Assistance for Needy Families (TANF) and work requirements as well. After two
+decades of TANF, I think the research has been pretty consistent in showing
+that on that it’s been a real benefit in terms of reducing poverty and hardship
+for single mothers and their families.
+That was kind of the conventional wisdom up until 2016 or so. Kathy Edin and Luke Shaefer put out a book called “
+$2.00 a Day
+” which argued that welfare reform had actually left behind this group that was extremely poor, subsisting on no more than $2 a day. In 2017 or so, policymakers and academics started working on proposals for a child allowance, and with the American Rescue Plan Act in March 2021, they finally passed this child allowance.
+So
+give us the pro and con on that question of whether these types of subsidies
+discourage work?
+So the two sort of incentives that I
+and others are worried about are, one, is it going to cause people to work less
+because it provides more income, which allows them to buy more stuff, including
+more leisure? Secondly, will it reduce the incentive to work?
+A child tax credit that you can get
+without working changes that equation. So, will it cause people to work less
+and will it cause people to marry less and to choose raising kids as single
+parents rather than form marriages?
+This has been very controversial.
+There was research even before that suggesting the negative income tax
+experiments of the 1970s that found that this negative income tax would
+actually cause people to work more versus the old AFDC program. And in fact,
+they found that it actually discouraged work even more than the old AFDC
+program. I’ve tried to be pretty clear in what I’ve written that most of these
+are concerns that may not come to pass, but there’s enough evidence to make
+them reasonable concerns.
+So
+that’s a good transition to another topic I wanted to cover, which is the
+discussion about the relative weight of cultural factors or sociological
+factors versus the economics of marriage.
+That is one piece with a broad range
+of changes in what I would call associational life, what we do together basically
+as humans. So we haven’t just seen declines in family cohesion or stability. We’ve
+seen declines in the extent to which people do things with their neighbors.
+We’ve seen declining trust in institutions.
+I do think that the increase in single
+parenthood, for instance, is part of something much bigger than changes in
+safety net policy. But do I think changes in safety net policy have influenced
+things on the margin?
+Again, the research is not a slam dunk
+on this question. It’s not hard to find anecdotal stories from people who are
+receiving safety net benefits, who are well aware of what would change were
+they to take a job or to get married. There are a lot of couples who are
+cohabiting who would like to marry, but that financially, it just doesn’t make
+much sense to do that. How much weight to put on that versus these other
+changes, really hard to say. But I do think, especially for folks who have had
+less formal education, for instance, as having more formal education has become
+more important over time, they have been especially sensitive to these changes
+in whether it makes sense to work, whether or not it makes sense to marry.
+In a paper that I wrote we had a nice
+chart that sort of showed the trend in the typical safety net package available
+to a single parent versus the trend for out-of-wedlock births. It would take a
+lot better evidence than our chart to establish that. But the chart’s pretty
+striking. And so I think it is the case that it’s more feasible today, which is
+not to say that it’s easy, but it’s more feasible today to choose to raise kids
+alone than it was in even 1970, 1960, for sure.
+If
+you had absolute control over federal anti-poverty policy, what would you do?
+I would point to a couple of things
+that I’ve proposed in the past. The first would be, I think we should have an
+office of opportunity in the White House that would be generously funded and
+that would essentially provide seed funding for an array of experiments at the
+local level to figure out how to close early childhood learning gaps. You know,
+there are pretty large gaps in school readiness when kids come to kindergarten and
+first grade. We don’t do a good job of closing those right now. We have Head
+Start, which honestly the research doesn’t provide a lot of reason to expand it
+significantly. So we need to discover ways to close these gaps. But the federal
+government ought to be massively funding innovation to uncover effective ways
+to do that.
+The report I’ve written recently is
+related to the child tax credit and the earned income tax credit. You know, we
+have this contrast where, over time, we’ve done really well reducing the child
+poverty rate. People don’t really realize this, but it’s a small fraction of
+what it used to be. And in part, that’s because we have these safety net
+programs that provide resources to people. But a lot of those programs as we’ve
+talked about may have disincentives that while they might reduce point-in-time
+poverty, in the long run, they might actually impede upward mobility as well.
+And to the extent that African-American families are disproportionately
+beneficiaries of some of these programs, then expanding opportunity for them would
+be well-served by reforming some of these programs to expand opportunity more.
+Protesters hold replicas of food stamps during a rally in support of higher pay for low-wage earners.  REUTERS/Jonathan Ernst
+So what I proposed is increasing the
+earned income tax credit for married couples. And I propose going back to the
+old child tax credit, more or less: more generously funded, but not anything
+like what Democrats would like to do. I would like to see us giving kids whose
+families don’t receive the full child tax credit a “baby bond,” essentially a
+contribution to a savings account that they can’t touch until they’re 18. And
+then, in my version you could only spend it on certain things that were related
+to upward mobility: post-secondary schooling, training, a wedding. And then if
+you sort of follow a certain sequence that’s been called the success sequence,
+which is to say that you avoid long-term joblessness, you avoid multiple years
+of single parenthood as a young adult, then you could also use these baby bonds
+to pay for things like buying a house, starting a small business, putting it in
+a retirement account, that sort of thing.
+So the use of the baby bonds would be towards things that ought to expand opportunity and the incentives to behave in ways that will also expand opportunity would also sort of be built in as well. So those are just sort of two examples. I think conservatives ought to devote a lot more attention than we do to upward mobility and crafting a distinctively conservative policy agenda around upward mobility that looks very different than what the left would offer because it worries a lot about incentives and unintended consequences. But that also focuses a lot on racial inequality and the fact that there are a lot of poor white kids, too, who, because of their circumstances, are disadvantaged in terms of getting ahead.

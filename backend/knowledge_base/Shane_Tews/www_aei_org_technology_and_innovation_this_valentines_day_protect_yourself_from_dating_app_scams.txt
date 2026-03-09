@@ -1,0 +1,85 @@
+PAGE_TITLE: 
+	This Valentine’s Day, Protect Yourself from Dating App Scams | American Enterprise Institute - AEI
+
+Nowadays, more people are employing algorithms to find romantic partners. According to recent studies,
+30 percent
+of American adults have used a dating app or website, and before COVID-19,
+39 percent
+of heterosexual people reported meeting their partner online.
+While stuck inside during viral outbreaks, people have
+craved companionship. Dating app Tinder saw record-high usage in the first
+month of the pandemic — with
+3 billion swipes
+on March 29, 2020 alone. Dating apps have
+been on an upward trend ever since; this year, the global online dating
+industry’s market value is
+expected
+to increase from $5.8 billion to $6.4 billion.
+Match Group, the parent company of dating apps Hinge, OkCupid, and Tinder is
+now a $20 billion matchmaking empire. At least 50 American online dating
+startups were
+founded
+between 2019 and 2021, and there are now
+over
+2,000 such companies worldwide.
+via Twenty20
+Today’s dating apps possess more sophisticated technology than earlier iterations. The large pool of data supplied by subscribers themselves and enhanced social-science techniques make some dating apps less about swiping through another user’s photos and more about mutual interest. While earlier versions of apps like Tinder “
+solved for rejection
+” by highlighting the swipe function, other apps’ user interfaces have changed to allow more information flow, utilizing artificial intelligence (AI) algorithms to sort through potential matches. This means the newer apps push forward shared interest, paralleled by new features such as video chats that blend users’ virtual and physical worlds.
+Cupid’s poisoned
+arrow
+Effective technology products are designed with robust
+privacy and security measures. Unfortunately, this is not the case for many
+dating apps. There is a lot to be wary of when placing personal information
+onto any app or website. But fraud is particularly rampant on dating apps. It
+is easy to forget when you are looking for love that your information is at
+risk of being stolen and used by fraudsters who might want to do you harm. A
+dating-app user should have both their security and data privacy front of mind
+— and should make informed decisions about who they share information with. For
+example, Canadian dating service Ashley Madison’s
+data breach
+exposed usernames, passwords, addresses, phone
+numbers, and partial credit card numbers — all unencrypted — showcasing the
+importance of engaging with companies that understand and appreciate the significance
+of securing client data.
+Some dating websites and apps are solely designed to scam
+users. Many ask for a credit card right off the bat, don’t verify age, and lack
+terms of service. Once the consumer signs up, their inbox will flood with
+botnet
+-designed scam emails that entice users to reveal
+personal information that the scammers then steal.
+This month, the
+FBI
+and the
+Federal
+Trade Commission
+(FTC) have taken to social media to remind dating-app
+users about scams. New FTC data
+highlighted
+$547 million in consumer losses to romance
+scams in 2021 — $139 million of it in cryptocurrency. The median loss per scam
+was nearly $10,000.
+Criminals build romantic connections by finding mutual
+interests with a “match” who they request funds and steal personal data from
+for future scams. The criminals create false trust by lavishing attention on
+the victim, sending gifts (most likely purchased with the last victim’s credit
+card), and promising in-person meetups as soon as a “problem” that usually
+requires cash is resolved. Criminals are also known to ask new “partners” for
+prepaid gift cards, wire transfers, bank information, and cryptocurrency.
+Sometimes, victims are used as go-between mules for a money-laundering
+operation in which they are asked to accept funds, then send some or all of it
+to a third party as a favor. An FTC
+website
+details how to recognize and report such scams.
+Prioritizing trust
+and user safety
+The criteria for whether a dating app is reputable must rest exclusively on whether user data and online profiles are protected.
+Seeking.com
+, for example, has taken a robust security posture that protects subscribers and enhances trust through a combination of AI and human-centered forensics. The site has also
+engaged
+criminology experts to incorporate safety features into their algorithms and behavioral modification programming. Along with this key algorithmic and human oversight, Seeking.com offers a service to verify subscribers’ identities using AI and third-party data to scan reports and social media posts to see if a potential client may have committed a legal violation or criminal act — and whether they have previously shown interest in harming other individuals both physically and financially. As the danger posed by online dating continues to increase, Seeking.com’s user-protection framework should become a customary best practice for dating apps and websites.
+Dating apps have had their breakthrough moment in today’s
+society, redefining how people engage in relationships. But this Valentine’s
+Day, increased opportunity should come with heightened awareness of online
+dating’s potential security pitfalls — and of which companies offer the greatest
+protection.

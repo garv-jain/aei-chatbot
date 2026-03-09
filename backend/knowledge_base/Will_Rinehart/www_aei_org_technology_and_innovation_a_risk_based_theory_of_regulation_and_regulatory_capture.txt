@@ -1,0 +1,24 @@
+PAGE_TITLE: 
+	A Risk-Based Theory of Regulation and Regulatory Capture | American Enterprise Institute - AEI
+
+George Stigler’s 1971 paper “
+The Theory of Economic Regulation
+,” stands as an important piece of economic research. While most of the profession was convinced regulation advanced the overall public interest by correcting market failures, Stigler showed that regulators could end up in the pockets of the industries they were supposed to supervise.
+The notion of regulatory capture stuck.
+Via Twenty20.com
+What is often overshadowed, however, is a more nuanced argument Stigler put forward in the paper. As he wrote:
+Regulation may be actively sought by an industry, or it may be thrust upon it. A central thesis of this paper is that, as a rule, regulation is acquired by the industry and is designed and operated primarily for its benefit. There are regulations whose net effects upon the regulated industry are undeniably onerous; a simple example is the differentially heavy taxation of the industry’s product (whiskey, playing cards). These onerous regulations, however, are exceptional and can be explained by the same theory that explains beneficial (we may call it “acquired”) regulation.
+Stigler was the first to popularize the notion that companies may actively try to acquire regulation. But for what reason? In our modern era, especially in tech, companies are often trying to acquire regulation that reduces their risk and legal uncertainty.
+The patchwork of state privacy bills provides some evidence to this risk-based theory of regulation,
+as I explained last year
+:
+Given that every bill is slightly different in construction, being unique in breadth and specificity, compliance will differ from state to state. Each state privacy bill means additional costs for firms that must comply with the law, like Meta and Google. It also means additional litigation risk. Complying with 50 versions of a privacy regime is costly and risky, so the litigation risk simplifies by forcing this onto the federal level.
+In other words, a federal privacy bill, compared with 50 state bills, means less risk and uncertainty for the company.
+This theory helps to explain why
+Meta supports
+federal legislation regulating apps for kids. It is not so much that they are trying to harm their competitors, though that might still be a reason. More likely, they are trying to reduce their own risk. Complying with a federal bill is easier than having to comply with state bills or having to go through various court cases. All of the options are costly, but the federal route means less litigation risk and less overall uncertainty.
+Research in the last decade has found that policy uncertainty is connected to reduced investment.
+Scott R. Baker, Nicholas Bloom, and Steven J. Davis
+developed an index of economic policy uncertainty based on newspaper coverage to see how it affects industries. Not surprisingly, their “index spikes near tight presidential elections, Gulf Wars I and II, the 9/11 attacks, the failure of Lehman Brothers, the 2011 debt-ceiling dispute and other major battles over fiscal policy.” As they explained,
+policy uncertainty raises stock price volatility and reduces investment and employment in policy-sensitive sectors like defense, healthcare, and infrastructure construction. At the macro level, policy uncertainty innovations foreshadow declines in investment, output, and employment in the United States and, in a panel VAR setting, for 12 major economies.
+While it is not the only driving force, reducing risk and uncertainty is a significant reason why companies seek out regulation.

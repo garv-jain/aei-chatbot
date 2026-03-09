@@ -1,0 +1,52 @@
+PAGE_TITLE: 
+	Pew Survey Shows Growing Skepticism Toward Federal Censorship of Online Speech | American Enterprise Institute - AEI
+
+A recent Pew Research Center
+survey
+suggests slightly more public support––albeit still far from optimal––for a robust online marketplace of ideas in which the federal government and technology companies refrain from policing falsities. Conducted more than a month after Donald Trump retook the Oval Office, the survey queried 5,123 Americans. The findings put light tailwinds behind Meta’s pre-inauguration decision to
+relax
+its content-moderation policies and Trump’s “Restoring Freedom of Speech and Ending Federal Censorship”
+executive order
+(EO) criticizing the Biden administration’s
+jawboning
+of social media platforms to remove conservative-tilting content.
+Pew
+reports
+that “[t]oday, about half of Americans (51 percent) say the US government should take steps to restrict false information online, even if it limits freedom of information. This is down from 55 percent in 2023.” A similar downward interventionist sentiment exists regarding support for technology companies taking such measures, with support dropping from 65 percent in 2023 to 60 percent today. The fact that a majority of respondents trust others––especially government officials––to decide what’s false remains highly problematic, but the declining support for a falsity-policed internet is encouraging.
+Via AP Photo.
+Importantly, the
+findings
+also reveal a distinct and persistent partisan divide––one found not just this year, but also when surveys were conducted in 2018, 2021, and 2023––between Democrats and Republicans. Given Republicans’ stereotypic distrust of government regulatory authority and their propensity to believe
+that
+“major technology companies are biased toward liberals,” it’s unsurprising that Republicans and Republican-leaning independents (collectively, Republicans) consistently voice much
+less
+support than Democrats and Democratic-leaning independents (collectively, Democrats) for
+letting
+the government and tech companies “restrict false information online.” Put differently, Republicans are more likely to
+reject
+paternalistic online intermeddling to ferret out and censor ostensible inaccuracies.
+To wit, the 2025 survey
+found
+that only 43 percent of Republicans support the federal government taking falsity-squelching actions compared to 58 percent of Democrats. The 58 percent figure for Democrats supporting government censorship is down from a whopping 70 percent in 2023.
+The Democratic decline in backing makes sense because Joe Biden was president in 2023. Democrats naturally would seem more inclined to trust a Democratic administration to determine (and censor) a message’s falsity than they would a Republican administration. The propensity to place greater trust in one’s own political party to police the marketplace of ideas for falsities when it controls the White House also holds true for Republicans. When Biden was president, only 28 percent of Republicans in 2021 and 39 percent in 2023
+believed
+the federal government should take steps to restrict online falsities. Today, under President Trump, a slightly higher 43 percent of Republicans believe the government should undertake such efforts.
+Distrust of those temporarily vested with government authority to engage in such initiatives is a longstanding First Amendment tenet. Professor Helen Norton
+writes
+that “the First Amendment tradition . . . relies on what many call a negative theory of the Free Speech Clause” in which speech is protected:
+not so much because it is so valuable, but instead because the government is so dangerous in its capacity to abuse its regulatory power. Negative free speech theory thus understands the First Amendment to be more about our fears of the government than about our affirmative aspirations of the good.
+The US Supreme Court thus
+concluded
+in
+United States v. Alvarez
+that speech doesn’t shed constitutional protection––in
+Alvarez
+, lying to anyone about having won a Congressional Medal of Honor––just because it’s false. Instead, false statements only lose First Amendment protection when they cause some “legally cognizable harm” such as reputational injury, privacy invasion, fraud, or perjury. Without direct connection to a specific harm, the preferred remedy for falsities is counter speech––adding more information to the marketplace of ideas to correct (not censor) falsities. Justice Anthony Kennedy explained for the
+Alvarez
+plurality that “[o]nly a weak society needs government protection or intervention before it pursues its resolve to preserve the truth. Truth needs neither handcuffs nor a badge for its vindication.”
+Republicans certainly have good reason to fear Democrats will biasedly abuse whatever power over online falsities they may possess. Indeed, Trump’s January 20 EO noted earlier expressly
+criticizes
+the Biden administration for using “the guise of combatting ‘misinformation,’ ‘disinformation,’ and ‘malinformation’” to censor “Americans’ speech on online platforms, often by exerting substantial coercive pressure on . . . social media companies.” The stifled speech, the EO notes, involved messages that didn’t match Biden’s “preferred narrative.” In response, Trump’s EO
+proclaims
+that “government censorship of speech is intolerable in a free society” and pledges that federal employees won’t “unconstitutionally abridge the free speech of any American citizen.”
+In sum, if Pew’s latest results are correct, then Meta’s policy change and Trump’s EO both track increasing public sentiment against letting others manipulate and censor online idea marketplaces.

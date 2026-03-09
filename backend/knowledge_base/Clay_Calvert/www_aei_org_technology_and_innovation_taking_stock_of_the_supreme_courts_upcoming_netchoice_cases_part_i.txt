@@ -1,0 +1,98 @@
+PAGE_TITLE: 
+	Taking Stock of the Supreme Court’s Upcoming NetChoice Cases, Part I | American Enterprise Institute - AEI
+
+On September 29, the
+US Supreme Court
+agreed
+to review
+facets of two largely conflicting federal court rulings—
+Moody v. NetChoice
+from the US Court of Appeals for the
+11th Circuit
+and
+NetChoice v. Paxton
+from the
+5th Circuit
+—affecting social media platforms’
+First Amendment
+speech rights. The justices will settle (likely in June 2024) those courts’ disagreement about the constitutionality of similar Florida and Texas laws that force platforms to host content and users against their will and individually explain content-removal decisions.
+At stake in the
+NetChoice
+cases is the very freedom of platforms as private enterprises to decide for themselves, without government interference and compulsion, (1) the types of content they allow and prohibit; (2) how they curate, present, and remove content; and (3) when to ban users and how to explain to them decisions about removing of their content. The platforms’ editorial control and autonomy to create, maintain, and evolve the speech-based communities they desire—not ones the government paternalistically deems desirable—is on the line.
+Via Adobe Stock
+This post, the first of a two-part series, summarizes the issues and statutes the Supreme Court will examine. The second post will explain why the Court’s decision to hear the cases was unsurprising and will identify some statutes, questions, and concepts the justices might address—in passing or at length—in the cases. These subjects include: (1)
+Section 230
+of the Communications Decency Act, (2) the First Amendment
+right not to speak
+, (3) the analogy between the editorial rights of social media platforms and those of print newspapers that the Court detailed in
+1974
+, (4) the possible
+standards of scrutiny
+for evaluating the constitutionality of Florida and Texas’s statutes, and (5) the role that
+text and history
+might play for some Justices.
+Regarding the legal issues, the Court accepted two questions that U.S. Solicitor General
+Elizabeth Barchas Prelogar
+urged it to consider in an August-filed
+brief
+. They involve whether the “content-moderation restrictions” and the “individualized-explanation requirements” imposed on large social media platforms by Florida and Texas violate the platforms’ First Amendment right to free speech. In other words, do state statutory mandates and obligations compelling expression and dictating how to arrange it violate the First Amendment?
+The 11th Circuit
+concluded
+in May 2022 that it was “substantially likely” that both sets of Florida’s requirements (content moderation and individualized explanation) were unconstitutional, affirming a trial court’s
+preliminary injunction
+blocking their enforcement. Conversely, the Fifth Circuit
+determined
+several months later that similar Texas mandates were constitutional because they “neither [compelled] nor obstruct[ed] the Platforms’ own speech in any way.” It therefore reversed a trial court’s contrary
+decision
+.
+What do the content-moderation statutes require? They compel platforms to host content and users they otherwise wouldn’t while also interfering with the platforms’ editorial choices about how to arrange content.
+For example, a Florida
+statute
+prevents
+large social media platforms
+(those with $100 million or more in annual gross revenue or “at least 100 million monthly individual platform participants globally”) from
+deplatforming
+(permanently banning or suspending for more than 14 days) legally qualified candidates for state or local office in the Sunshine State. A candidate thus can flout and break, once or repeatedly, a platform’s policies regarding acceptable content (for instance, Facebook’s bans on “
+hate speech
+” and “
+particularly violent or graphic
+” content) without fear of being kicked off. Platforms that violate the
+statute
+for statewide candidates can be fined a whopping
+$250,000 per day
+.
+Another Florida
+statute
+interferes with platforms’ editorial judgment about how to arrange “content and material” that is either by or about candidates in users’ feeds and search results. It does so by banning “
+post-prioritization
+” algorithms that otherwise helpfully organize content, much like newspapers prioritize articles where they appear in a paper and on a page. Under the same statute, platforms cannot “
+censor
+,
+deplatform
+, or
+shadow ban
+a
+journalistic enterprise
+based on the content of its publication or broadcast.” (Emphasis added.) The
+statute
+defines the italicized terms.
+A Texas
+statute
+bans platforms with
+more than 50 million
+active monthly users from
+censoring
+“a user, a user’s expression, or a user’s ability to receive the expression of another person based” on the user’s viewpoint or viewpoint expressed by the user. A
+related statute
+creates some carveouts for censorship, but it doesn’t apply to sexist, racist, and anti-LGBTQ viewpoints or to religious bigotry, be it anti-Semitic or anti-Catholic. Platforms can’t remove such valueless, hateful expression unless the posts directly incite criminal activity or specifically threaten violence.
+Collectively, the “
+individualized-explanation requirements
+” in
+Florida
+and
+Texas
+compel platforms to provide thorough, personalized explanations to users about why their content was removed. As Prelogar
+asserted
+, “the sheer volume of content removal that the platforms undertake makes it impracticable for the businesses to comply with those mandates.” Texas also requires a burdensome
+appeals process
+.

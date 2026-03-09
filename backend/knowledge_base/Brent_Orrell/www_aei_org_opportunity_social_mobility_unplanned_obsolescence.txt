@@ -1,0 +1,18 @@
+PAGE_TITLE: 
+	Unplanned Obsolescence | American Enterprise Institute - AEI
+
+Tech sector layoffs have grabbed a lot of headlines over the past two years since the Federal Reserve ended its zero interest rate policy that enabled vast investment in research, development, and high-tech start-ups and as artificial intelligence (AI) has begun to reshape a growing number of sectors. A
+recent article
+from the
+Wall Street Journal
+highlights a harsh reality of these job cuts: coding, which for at least a generation has been a by-word for big money and economic security, is becoming passé. AI can do much of the routine coding work faster, cheaper, and better. Call it “unplanned skills obsolescence.”
+For students and workers who have spent years acquiring coding skills, this is a matter of
+deep concern
+, and it focuses attention on the need for broader, more flexible skill sets and knowledge bases. Chief among these skills is something called
+noncognitive or “soft skills”
+which employers already see as the biggest deficit in the American workforce. These types of skills—things like communication, team work, and interpersonal perception and response—are vital in two respects: They help workers execute specific tasks within jobs
+and
+are foundational to learning and adaptation as new technologies emerge.
+This insight about the importance of learning and adaptation is reflected throughout the Journal article. Some coders are reinventing themselves to meet the need for people who are acquainted with AI and how it works. Ex-coders, while not necessarily experts in AI, are more likely to have had some exposure to it and be comfortable working around and with it. As the saying goes, in the land of the blind, the one-eyed man is king. Further, as Stanford University labor economist Erik Brynjolfsson has argued, one of the salutary effects of tech layoffs in places like Silicon Valley is that they may help to redistribute some AI and computer technology talent away from start-ups and towards goods and services producing firms helping raise productivity across the economy. This work may not be as sexy or well-paid as the start-up jobs, but there is a lot of it already and demand is likely to rise significantly as AI filters into the non-tech sectors.
+The bottom line is this: Creative destruction is integral to capitalism. Detroit was once the leading producers of horse-drawn carriages. That industry was replaced by automobile manufacturing, and the Detroit of the future will likely continue to provide leadership in new and emerging transportation technologies. This process is how capitalism works and how living standards rise over time.
+Of course, it is ironic that the computer science field, which has spent years helping to advance AI, is now feeling some of its short-term negative employment effects. The good news is that there’s always a need for smart, hard-working, and creative people in the dynamic American economy. All that’s needed is a little reinvention.

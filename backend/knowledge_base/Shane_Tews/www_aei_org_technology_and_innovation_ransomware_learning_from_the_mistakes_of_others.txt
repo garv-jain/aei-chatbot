@@ -1,0 +1,52 @@
+PAGE_TITLE: 
+	Ransomware: Learning from the Mistakes of Others | American Enterprise Institute - AEI
+
+There is an old saying: A smart man learns from his mistakes, but a wise man learns from the mistakes of others. With a recent string of high-profile ransomware attacks on state and local governments (including an
+ongoing attack
+in Louisiana that has led the governor to declare a state of emergency), officials across the country should choose the path of wisdom by looking at how these attacks happened and what they can do to avoid becoming the next victim.
+Since the first known ransomware attack against a local government in 2013, these attacks have been
+on the rise
+, with more than 50 occurring in 2018. Ransomware attacks can be debilitating: In May, Baltimore was
+crippled
+by an attack from which it is
+still recovering
+. Atlanta was hit with a ransomware attack in March of last year, and
+the city expects
+the recovery to cost $17 million. The WannaCry ransomware attacks of 2017 affected organizations across the globe, including several
+county governments
+and a dozen Connecticut
+state agencies
+.
+The range of targets shows that vulnerabilities exist at all levels of government. Importantly, each of these attacks offers a lesson to state and local officials on what they can do to improve their organization’s security.
+Go phish
+According to members of Maryland’s congressional delegation, the National Security Agency determined that the hackers responsible for the Baltimore attack gained access to the city’s systems
+by phishing
+. In a
+phishing attack
+, a would-be hacker emails the target(s) from an account designed to appear safe and familiar — for instance, it could appear to be from Microsoft, or from a colleague or superior. The email might claim that the recipient needs to update his or her account information and direct the target to a fake website to enter their credentials, which the hacker can then use to gain access to the target’s systems. Or it could contain a file disguised to appear as a document, but which actually contains the ransomware software.
+There are two basic strategies officials should take to reduce the risk of a successful phishing attack. The first is to make sure the organization has a strong spam filter to catch phishing attacks before they reach employees. However, no spam filter is perfect, and hackers are constantly updating their strategies to bypass these defenses. Ultimately, employees are the last line of defense against phishing, and they should be trained to
+recognize and respond
+to phishing attempts.
+Try, try, and try again
+While hackers were likely able to access Baltimore’s systems by tricking an employee (or employees), the hackers who compromised Atlanta’s networks never interacted with a real person. The SamSam virus that shut down much of the city infiltrated systems via a
+brute-force attack
+, in which a program repeatedly guesses passwords until it finds one that works. In the case of Atlanta, the city’s remote desktop protocol (RDP) and virtual private network (VPN) were
+easily accessible
+to the public and provided a ripe target.
+There are several things governments and other organizations can do to limit their risk to this type of attack. Requiring strong passwords (with an emphasis on password
+length over complexity
+) can at least slow down a brute-force attack long enough to recognize it is happening, if not make it infeasible altogether. Limiting login attempts and requiring two-factor authentication, especially for RDP and VPN login, will also reduce the efficacy of a brute-force attack. Even with these precautions in place, it is still possible that hackers could gain access, so system administrators
+should limit
+what actions are possible while using RDP or VPN.
+Crying over spilled milk
+While the previous two attacks could be traced to vulnerabilities at the user level, the WannaCry attack relied on an
+underlying vulnerability
+in the Windows operating system. Microsoft had discovered the vulnerability and issued an update (or patch) to fix it months earlier, but many users had not installed the patch.
+Organizations have little control over attacks at the operating system level, which makes it all the more important that they ensure all computers in a network are regularly updated, especially if an update has security patches. This also means phasing out any systems relying on old software that no longer receives security updates — a particularly pressing concern given estimates that
+one-third of major information technology systems
+used by state governments were put in place before 2002. These systems pose a major vulnerability to state governments’ cybersecurity, and modernizing them should be a top priority.
+Back, back, back it up
+One final issue raised by the ransomware attacks discussed here is system backups. Backing up systems does not prevent a ransomware attack, but it can greatly reduce the impact should an attack occur. That being said, it’s important that backups are set up effectively. Security experts, including at the
+Department of Homeland Security
+, recommend a “3-2-1 rule”: have three copies of a file (one live version and two backups); keep files on two different media types (e.g., hard drive and cloud); and store one copy offsite. The latter two points are especially important, because if a backup is stored locally on the same computer or network, it could be encrypted in the same attack that takes down the main system.
+There is nothing state and local officials can do to guarantee their systems will not become victims of a ransomware attack. But employee training, secure password and login policies, regular system updates, and reliable backups are all simple policies that can greatly reduce the risk of an attack. As the threat of ransomware continues to grow, it is imperative that leaders learn from past attacks and take the necessary steps to protect their organizations and the citizens they serve.

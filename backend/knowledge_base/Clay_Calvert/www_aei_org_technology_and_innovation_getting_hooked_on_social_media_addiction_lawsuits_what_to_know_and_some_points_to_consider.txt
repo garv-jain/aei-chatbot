@@ -1,0 +1,84 @@
+PAGE_TITLE: 
+	Getting Hooked on Social Media Addiction Lawsuits: What to Know and Some Points to Consider | American Enterprise Institute - AEI
+
+Massive, multi-plaintiff lawsuits blaming social media companies for a host of mental and physical injuries are quickly mounting, claiming that platform-addicted minors sustain harm through manipulative design features. State attorneys general and plaintiffs’ lawyers are honing their legal knives, seeking
+Big Tobacco like
+,
+billion-dollar settlements
+using
+negligence
+and
+products liability
+claims, and state law unfair and deceptive acts and practices (
+UDAP
+) statutes that protect consumers. These legal theories are being deployed to thwart
+First Amendment
+defenses and block the federal statute—
+Section 230
+—that generally shields platforms from liability for hosting and removing others’ content. Some early indicators suggest that defeating the cases may not be easy.
+Consider the
+coordinated proceeding
+in California state court I recently
+addressed
+. On October 13, a Los Angeles based
+judge
+refused to dismiss
+a negligence claim against defendants ByteDance (owner of TikTok), Google (YouTube), Meta (Facebook and Instagram), and Snap Inc. (Snapchat). That claim
+alleges
+the companies “failed to use reasonable care in designing their social media platforms and that they knew the design and interactive operational features of the applications were likely to cause harm to minor users of the social media sites.”
+Via Adobe Stock
+As Bloomberg Law
+reported
+, Judge Carolyn B. Kuhl “shot down the companies’ legal defenses” under the First Amendment and Section 230. She also allowed a separate
+fraudulent concealment
+claim to proceed against Meta. On the other hand, the case is at an early phase, and Kuhl rejected the plaintiffs’ products liability theories against all the defendants.
+Meanwhile, about a six-hour drive north in Oakland, there’s a
+Multi-District Litigation
+action
+filed
+in federal court against the same defendants that asserts similar legal theories of negligence and products liability, as well as fraudulent concealment against Meta. Known as
+In Re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation
+, it consolidates multiple cases filed on behalf of individual minors, and lawsuits filed by
+public school districts
+nationwide. During an October 27 motions-to-dismiss hearing, US District Judge
+Yvonne Gonzalez Rogers
+reportedly
+“expressed skepticism in response to claims by industry lawyers that tech companies have no legal obligation to ensure their platforms are safe for children.” She also deemed it “not clear” that all the plaintiffs’ theories should be jettisoned under Section 230, remarking that “more objective functionality decisions” were at stake beyond content-moderation choices.
+If those cases weren’t enough to keep the platforms’ lawyers hopping, 33 states jointly
+sued
+Meta and affiliated entities on October 24.
+The case
+, which doesn’t target ByteDance, Google, or Snap Inc., also is assigned to Gonzalez Rogers. It was filed after
+years of investigation
+by some state attorneys general and settlement talks with Meta failed, according to the
+Wall Street Journal
+.
+The
+complaint
+alleges a years-long, ongoing scheme of concealment, deception, misrepresentation, and unfair trade practices. The allegations pivot on Meta’s purported efforts to: (1) “maximize young users’ engagement” on its social media platforms via manipulative design features that exploit their psychological vulnerabilities and “developing brains,” and (2) downplay and conceal physical and mental health harms to young users that Meta knew were associated with addictive and compulsive platform usage.
+The states are using their own UDAP statutes targeting unfair trade practices as the legal hook for monetary recovery and injunctive relief. Additionally, the complaint contends Meta collected personal information from users under 13 without parental permission, thereby violating the federal
+Children’s Online Privacy Protection Act
+. Finally, the lawsuit cites and roughly tracks some allegations lobbed against Meta by the Wall Street Journal in a September 2021
+article
+, part of its
+Facebook Files
+investigation involving whistleblower
+Frances Haugen
+.
+In addition to the 33-state lawsuit,
+seven states
+and the District of Columbia separately sued Meta in their own courts, while Florida
+sued
+in federal court.
+Here are three concepts to ponder as these cases proceed:
+The Big Tobacco Analogy
+: In trumpeting the 33-state complaint, Colorado attorney general
+Phil Weiser
+proclaimed
+that “just like Big Tobacco and vaping companies have done in years past, Meta chose to maximize its profits at the expense of public health.” The tobacco analogy, however, only goes so far. Unlike cigarettes, social media platforms convey valuable speech, thereby raising First Amendment concerns absent when regulating non-speech products.
+Divide and Conquer
+: Meta is the lone target of the 33-state lawsuit. It’s also the sole company facing a fraudulent concealment claim in the California state court case after Kuhl’s October ruling. Will other social media companies rally around Meta? Regardless, with Meta’s market capitalization hovering
+around $800 billion
+, it’s simultaneously an inviting target for plaintiffs’ and a well-heeled defendant to fight.
+Correlation vs. Causation
+: Minors may experience anxiety, depression, and insomnia, but many variables beyond social media cause such harms. The plaintiffs must prove more than a correlation between social media usage and minors’ injuries; they must demonstrate the platforms caused them. That will be difficult.

@@ -1,0 +1,45 @@
+PAGE_TITLE: 
+	It’s Not Enough to ‘learn to Code’ | American Enterprise Institute - AEI
+
+On the campaign trail, President Biden advised a crowd to “
+learn to program
+” in an attempt to address their concerns about job security in a changing economy. Suggesting they “learn to think” would have been better advice. New artificial intelligence is beginning to transform computer programming in the same way the assembly line revolutionized industrial production, marking down the value of some lower-level coding skills.
+A recent article in
+The Verge
+described how advances in natural language processing technology by companies like OpenAI and its Codex program may soon reduce demand for coders, especially those at the lower end of the software development value chain. This is the kind of advancement that can take some of the shine off of a coding certificate or other short-term credential.
+Codex is a software program trained on all of the functioning code in GitHub, the world’s largest open-source
+coding repository
+. Via Codex, written and oral commands in English can be converted quickly into functioning code. A programmer might type in, “Create a webpage with a menu on the side and title at the top,” and the AI, pretty much instantly, will pop out the code necessary to create the display. It’s a basic webpage that has to be refined, but the process is far more efficient than a human coder building the same platform from scratch. Codex can also build simple games, translate between a dozen coding languages, and respond to requests for data analysis. In other words, the AI, which will undoubtedly improve over time, may render certifications and credentials from coding “boot camps” obsolete.
+The key to success in the technology workforce, and the job market more generally, is to move up the value chain away from routine work and toward more creative, people-intensive, and harder-to-automate tasks. As
+The V
+erge’s article points out, building software systems consists of two very distinct skill sets: coding and design—and AI is coming for the coding jobs.
+The second skill set relates to system architecture: being able to look at a problem and be part of an imaginative process that envisions and creates end-to-end solutions. Original work like this is highly bespoke and difficult to automate, responding to needs and contingencies and tailored to the specific requirements of a process or business. System design looks a lot more like art than it does like turning a wrench on an industrial assembly line.
+Codex is an example of both the glory and the danger of technological advancement. On the one hand, technology, when integrated with human intelligence and creativity, can boost productivity with humans doing the more difficult and costly design work while AI and other technology take on the routine tasks. On the other, for workers who have invested in building up narrower skill sets that can be broken down into automated procedures, AI and other technologies increase competitive and cost pressures. Since the dawn of the industrial age working life has been this way.
+For both pay and career longevity reasons, then, it makes the most sense to prioritize building up creative and critical thinking skills rather than focusing on more basic technical skills. But how does one “move up the value chain”?
+The answer is twofold. For incumbent workers, it’s vital to keep track of technological change in their industries and to actively seek opportunities for acquiring new skills: in-house training, online courses, employer reimbursement for continuing education. If your boss asks you to attend a training, no matter how irrelevant or mundane it might seem, the smart answer is “yes,” as it may add to your labor market value as a worker. What is not viable from a career standpoint is to rest on your current educational laurels and job skills; continuous learning is a mandatory part of labor market relevance. And, it can be fun and satisfying to push back against the boundaries of your aging intellectual and skill capital.
+For those earlier in their educational and career journey, the answer to the value-chain question is more complex. As I’ve
+written
+about previously, early-career jobs often start out requiring certain technical skills. Careers and advancement, on the other hand, are built on
+noncognitive skills
+like critical thinking, teamwork, and communication that, when combined with industry-specific experience, lead to more senior and higher-paying positions. Acquiring these skills requires some exposure and absorption of non-technical knowledge and skills that are often found in the liberal arts.
+Several years ago, I spent some time with students and tutors at
+St. John’s College
+, a small liberal arts school in Annapolis, Maryland. St. John’s has a fairly unique pedagogy: a defined list of classic texts, from Aristotle to Shakespeare, that every undergraduate spends four years reading, analyzing, and discussing. One of the surprising things I learned was that
+a disproportionate number
+of “Johnnies” end up in IT careers—but in systems architecture, not coding. The preparation they received in learning to think clearly about abstract concepts and to understand both the roots and branches of intellectual problems turns out to be good preparation for successful careers in a variety of technical and scientific domains, including IT.
+This isn’t just a St. John’s phenomenon. A number of important leaders in the world of IT and Internet-based companies have educations that include significant depth in the humanities.
+Reid Hoffman
+, the founder of LinkedIn, studied epistemology at an elite private high school and received a masters of studies in philosophy from Oxford. Hoffman’s co-founder,
+Allen Blue
+, graduated from Stanford with a degree in drama. At a 2019
+Stanford conference on AI
+, Hoffman and
+D.J. Patil
+—a Silicon Valley bigwig, LinkedIn’s original head of data science, and former chief data scientist of the United States Office of Science and Technology Policy—discussed how their respective training in the liberal arts helped create a shared language for making and communicating many of the key ethical decisions they faced relating to data ownership and privacy. Patil said the lack of this type of training would have left them at a disadvantage in effectively merging business requirements and the demands of ethics.
+Some might argue that such education is out of reach for the average person or that a student attending a community college shouldn’t be expected to be interested in, or able to understand, classic texts. This is wrong on multiple counts. This view radically undersells student capacity and the value and purpose of the humanities. Not everyone is cut out for advanced work in the humanities, but their status as human beings means the questions raised in liberal arts courses are, by definition, matters of common concern if only for good citizenship and as aides to navigating life.  Because of these factors, there’s a
+growing
+recognition
+that it may in fact be students on non-four-year tracks that are
+most
+in need of exposure to the themes of perennial human challenges such education offers.
+In other words, a working knowledge of what makes us distinctive as human beings, along with the intellectual tools such knowledge brings—ethics, logic, creativity, and insight into the human condition—are not just nice things. They are the substrate of intellectual habits that nourish human happiness and from which innovation and prosperity grow. AI software like Codex underscores the need for IT and other science professionals who are equipped to think, not just code.

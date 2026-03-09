@@ -1,0 +1,113 @@
+PAGE_TITLE: 
+	Transparently Unconstitutional: California Strikes Out Again with Compelled-Speech Mandates | American Enterprise Institute - AEI
+
+The
+US Court of Appeals for the Ninth Circuit
+delivered an important
+First Amendment
+victory last month in
+X Corp. v. Bonta
+, ruling that Elon Musk’s company would likely win its free-speech challenge against California’s content-moderation disclosure
+statute
+. Ostensibly designed
+as
+“a pure transparency measure,” the law compels platforms to biannually report whether and how they define and moderate controversial forms of expression including hate speech, extremism, radicalization, and misinformation.
+Via Reuters
+In ruling against California,
+Milan D. Smith, Jr.
+wrote
+for a unanimous three-judge panel that these are “intensely debated and politically fraught topics” that nonetheless involve “constitutionally protected speech.” He
+observed
+that California, with its “Content Category Report” requirement, forces a platform “to reveal its policy opinion about contentious issues” by having it “recast its content-moderation practices in language prescribed by the State, implicitly opining on whether and how certain controversial categories of content should be moderated.”
+The court found this likely violates the unenumerated First Amendment
+right not to speak
+(the right against
+government-compelled expression
+). Significantly, the Ninth Circuit rejected California’s claim it was only compelling commercial expression and that the law therefore should be analyzed under a relaxed form of scrutiny articulated decades ago by the
+US Supreme Court
+in
+Zauderer v. Office of Disciplinary Counsel
+. The court determined the law should face the demanding
+strict scrutiny
+test and would likely fail it because its burdens
+are
+“more extensive than necessary” to serve California’s alleged transparency interest.
+Does applying a different level of scrutiny really matter in a case like this? Absolutely. In fact, the
+lower court judge
+in
+X Corp. v. Bonta
+had applied the easy-to-meet
+Zauderer
+test and
+determined
+the Content Category Report mandate likely passed First Amendment muster and thus should not be enjoined. As I argued
+earlier
+, applying
+Zauderer
+was misguided because it “involved a radically different factual scenario—compelling speech in attorneys’ advertisements to prevent ‘consumer deception’ about costs and fees in contingency fee arrangements.”
+The Ninth Circuit’s conclusion that strict scrutiny—not the deferential
+Zauderer
+test—applies should please Justice Clarence Thomas. As I
+described
+in August, Thomas recently
+wrote
+that the Court “should reconsider
+Zauderer
+” and later decisions applying it in compelled-speech cases. His primary concern is that the test gives short shrift to First Amendment interests.
+Policy wise, the Ninth Circuit’s ruling strikes a blow against California’s regulatory efforts to shame platforms into censoring content that the First Amendment protects but that Golden State lawmakers find objectionable. As I
+explained
+about one year ago, shortly after X Corp.
+sued
+California Attorney General
+Rob Bonta
+to block the law’s enforcement:
+Requiring factual disclosures about policies affecting the moderation of unprotected categories of expression such as
+obscenity
+and
+child pornography
+is one matter. But government intermeddling with a privately run
+marketplace of ideas
+that skews it in the government’s preferred direction when it comes to constitutionally safeguarded varieties of speech is a vastly different and extremely problematic mandate.
+In remarking on the Ninth Circuit’s ruling, TechDirt’s
+Mike Masnick
+wrote
+that “the true intent of [the statute] is not about transparency, but about using that transparency as a weapon to pressure companies to moderate categories of content that the state of California doesn’t like.” Back in 2022, when the law (
+Assembly Bill 587
+) was percolating in the legislature, Professor Eric Goldman
+asserted
+a similar sentiment: “by prioritizing certain content categories, the bill tells social media platforms that they must make special publication decisions in those categories to please the regulators and enforcers who are watching them.”
+If the Ninth Circuit’s opinion in
+X Corp. v. Bonta
+seems vaguely familiar, it’s likely because it follows on the heels of
+another
+defeat for California in
+another
+compelled-speech case affecting social media platforms,
+NetChoice v. Bonta
+. The court’s August ruling in
+NetChoice
+, as I
+described
+, blocked enforcement of a key part of the
+California Age-Appropriate Design Code Act
+that compels platforms to prepare detailed
+“Data Protection Impact Assessment”
+reports about assessing and mitigating risks of exposing minors to “harmful” but lawful speech that might be caused by things like a platform’s design and algorithms.
+The Ninth Circuit
+wrote
+that “the DPIA report requirement invites First Amendment scrutiny because it deputizes covered businesses into serving as censors for the State.” As with its ruling in
+X Corp.
+, the Ninth Circuit’s
+NetChoice
+decision blocking the DPIA reports was: 1) unanimous; 2) written by Judge Smith, a
+George W. Bush nominee
+; and 3) based on strict scrutiny’s application.
+California’s backdoor efforts to censor First Amendment-protected expression online by compelling businesses to speak are failing with what was
+once considered
+—
+prior
+to former President Trump’s time in the White House—one of the nation’s most liberal appellate courts. That was then, this is now:
+X Corp.
+and
+NetChoice
+are decidedly pro-First Amendment, pro-business decisions.

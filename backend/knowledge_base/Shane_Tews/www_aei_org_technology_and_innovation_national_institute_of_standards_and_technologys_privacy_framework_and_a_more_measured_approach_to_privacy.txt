@@ -1,0 +1,29 @@
+PAGE_TITLE: 
+	National Institute of Standards and Technology’s Privacy Framework and a More Measured Approach to Privacy | American Enterprise Institute - AEI
+
+Former Homeland Security Secretary Michael Chertoff has lamented
+that
+“the most frustrating thing is when people treat privacy and security as if they are trade-offs. . . . I would like to see less of an oppositional approach and more taking a view that these things are actually interdependent and mutually reinforcing.” You can’t have privacy without security. This is the reason the National Institute of Standards and Technology at the Department of Commerce made creating its
+Cybersecurity Framework
+a top priority back in 2014.
+Now NIST is using a similar toolset to work through the privacy side of the privacy and security equation. Amid the current rush to regulate privacy and how businesses obtain and keep consumer information, it’s encouraging that a federal agency is taking a more measured approach, acknowledging that heavy-handed regulation isn’t warranted for all types of data.
+NIST designed its
+Privacy Framework
+(currently in discussion draft form) to dovetail the privacy work with the accomplishments of the Cybersecurity Framework, which helps identify and manage cybersecurity risk. The current exercise to identify the right level of privacy protections for managing enterprise data sets is helpful for businesses seeking to understand and manage their data collection and maintenance properly, both for security and privacy reasons.
+NIST’s key goal is to help businesses recognize that managing privacy risk is about how to protect consumer information by looking at how they collect, store, use, and share information. A risk-based approach to privacy highlights that not every enterprise needs an extremely cumbersome privacy policy to protect its data. The draft framework recognizes that data in a business-to-business format that doesn’t involve consumers’ sensitive personal information can choose to forgo potentially unwieldy privacy policies. As former Federal Trade Commissioner Maureen Ohlhausen has often pointed out, it’s best not to regulate before an actual risk materializes.
+The Privacy Framework’s core functions, designed to help businesses prioritize and create guidelines for their privacy needs, align with the same guidelines in the Cybersecurity Framework: identify, protect, control, inform, and respond. Aligning the cyber and privacy principles helps organizations asses their overall data protection risks. The discussion draft focuses on a privacy taxonomy and a methodology for outcomes using a self-assessment process and provides guidance on how to manage risk. Here’s an overview of the core functions.
+Identify
+. The first step is identifying a business’ core assets and ranking its data collection by risk tolerance. Reviewing how systems, services, and products may affect consumer privacy informs the level of protection needed. Identifying how data will be used will help the business understand its legal and regulatory requirements. Once businesses identify risk factors, they can decide how to manage those risks on a proactive and reactive basis. How catastrophic would it be if the information became publicly available? Are the data confidential? Are they widely available?
+Protect
+. Data are a vast corporate asset that need to be monitored and protected as a precious resource. But all data contain personal information, and protecting data from unauthorized access and malicious attacks is essential for reasons beyond privacy protection.  The draft framework notes that data theft, not privacy violations, is the priority for many businesses due to their regulatory obligations.
+Large data stores are attractive targets for hackers and data can be expensive to maintain, so data minimization may be a good decision for many businesses. Why be responsible for maintaining data that don’t create revenue?
+Control.
+Businesses must recognize that the complexity of their systems and services may create challenges when developing a comprehensive privacy policy. Allowing organizations to be flexible and creative to achieve the right level of control over data flows is crucial. If data are a significant source of revenue in a business partnership, it’s imperative that the transfer or sharing of data is done with a consent mechanism as part of the information flow. Businesses can tailor data retention security based on risk and compliance needs, and should implement reasonable access controls to limit unauthorized access to their core data assets.
+Inform
+. The informing process starts with the business understanding how it works with data and being transparent in its data collection programs. It can then quickly assess any risk and know the procedures for escalation toward public disclosure if any data are stolen or made public due to a breach.
+Respond
+. Once a data breach has been detected, technical and material insights and a business’ privacy policy should help determine the next steps for mitigation and redress as it pertains to its compliance needs, regulatory requirements, and contractual obligations.
+In the end, all these core functions will be foundational for companies looking to establish effective privacy policies. Understanding the business context for the collection of data (including the contexts under which data are processed); how an organization’s use of data may affect individuals’ privacy interests; and any regulatory, contractual, or legal requirements will help businesses and organizations prioritize as they seek to balance risk management and their business needs.
+On May 13 and 14, NIST will hold a second public workshop on the development of its Privacy Framework to help coordinate best practices for enterprise risk management. The working group is looking for feedback and engagement on their
+discussion draft
+released on April 30.

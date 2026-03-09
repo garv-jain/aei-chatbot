@@ -1,0 +1,44 @@
+PAGE_TITLE: 
+	Mandated “Sideloading” Remains a Security Risk and Bad Idea | American Enterprise Institute - AEI
+
+Lawmakers on
+both
+sides
+of the Atlantic are creating new regulatory burdens for the tech industry with specific companies in their sights. These proposed actions purport to help consumers, but if put into place, governments, not consumers, will be first in line on the thought process of how technology is designed. Regulation will trump innovation.
+via Adobe open commons
+These mandates would allow app developers to freeload off companies’ operating system designs while bypassing existing guidelines for secure interfaces that mitigate malware and promote secure use of consumer data. Europe’s Digital Markets Act (DMA) requires that smartphones become open to any outside developer, who can add software applications (apps) to a phone’s operating system through a practice known as “
+sideloading
+.”
+Apple warns this could threaten platform security through intrusions and operational flaws that undermine the core components of its platform. The DMA would force Apple to open its device-based App Store system to developers who don’t want to go through Apple’s current vetting process as a trusted partner—a process that enables resiliency and responsibility as part of the user experience on Apple mobile devices. Apple makes a
+well-documented
+case
+for what happens when you disable a threshold for access, along with the security challenges an unguarded, open framework could unleash on mobile operating systems.
+Creators of malware and scams that steal user data from devices love this idea. While EU lawmakers are
+lauding
+DMA provisions that let users “freely choose,” these guidelines actually give scammers the liberty to load consumer devices with apps that steal data and install malware, thanks to government officials taking the guardrails off a
+$400 billion business
+. Forty percent of people in the world have a smartphone; talk about a target-rich environment for malware producers.
+Existing security protections safeguard consumers’ private data, along with access to their cameras, recording functions, and device storage. A curated approach like Apple’s helps avoid malicious software downloads from
+Trojans
+designed to steal and sell consumers’ personal information. This is why Apple has
+rejected
+over one million apps and app updates since the App Store’s inception. Several former senior government officials from the security community also wrote an open
+letter
+in April 2022, calling for a national security review of US Congress proposals that mirror the DMA’s app store provisions:
+Legislation from both the House and Senate requiring non-discriminatory access for all “business users” (broadly defined to include foreign rivals) on US digital platforms would provide an open door for foreign adversaries to gain access to the software and hardware of American technology companies. Unfettered access to software and hardware could result in major cyber threats, misinformation, access to data of US persons, and intellectual property theft. Other provisions in this legislation would damage the capability of US technology companies to roll out integrated security tools to adequately screen for nefarious apps and malicious actors, weakening security measures currently embedded in device and platform operating systems. Our national security greatly benefits from the capacity of these platforms to detect and act against these types of risks and, therefore, must not be unintentionally impeded.
+Apple
+warns
+that mobile devices are full of highly personal and sensitive information. When it comes to data security (often
+referred
+to as “privacy”), we should want our elected officials to support better security as part of any regulation. Social media platforms already face the immense challenge of widespread misinformation. Do we want to add malware, adware, spyware, and potential ransomware to the list of easy cybercriminal activities?
+A recent
+study
+revealed a 500 percent jump in mobile malware delivery attempts in Europe, noting that most malware is downloaded from app stores. Android, with its open e-commerce model that permits sideloading, remains the more popular target. Third-party app stores
+helped
+spawn 230,000 new malware infections per day in 2021—with six million attacks per month on Android mobile devices alone.
+Adware from free game apps is another popular method for malicious actors to infect smartphones, run their programs in the background, and siphon account credentials and personal information—including banking details. Meanwhile, malware attacks are
+becoming more sophisticated
+in their ability to steal data, record conversations, hijack device audio and video, and destroy or wipe device content.
+The Department of Homeland Security (DHS) has called for companies and consumers to put their digital “
+Shields Up
+” to address a growing attack surface for malicious cyber activity and potentially disruptive international threats. DHS recommends users avoid downloading any information from an unknown source. So why are members of Congress attempting to mandate “equal access” to all devices, potentially compromising them by dissolving the first line of security for consumers? Both Congress and the EU should listen to cybersecurity experts and carefully review the potential downside of weakening security guardrails that protect consumers from device-based attacks.

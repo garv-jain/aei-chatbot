@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	The Hidden Danger of Security Code Debt: Why Thorough Vetting Is Crucial Before Deployment | American Enterprise Institute - AEI
+
+Last week’s
+headline
+, “Microsoft lashes out at Delta: Your ancient tech caused the service meltdown,” captures the frustration of the intertwined information technology infrastructure challenges. We’ve learned over the past three weeks how the fast-paced world of software updates and the pressure to release new features can overshadow the crucial need to keep security at the forefront of IT infrastructure.
+A recent “State of Software Security”
+report
+by Veracode shed light on a growing concern in the industry: security code debt. This phenomenon is becoming increasingly prevalent and poses significant risks to organizations worldwide.
+Via Twenty20
+The Veracode
+report
+statistics, which analyzed approximately 13 million code scans across 1 million applications, are concerning:
+63 percent of applications have flaws in first-party code
+70 percent have flaws in third-party code
+In 42 percent of applications, vulnerabilities remain unfixed for a year or longer, becoming security debt
+71 percent of organizations are affected by security code debt
+These numbers paint a clear picture: application code is drowning in security-related technical debt, and the security implications are severe.
+As I discussed in a
+recent
+Explain to Shane
+episode with Ken Silva, the “technical debt” is a $1.52 trillion invisible IT infrastructure problem that accumulates as outdated software persists on even new devices, increasing vulnerability to hacks and breaches. Security debt is part of the larger looming issue with both outdated legacy equipment and current updates to IT software.
+Artificial intelligence may provide a solution to some security vulnerabilities. However, the report suggests that AI-generated code is no more secure than that written by humans. This finding underscores the importance of human oversight and thorough vetting, regardless of the code’s origin.
+That said, there’s a silver lining: AI, particularly large language models trained on common software weaknesses, shows promise in accelerating code fixes. This potential could be a game changer in addressing security debt more efficiently.
+At the same time, third party components remains one of the most significant challenges in managing security code debt. The report reveals that vulnerable and outdated components from third parties are more likely to become a security risk. This weakness is particularly problematic when applications rely on open-source libraries with few contributors and little or no oversight regarding security. As the report shows, third party software tends to have lower security scores. The report also highlights that large and older applications tend to accumulate more security debt. As applications grow in size and age, the pace of remediation often slows down, leading to an increased risk of vulnerabilities persisting over time.
+Given these findings, thorough vetting of deployment configurations is more crucial than ever. To address this, developers and organizations should implement several key strategies. It’s recommended to integrate security into software development by incorporating security scans, AI-assisted remediation, and threat modeling throughout the software development lifecycle. Prioritizing developer education is essential, ensuring teams are well-versed in secure coding practices and up to date on the latest security threats. Careful third-party management is also recommended, favoring libraries with active maintenance and larger contributor bases. Finally, regular and comprehensive security audits of the code base, including third party components, are strongly advised.
+While AI-generated code isn’t inherently more secure, leveraging AI responsibly can be valuable for identifying and fixing vulnerabilities more efficiently. It’s important to focus on high-risk areas, prioritizing the critical vulnerabilities that are likely to be exploited. Lastly, implementing tools and processes for continuous monitoring of applications’ security status allows for quick identification and response to new vulnerabilities.
+By acknowledging the problem and implementing thorough vetting processes, organizations can mitigate risks and improve their overall security posture. Remember, security is not a one-time effort but an ongoing commitment that requires vigilance, education, and proactive measures. Implementing a robust strategy for regularly updating and patching applications is crucial to address vulnerabilities quickly.
+As I highlighted a few weeks ago in my piece “
+Raising the Bar, Not Lowering Our Guard, Around Cybersecurity
+,” we can build a more secure digital future by learning from recent incidents, evaluating regulatory outcomes, and implementing comprehensive security approaches. This endeavor demands constant vigilance, adaptable strategies, and a commitment to secure-by-design principles for enterprises and consumers in our interconnected world.
+As we navigate the complex software development landscape, let’s prioritize security alongside innovation. This includes being mindful of poorly drafted government regulatory mandates that lower the bar on security out of a demand for easier access to basic IT operating systems.  Being more vigilant about the importance of security can build a more resilient digital future, one secure application at a time.

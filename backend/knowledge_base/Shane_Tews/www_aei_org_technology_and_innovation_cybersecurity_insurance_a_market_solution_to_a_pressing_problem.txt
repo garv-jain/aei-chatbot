@@ -1,0 +1,37 @@
+PAGE_TITLE: 
+	Cybersecurity Insurance: A Market Solution to a Pressing Problem | American Enterprise Institute - AEI
+
+Over the past several years, we have seen a number of prominent cybersecurity breaches at major companies.
+Some of these
+, such as the hacks of Yahoo, Marriott, and Equifax, exposed millions of people’s sensitive information. Others, such as the
+WannaCry
+and
+NotPetya
+attacks, held enterprise systems hostage, demanding a ransom to restore their use. The Council of Economic Advisers estimates malicious cyber activity
+cost the US economy
+$57–$109 billion in 2016. As more products become part of the
+Internet of Things
+and as 5G wireless brings even
+more of the economy online
+, the number of potential targets for cyberattack — and the costs these will impose on the economy — will only grow.
+What can be done to ensure consumers and businesses are better protected from cyberattacks? Part of the solution may be to ensure businesses pay a price if their systems are compromised by hackers. The $117 million
+settlement
+Yahoo faced in the wake of its data breaches will surely serve as a warning to companies that they will pay a price if they do not respond appropriately to malicious cyber activity. In a similar vein, congressional Democrats have responded to the Equifax hack by
+introducing legislation
+to fine credit reporting agencies in the event of a data breach. Yet these solutions are inherently reactive, only responding in the event that a breach takes place and doing nothing to help businesses proactively improve their cybersecurity.
+One proactive measure is, of course, regulation, and the
+financial services
+and
+health care
+industries already face sector-specific cybersecurity regulations. Yet creating a patchwork of cybersecurity regulations for every industry would be unwieldy. The National Institute of Standards and Technology’s voluntary
+Cybersecurity Framework
+was created to help businesses manage cybersecurity risk, but it is not binding. It is unlikely that Congress or regulators can come up with a one-size-fits-all solution that would work across the entire economy, especially as the cyber threat continuously evolves.
+There is a promising, proactive market solution to this problem: cybersecurity insurance. Earlier this year, several large insurance companies, led by Marsh,
+announced
+that they would collaborate to rate the efficacy of cybersecurity software and technology. Businesses that use highly rated technology would be eligible for better terms on their insurance policies. This market-based approach takes advantage of private-sector competition in cybersecurity and directly incentivizes businesses to take a proactive stance by promising an immediate benefit — in the form of a better deal on insurance.
+In the future, insurers could potentially expand these incentives beyond just encouraging businesses to purchase the best cybersecurity software. Just as insurers give discounts to building owners with
+LEED certification
+, they could provide better terms to businesses whose internal policies are certified to be in line with the latest cybersecurity best practices. Insurers could also act as clearinghouses for cybercrime, using what they learn when one client is hacked to help other clients prevent, identify, and resolve similar attacks more effectively. More than simply socialize risk, insurers can actively generate and share information — and doing so can be good for their bottom line.
+Businesses are already
+beginning to respond
+to increased cybersecurity threats. As these threats grow, they must take a proactive approach to securing their systems. Insurers have taken an encouraging first step by incentivizing businesses to take advantage of the best products the cybersecurity industry has to offer. This market-based solution has the potential to continuously guide businesses through the fast-changing world of cyber risk.

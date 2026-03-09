@@ -1,0 +1,113 @@
+PAGE_TITLE: 
+	Social Media Platforms and Justice Thomas’s Tenacity on Compelled Disclosures and Common Carriers | American Enterprise Institute - AEI
+
+Although the
+US Supreme Court
+recently ruled in three
+First Amendment
+cases involving social media platforms, Justice Clarence Thomas, its longest-serving member, wrote just once—a separate concurrence in
+Moody v. NetChoice
+.
+Daniel Lyons
+recently
+explained
+that Thomas’s concurrence mostly argued that
+facial challenges
+violate the case-or-controversy requirement of
+Article III
+of the US Constitution. That topic arose in
+Moody
+and the companion case of
+NetChoice v. Paxton
+because
+NetChoice
+facially attacked (rather than launching
+as-applied challenges
+) Florida and Texas statutes that dictate how large platforms moderate content and require them to provide individualized explanations to users who’ve had posts removed or altered. The Court sent the cases back to lower courts to properly apply a facial-challenge analysis (something they hadn’t done).
+Via Reuters
+Two other points Thomas made—one favorable to platforms, the other less so—merit attention because they could influence how the cases are litigated and decided on remand. Moreover, they demonstrate Thomas’s laudable doggedness in making arguments that haven’t yet captured a majority’s fancy.
+Thomas’s
+willingness
+to “reconsider” the very relaxed standard of judicial review for compelled-disclosure mandates the Supreme Court created in
+Zauderer v. Office of Disciplinary Counsel
+and that the lower courts applied in
+Moody
+and
+Paxton
+bodes well for platforms. Scrapping or confining
+Zauderer
+while simultaneously heightening the level of review could help not only in challenging Texas’s individualized-explanation mandate (the
+US Court of Appeals for the Fifth Circuit
+upheld
+it in
+Paxton
+under
+Zauderer’s
+standard), but in
+other transparency cases
+where states compel platforms to disclose how they moderate controversial varieties of content.
+Zauderer
+involved a regulation that compelled attorneys’ advertisements to disclose purely factual, uncontroversial information to prevent consumer deception about contingency fee arrangements. In upholding the requirement, the Court
+concluded
+that mandates compelling factual, uncontroversial information in commercial ads don’t violate the First Amendment
+right not to speak
+if they: (1) aren’t “unjustified or unduly burdensome,” and (2) “are reasonably related to the [government’s] interest in preventing deception of consumers.”
+This standard is exceedingly deferential to the government, lacking the rigor required for laws to survive under either the
+intermediate or strict scrutiny
+standards of review. Professor
+Eric Goldman
+argued in a
+friend-of-the-court brief
+in
+Moody
+that
+Zauderer’s
+test applies “only in a narrow set of circumstances” (those tracking
+Zauderer’s
+facts) and is inappropriate for examining the validity of Florida’s and Texas’s individualized-explanation mandates. Those mandates clearly don’t arise in the context of commercial advertisements for legal services and, as Goldman
+wrote
+, they “do not fix deceptive omissions in existing ad copy.”
+Thomas
+explained
+in
+Moody
+that because NetChoice “did not contest
+Zauderer
+’s applicability before the
+Eleventh Circuit
+and both lower courts applied its framework, I agree with the Court’s decision to rely upon
+Zauderer
+at this stage. However, I think we should recon­sider
+Zauderer
+and its progeny.” Thomas’s “at this stage” language suggests NetChoice should contest
+Zauderer’s
+applicability when—at the next stage—the cases go back to the lower courts.
+Thomas’s beef with
+Zauderer’s
+test—one he explained 14 years ago in another
+concurrence
+—is that it gives First Amendment interests short shrift simply because they arise in commercial advertising contexts that compel speech. Laws that
+suppress
+commercial speech, rather than
+compel
+it, generally are reviewed under a variant of intermediate scrutiny known as the
+Central Hudson test
+; it is more demanding than
+Zauderer’s
+test. In 2010, Thomas
+questioned
+whether “an entirely different standard of review for regulations that compel, rather than suppress, commercial speech” is justified. This comes
+on top of
+Thomas’s longstanding struggle “to expand protection for commercial speech.” In sum, Thomas’s
+Moody
+concurrence now provides an entrée for strengthening judicial scrutiny of individualized-explanation mandates.
+The other facet of Thomas’s concurrence deserving attention—one less favorable to platforms—is his continued to desire to decide if large platforms are common carriers. He raised the possibility of—and made a case for—common carrier categorization in his 2021 concurrence in
+Biden v. Knight First Amendment Institute
+. He explained there that “the long history in this country . . . of restricting the exclusion right of common carriers . . . may save similar regulations today from triggering heightened scrutiny,” adding “there is a fair argument that some digital platforms are sufficiently akin to common carriers . . . to be regulated in this manner.” That designation wouldn’t be good news for platforms’ content-moderation rights.
+Thomas
+reiterated
+variations of this in
+Moody
+, calling on “both lower courts [to] continue to consider the common-carrier doctrine.” This sharply diverges from Justice Elena Kagan’s majority opinion that never references “common carrier.” Justice Samuel Alito supported Thomas in a concurrence that Thomas and Neil Gorsuch joined,
+pointing out
+“the majority’s conspicuous failure to address the States’ contention that platforms like YouTube and Facebook . . . should be viewed as common carriers.”

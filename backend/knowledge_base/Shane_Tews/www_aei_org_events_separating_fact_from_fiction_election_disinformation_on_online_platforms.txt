@@ -1,0 +1,18 @@
+PAGE_TITLE: 
+	Separating Fact from Fiction: Election Disinformation on Online Platforms | American Enterprise Institute - AEI
+
+VIDEO
+Event Summary
+On November 4, AEI’s Shane Tews hosted an event to discuss how social media and tech companies are navigating content moderation and Section 230 issues in light of the upcoming midterm elections.
+Guadalupe Strategies’s Spencer Davis began by explaining why content moderation has become such a politically contentious issue. He discussed how Republicans noticed that their fundraising emails were being sent to spam at disproportionate rates throughout 2022, leading to a lawsuit between the Republican National Committee and Google.
+The Brookings Institution’s Quinta Jurecic described how the Supreme Court case
+Gonzalez v. Google
+has put Section 230 into hot water by questioning whether the statute protects recommendation systems. Ms. Jurecic argued that the case’s outcome could reshape how the internet functions because search engines and social media rely on these recommendation algorithms.
+The Center for Democracy and Technology’s Samir Jain continued that this case will set a precedent for whether online platforms will be held more liable for user-generated content, therefore incentivizing platforms to be aggressive in moderating content to avoid lawsuits. The panelists ended by highlighting that events online can significantly affect real life—for good and bad—and that content moderation regimes should remain cognizant of this reality.
+—Matthew Glavish
+Event Description
+Coordinated foreign interference, claims of election fraud, and the doxing of election officials or candidates all have one thing in common: questionable election information on online platforms.
+Misinformation and disinformation on social media sparked national controversy following the 2016 and 2020 elections. False information online, malicious or not, can cause harm in the real world. As we approach the midterms this fall, how are social media and tech companies changing their approach to prevent similar issues? To what extent should platforms be held liable for enabling such content? What potential legislative proposals to reform Section 230 might alter that reality?
+Join AEI’s Shane Tews for a panel discussion on what effective online content moderation means—and what it doesn’t—in the context of the impending election.
+Event Materials
+Event Transcript

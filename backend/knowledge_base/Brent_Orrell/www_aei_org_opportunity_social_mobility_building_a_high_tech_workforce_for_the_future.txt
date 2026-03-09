@@ -1,0 +1,25 @@
+PAGE_TITLE: 
+	Building a High Tech Workforce for the Future | American Enterprise Institute - AEI
+
+The
+Wall Street Journal
+reported
+recently that a bidding war has broken out among the tech giants for scarce and valuable generative AI talent. This scramble is part of a much bigger talent shortage that looms over the US economy in coming years as AI becomes critical business infrastructure.
+Since generative AI (GAI) burst onto the scene in late 2022, the technology has sped ahead, driven by public interest and drawing massive investment. Major tech firms—Google, Meta, Microsoft, and others—have strained to meet demand and to build and refine customer tools.  Hopes are high that GAI will turn out to be a new “general purpose technology” that will rewire the US and global economy, boost efficiency, and set off a new productivity boom. PwC estimates that AI could contribute up to $15.7 trillion to the global economy by 2030.
+Given concerns about AI-induced unemployment, it’s ironic that workforce is turning out to be one of the most important AI bottlenecks. Prior to last year, work on GAI was concentrated in academia and a few “bleeding edge” firms like OpenAI, relying on a comparative handful of senior experts to do much of the theoretical and early design work. Now, a wide range of companies are getting into the act, and the stiff competition for skilled AI engineers has turned into a hot-war. Pay for top AI talent regularly reaches seven figures, remarkable even in a sector long known for eye-popping compensation. These developments point to an important reality: We need new solutions that expand the AI workforce rather than just shift the same workers between firms.
+The twists and turns of education, training, and skills in the technology space seem never-ending. The Federal Reserve’s anti-inflation campaign, banking system instability, and shareholder demands for higher returns have forced a head-count reckoning in the high-tech sector. Layoffs, which took hold a year ago, continue. Labor statistics show that tech firms shed almost
+90,000 jobs
+­­­ since the beginning of the year. These are on top of 260,000 lost tech jobs in 2023.
+Programmers and engineers haven’t suffered as much as people working in human resources, marketing, sales, and other support roles. But even a modest tightening in demand for computer science (CS) degrees increased anxiety among CS students and workers. As the
+New York Times
+reported,
+internships—on-ramps to job opportunities at major high-tech firms—are fewer and farther between. CS degrees have dropped a notch or two in importance while more general “prompt engineering” skills have gained currency. Finally, students who once hoped to work at prestigious tech firms like Amazon and Google are looking to automotive, retail, and logistics jobs. The high-tech deceleration is palpable.
+In important ways, tech workforce trends are a microcosm of the AI-infused workforce future more broadly. Access to AI tools like GitHub, Claude, and ChatGPT is democratizing skills and lowering barriers to entry for workers in a variety of fields. AI is even
+pressuring
+prompt engineering.
+Higher education
+is looking for ways to diversify CS education to include broader, more generalizable skills that will help students adjust to changing skill demands. AI is beginning to penetrate the “real” economy of production and services, entailing a need for sector-specific AI competencies and reskilling of incumbent workers who may know little about AI but can learn to use it to smooth workflows and improve productivity. While top-level AI talent will remain at a premium, those who are “merely good” programmers may need to retrain as AI use specialists.
+In March, at a meeting organized by NYU economist Dr. Julia Lane, AEI, and Stanford University’s Digital Economy Lab, a workshop of senior economists and labor market information experts examined strategies for estimating how AI and other “industries of ideas” may affect employment and skill demands in the future. Job and skill estimates are a
+quicksilver phenomenon
+, shifting unexpectedly in response to changes in technology and consumer demand. Arming educators, students, and workers with more accurate and transparent information may be one of the best ways to deliver to American businesses and workers the information they need to make better decisions about education and training.
+America’s top AI experts, the best on the planet by some distance, are like NFL starting quarterbacks who have been throwing spectacular “long bombs.” As our AI future unfolds, we will need linebackers, managers, and coaches who execute not just the big plays but the “three yards and a cloud of dust” advances that build greater productivity and shared prosperity. It’s time to get started on that playbook.

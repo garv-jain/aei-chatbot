@@ -1,0 +1,47 @@
+PAGE_TITLE: 
+	A NEPA Update from the White House | American Enterprise Institute - AEI
+
+This past January, the White House issued
+Executive Order (EO) 14154,
+“Unleashing American Energy,” which rescinded
+EO 11991
+from May 1977. For nearly 50 years, EO 11991 served as a foundational document for national environmental law. It established the framework authorizing the Council on Environmental Quality (CEQ), which developed regulations for federal agencies to implement the National Environmental Policy Act (NEPA). But the repeal of EO 11991 is not a shot in the dark.
+NEPA has come under fire in recent years due to mounting evidence that it serves as a bottleneck for project approval. While there is a limited amount of research on this issue, Ghanashyam Neupane and Birendra Adhikari’s 2022
+study
+of 11 geothermal projects located in California, Nevada, and Utah underscores the pitfalls of NEPA. They discovered that the swiftest review timelines take roughly six years to complete. But this could easily balloon to “13 years to complete if it were located in an area with significant environmental resources or cultural issues that required permitting from various agencies.” Critically, they found that longer review timelines result in a four percent to 11 percent increase in the simplified levelized cost of electricity (sLCOE) compared to the sLCOE value with the fastest timelines. The authors also found that extended review timelines could lead to a potential loss of revenue ranging from $64 million to $227 million.
+Via Adobe Stock.
+Beyond the economic and timeline concerns raised by researchers, the legal foundation of environmental review processes has also faced significant challenges in the courts. Notably,
+two recent court decisions
+have undercut the authority of the CEQ to promulgate regulations. In response to these legal vulnerabilities and identified inefficiencies, the administration has begun implementing concrete changes to streamline the environmental review process.
+Just last week, the White House issued a “
+Memorandum on Updating Permitting Technology for the 21st Century
+” that pushes the CEQ to put together “a Permitting Technology Action Plan for modernizing the technology used for Federal permitting and environmental review processes.” The result will be “a unified interagency permitting and environmental review data system consisting of interconnected agency systems and shared services.”
+This plan is a good start, but according to
+reporting from
+Inside EPA
+, it seems that the White House may go even further:
+The White House CEQ has told federal agencies to rescind their binding rules for implementing NEPA and replace them with nonbinding guidance, walking back its earlier request that agencies reissue rules consistent with Trump-era 2020 CEQ NEPA rules by next February.
+I’m skeptical that the White House will take this drastic move after having spoken with individuals closely connected with the reform effort. Undoing agency regulations and turning them into guidance doesn’t solve the fundamental problem with NEPA. The problem with NEPA is that it produces procedural hurdles that not only increase costs, but also give opponents leverage to delay project approvals.
+There is only one way out of this mess, and it requires a wholesale repeal and reform of NEPA, as my former colleague Eli Dourado
+has suggested
+. But the politics of this are tough. As Democrat Representative Scott Peters
+told
+Semafor
+, “In general, Democrats are more leery of permitting reform than Republicans. So [Republicans] could easily press Democrats off this bill.”
+In the meantime, the administration should narrow the scope of the law, as Aidan Mackenzie and Thomas Hochman have
+suggested
+, by pursuing three broad reforms through the CEQ:
+Redefine “major federal action” to ensure that projects with low levels of federal involvement do not trigger NEPA;
+Set a clear and broad standard for actions that “normally [do] not have a significant effect on the human environment”; and
+Set a high standard for what constitutes a “reasonably foreseeable” significant effect, which will narrow the set of actions that require an expansive environmental impact assessment.
+Additionally, there is an opportunity for the administration to clarify how NEPA applies to pass-through grants. For example, one oddity of the spending binge during COVID meant that broadband projects funded through the Treasury’s Capital Projects Fund
+were generally not subject to NEPA
+, while broadband projects funded through the Department of Commerce’s Broadband Equity, Access, and Deployment (BEAD) Program
+are subject to NEPA
+. This disparity alone highlights the need for clearer, more consistent NEPA guidance across programs.
+While comprehensive NEPA overhaul may remain politically challenging, targeted administrative reforms could deliver meaningful efficiency gains for infrastructure development. We need to build, which requires a balanced approach that acknowledges both economic realities and ecological responsibilities.
+Find more of my writing on NEPA
+here
+and
+here
+.

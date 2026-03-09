@@ -1,0 +1,76 @@
+PAGE_TITLE: 
+	Securing Children Online: Balance Caution with Opportunity | American Enterprise Institute - AEI
+
+By Shane Tews
+In March, it was
+reported
+that
+Facebook had plans to develop a new Instagram product for children under the
+age of 13. Facebook follows the Federal Trade Commission’s (FTC)
+Children’s Online Privacy Protection Act
+regulations,
+which require users to be at least 13 years old. So how Instagram — a Facebook
+subsidiary — plans to manage age verification and monitor underage accounts is
+a key question. The Campaign for a Commercial-Free Childhood
+wants
+Facebook to abandon
+the project due to concern that more screens, more interaction with the
+internet, and further commercialization of education would “put young users at
+great risk.”
+via Twenty20
+As education has shifted online, “
+edutainment
+” portals
+have given younger students online social environments to engage with peers.
+Adults are expected to understand the risks of using the internet and sharing
+information on digital platforms. But for children, we need to ensure personal
+information and images are managed and approved by parents or guardians. That’s
+a difficult task — not only for social media, but for educational institutions
+and entertainment mediums targeted at children.
+The regulatory obligation of consent from adults to give a child
+legal access to any application has been on the books since 1999. But here’s
+the catch: The legal-access question is typically hidden in those terms of
+service agreements we click through without reading. And beyond clicking
+“accept,” denying a minor access is difficult.
+The challenge is how to effectively anchor the authentication
+process from the adult approver to the child participant. The parent or
+guardian should feel comfortable that appropriate measures are in place to
+protect their child’s personal data, limit exposure to inappropriate content,
+and keep commercial messaging contained. To accommodate an appropriate trust
+anchor, developers face a number of challenges. The first is managing access to
+the web portal or application, followed by managing access to content in the
+portal. Last (but far from least), managing any data collected on young users
+is crucial, as this information is a prized target for data thieves.
+By requiring authorization from a verified parent or adult
+guardian in order for a child to participate in online activities, the granting
+of access should be contingent on real-time implementation of a valued
+identification system. And the more robust a platform is, the more important it
+becomes to insist on initial age verification to enable ongoing identity
+management. Once authenticated by a guardian, a child can access interactive
+content and engage with other children, students, educators, and validated
+adults. There should then be a mechanism for ongoing participation in the
+monitoring process by both the parent and the digital institution.
+Policies on minors’ access to the internet and mobile apps can be updated via the creation of an effective, transparent authentication process for the flow of information about the child. This means adopting an authentication method that pairs a child with a parent or guardian for approval before granting access to programs or apps. Financial institutions, for example, use “
+Know Your Customer
+” regulations to monitor customers’ risks and financial transactions. These systems use authentication methods that can be restructured for students — specifically children under the age of 13 — to ensure they are authenticated onto the web portal or application and that their data is secure.
+There is a balance to be struck between managing risk and knowing
+that clever kids will find their way onto digital platforms regardless of age.
+Facebook’s products, including Instagram, can be both fun and informative —
+hence their popularity. But it’s not just Facebook: Kids are logged on all
+across the web and in some cases can use mobile apps more effectively than
+adults can. But risks remain, as does the potential for exploitation, child
+identity theft, cyberbullying, and shaming — which are real concerns both on
+and offline. This is why Congress and the FTC should continue to show interest
+in ensuring sufficient mechanisms are in place to protect children online.
+Facebook may be the current concern, but commercial and
+educational institutions should have transparent plans and processes for
+admitting children onto digital platforms via verifiable parental consent. We
+need to think of children as potential users of both the platforms and the
+information they grant access to. And importantly, the policies we plan now
+should be designed to enable technology updates as the digital economy evolves.
+COVID-19 has altered how we work, educate, and entertain ourselves
+online. As policymakers push for more investment in internet infrastructure
+access across America, the internet’s importance will only continue to grow. It
+is time to align online safety policies toward children with the internet’s
+vast opportunities — rather than trying to hide the digital economy from our
+next generation.

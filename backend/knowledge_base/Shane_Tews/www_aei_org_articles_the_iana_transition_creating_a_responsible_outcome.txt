@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	The IANA Transition: Creating a Responsible Outcome | American Enterprise Institute - AEI
+
+The Internet Corporation for Assigned Names and Numbers (ICANN) has received a lot of attention lately and it’s not about being the technical coordinator of the internet’s system of unique identifier.
+Around this time last year, I wrote
+a post
+on this very topic. One year later, and with the September 30
+th
+deadline rapidly approaching, we are still not having the right debate. As it is more relevant now than ever, we are reposting my 2015 article in full below.
+3 strategies for keeping ICANN and IANA on mission and out of politics
+Over the last year, the ICANN community has been raging on about two issues: the looming IANA transition away from the US government, and how to ensure that the organization is accountable to all the internet’s stakeholders.
+While the issues have run on separate tracks, they both boil down to one question: can ICANN be trusted to be a good steward of the internet’s future? The answer to this question will go a long way in deciding ICANN’s future.
+The importance of separating technical functions and politics
+We must ensure that the IANA functions are not held hostage by interest groups. Allowing politics to seep into this process opens the door for all sorts of agendas to be imposed on the technical functionalities of the internet
+—
+including agendas that favor censorship and repression.
+Only by committing to the separation of architecture and politics can we shield the Domain Name System from being a proxy fight for other political games.
+Strategies for keeping ICANN and IANA on mission
+1. Take a lesson from the Numbering community
+The IANA functions connect the Domain Name System to the Numbering system
+—
+i.e. they help translate the website name you type
+—
+like
+AEI.org
+—
+to the IP address used on the network. The Numbering community has a strong and successful track record of managing the coordination and operation of the Internet Protocol system. The reason the Numbering process is so well-run by its operators is because they stay within their technical mission and work cooperatively to ensure global coordination.  Continuing IANA as a technical function without any political interference is the most important component to keeping the internet free and unfettered from political agendas.
+2. Governments should advise not rule the process
+ICANN is not set up to be a global arbitrator of trade agreements or human rights principles. Granting governments voting power invites mission creep beyond ICANN’s technical responsibilities. Governments currently hold an advisory role at ICANN. Advisory roles are not taken lightly; they have historically been a key part of ICANN by advising both the multi-stakeholder community and the ICANN Board on key policy decisions. Allowing a voting role for governments, however, would turn the multi-stakeholder process on its head. Sticking to government being advisory and not part of the governance structure allows for a government opinion to be heard on the record, but does not allow one government to have an outweighed opinion over their fellow government representatives.
+3.Transparency is vital for global acceptance of the multi-stakeholder process
+The ICANN multi-stakeholder community has spent countless hours creating guidelines and new bylaws to ensure that ICANN is an open, transparent and inclusive process. Implementation of these bylaws does not need to be coordinated with the IANA transfer.  These are important steps toward showing that the ICANN community has a legitimate role in the policy creation and management of ICANN and it shows the multi-stakeholders who participate in the process that their time and effort in the ICANN process does make a difference.

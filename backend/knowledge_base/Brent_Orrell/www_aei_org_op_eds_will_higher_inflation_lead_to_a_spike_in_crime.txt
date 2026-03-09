@@ -1,0 +1,45 @@
+PAGE_TITLE: 
+	Will Higher Inflation Lead to a Spike in Crime? | American Enterprise Institute - AEI
+
+In the early months of the United Kingdom’s COVID lockdown, Scottish farmers were struggling with more than just a once-in-a-century pandemic. By April 2020, the U.K. recorded a 15 percent increase in
+livestock theft
+, costing some regions up to $14.6 million in stolen property.
+Why might you be interested in a year-old story about sheep rustling? Well, if you owned a
+car
+or a
+bike
+during the pandemic, you may have experienced a form of rustling yourself. Record-high prices of precious metals have spurred a black market in stolen catalytic converters, and the inability of bike manufacturers to keep up with demand has been accompanied by a surge in bike thefts.
+This sort of response to financial incentives fits neatly into the late Gary Becker’s
+economic model of criminal behavior
+. Becker, a University of Chicago-trained economist, extended the standard economic assumption of utility maximization—the idea that individuals seek to achieve the highest level of satisfaction from their economic decisions—to the study of crime. In the same way that a consumer thinks about whether a new shirt is worth the price, criminals weigh the potential costs and benefits of crime. As rewards of criminal activity rise the relative risk declines. Theft becomes a more attractive way to make a quick dollar.
+Ever since Becker first introduced this model in 1968, economists, sociologists, and criminologists alike have attempted to understand the relationship between economic conditions and crime—especially property crime, which lends itself more to deliberate, economic decision-making. Empirical studies looked primarily at unemployment rates, levels of income inequality, and consumer sentiment in the hopes of understanding how economic conditions affect crime rates. By the early 2000s, it seemed as though researchers had a solid idea of what that relationship was: whenever the economy turned down, property crime rates went up, and as the economy improved, property crime fell.
+The consensus view on the economy and crime didn’t hold up during the Great Recession of 2008-10. Even though unemployment soared, real wages fell, and consumer sentiment hit record lows, the FBI’s
+2009 Uniform Crime Report
+showed declines in both violent and property crime. New answers were needed about the economy’s connection to crime.
+Enter criminologist Richard Rosenfeld—a professor emeritus at the University of Missouri-St. Louis who has spent the better part of the last decade researching explanations for U.S. crime trends. In 2014, Rosenfeld
+proposed a new answer
+to the “Great Recession paradox” that focused not on unemployment or inequality but on inflation. Similar to the recession of 2008-10, the Great Depression saw an increase in unemployment and a drop in crime rates in the context of steep
+deflation
+. By contrast, in the 1970s, when inflation and unemployment took hold at the same time—the era of “stagflation”—crime rates rose. Inflation, not general economic hardship, appeared to be the culprit behind rising crime.
+Rosenfeld’s follow-up research on inflation and crime has supported his initial conclusion. In 2016, he
+found
+that only inflation had consistent and robust short- and long-term effects on national property crime rates. In 2019, he
+reported that those results could be extended
+to the city level, once again confirming that inflation has significant effects on property crime rates. And this year, he published a new paper showing a
+significant association
+between inflation and homicide rates, especially in more economically disadvantaged communities.
+The underlying mechanism explaining
+why
+inflation affects property crime rates remains theoretical, but the proposed relationship is easy to follow. As prices rise, consumers tend to “trade down,” or substitute cheaper goods and services. But for individuals who were already buying the cheapest goods (for example, shopping at discount outlets), the market in “hot” goods may be the only place where they can find what they need at prices they can afford. Increased demand for goods “sold off the backs of trucks” incentivizes thieves to create supply. The result, the theory goes, is a rise in property crime.
+Which brings us to today. With headline inflation rates
+more than double
+the Federal Reserve’s 2 percent target and consumers and
+some businesses
+increasingly worried that rising prices are
+here to stay
+, Rosenfeld’s research takes on renewed relevance. If the inflation-crime connection bears out, the “spot” increases in thefts of catalytic converters, bikes, and
+lumber
+could spread widely to other products—adding a property crime surge to the
+increase in violent crime
+we have seen since the start of the COVID-19 pandemic.
+Still, even if inflation does remain high for the next few years, that doesn’t mean an increase in property crime is inevitable. Rates of a criminal activity are subject to a complex set of social inputs. In the meantime, as Congress considers another trillion-plus-dollar round of fiscal stimulus it’s important for policymakers to consider that inflation is not just an economic problem but one that can have far-reaching effects on the security of people and property, and beyond that to our broader feelings of order and social stability.

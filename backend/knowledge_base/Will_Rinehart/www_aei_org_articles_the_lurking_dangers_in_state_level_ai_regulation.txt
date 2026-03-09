@@ -1,0 +1,69 @@
+PAGE_TITLE: 
+	The Lurking Dangers in State-Level AI Regulation | American Enterprise Institute - AEI
+
+An ordinary bill signing became extraordinary last month when Colorado Gov. Jared Polis used the occasion to deliver
+a detailed critique
+of the bill he was signing,
+Senate Bill 24-205
+. The bill is one of the first pieces of legislation that regulates cutting-edge artificial intelligence (AI) systems. Still, Polis isn’t totally convinced that it’s ready for prime time: “Today, with reservations, I signed Senate Bill 24-205, ‘Concerning Consumer Protections in Interactions with Artificial Intelligence Systems.’ This is an important conversation to have, and in signing this bill I hope that it furthers the conversation, especially at the national level.”
+It is a shame that Polis didn’t veto the bill, though, because I think he was ultimately right when he said:
+I am concerned about the impact this law may have on an industry that is fueling critical technological advancements across our state for consumers and enterprises alike. Government regulation that is applied at the state level in a patchwork across the country can have the effect to tamper innovation and deter competition in an open market.
+Polis has a long pedigree in tech. He started and then sold two different tech companies, including ​​American Information Systems (AIS), which he founded in college. After selling an online florist business, he helped to found
+TechStars
+, a respected pre-seed investor in Colorado. In 2008, he was elected to Congress, representing Colorado’s 2nd District for five terms.
+I first became aware of Polis in 2009 while interning in Washington, D.C. and I still rank him as one of the few leaders that truly understands technology regulation. I also respect him because he was the
+only Democratic member of the Liberty Caucus
+, made up of libertarians and conservatives. So, it’s sad to see him not put up a fight against the bill, especially since the signing letter explains the problems that plague
+every
+AI bill:
+AI is regulated, regardless of intent.
+The bill deviates from traditional laws by regulating the outcomes of AI system use, regardless of the developers’ or deployers’ intent. This is a shift from focusing solely on intentional discriminatory conduct.
+The compliance regime is complex.
+The bill imposes a detailed and possibly burdensome compliance framework on all developers and deployers of AI in Colorado, which may be particularly challenging for small deployers.
+AI systems will now have reporting requirements
+. New reporting obligations require notifying consumers about how AI was used in significant decisions, the types of data processed, and the data sources. These requirements could be cumbersome and complex to implement.
+Consumer rights to appeal decisions mean costly human review
+. The bill requires deployers to allow consumers to correct data inputs and appeal decisions made by AI, necessitating potentially costly and resource-intensive human review processes.
+The bill will negatively impact innovation and competition
+. Polis expressed concern about the potential adverse effects on the AI industry, which is critical for technological advancements in Colorado. He noted that state-level regulation might stifle innovation and deter competition due to a patchwork of varying laws across the country.
+Polis ended by encouraging the legislature “to significantly improve on this before it takes effect” in 2026. Rarely do you find a governor denouncing a bill as they sign it, but Polis did just that. To me, it is a deeply telling signifier of what’s coming: AI will probably be regulated at the state level.
+One of the biggest problems plaguing AI policy today is that state policymakers are taking the wrong lessons from recent history. In
+pushing his bill that would regulate AI
+, California state Sen. Scott Wiener said that there is “an opportunity to apply hard lessons learned over the last decade, as we’ve seen the consequences of allowing the unchecked growth of new technology without evaluating, understanding, or mitigating the risks.”
+But regulating AI isn’t like regulating privacy, which is where the lessons were supposedly learned. Privacy law establishes a bundle of rights over personal data. But AI will affect each industry differently and problems will arise sector by sector. In a highly dynamic situation like this, it makes much more sense to rely upon the systems already in place to police bad behavior, like the consumer protection power of the Federal Trade Commission, the product recall at the National Highway Traffic Safety Administration (NHTSA), and the myriad of other governance mechanisms that exist,
+which I laid out here
+.
+Still,
+state legislatures have been incredibly active on AI this year. According to
+the state government affairs firm Multistate
+, there were at least 762 bills on AI filed in the states this past year. I was closely watching California’s Senate Bill 1047,
+which I have written about previously
+, the Colorado bill, and Connecticut’s
+SB 2
+.
+Connecticut’s SB 2 passed the Senate but stalled after Gov. Ned Lamont threatened to veto it. In explaining why he was going to veto the bill, Lamont
+told
+CT Insider
+, “I’m just not convinced that you want 50 states each doing their own thing. I’m not convinced you want Connecticut to be the first one to do it,” adding that the bill is too much too soon.
+What’s telling is how Connecticut state Sen. James Maroney, the bill’s author, explained the effects of the bill in comments
+made to the
+CT Mirror
+: “We know that nothing we’re doing here today is going to change the world. The world has always been changing and it always will be.” He added, “Today we’re doing our piece to make sure the world is changing for the good.”
+Maroney expresses an increasingly common viewpoint when it comes to all kinds of data regulation, especially regarding AI: These bills aren’t all that costly and, even if they have problems, they are still a good thing to do.
+I disagree on both counts.
+Falling back on the precautionary principle.
+Instead of a wait-and-see approach, Wiener and others are pushing for a precautionary approach. This notion was formalized in economics by
+Kenneth Arrow and Anthony C. Fisher
+, who showed that the irreversibility of some future events means that risk-neutral societies should favor precaution since it allows for more flexibility in the decision space in the future. Their 1974 paper kicked off the discussion for the precautionary principle.
+But one significant caveat to this line of logic was critically added by
+Robert K. Dixit and Robert S. Pindyck in 1994
+. Being risk-neutral in the decision space can come at the expense of potential returns, since not making a decision has a cost. The same logic applies to innovation. There is a clear time value to innovation that often isn’t properly accounted for with treatments of the precautionary principle. There is an opportunity cost embedded in the precautionary principle, which is the cost to innovation. And to be sure, there are costs involved with AI legislation.
+Hawaii’s
+Senate Bill 2572
+is the purest expression of the precautionary approach, referencing the idea in the bill’s text:
+… it is crucial that the State adhere to the precautionary principle, which requires the government to take preventive action in the face of uncertainty; shifts the burden of proof to those who want to undertake an innovation to show that it does not cause harm; and holds that regulation is required whenever an activity creates a substantial possible risk to health, safety, or the environment, even if the supporting evidence is speculative. In the context of artificial intelligence and products, it is essential to strike a balance between fostering innovation and safeguarding the well-being of the State’s residents by adopting and enforcing proactive and precautionary regulation to prevent potentially severe societal-scale risks and harms, require affirmative proof of safety by artificial intelligence developers, and prioritize public welfare over private gain.
+It is an impossible standard to meet,
+as regulatory analyst and noted author Adam Thierer explained
+, because no technology can ever be proven perfectly safe before deployment. But more to the point, I think it shows how fast AI is moving and where it is moving. It is not a positive future.
+States are considering big and aggressive bills that will be costly for a technology that is only now being developed. There is real danger if each state crafts its own rules. The result will be a chaotic landscape where compliance becomes a nightmare for developers.
+There are policymakers who think, “Nothing we’re doing here today is going to change the world,” but that to me is exactly the wrong attitude. Stopping AI innovation now is very much a possibility with bad state bills.

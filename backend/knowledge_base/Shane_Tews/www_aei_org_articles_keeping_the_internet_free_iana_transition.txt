@@ -1,0 +1,21 @@
+PAGE_TITLE: 
+	The Key to Keeping the Internet Free After the IANA Transition | American Enterprise Institute - AEI
+
+In March 2014, the Department of Commerce announced its intentions to relinquish oversight of the Internet Assigned Numbers Authority (IANA) functions. What was expected to be a quiet Friday announcement of a government contract dissolving after many years has become a global policy debate over how the Internet is run. Why has the geeky topic of IANA functions become so interesting to governments around the world?
+Let’s take a step back. When we are on the Internet, the domain names we type into the web browser are an overlay to a series of numbers called Internet Protocol (IP) addresses. IP addresses map out the networks that make up the appropriate pathway to arrive at the website you are seeking. The IANA functions help facilitate the technical aspect of marrying the domain name to the IP address. Yep, it’s pretty geeky, and not something the average Internet user gives much thought to.
+Truth be told, the inner workings of the IANA functions are not all that interesting on a day-to-day basis. However, since the IANA functions facilitate the operations of the entire Internet, they do represent a potentially powerful tool for whomever controls them. Certain repressive regimes look at the IANA functions and see what looks like an Internet “off” switch, a switch they would very much like to control.
+The new-found interest other governments have shown most often takes the form of a demand to bring the IANA functions more strictly under their purview, as opposed to continuing the multi-stakeholder-led process in place under ICANN. In 2012, for example, a leaked proposal authored by Russia, China, Saudi Arabia, and other autocratic states revealed those states’ desire that the IANA functions be outsourced to national governments,
+stating that
+“Member States shall have equal rights to manage the Internet, including in regard to the allotment, assignment and reclamation of Internet numbering, naming, addressing and identification resources.” That same year, Russia’s then-prime minister (and current president) Vladimir Putin
+advocated for
+“establishing international control over the Internet using the monitoring and supervisory capabilities of the International Telecommunication Union.”
+The attention that the IANA functions have received among governments around the world speaks to their importance to the day-to-day operations of the Internet. How, then, do we ensure that the Internet continues to run effectively and efficiently, and avoids capture or corruption?
+Doing so will require thoughtfully crafted measures focusing on transparency and accountability. Luckily, the US Congress is working to ensure just this. In June, the House of Representatives passed the
+Domain Openness Through Continued Oversight Matters (DOTCOM) Act
+. The bill requests that the agreed-upon policies for a transition of the IANA stewardship role, the one currently maintained by the US government, needs to be set forth before the Department of Commerce relinquishes its role. The legislation requires that the contract cannot be severed unless the ICANN multi-stakeholder community has agreed on acceptable measures for how the IANA functions will be managed without the US government’s involvement.
+The Senate Commerce Committee approved their version of DOTCOM Act in June, but the bipartisan bill is currently stalled. Senator Ted Cruz (R-TX), whose attempt to attach an amendment to the DOTCOM Act forcing a congressional vote on any transition plan failed in committee, has now
+placed a hold on the bill
+.
+The key to keeping the Internet free from capture by any one entity is to ensure that the IANA functions continue to be part of a depoliticized and decentralized system. This can only happen if we continue the to-date-successful strategy of viewing the management of the Internet – including the IANA functions – as a purely technical operation to be handled by engineers without political agendas. As we will explore at an
+upcoming event at the American Enterprise Institute
+, only if the technical aspects of the Internet are insulated from political pressures can we be confident that relinquishing oversight of the IANA functions will be a success.

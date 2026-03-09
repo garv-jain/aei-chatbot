@@ -1,0 +1,48 @@
+PAGE_TITLE: 
+	Strengthening US Cybersecurity in the Digital Age: A Conversation with Rep. John Katko (R-NY) | American Enterprise Institute - AEI
+
+VIDEO
+Event Summary
+On June 11, AEI’s Shane Tews hosted Rep. John Katko (R-NY) and a panel of experts for a discussion on strengthening US cybersecurity.
+Rep. Katko suggested allotting greater funding and authority to the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency (CISA). He urged Congress and the Joe Biden administration to approach cybersecurity with more urgency than previous administrations have and called on industry to establish unified cyber-hygiene practices for firms of all sizes.
+Microsoft’s Ginny Badanes cited online misinformation as a cyber-adjacent threat that has decreased public trust in American institutions. She commended CISA’s existing anti-misinformation operations and called on the agency to continue building societal resilience to cybercrime.
+AEI’s Klon Kitchen asserted that US-led international initiatives to deploy trusted technologies would improve society’s defenses against misinformation and hacking operations such as ransomware. Interos’ Andrea Limbago and New America’s Laura Bate agreed that defining trusted technologies and vendors would strengthen supply chain security, which Ms. Bate said Congress has championed.
+The panelists agreed that cabinets, agencies, and Congress must work together to punish cybercriminals and nation-states that harbor them. They concluded that interagency coordination is crucial to achieving this goal.
+— William Rau
+Event Description
+In the past year, hackers have infiltrated tens of thousands of organizations worldwide — including US government agencies. And recently, a ransomware attack on a major pipeline caused a gas shortage in the eastern US.
+Russia and China have been blamed often, but perpetrators are not always state affiliated. The Joe Biden administration has issued a review of US cyber vulnerabilities and an executive order to improve cybersecurity. But beyond reviewing known problems, Congress and the White House must work closely with government agencies and industry experts to create real solutions to prevent these catastrophic disruptions.
+Join AEI’s Shane Tews for a conversation with Rep. John Katko (R-NY), ranking member of the House Homeland Security Committee. A panel discussion will follow.
+Event Materials
+Event Transcript
+Agenda
+10:00 AM
+Opening remarks:
+Shane Tews
+, Visiting Fellow, AEI
+10:05 AM
+Fireside chat:
+John Katko
+, Member of Congress, US House of Representatives
+Shane Tews
+, Visiting Fellow, AEI
+10:20 AM
+Q&A
+10:30 AM
+Panel discussion
+Panelists:
+Ginny Badanes
+, Director, Strategic Projects, Cybersecurity and Democracy, Microsoft
+Laura Bate
+, Cybersecurity Policy Fellow, New America
+Klon Kitchen
+, Resident Fellow, AEI
+Andrea Limbago
+, Vice President, Research and Analysis, Interos
+Moderator:
+Shane Tews
+, Visiting Fellow, AEI
+11:15 AM
+Q&A
+11:30 AM
+Adjournment

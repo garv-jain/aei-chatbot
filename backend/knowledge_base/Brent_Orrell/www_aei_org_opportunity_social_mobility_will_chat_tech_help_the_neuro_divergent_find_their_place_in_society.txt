@@ -1,0 +1,23 @@
+PAGE_TITLE: 
+	Will Chat Tech Help the Neuro-Divergent Find Their Place in Society? | American Enterprise Institute - AEI
+
+The lament that digital technologies and social media are contributing to an epidemic of loneliness and conflict is ubiquitous. Whether these technologies caused or exacerbated these challenges is hard to unpack. My view is America’s sociability crisis was already advanced before Facebook, Twitter and other technology companies figured out how to monetize loneliness by providing ersatz relationships. Will artificial intelligence be the next step in making the problem worse?
+Some encouraging recent developments suggest AI may be able to heal, rather than exacerbate, existing social fractures. First was a Stanford University
+study
+about how customer support centers are turning to chat-tech to improve productivity and reduce negative interactions between callers and staff. The Stanford study found that productivity among call center workers with AI chat coaches rose by 14 percent (35 percent among the least skilled workers), turnover went down, and training time fell by half. Fewer calls were “escalated” to managers as well. Perhaps the
+Polanyi Paradox
+, which says that the implicit or “soft” knowledge and skills cannot be taught or transferred, isn’t so immutable after all. If that’s true, AI may be a way to break through stalled service sector productivity and help those who, because of disability or deprivation, lack implicit skills an opportunity to improve social navigation.
+This morning, WIRED Magazine
+weighed in
+with a new take on this issue discussing how people with autism are using ChatGPT to improve communication skills and reduce isolation. People with autism, like my adult son, often struggle to read social cues and respond in an appropriate and fluid manner. Chat-tech can help those with autism on their level by satisfying their need for logical, specific answers. Chat-bots can also coach autistic persons to better navigate education, excel in jobs and supplement executive function deficits that interfere with ability to organize and prioritize personal and professional life. Sometimes it just serves as a “friend” who never gets bored when an autistic user gets “stuck” (as they frequently do) on narrow topics of special interest.
+Artificial intelligence holds tremendous potential for
+improving life
+and
+helping
+some of our most disadvantaged citizens overcome barriers that stand between them and the fulfilling lives they deserve. With what seems like weekly calls for
+AI “pauses”
+and
+international government bureaucracies
+to prevent an AI apocalypse, we need to account for the economic and social benefits we may be
+foregoing
+if we allow our worst fears to drive our policies.

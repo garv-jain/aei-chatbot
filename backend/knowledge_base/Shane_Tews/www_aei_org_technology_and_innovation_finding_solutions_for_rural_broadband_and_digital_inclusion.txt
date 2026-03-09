@@ -1,0 +1,80 @@
+PAGE_TITLE: 
+	Finding Solutions for Rural Broadband and Digital Inclusion | American Enterprise Institute - AEI
+
+The COVID-19 pandemic has highlighted broadband connectivity’s
+importance and the need to bring connectivity to areas and consumers lacking
+access to it. The “digital divide” has been a concern since the advent of the
+commercial internet in the 1990s. There are good initiatives such as
+Comcast’s Internet
+Essentials
+,
+Charter’s Spectrum Internet Assist
+, or
+Cox’s Connect2Compete
+that bring affordable internet
+connections to low-income customers. Yet, there are discrepancies about how to
+identify and serve the geographic areas lacking full broadband access.
+According to the Federal Communications Commission, more than
+80 percent
+of over 17 million American households without
+reliable, affordable high-speed internet are in rural areas.
+via Getty Images
+Determining the best
+deployment models
+Cost remains a key determinant for broadband deployment. It
+is expensive to build physical connections across large distances, especially
+in rural areas with smaller concentrations of users, resulting in higher prices
+for customers. Moving forward, new, innovative technical approaches other than
+laying down fiber across these parts of the US will be a vital part of the equation
+for getting more people connected to the internet.
+As communications engineer Peter Rysavy recently
+wrote
+, “Tradeoffs between technology and spectrum are
+complex but need to be understood if policy makers are to encourage the most
+effective strategies to deliver broadband widely to rural environments.” The
+cost of laying miles of fiber that would be needed to connect rural consumers
+who are few and far from each other can be high.
+Rysavy also
+noted
+that covering distance through wireless spectrum
+has always been less expensive than laying wire. Nowhere is this truer than in
+areas where the abilities of satellite, Digital Subscriber Line (DSL), and
+fixed wireless can connect consumers at lower costs.
+Moving forward
+AT&T CEO John Stankey recently penned an
+op-ed
+arguing that policymakers should not be
+prescriptive in tackling the challenge of achieving broadband access for all.
+He writes, “As Congress debates earmarking up to $80 billion for rural
+broadband as part of the next round of pandemic relief, we should give equal
+weight to wired and wireless options.” To bring connectivity to unserved areas,
+we must understand that various different technologies can contribute to
+accomplishing this goal.
+For example, providing internet service via satellite would eliminate the need to lay hundreds of miles of fiber to reach rural areas. Elon Musk’s SpaceX is building a constellation of low-Earth orbit satellites called
+Starlink
+that would deliver gigabit speeds and low latency, beaming a signal to a device that would then send the last part of the signal via wired connections to homes, offices, and schools. DSLs are still available, but fixed wireless has become a more viable, more future-proof option. Fixed wireless bridges the “last mile” to residents with a wireless receiver installed in their house to bring them a traditional internet “backbone” connection.
+Continued calls for funding should be met with a data-driven
+approach to bridge the divide. My AEI colleagues Bret Swanson and Matt Au note in
+their recent
+blog
+several federal programs that aim to increase
+connectivity. Better mapping would ensure these programs deploy their resources
+effectively, ensuring government funds are directed toward areas that are truly
+unserved.
+Where to incentivize investment versus where to give
+government funding is fundamental to this challenge. Finding the right
+measurement tools to give each community an appropriate solution is key to
+solving the digital divide problem too. Stankey points to the “need to identify
+where broadband is unavailable with geographic precision,” noting that
+the
+Broadband DATA Act
+signed into law this past March
+should help give broadband providers the information they need to improve access
+in the future. The next step would be for Congress to act on funding and enable
+the investment needed to bring these options to consumers as quickly as
+possible.
+Bridging the rural broadband divide should continue to be a
+top priority for policymakers. They can clear the path for broadband deployment
+by reducing regulatory barriers, incentivizing public and private
+infrastructure investment, increasing the accuracy of mapping, and promoting
+innovative technology solutions with both wireless and wireline communications.

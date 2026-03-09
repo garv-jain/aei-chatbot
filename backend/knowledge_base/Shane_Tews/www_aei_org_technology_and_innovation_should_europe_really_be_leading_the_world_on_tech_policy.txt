@@ -1,0 +1,77 @@
+PAGE_TITLE: 
+	Should Europe Really Be Leading the World on Tech Policy? | American Enterprise Institute - AEI
+
+As the Joe Biden digital economy team takes shape, the EU’s proposed Digital Markets Act (DMA) and the Digital Services Act (DSA) loom large. The proposals — clearly aimed at reigning in American Big Tech companies in Europe — are designed to address EU members’ desire to produce their own regulatory approach toward the digital economy. They challenge the ability of technology to innovate, grow, and compete in the future by prioritizing the creation of regulatory frameworks over ensuring consumers can reap the benefits of new digital goods and services. What happens when the EU mandates regulations on US technology firms?
+via Reuters
+The EU proposals would impose obligations on companies with more
+than 45 million users. In some instances, they would add prohibitions on
+sharing or combining data with other services — even for beneficial purposes,
+such as speeding logins or something like Google Maps on the Uber platform.
+Violators of these new rules could be fined up to 10 percent of their annual
+revenue.
+These types of restrictions don’t improve services or help
+consumers. Instead, they arguably add to the cost of developers’ innovation
+cycles by eliminating collaboration across platforms. For example, apps that
+store users’ preferred locations, merchandise, or contact information for
+delivery or payment processing usually interoperate with third-party partners
+whose expertise enhances the apps’ usefulness. For example, instead of running
+their own payment platforms, most retail apps partner with a back-end payment
+gateway.
+The proposed DMA designates certain technology companies as
+“gatekeepers.” The EU argues that by promoting their products or services at
+the top of their websites — or ranking their services as higher in search
+results — the gatekeepers are engaging in “self-preferencing” or
+anticompetitive behavior. But physical retailers do self-preferencing all the
+time. Think of big-box retailers that place private label items next to name-brand
+competitors, showing consumers that a comparable product can be purchased for a
+lower price.
+Instead of ending self-preferencing, I believe more transparency
+regarding the rules of engagement is necessary. Antitrust analyst Aurelien
+Portuese
+says
+, “The DMA may prove to be most effective in building walls where
+consumer prices may increase, consumer quality decrease[s], and entrenched
+market positions’ overall contestability diminish rather than increase.” When
+interacting with platforms, wouldn’t consumers rather have a transparent set of
+rules that allows them to choose their level of tolerance for how much data is
+shared? Many informed consumers might prefer to keep the benefits of seamless
+interoperability.
+The other proposal, the DSA, would require digital platforms to be
+responsible for content on their websites and be transparent about their
+moderation practices — including how, when, and why they take down illegal
+content; counterfeit goods; disinformation (political or otherwise); and hate
+speech. It would also create new rules around complaints related to deleted
+content a user wishes to have reinstated. As Americans know from the fierce
+debate around Section 230, it is challenging to find a balance between free
+speech, enabling innovation, and consumer protection.
+Michael Slaby, a former digital strategist for President Barack Obama,
+thinks
+curbing Big Tech isn’t such a bad idea. When asked about
+Twitter’s deplatforming of former President Donald Trump, he said “The first
+amendment is about government suppression of speech; it doesn’t have anything
+to do with your access to Facebook.” Slaby sees American platform companies
+making Faustian bargains, valuing controversial content that may cause public
+outrage — and accompanying increases in traffic and profits — over curbing
+online disinformation. The EU is following a similar thought process, but with
+the goal of breaking the technology into open components to try to bring competition
+to its shores.
+Do social media platforms encourage thought bubbles and extremist
+views through their algorithms? The EU believes transparency on algorithms
+could answer this question, but at what cost? Revealing a proprietary algorithm
+is akin to revealing the recipe for a company’s secret sauce. A company’s
+ability to enhance interoperability with its digital partners using its
+algorithms may be the reason that consumers choose it over a competitor.
+Requirements to reveal software code and algorithms are one reason the US has
+trade disputes with China over the theft of American intellectual property. Now
+the EU has written legislation that would force American tech companies to
+reveal algorithmic information to enable “fair competition.”
+Instead of finding ways to fragment the digital success story and
+engaging in protectionism, the US and Europe could both benefit from increased
+global coordination on issues affecting digital markets such as data rights and
+data protection. The DMA and DSA proposals reveal Europe’s continued desire to
+slow progress in tech while it struggles to find native companies to compete in
+the global market. Establishing more regulatory barriers creates obligations,
+not innovations, in digital markets. Europe would be better suited to find ways
+to compete outright and work with partners on creating a healthy dynamic and
+harmonization on digital access instead of creating more barriers to entry,
+hindering the free flow of information, and imposing penalties on business success.

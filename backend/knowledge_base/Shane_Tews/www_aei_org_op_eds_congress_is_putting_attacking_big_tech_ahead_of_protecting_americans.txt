@@ -1,0 +1,38 @@
+PAGE_TITLE: 
+	Congress Is Putting Attacking Big Tech Ahead of Protecting Americans | American Enterprise Institute - AEI
+
+Following an “
+Antitrust Day of Action
+” where springtime tourists outside of the US Capitol might have been confused to see lawmakers including Rep. David Cicilline (D-RI), Sen. Elizabeth Warren (D-MA), and Sen. Amy Klobuchar (D-MN)
+posing with a man dressed in costume as a bill
+, lawmakers are now back in session. One would hope they would turn their attention away from discriminatory tech legislation like the American Innovation and Choice Online Act and the Open App Markets Act (OAMA), and
+focus instead
+on strengthening our digital defenses. With the Cybersecurity and Infrastructure Security Agency (CISA) issuing a “Shields Up”
+warning
+about potential “malicious cyber activity” and recommending
+protective measures
+in light of Russia’s invasion of Ukraine, it’s fair to say Congress is taking consumer protection too lightly and putting Americans at risk.
+via Twenty20
+Given warnings from the
+State Department
+, the
+White House
+, and the cybersecurity community, why is there a disconnect in Congress that would result in our most powerful “shields” being outlawed? It has become
+increasingly
+clear
+that the privacy and security of our devices must be a top priority. This is especially true of our mobile devices, which store many Americans’ identification, health information, and payment methods.
+The
+OAMA
+, if passed, would mandate “sideloading” — essentially opening the floodgates for any and all applications to be permitted on mobile devices, including the Trojan applications that mislead users, contain fraudulent scams, or collect and monetize excessive amounts of user data. Making sideloading mandatory would upend the currently closed ecosystems that billions of smartphone users rely on, rendering the security and privacy shields demanded by CISA completely useless.
+This OAMA is being pushed through Congress at an unprecedented speed, without even a hearing focused on the bill’s exact language and implications. Even worse, it is being driven forward by tech companies who are using legislation to enable them to bypass the security standards and fees that help maintain the app stores they use to securely reach a global consumer base.
+The truth is that many of the security measures consumers have grown to expect as part of the layered protection in their devices are proactive designs created by our country’s biggest tech companies. For example, Apple’s “
+App Tracking Transparency
+” tool requires app developers on the App Store to ask users for explicit consent before tracking their activity across other apps and websites. Additionally, each app within the App Store is carefully vetted by both human and machine review to identify and bar entry of potential malware, Trojans, rootkits, spyware, and bots. All of these protections are implemented with the consumer in mind, reflecting a regard for consumer protection that leading lawmakers seem to have lost.
+Consumers already have a choice between an open operating system or a curated closed system for their smartphone. It makes no sense for Congress to remove that choice, telling every consumer what is best for them. Reliability and usability are two of the most valued characteristics when users consider a smartphone. The OAMA would burden the individual consumer with the increasingly difficult task of protecting themselves, rather than technology companies with the resources and expertise to maintain all of their users’ security.
+Congress continues to put their own agenda of attacking the American tech industry before the American people. Disabling the review process that ensures users download safe software only puts society’s most vulnerable groups — the elderly and children — more at risk. Limiting choice at both the hardware and operating system levels takes away consumer protections and removes safety tools on their devices.
+Consumer safety should be the focus of legislation that significantly impacts not only how our devices function, but the future of American innovation. We have lawmakers on both sides of the aisle saying OAMA would increase consumer choice, when in actuality, it comes at the
+expense
+of user security and choice.
+Cyberattacks on
+both sides
+of the conflict in Ukraine have made clear that technology — and the ability to exploit connected networks — will continue to be weaponized. Faced with the alarming prospect of cyber warfare reaching the United States, this bill is a targeted attack against American companies when Americans need strong mobile privacy and security protections the most. To put it plainly, lawmakers could put Americans at risk unless they change direction on cybersecurity.

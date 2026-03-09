@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	Huawei, 5G Wireless, and “known Unknowns” | American Enterprise Institute - AEI
+
+As the Mobile World Congress — the biggest mobile industry trade show — meets in Barcelona this week, next-generation 5G wireless will certainly be the major topic. But as network operators around the globe discuss purchases to build out 5G networks, now looming large in any discussion is the debate on Huawei and whether having its equipment in networks poses real security risks.
+via REUTERS
+5G networks stand to be a huge upgrade over existing wireless infrastructure by using a combination of wireless and wired connections to enhance bandwidth, thereby allowing more devices to work faster and with less latency over shorter physical ranges. Since 5G technology’s higher millimeter wave frequencies work well only in short distances, a larger quantity of equipment will be needed to maintain close proximities between pieces of the network. But one major hurdle that remains is establishing trust in the global supply chain of hardware, software, and end devices that will make up the 5G networks of the future.
+At a February 2002 news briefing, then Secretary of Defense Donald Rumsfeld famously
+stated
+: “There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know.” It turns out that “known unknowns” also best explains the US government’s current thinking on Huawei and having equipment manufactured by the Chinese telecom giant present in next-generation networks. The US government thinks it is too high of a risk to have a Chinese company with close ties to the Chinese state, military, and cyber operations play a key role in making the next-generation 5G infrastructure a reality. It may not be (publicly) known exactly how much of a problem Huawei gear could be, but the threat is a “known unknown.”
+Government concerns about the security risk Huawei poses are a major problem when the US is on the precipice of building next-generation networks and all stakeholders and consumers alike want assurances of its security. The promise of 5G is the speed and efficiency with which data can move and the potential this has for enhancing industries such as health care, transportation, manufacturing, communications, and more. But disruptions through latency in the architecture or having data sets disappear or become adulterated would diminish the functionality of and trust in 5G networks.
+What is the evidence for and against Huawei? Both Australia and New Zealand are restricting the use of Huawei products out of concern that Huawei can’t be trusted to operate independent of the Chinese government and
+will not
+“adequately protect 5G networks from unauthorized access or interference.”
+A
+report
+produced by British intelligence with the cooperation of Huawei last year noted the “repeated discovery of critical shortfalls,” including “lack of the required end-to-end traceability from source code” in the technical processes of Huawei’s security systems. Despite reports in February 2019 that British intelligence has concluded that the risk from Huawei equipment creating 5G networks is “
+manageable
+” — and that a diversity of suppliers and partial restrictions on areas of 5G networks for critical infrastructure equipment are techniques to manage around concerns about Chinese espionage — news
+reports
+from this past week highlighted that Huawei may have to spend more than $2 billion to address the UK’s concerns.
+Freedom House, a nonprofit that
+monitors
+digital authoritarianism, has concerns that the close partnerships Huawei has forged with foreign governments may undermine democracy. Armenia is implementing Huawei “smart-city” technology that can be used for improving transportation and preventing crime, but Freedom House has long-standing concerns that countries without privacy laws will slide from monitoring to spying on citizens.
+For its part, the US points to a law passed in China in 2017 that requires all Chinese companies to cooperate with its intelligence services if requested and allows intelligence officials to enter “restricted access areas” and use “
+technological reconnaissance measures
+” when required.
+However, a lack of evidence of wrongdoing by Huawei has been highlighted by other governments besieged by the US request that they curtail purchases of Huawei network equipment. Some European governments have suggested the US has
+ulterior motives
+in what the Europeans consider to be a trade dispute, not a security threat.
+So, the “known unknown” continues to ratchet up concerns about Huawei. “No single point of failure” is a mantra in the cybersecurity arena. Commercial network equipment for 5G will need to be reliable and resilient and have minimal supply chain risk. A manufacturer with questionable trustworthiness that may play a role in state-sponsored espionage doesn’t fit these characteristics. Worldwide telecommunications and technology networks run on extremely complex systems that are crucial for the US and our allies from both economic and security perspectives.
+Moving forward, it will be important to make sound decisions that enhance security at every level. As governments and firms test for fundamental assumptions of the “unknown unknowns,” it will be important to identify the risks we may not be able to walk back from when building the networks of the future.

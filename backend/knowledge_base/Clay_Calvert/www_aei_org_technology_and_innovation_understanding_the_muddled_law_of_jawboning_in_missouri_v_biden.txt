@@ -1,0 +1,121 @@
+PAGE_TITLE: 
+	Understanding the Muddled Law of Jawboning in Missouri v. Biden | American Enterprise Institute - AEI
+
+How much verbal
+arm-twisting
+and
+jawboning
+can the government lawfully engage in with social media companies about removing ostensibly false and harmful content before it violates the companies’
+First Amendment
+free speech rights? And did a bevy of federal officials, departments, and agencies unlawfully coerce
+Facebook
+,
+Twitter
+, and
+YouTube
+in 2021 and 2022 to remove conservative-leaning content critical of COVID-19 vaccines, lockdowns, mask mandates, and President Joe Biden? Those are key issues in
+Missouri v. Biden
+that the
+US Court of Appeals for the 5th Circuit
+will address in
+oral argument
+in New Orleans on August 10.
+The appellate court will consider tossing out a
+preliminary injunction
+that US District Judge
+Terry A. Doughty
+issued July 4 in favor of plaintiffs Missouri, Louisiana, and five individuals who
+claim
+to “have experienced extensive government-induced censorship” on social media platforms. The injunction bars defendants such as White House Press Secretary
+Karine Jean-Pierre
+and Health and Human Services Secretary
+Xavier Becerra
+from,
+among other things
+,
+meeting with social-media companies for the purpose of urging, encouraging, pressuring, or inducing in any manner the removal, deletion, suppression, or reduction of content containing protected free speech posted on social-media platforms.
+The 5th Circuit
+temporarily stayed
+the order in mid-July until it could examine the merits more closely.
+Via Reuters
+As I explained
+earlier
+,
+Missouri v. Biden
+is politically polarizing, ensnaring the First Amendment in a battle between conservatives and liberals. I contended that whether “one interprets Doughty’s order” as a victory over government censorship or a defeat in the fight against dangerous falsities “almost certainly is influenced by the political-cultural lens one filters it through.”
+This post avoids the political fray. It explains the muddled First Amendment doctrine regarding jawboning. Understanding jawboning is vital because, when lawfully and successfully done with business entities, it allows the government to informally implement its policy objectives without needing to clear the high hurdles of the legislative process. In short, it’s sometimes easier for the government to tilt corporate decisions in its desired direction through doses of communicative pressure than via the rocky road leading to legislative fiat. The danger for businesses, of course, is that this communication with government officials occurs outside the confines of the judiciary and legal system, where substantive and procedural guardrails keep the government in check when First Amendment interests are threatened.
+Perhaps the simplest way to understand when jawboning constitutes unlawful government censorship is through dichotomies. When speaking with speech intermediaries such as social media platforms about possibly removing—more bluntly, censoring—content others posted, government officials may (1) engage in
+persuasion
+but not
+intimidation
+, (2) try to
+convince
+platforms to remove speech but not
+coerce
+them to do so, (3)
+criticize
+platforms’ current actions but not
+threaten
+adverse reprisals if they continue, (4)
+request
+or
+urge
+removal but not
+demand
+or
+command
+it, and (5)
+advise
+but not
+require
+.
+These somewhat slippery semantic dichotomies are derived from four rulings: (1) The
+US Supreme Court’s
+1963 decision in
+Bantam Books v. Sullivan
+, (2) the
+US Court of Appeals for the 7th Circuit’s
+2015 ruling in
+Backpage.com v. Dar
+,; (3) the
+2nd Circuit’s
+2022 decision in
+National Rifle Association v. Vullo
+, and (4) the
+9th Circuit’s
+2023 ruling in
+Kennedy v. Warren
+.
+Bantam Books
+concluded
+that “informal censorship” violates the First Amendment when compliance with governmental directives is “not voluntary” and “public officers” make “thinly veiled threats to institute criminal proceedings” against speech intermediaries. In
+Bantam Books
+, the threatened speech intermediary was a wholesale book-and-magazine distributor, Max Silverstein & Son. The targeted speech was “objectionable” publications produced by Bantam Books and Dell Publishing that Max Silverstein & Son distributed. The Supreme Court ruled that notices the government had sent to Silverstein & Son stating that “cooperative action will eliminate the necessity of our recommending prosecution to the Attorney General’s department” were illicit censorship.
+The courts in
+Vullo
+and
+Kennedy
+identified four non-exhaustive factors to help decide whether a government official’s speech constitutes permissible persuasion or unlawful coercion: (1) The words and their tone, (2) the official’s regulatory authority over the message recipient, (3) the recipient’s understanding of the message, and (4) whether the message
+references
+“adverse consequences that will follow if the recipient does not accede to the request.”
+The 9th Circuit applied these factors in
+Kennedy
+. The
+ruling
+is interesting because one judge (a Donald Trump nominee) disagreed with the conclusion of two other judges (Barack Obama nominees), who ruled that statements Sen.
+Elizabeth Warren
+(D-MA) made in
+a letter
+to Amazon CEO
+Andy Jassy
+affecting the availability of
+The Truth About COVID-19: Exposing the Great Reset, Lockdowns, Vaccine Passports, and the New Normal
+(Florida Health Publishing, 2021)—which plaintiff
+Robert F. Kennedy, Jr.
+penned the foreword of—did not
+raise
+“a serious question” about the letter’s lawfulness. Untangling the tenuous difference between convincing and coercing now rests with a
+three-judge panel
+of the 5th Circuit in
+Missouri v. Biden
+.

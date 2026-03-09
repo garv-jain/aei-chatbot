@@ -1,0 +1,50 @@
+PAGE_TITLE: 
+	Eight Pathways to Overcome Vetocracy and Unlock Abundance | American Enterprise Institute - AEI
+
+The recent release of
+Abundance
+by Ezra Klein and Derek Thompson has brought much needed attention to the problem of sclerotic government, especially vetocracy. Vetocracy is an emergent property of institutions where excessive veto points create systemic gridlock, manifested through:
+The time delay problem—excessive time delays in routine processes;
+Permission accretion—overlapping jurisdictions require multiple approvals; and
+Policy entrepreneurs—political actors use the permitting system to slow down development.
+Via Shutterstock
+While at times imperfect, here are eight practical solutions to overcome this challenge.
+1. Refactor Laws
+The best strategy to overcome vetocracy is to streamline outdated regulations. Just as software developers refactor code to improve functionality without changing external behavior, laws can be refactored. The Federal Aviation Administration’s (FAA’s)
+Streamlined Launch and Reentry Licensing rule
+exemplifies this approach by creating a single, flexible license for commercial space launches. Similarly, in 2019,
+Idaho allowed
+its entire set of administrative rules to expire and then selectively reauthorized necessary ones, which simplified 95 percent of the state’s regulations. Though politically difficult, refactoring regulations is the gold standard.
+2. Categorical Exemptions
+Another solution is to carve out certain minimal-impact categories of action from detailed review. Categorical exclusions (CEs) spare routine projects from lengthy case-by-case approval. Under the National Environmental Policy Act, federal agencies
+define
+classes of minor projects that do not require extensive review, thereby reducing the time to project approval. Recognizing this efficiency, policymakers have expanded CEs in recent years. The 2021 Bipartisan Infrastructure Law created new CEs for broadband and transportation projects, and in 2023, Congress even
+allowed agencies
+to adopt other agencies’ CEs to cover similar actions​. Policymakers should look to expand CEs.
+3. Time Limits and Shot Clocks
+Imposing time limits on regulatory decisions directly curtails vetocracy. Shot clocks force agencies to act within a fixed time period, or face consequences, such as default approval or legal action. In 2009, the Federal Communications Commission (FCC)
+set shot clocks
+on local governments for cell tower permits, limiting cities from stalling wireless buildout. Upheld by the courts, the wireless company gains the right to sue when the deadline passes with no decision, treating the delay as a failure to act.
+The Prescription Drug User Fee Acts is a variant of this concept. This law established review deadlines for drug applications in exchange for manufacturer fees, saving lives and
+generating returns of $7 to $11 billion
+. Implementing timeframes for regulatory decisions creates accountability.
+4. Auctions
+Instead of drawn-out hearings or favoritism in granting rights, auctions let the market determine winners quickly and transparently. The US pioneered this approach with radio spectrum. In 1993, Congress empowered the FCC to auction spectrum licenses. Since 1994, these auctions have generated
+over $233 billion for the Treasury
+while costing less than 1% to administer. Auctions help properly value assets and incentivize efficient processing.
+5. Complex Contracts
+Complex contractual arrangements, like transferable development rights, can overcome vetoes by aligning stakeholder incentives. A classic example is
+New York City’s air rights market
+. If a property owner is not using the full density allowed on their lot in NYC zoning, which is often the case with historic low-rise buildings, they can sell those development rights to other sites—typically to a developer of a nearby high-rise​. Making rights tradeable can turn what would be a veto into a deal.
+6. Regulatory Sandboxes
+Regulatory sandboxes create temporary, controlled exceptions to normal rules for innovative projects, allowing experimentation under agency oversight. First popularized abroad,
+Arizona became the first state to launch
+a fintech sandbox in 2018, letting startups test new products—like digital banking or lending platforms—for up to two years with relaxed licensing requirements​. While they have drawbacks, sandboxes are gaining traction in the US as a way to bypass cumbersome regulations that would otherwise block new technologies.
+7. Self-Regulatory Organizations
+Self-regulatory organizations (SROs) are private or industry-led bodies that create and enforce rules, standards, or certifications with limited government intervention. By delegating certain regulatory responsibilities to SROs, the government can reduce direct bureaucracy and leverage industry expertise. One of the largest SROs is the Financial Industry Regulatory Authority (FINRA), which regulates US broker-dealers and stock trading.
+While FINRA has shortcomings
+, properly designed SROs can be key in leveraging industry expertise while maintaining public oversight.
+8. Privatization of Permitting Functions
+Another pragmatic way to overcome bottlenecks is to delegate permitting and inspection tasks to third parties. Florida’s
+F.S. §553.791
+allows property owners to use a “private provider” for building plan review and required inspections​. These providers must be qualified engineers or architects and perform the same code-checking, but they operate on the applicant’s timeline​. Governments need not be the sole permitting authority.

@@ -1,0 +1,107 @@
+PAGE_TITLE: 
+	The Promise of Geoengineering | American Enterprise Institute - AEI
+
+It is memory-holed now, but acid rain
+was the largest environmental threat
+in the 1980s. Grisly pictures emerged, prompting research and then action by the government to reduce sulfur dioxide and nitrogen oxide emissions. From 1980 when action started in earnest to 2015, SO2 emissions
+were cut by 80 percent
+in both the United States and Europe.
+This drive to reduce sulfur emissions eventually got the International Maritime Organization (IMO) to act. The U.N. agency issued a mandate to reduce sulfur in bunker fuel—the fuel that ships often use—that went into effect in 2020. Typically called IMO 2020, the maximum sulfur content allowed in shipping fuel dropped from 3.5 percent to 0.5 percent. The effect was a dramatic cut in sulfur emissions in a short time. Less emissions is better for the environment, right?
+Well,
+researchers have since found
+that the abrupt shutdown in sulfur aerosols affected global temperatures, contributing to nearly “80% of the measured increase in planetary heat uptake since 2020.” Less sulfur decreased the reflective properties of clouds, leading to a significant increase in the amount of heat retained by the Earth.
+IMO 2020 is just more evidence of what has
+been long suspected
+: Aerosols can cause global cooling. In the search for climate change solutions, maybe selectively emitting aerosols could be part of a winning strategy—alongside other efforts at geoengineering.
+But at least two projects—one in Sweden, another in California—to better understand the role of aerosols in cooling were canceled because of the backlash ginned up by environmental groups, activists, and scientists. (I talked about this phenomenon in the
+April 4 edition of
+Techne
+.) To me, the fears are unfounded. While geoengineering shouldn’t be the only lever pulled to address climate change, we should be more optimistic about large-scale efforts to cool the Earth and trap carbon dioxide. They are cheap, for one. And besides, the naysayers are wrong: Supporting geoengineering doesn’t necessarily detract from other environmental goals.
+How solar radiation modification (SRM) works.
+Climate engineering—commonly called geoengineering—is a collective term for a number of different strategies aimed at mitigating climate change on a planetary scale. Solar radiation modification (SRM) and carbon mineralization tend to be the most discussed of this broader group. And for good reason: They show the most promise.
+Aerosols cool the Earth’s surface in two ways: Either by directly reflecting sunlight back to space or by affecting cloud cover. Increasing the number of aerosols increases the number of water droplets that form while reducing their size. This both expands cloud coverage and forms brighter clouds that reflect more sunlight back to space.
+For some time, scientists have known that sulfur dioxide and other aerosols can cool the globe. The massive 1815 eruption of Mount Tambora in Indonesia is now thought to have caused the
+Year Without a Summer
+. The volcanic winter that resulted from all of this dispersal dropped temperatures by 0.4°C to 0.7°C worldwide. In 1991, Mount Pinatubo erupted in the Philippines, ejecting millions of tons of sulfur dioxide. Scientists tracked the eruption and found that it cooled the earth by
+around 0.5°C
+(or 0.9°F), an effect that lasted for around
+two years
+.
+IMO 2020 shows a similar process but in reverse. The restriction reduced the dispersal of sulfate aerosols in the North Atlantic, the Caribbean Sea, and the South China Sea, regions heavily trafficked by ships.
+Research into IMO 2020
+found substantial reductions in aerosol levels occurred in these regions, which in turn reduced the number of cloud droplets. Lower droplet density in turn altered the properties of clouds, making them less reflective, thereby increasing heat retention. It’s hardly surprising that there is interest in harnessing this process to combat climate change.
+Still, because there is so much uncertainty about how all of this works in practice, Harvard researchers were set to deploy a high-altitude balloon to conduct
+a small-scale experiment
+on aerosols: the Stratospheric Controlled Perturbation Experiment, or SCoPEx. Outfitted with propellers and sensors, the balloon would release several kilograms of calcium carbonate, sulfuric acid, and other substances into the upper atmosphere. The balloon would then return to pass through the plume, collecting data on particle dispersion, sunlight reflection, and other relevant factors. Sulfuric acid depletes the ozone layer, so SCoPEx was designed to test the feasibility of other aerosols like diamond dust, alumina, and calcium carbonate. The team settled on launching in Sweden from the Esrange Space Center in Kiruna in the summer of 2021.
+Until they weren’t. The plan
+faced strong opposition
+from a coalition of anti-geoengineering groups, Swedish activist Greta Thunberg, the Saami Council, representing the Indigenous Saami peoples of Northern Europe, and the Royal Swedish Academy of Sciences’ board. All of them pressured the aerospace company, research team, and advisers to cancel the launch. In April of this year, the group
+formally announced the project
+was on hold.
+SCoPEx wasn’t the only geoengineering project that got formally axed this year. In Alameda, California, city officials shut down an experiment that would have sprayed sea salt in the San Francisco Bay to discover its impact in brightening clouds. The research was being done by atmospheric
+scientists from the University of Washington
+and
+a nonprofit called SilverLining
+. Despite the pedigrees and the research backing the project, city officials were skeptical and unanimously voted to halt the work.
+It’s actually much easier, and cheaper, to brighten the clouds than most imagine.
+One paper
+gaming out the costs of dispersal through airplanes estimated that it would cost $18 billion each year to avoid one degree Celsius of warming. As the paper warned, however, “a solar geoengineering program with substantial climate impact would lie well beyond the financial reach of individuals, small states, or other non-state potential rogue actors and would instead be the exclusive domain of large national economies or coalitions including at least one such economy.”
+Casey Handmer, however,
+thinks that estimate is far too large
+. By relying instead on mass-produced large weather balloons, he estimates that a serious project based on SO2 might only cost $350 million each year. Here’s what that would look like:
+Total cost is about $500 for the balloon, $300 for the H2, and $350 for the sulfur, which can be converted into SO2 by combustion. Adding 50% for overhead, we get $1700 per balloon or 35c/kg-SO2. One balloon offsets the warming of 350,000 Americans for one year. In other words, if just 1000 people in the US (and 10,000 worldwide) care enough to spend <$2000/year on launching the most giant, most awesome balloons to the stratosphere, we can offset CO2 heating effects until CO2 emissions and sequestration are under control. If they have a modest sailboat, they could even release the balloons without anyone even knowing about it.
+As we will see shortly, the low costs could mean that a dedicated and wealthy backer could unilaterally undertake this project.
+Carbon mineralization.
+Carbon mineralization—the process by which carbon dioxide (CO2) is sequestered in rocks as a solid mineral—is often talked about in the same breath as solar radiation modification because it too is a cheap mitigation strategy. This process occurs naturally at a slow pace as certain rocks interact with CO2, thereby removing small amounts of the gas from the atmosphere annually. But under certain conditions, the process can be sped up.
+Casey Handmer, again, explains what’s at work:
+The solution here is cheap and straightforward. Accelerated weathering of mafic rocks increases the surface area available to absorb CO2. There are a bunch of ways of doing this, but the easiest and cheapest seems to be to grind up a couple of tropical volcanic mountains and sluice the resulting rock flour into the warm, shallow oceans. The rock dust floats around for a few weeks absorbing CO2 before sinking, permanently sequestering the CO2. In fact, oceanic carbonate rock (limestone, dolomite, etc) currently stores far more CO2, laid down over hundreds of millions of years by coral and other reef-building organisms, than exists in the atmosphere and oceans.
+Last month, the first part of an experiment to test carbon mineralization was closed out. Vesta, a climate change nonprofit, announced that
+they had deposited
+8,200 metric tons of carbon-absorbing olivine sand near the shoreline of Duck, North Carolina. The project received approval from the North Carolina Department of Environmental Quality and the U.S. Army Corps of Engineers, along with thorough consultations with the local community. The trial is expected to ultimately remove around 5,000 tons of CO2.
+The politics of geoengineering.
+Sadly, there are a lot of political forces aligning against geoengineering. Just this week two letters to the editor appeared in the
+New York Times
+, chiding the SCoPEx program that the
+Times
+reported on. As
+Lili Fuhr of the Center for International Environmental Law explained
+,
+Your article about solar geoengineering raises serious concerns about a complex issue that demands diverse voices and rigorous scrutiny of the potential effects of these speculative interventions on climate, ecosystems and human rights …
+It’s alarming that the key lesson learned from the Harvard solar geoengineering research project’s failure appears to be to proceed with less transparency, denying the public’s right to know about future experiments — while ignoring a
+global de facto moratorium
+of the United Nations on all geoengineering.
+This was followed up
+by a letter from Rachel Cleetus
+, policy director of the climate and energy program at the Union of Concerned Scientists, who wrote:
+The Union of Concerned Scientists strongly opposes deployment of solar radiation management (or modification) and large-scale S.R.M. experiments and believes that society must consider the future of solar geoengineering research with great caution …
+Moreover, invoking geoengineering shouldn’t distract policymakers, scientists and funders from rapid, deep cuts in heat-trapping emissions; a phaseout of fossil fuels; and scaled-up investments in adaptation, which must remain humanity’s first-line responses to climate change.
+James Temple, the senior editor for energy at the
+MIT Technology Review
+, reported on a similar argument from critics of SCoPEx, “that even studying the possibility of solar geoengineering eases the societal pressure to cut greenhouse gas emissions.” They also fear that this research could lead to a slippery slope, increasing the risk that nations or rogue agents might eventually use it, despite the potential for harmful side effects, such as reduced precipitation and lower agricultural productivity in certain parts of the world.
+But the crowding-out effect isn’t rooted in reality. Economists Christine Merk and Gernot Wagner tested the idea
+using a large-scale experiment on Facebook
+and found that talking about SRM “does not motivate our study population to support a large US environmental non-profit’s mission, nor does it turn them off relative to baseline climate messaging, except when using extreme messengers and framings.” In other words, the notion that geoengineering takes away from other climate actions is just incorrect.
+More importantly, we are getting that warming, whether we like it or not. Sulfur has already been put into the atmosphere by burning fossil fuels. But that sulfur is dissipating, which means its reflective impact will dissipate over time.
+Ben James calls it masking
+: “The sulfur that we’ve emitted so far is already reflecting sunlight, and is currently ‘masking’
+about 0.5°C of warming
+. Without these particles, we’d already be at 1.8°C warming, not
+1.3°C
+.”
+Given the upside of aerosolization and its expense, it is not implausible that a country might go it alone and test SRM. Ryan Cooper of
+The American Prospect
+makes a strong case for China
+:
+Thanks to accelerating sea level rise, it has something like
+ninety-three million people
+at risk of annual flooding by 2050, along with most of its
+core economic production complexes
+containing trillions upon trillions in infrastructure. It also faces chronic drought threatening water supplies to hundreds of millions more people, serious heat risk, and on and on.
+Any functioning country facing the possibility of that kind of damage from a foreign invader would mobilize every last scrap of resources to fight them off. (See: Ukraine.) You think a totalitarian dictatorship is going to let hypothetical worries about global weather patterns stop it from seizing a cheap and easy partial solution to a potentially existential risk? China has already inflicted terrific environmental damage on itself in pursuit of wealth and power; moreover, unlike pollution from coal power plants or mines, the bulk of any side effects from SRM would fall outside of the country.
+One could easily tell a similar story about India, Indonesia, Mexico, or some combination of smaller countries. The logic is too compelling to resist.
+I tend to agree with Cooper on where this leads. What Western environmentalists or even Western politicians think about SRM could be irrelevant in the long run. Eventually, some country or a coalition of countries facing severe climate threats and possessing the financial means will go through this reasoning, and turn to SRM. It seems illogical for U.S. leaders to write ourselves out of this future.
+So I am excited to see what comes from the Vesta project. Carbon mineralization doesn’t have the stigma that SRM does, so I could see this becoming a point of consensus. I wouldn’t be surprised if in the next decade
+the 45Q tax credit
+, which provides incentives for carbon capture and storage, gets expanded to include more carbon mineralization methods. It’s one of the reasons why there’s interest in concrete that captures carbon, since it
+qualifies for the tax
+. Otherwise, I’ll keep you updated on geoengineering efforts in the “Notes and Quotes” section as I hear about them.

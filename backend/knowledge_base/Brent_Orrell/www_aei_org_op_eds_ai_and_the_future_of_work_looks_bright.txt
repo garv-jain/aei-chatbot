@@ -1,0 +1,47 @@
+PAGE_TITLE: 
+	AI and the Future of Work Looks Bright | American Enterprise Institute - AEI
+
+One of the hottest guessing games in workforce development is figuring out how generative artificial intelligence will affect jobs and how to prepare students and workers for an AI-infused economy. The future of work looks bright, but the full potential of AI to increase productivity and raise wages and incomes will only be realized if we implement policies and programs that equip workers to understand and seize the opportunities that lie ahead.
+Forecasts about the impact of this new general-purpose technology (GPT) on jobs and skills
+vary
+widely — and, at times, even wildly. The good news is that while real-world results are still scarce, available data points toward positive trends for both high-skill and
+middle-skill workers
+.
+A
+recent paper
+by David Deming, Christopher Ong and Lawrence Summers reinforces the idea that AI, much like previous general-purpose technologies (GPTs) such as the steam engine, electricity and the transistor, is likely to drive major changes in the labor market over time. As the authors point out, these types of technological disruptions take decades to unfold and jobs create more work opportunities than they eliminate. Moreover, jobs improve as technology automates routine tasks, allowing workers to spend more time on higher-level and more productive tasks. We can see this happening already with AI. The technology has enabled
+coders
+to program faster,
+taxi drivers
+to locate and deliver customers more efficiently and
+call center workers
+to handle inquiries with greater ease.
+Deming and his co-authors highlight how AI functions as a prediction tool, able to process quantities of data that would be impossible for human researchers to manage with pre-AI technology. AI was critical to the
+rapid development of COVID-19 vaccines
+, helping to quickly identify the “spike” protein that made the illness so
+virulent
+and lethal. Other AI systems have been shown to improve cancer diagnosis across a range of illnesses. One MIT-developed AI system,
+MIRAI
+, has been found to predict a patient’s risk of developing breast cancer up to five years before current technologies would have found it. Another system
+raised detection rates
+for skin cancers from 81% to 86%.
+In the infinitely complex world of medicine with billions of genetic variants, terabytes of medical images and an increasing influx of nontraditional data such as smartwatch readings, AI’s ability to
+synthesize complex datasets
+could significantly accelerate innovation, reduce diagnostic errors and save lives.
+Outside of healthcare, AI is
+optimizing global supply chains
+by utilizing algorithmic carrier pricing and mapping efficient vehicle routes. While the increased use of AI in this sector has led to the
+elimination of some retail jobs
+, new logistics roles, such as light-truck drivers and warehouse operators, have emerged to accommodate the increased demand for online retail. These are examples of the way AI delivers incremental improvements to business processes which, when multiplied across a nearly
+$30 trillion economy
+, boost worker productivity — essential for raising incomes without causing inflation — while also creating entirely new and unforeseen categories of jobs.
+The bigger AI challenge is managing transitions for workers in disrupted industries and jobs. Deming and his colleagues emphasize that we are in a “critical window,” where workforce development policies should be designed and implemented to ensure that workers have the resources and skills they need for AI-infused workplaces. Without such transition support, the gap between AI-driven job creation and displacement could widen, leaving some workers vulnerable to economic dislocation.
+To build better, more agile workforce development systems, we will have to create “
+headlight
+” data and analysis that leverages AI’s capacity to forecast how the technology is likely to affect skill demands. A project spearheaded by AEI, the Stanford University Digital Economy Lab and NYU is developing novel ways of connecting disparate data sets at the local, state and regional levels to provide a clearer picture of evolving employment and skill demands. As the recent
+National Academies report
+on AI and work pointed out, this enhanced data, when combined with powerful new AI and machine learning technologies, could provide us with a better understanding of current and future labor market demand.
+Such refinements to labor market information would form the foundation for more responsive education, training and workforce development systems. If localities and regions are forewarned of technology-driven skill obsolescence, they will be
+better able
+to adjust and adapt education and training programs to meet shifting employer needs.
+AI and other 21st-century technologies present tremendous opportunities to create new industries, enhance productivity and raise living standards. The choices we make today to facilitate worker transitions — through better data and improved transition supports — will determine how the benefits of tomorrow’s economy are shared.

@@ -1,0 +1,30 @@
+PAGE_TITLE: 
+	Improving Internet Security Through Awareness and Risk Management | American Enterprise Institute - AEI
+
+The RSA security conference took place this week in San Francisco with keynotes, tutorials, and training sessions to help guide the cybersecurity community toward new tools for information and network security. While these cyber warriors are learning how to protect large companies from cyber criminals, there are plenty of lessons from these experts that individuals and businesses can learn from to stay safe online.
+Via REUTERS
+A recent
+study
+on cybersecurity and privacy shows that 82 percent of respondents worry more about cybersecurity than they did five years ago and that 63 percent are more concerned about being hacked in the next five years. Two weeks ago, it was made public that 26 of the email domains connected to the White House were
+vulnerable
+to phishing attacks and that the email addresses could be easily spoofed.
+Hijacking emails is one of the easier methods that scammers and criminals use as part of cyberattacks, online crimes, and the spreading of malware on computer networks. That the White House was as vulnerable as the average business after the Department of Homeland Security (DHS) required all federal agencies to implement a protocol to prevent these types of problems shows that almost everyone can benefit from a cyber checkup.
+Expertise, budget, and time commitment tend to be the main reasons why appropriate security is not implemented and maintained by both individuals and institutions. DHS has recommended enterprises implement programs that use “white hat” and “black hat” list authentication to ensure legitimate web addresses correspond with emails associated to that address. This also expedites the reporting of networks that are serving up spoofed web addresses and allows network operators to block bad addresses.
+While that works for large network operations with cybersecurity workforces, here are a few ways to use tools to keep you and your system protected from cyberattacks and scams.
+For the individual user, a few simple steps can help with cybersecurity awareness and protect the information on the multiple devices the average person interacts with daily, such as laptops, smartphones, and tablets. These devices capture information all day that can be easily protected with a few basic tips and habits.
+Back up your information, using an automatic backup option if available.
+Install anti-malware software and firewalls to keep from being a target of known phishing attacks. Many internet service providers offer this to their customers.
+Use multifactor authentication whenever it’s offered, especially for e-mail, social media, and financial transactions.
+Don’t open attachments from unknown senders, as they can easily seed malware on your device.
+Use and change passwords frequently.
+These basic tools can be an on-ramp for improving security and keeping unauthorized users out of your digital world. Risk identification, threat reduction, reducing vulnerabilities, and mitigation of hacks or breaches are the four priorities for keeping a system up and running, even if a device or system has been penetrated. Think of what information could be at risk and how you will recover. Having an incident-response plan can help mitigate the damage of an attack or a breach and minimize the damage and potential loss of data.
+Cybercrime is estimated to cost the global economy more than
+$600 billion
+per year. We are all part of the same internet ecosystem. We challenge the network with each key stroke and click through, and cybersecurity awareness in this digital age is imperative. Several presidents have called for strengthening our cybersecurity networks, and with
+congressional support
+, policymakers aim to make the federal government compliant with best practices.
+Federal advisory committees
+have issued extensive reports to encourage incentives for enterprise operators to strengthen their cybersecurity systems to manage the risks of disruption and data breaches.
+Citizens who want a strong digital infrastructure should do their part to keep the digital economy strong and recognize the importance of each individual managing the risk factors around their digital lives. Learn more about security solutions and how to
+stay safe online
+to keep you and your business from being a victim of online fraud, theft, and cybercrime. While you’re enhancing your own security, you may want to check on your privacy settings too.

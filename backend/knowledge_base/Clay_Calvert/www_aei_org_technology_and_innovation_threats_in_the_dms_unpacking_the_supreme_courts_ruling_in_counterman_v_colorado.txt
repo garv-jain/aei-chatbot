@@ -1,0 +1,75 @@
+PAGE_TITLE: 
+	Threats in the DMs? Unpacking the Supreme Court’s Ruling in Counterman v. Colorado | American Enterprise Institute - AEI
+
+When is a statement a
+true threat
+of violence unprotected by the
+First Amendment
+? Does a speaker’s mental awareness about a statement’s threatening nature make any difference or does it matter only that an objectively reasonable person receiving such a statement would find it threatening?
+The
+US Supreme Court
+resolved those questions on June 27 in
+Counterman v. Colorado
+. The decision affects texts and social media messages in which intended meanings sometimes get lost in translation
+without in-person contextual clues
+.
+Via Reuters
+Penning the Court’s opinion, Justice Elena Kagan explained that for a message to constitute a threat beyond First Amendment protection, the government must prove a speaker “consciously disregarded a substantial risk that his communications would be viewed as threatening violence.” This is a recklessness state-of-mind (
+mens rea
+) requirement. It does not require proof of something more demanding, such as a speaker acting with the
+purpose
+of frightening a person or
+knowing
+their message will make their target fearful.
+It is worth noting that the Supreme Court has carved out several types of speech from First Amendment protection, such as
+obscenity
+,
+incitement
+, and
+fighting words
+. True threats is a newer carve-out, beginning in 1969 with
+Watts v. United States
+. The Court there overturned Robert Watts’s conviction for threatening President Lyndon Baines Johnson during a 1966 anti-war rally. Complaining about being drafted,18-year-old Watts
+told the crowd
+“If they ever make me carry a rifle, the first man I want to get in my sights is L.B.J.” Watts and the crowd then laughed. The Court deemed this protected “political hyperbole,” but stressed the First Amendment doesn’t safeguard true threats, which it failed to define.
+In 2003, the Court
+observed
+that true threats include “statements where the speaker means to communicate a serious expression of an intent to commit an act of unlawful violence to a particular individual or group of individuals.” But it was unclear (and lower courts had disagreed about) whether this required speakers to
+intend to threaten
+someone or whether they just had to
+intend to a communicate a message
+that came to be understood as threatening by a reasonable person in the target’s position. The Court tackled that
+issue
+in
+Counterman
+.
+Counterman
+involves myriad disturbing and unsolicited direct messages Billy Raymond Counterman sent via Facebook over several years to singer-songwriter
+Coles Whalen
+. Examples include: “Fuck off permanently,” “Staying in cyber life is going to kill you,” and “Die. Don’t need you.”
+Terrified, Whalen never responded and blocked Counterman several times, but he created new accounts to access her public and private Facebook pages. Counterman ultimately was convicted under a
+Colorado statute
+for stalking causing serious emotional distress. But Counterman claimed his messages were safeguarded by the First Amendment––that they were not unprotected true threats. A
+Colorado appellate court
+in 2021 disagreed, affirming his conviction.
+In deeming Counterman’s statements true threats, the appellate court wrote that Counterman’s state of mind about their meaning was irrelevant under the First Amendment. It focused solely on whether “an intended or foreseeable recipient would reasonably perceive [them] as a serious expression of intent to commit an act of unlawful violence.” The US Supreme Court reversed for Counterman, concluding the government must prove that speakers act recklessly––consciously disregarding a substantial risk––for their messages being understood as threats.
+More specifically, the Court required the government to prove recklessness on a speaker’s part to prevent a
+chilling effect
+on (or the
+self-censorship
+of) protected,
+non-threatening
+expression. As Kagan
+explained
+,
+Prohibitions on speech have the potential to chill, or deter, speech outside their boundaries. A speaker may be unsure about the side of a line on which his speech falls. Or he may worry that the legal system will err, and count speech that is permissible as instead not.
+In short, rather than risk liability for otherwise protected speech, speakers remain silent.
+On the other hand, the Court did not require a
+higher
+level of mens rea––that speakers
+purposely
+put people in fear or
+know
+people will be threatened––because it would be too difficult to prosecute threats causing victims such as Whalen horrific, life-disrupting fear. As Kagan reasoned, a higher standard would “prevent States from convicting morally culpable defendants.” In sum, recklessness better balances free-speech interests with the grave harms that threats cause.
+Justices Sonia Sotomayor and Neil Gorsuch concurred with the result but suggested a higher mental-state level was more appropriate “for true-threats prosecutions generally,” partly because of the “risk of overcriminalizing upsetting or frightening speech” on the internet that “lack[s] many normal contextual clues, such as who is speaking, tone of voice, and expression.”
+The case now returns to Colorado, where a retrial would need to prove that Counterman consciously disregarded the substantial risk that his online messages would be threatening. Time will tell.

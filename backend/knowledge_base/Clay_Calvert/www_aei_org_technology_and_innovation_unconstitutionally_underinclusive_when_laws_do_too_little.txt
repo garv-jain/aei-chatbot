@@ -1,0 +1,63 @@
+PAGE_TITLE: 
+	Unconstitutionally Underinclusive: When Laws Do Too Little | American Enterprise Institute - AEI
+
+Can a law violate the
+First Amendment
+’s guarantee of free speech because it does
+too little
+or regulates
+too few
+actors to substantially mitigate the harms and advance the interests it’s designed to address? The answer sometimes is yes, and that’s a problem for lawmakers regulating social media platforms due to the injuries they allegedly cause minors.
+The phenomenon is called
+underinclusivity
+, and it’s a longstanding statutory concern. As the
+US Supreme Court
+stated
+30 years ago, “While surprising at first glance, the notion that a regulation of speech may be impermissibly underinclusive is firmly grounded in basic First Amendment principles.” (Emphasis in original.)
+Via Twenty20.com
+Underinclusivity relates to how carefully tailored a speech-restricting law is when serving lawmakers’ goals in limiting expression. When drafting statutes, legislators must thread a constitutional needle between doing too much and too little. Statutes that regulate too much speech are unconstitutional because they aren’t
+narrowly tailored
+and constrain more constitutionally protected expression than is necessary to serve the government’s goal. Conversely, laws that scarcely advance a legislature’s interest by, in the Supreme Court’s
+words
+, “abridging
+too little
+speech” (emphasis in original) aren’t efficacious—they don’t significantly advance the government’s goal—and may be fatally underinclusive.
+Furthermore, statutes that do too little sometimes raise red flags that lawmakers are discriminatorily targeting specific businesses and entities for regulation while leaving others unfettered. That was a major defect of a California statute that restricted minors’ access to portrayals of violence in video games but not in other forms of media. Justice Antonin Scalia explained for the majority in
+Brown v. Entertainment Merchants Association
+that
+underinclusiveness raises serious doubts about whether the government is in fact pursuing the interest it invokes, rather than disfavoring a particular speaker or viewpoint. . . . California has singled out the purveyors of videogames for disfavored treatment—at least when compared to booksellers, cartoonists, and movie producers—and has given no persuasive reason why.
+Underinclusivity played a key role in the September 2024 federal court ruling in
+NetChoice v. Reyes
+which preliminarily blocked enforcement of the
+Utah Minor Protection in Social Media Act
+. The act’s
+legislative findings
+claim that “prolonged and unregulated social media use has been linked to adverse effects on the mental health of minors, including increased rates of anxiety, depression, and social isolation,” and that “excessive use” harms minors’ “sleep patterns, academic performance, and overall health.” Although the act
+requires
+social media platforms to implement default privacy settings for minors and to disable three features that purportedly prolong minors’ usage (autoplay functions, continuous scrolling, and push notifications), US District Judge
+Robert Shelby
+deemed the act likely underinclusive. That’s
+because
+it “ultimately preserves minors’ ability to spend as much time as they want on social media platforms. This outcome does not comport with a core underpinning of [Utah’s] argument—that
+excessive
+social media use harms minors.” (Emphasis in original.)
+Additionally, Shelby
+found
+the Act was likely underinclusive because it “preserves minors’ access to the addictive features Defendants express particular concern with on all internet platforms
+other than
+social media services.” (Emphasis added.) In brief, the Act regulates only a narrow set of speakers (social media services) that might deploy autoplay functions, continuous scrolling, and push notifications,
+not
+other websites and online services featuring those same elements. As Shelby explained, lawmakers did “not account for the wider universe of platforms that utilize the features they take issue with, such as news sites and search engines.”
+California’s
+new
+Protecting Our Kids from Social Media Addiction Act
+suffers from another underinclusivity variant—one that plagued its effort to shield minors from the supposedly deleterious effects of violent video games in
+Brown
+. California’s video game statute was intended to safeguard minors from harms allegedly caused by playing violent games. It thus barred minors from purchasing them unless a parent or guardian consented. This “parental or avuncular veto” rendered the statute “seriously underinclusive,” Justice Scalia
+explained
+, because the legislature “is perfectly willing to leave this dangerous, mind-altering material in the hands of children so long as one parent (or even an aunt or uncle) says it’s OK.” In short, if violent games were truly as dangerous as California claimed, why should parents be permitted to buy them for their kids? As Scalia wrote, “That is not how one addresses a serious social problem.”
+California’s new
+social media law
+is similarly problematic. It prevents minors from receiving supposedly “addictive” feeds unless a platform “operator has obtained verifiable parental consent.” Given California’s
+declaration
+of legislative intent that “some social media platforms . . . include addictive features . . . that pose a significant risk of harm to the mental health and well-being of children and adolescents,” why would California permit parents to subject their children to such significant dangers? That parental veto of California’s law likely renders it underinclusive.

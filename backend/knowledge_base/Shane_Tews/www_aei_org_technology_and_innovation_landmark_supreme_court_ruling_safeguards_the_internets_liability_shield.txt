@@ -1,0 +1,45 @@
+PAGE_TITLE: 
+	Landmark Supreme Court Rulings Safeguard the Internet’s Liability Shield | American Enterprise Institute - AEI
+
+Internet users and platforms alike can breathe a sigh of relief. Twitter, Facebook, and YouTube all emerged victorious on May 18 when the US Supreme Court issued dual decisions in
+Twitter, Inc. v. Taamneh
+and
+Gonzalez v. Google, LCC
+. The core tension centered on Section 230, the federal statute that shields websites from being held liable for user-generated content, on top of protections provided by the First Amendment. The Court, in preserving a robust internet, rebuffed the plaintiffs’ efforts in both cases to hold the platforms civilly liable for allegedly aiding and abetting terrorist attacks by hosting and algorithmically recommending ISIS-supportive content.
+In ruling in favor of the platforms, however, the Court declined to take on a key issue in
+Gonzalez
+: Whether Section 230 provides immunity for platforms when they use algorithms to suggest or recommend third-party content—not just host it. Reflecting the Court’s penchant for minimalism under the leadership of Chief Justice John Roberts, the Court didn’t need to address the Section 230 issue because it found that the underlying substantive theories of the plaintiffs in both cases were deficient.
+Via Reuters
+Here’s how the Court reached those free-speech-friendly outcomes. The plaintiffs in
+Taamneh
+are relatives of a person killed in a 2017 ISIS attack on a Turkish nightclub. They claim that content posted by ISIS on Twitter, Facebook, and YouTube (owned by Google) facilitated the terrorist organization’s recruitment of new members, including one who killed their relative. The plaintiffs sued Twitter, Facebook, and Google under the Justice Against Sponsors of Terrorism Act (JASTA), which imposes liability on anyone “who aids and abets, by knowingly providing substantial assistance, or who conspires with the person who committed . . . an act of international terrorism.”
+In a unanimous opinion penned by Justice Clarence Thomas, the Supreme Court determined that the
+Taamneh
+plaintiffs failed to state a plausible claim under JASTA. Justice Thomas stressed that the nexus between the actions of the social media platforms and the nightclub killing was “highly attenuated,” “far removed,” at “arm’s length, passive, and largely indifferent.” He reasoned that the
+Plaintiffs . . . failed to allege that defendants intentionally provided any substantial aid to the [nightclub] attack or otherwise consciously participated in the [nightclub] attack––much less that defendants so pervasively and systemically assisted ISIS as to render them liable for every ISIS attack.
+One important facet of the social media platforms’ victory in
+Taamneh
+was the Court’s conclusion that algorithmic recommendations of content do not “constitute active, substantial assistance.” As Justice Thomas wrote, “the algorithms appear agnostic as to the nature of the content, matching any content (including ISIS’ content) with any user who is more likely to view that content. The fact that these algorithms matched some ISIS content with some users thus does not convert defendants’ passive assistance into active abetting.” That’s great news all social media platforms today that depend on such “agnostic” algorithms to helpfully connect users with content based on their past searches and views.
+The result in favor of Twitter, Facebook, and YouTube in
+Taamneh
+proved pivotal, in turn, for the Court in the companion case of
+Gonzalez
+. In a short, unsigned opinion, the Court observed that the underlying aiding-and-abetting allegations in
+Gonzalez
+were “materially identical to those at issue” that had failed for the plaintiffs in
+Taamneh
+. In other words, like those ubiquitous shampoo-bottle instructions, it was a matter of rinse and repeat. Because the plaintiffs in
+Taamneh
+had failed to state a valid cause of action against the defendants there, the complaint in
+Gonzalez
+, the Court wrote, “likewise fails to state such a claim.”
+Disposing of
+Gonzalez
+on that ground, the Court wrote that it “therefore decline[s] to address the application of §230 to a complaint that appears to state little, if any, plausible claim for relief.” In other words, and in the spirit of the judicial minimalism noted earlier, the Court punted in
+Gonzalez
+on addressing the issue it had agreed to hear back on October 3, 2022––namely,
+whether
+Section 230 protects computer services when recommending information from third parties or merely limits their liability when they make decisions about how and what information to display.
+That issue, or one very similar to it, will likely arise again, somewhere down the litigation road in another case. For now, however, the Court’s decision in
+Gonzalez
+is a victory for Section 230, leaving it fully intact and declining to mettle with a statute that has allowed the internet over the past quarter-plus century to grow into a vast (albeit sometimes inevitably imperfect) marketplace of ideas. Without it, the internet would be a one-sided experience of marketing propaganda, rather than the interconnected exchange of information across the globe.

@@ -1,0 +1,47 @@
+PAGE_TITLE: 
+	Top 5 Podcasts of 2020: ‘Explain to Shane’ with Shane Tews | American Enterprise Institute - AEI
+
+This blog post is part of AEI’s Best Podcasts of 2020 series. Click
+here
+to see other AEI podcast hosts’ favorite episodes of the year.
+On “
+Explain to Shane
+,” I sit down with technology and public policy experts to discuss how the apps, services, and technologies of the digital age shape our social and economic lives. Since the podcast premiered in March 2020, my guests have “explained” a diverse set of tech policy issues from electric scooters to
+COVID-19
+tracing apps — with many topics still left to explore. 2021 is shaping up to be a big year for technology and tech policy, so stay tuned for what’s to come!
+Here are five of my favorite episodes of “Explain to Shane” from the past year. As always, if you enjoy the show, remember to subscribe and leave us a review on your
+preferred listening platform
+. Thanks for listening, and happy holidays.
+1.
+The American semiconductor industry and its global competition (with John Neuffer)
+— Ep. #9, July 17
+For such a tiny chip, semiconductors power an enormous range of tech-enabled devices (every single digital good we touch, in fact). But as foreign governments plow resources into their own semiconductor production efforts, America’s chip industry is on the decline. Neuffer says it’s time for the government to step up and save the industry that birthed Silicon Valley.
+2.
+The battle for global internet governance (with Dominique Lazanski)
+— Ep. #12, August 4
+What if China takes over the forums that preserve the free and open internet? Lazanski warns China is closer than ever to making this ambition a reality. Drawing on her recent essay, “
+Standardising the Splinternet: How China’s Technical Standards Could Fragment the Internet
+,” she describes China’s increasing efforts to boost the presence of Chinese officials and companies at global internet governance bodies — giving Beijing’s authoritarian internet vision legitimate policy momentum.
+3.
+Contact tracing, data privacy, and ‘check-in culture’ (with Adrian Kinderis)
+— Ep. #13, August 18
+COVID-19 contact tracing apps can
+be hit-or-miss when it comes to protecting user data, but as a hospitality
+venue owner with an IT background, Kinderis felt compelled to create an anonymous,
+text-message-based app that balances user privacy with ease and efficiency on
+the businesses’ side. His success is an inspiring and timely reminder of the
+power of innovation in the face of a pandemic.
+4.
+How coding can transform government (with Amanda Renteria)
+— Ep. #21, December 1
+It doesn’t take a pandemic to prove our government is behind the times on tech. Renteria heads
+Code for America
+, a nonprofit that trains young coders to help state and local governments bring “safety net” programs such as Medicaid and welfare programs online. On this episode, she shares first-hand experiences from the front lines of IT modernization — a topic that will only grow in importance as the world becomes increasingly digital.
+5.
+Shaping American tech policy at the Federal Communications Commission (with FCC Chairman Ajit Pai)
+— Ep. #22, December 15
+My AEI colleague
+Daniel Lyons
+and I had the pleasure of speaking with FCC Chairman Ajit Pai on the agency’s policy successes over the last four years. In addition to his reflections on the value of public service, Chairman Pai’s thoughts on how the FCC has approached spectrum allocation, 5G wireless, and
+Restoring Internet Freedom
+provide a clear roadmap for the next administration. It was a pleasure to have him on the show.

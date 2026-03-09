@@ -1,0 +1,58 @@
+PAGE_TITLE: 
+	To Reach the Full Potential of 5G, Continue to Embrace Free Markets | American Enterprise Institute - AEI
+
+In 2018,
+Axios
+reported that President Donald Trump’s national security officials were considering using some Department of Defense (DoD) spectrum to build a nationalized 5G wireless network. The plan faced swift opposition from several policy experts, the telecommunications industry, and the Federal Communications Commission (FCC). Well, part of that ill-fated plan appears to be back, as the DoD has put out a
+request for information
+(RFI) asking how it could “own and operate 5G networks for its domestic operations” and work with contractors to run a civilian 5G network as part of a dynamic spectrum sharing agreement.
+via Twenty20
+As was true in 2018, the DoD has no business running a
+civilian mobile network. AT&T, T-Mobile, and Verizon have already heavily
+invested to bring 5G wireless to their customers through the open market. These
+mobile carriers have worked with global vendors to create secure supply chains
+and build a more secure next-generation network architecture with improved
+capabilities.
+The RFI relates to a proposal for the DoD to share 3.45 to
+3.55 gigahertz (GHz) spectrum — also known as mid-band spectrum — with one
+chosen commercial provider rather than have it go to the market for a public
+auction. The request seeks one contractor to come up with “innovative solutions
+and alternative approaches to enable [dynamic spectrum sharing] within the
+Department’s currently allocated spectrum with the goal of accelerating
+spectrum sharing decisions and 5G deployment.” It asks for help finding “the
+best methods for sharing spectrum with both military and civilian users,” which
+is another way of saying the DoD wants to keep the spectrum instead of giving
+it to the commercial market.
+Why? There is no market failure that needs to be addressed here. The FCC’s
+Facilitate America’s Superiority in 5G Technology
+plan was designed to push more spectrum into the commercial market, update infrastructure policy to allow for newer, more innovative 5G technology, and modernize outdated regulations that could impede the rollout of 5G technologies. This is government being helpful rather than hoarding valuable resources with an agenda.
+Mid-band spectrum is qualitatively different and very
+valuable for commercial wireless providers trying to offer the best 5G
+connectivity for consumers. This spectrum needs to be available to the open
+market so investors and innovators can ensure that 5G technologies meet their
+full potential for improving capacity and latency over previous generations of
+wireless technology. The promised improvements are why investors look at
+spectrum availability, not the DoD, as the key element for transformative 5G
+networks of the future.
+The question remains: Do we want the military running an internally managed mobile telecommunications company? Sen. John Thune (R-SD) and many of his colleagues have answered no in a
+letter
+urging the DoD to “remain on [a] free-market path.” Republicans in the House and Senate have also introduced
+legislation
+to ensure crucial mid-band spectrum is freed up for commercial use.
+Wireless technology analyst Peter Rysavy pointed out in a
+conversation with me that 3.45 to 3.55 GHz is only 100 megahertz, which
+represents just 14 percent of mid-band spectrum. He said a new
+government-controlled network based on this spectrum would simply not have
+enough capacity to make a difference. So why take it out of the commercial
+market and keep it at the DoD? Rysavy noted that extensive analysis has already
+been done by the DoD and the Department of Commerce’s National Telecommunications
+and Information Administration to ensure the 3.45 to 3.55 GHz spectrum can be
+made available to the industry with minimal restrictions and that considering
+any other use for this specific frequency would undermine US 5G capabilities.
+America’s mobile operators have made significant investments
+in, and are on the path to deploying, 5G networking. Allowing private
+investment into mid-band spectrum will help accelerate the shift to
+significantly faster and more secure connectivity. The best outcome here would
+be continuing down a public policy path that ensures wide-scale deployment of
+this spectrum, allowing multiple industries to enjoy the full potential of
+next-generation networks and technologies.

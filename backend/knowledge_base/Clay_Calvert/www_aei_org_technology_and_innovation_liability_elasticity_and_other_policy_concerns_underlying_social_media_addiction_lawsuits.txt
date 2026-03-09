@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Liability Elasticity and Other Policy Concerns Underlying Social Media Addiction Lawsuits | American Enterprise Institute - AEI
+
+Lurking beneath today’s raft of
+social media addiction lawsuits
+blaming platforms for harming minors are three broad public policy concerns. These frets could easily affect corporate liability in areas beyond online media.
+via Adobe open commons
+The first concern is the discretion trial court judges possess––in the absence of explicit legislation or a state high court ruling dictating otherwise––when deciding whether to stretch extant theories of civil liability to fit new, technology-driven problems. A second and related worry is whether judicial expansion of some theories: (1) allows plaintiffs to make end runs around doctrinal roadblocks imposed by other theories or, when other potential remedies already exist, (2) fosters redundant liability for what amounts to the same alleged corporate misconduct. A third fret in the addiction cases is how differences in state laws affecting public nuisance and products liability claims (among others) creates a crazy-quilt patchwork of differing liability standards under which a company may face liability in some states but not others for the same conduct or platform feature. That’s troublesome because it doesn’t provide businesses with a clear roadmap to follow when developing services or products.
+It’s useful to consider
+public nuisance
+claims lodged against social media companies when exploring these concerns. The claims pivot on the position that:
+(1) the general public has a shared, common right to health; (2) social media companies have unreasonably interfered with that public right by designing addictive platforms that cause minors myriad mental health problems; and (3) resource and financial costs are borne by public school districts and local governments that must deal with the problems and conduct of the ostensibly platformed-injured minors.
+Public nuisance law is one area where concerns about judicial discretion and interpretation, as well as divergent state laws and the potential for vast liability, arise. California Superior Court Judge Carolyn Kuhl presides over more than 1,000 addiction lawsuits. Last June, she
+ruled
+against public nuisance claims brought by school districts in California, Florida, Rhode Island, and Washington.
+Each of those states has its own public nuisance rules, fleshed out principally by its own state-court decisions. Kuhl reviewed them and wasn’t willing to expand public nuisance law in any of the four states to allow the districts’ addiction allegations to proceed. The districts had sought money for items such as: preventing on-campus platform usage; providing disciplinary and mental health services when dealing with supposedly addicted students; revising teaching plans; and repairing property damage caused by students engaging in
+challenges
+promoted by platform users.
+Kuhl rejected the public nuisance claims largely because the injuries allegedly caused by platforms are to the
+personal
+rights of minors, not to some larger common public right, even if the personal harms are aggregated. She
+explained
+that “individual injuries to health have not been recognized by any of the four States in question as a basis for nuisance liability, even when the individual harms are considered collectively.” Addressing California law, Kuhl noted that principles there in other areas of tort law like negligence already have erected “doctrinal limits on liability, and nuisance law should not be allowed to sweep aside those limits.” In short, the districts can’t evade those liability restrictions by resorting to public nuisance law.
+Kuhl found similarly under Florida law. She reasoned that the Sunshine State districts “seek to use nuisance to expand liability beyond the immediate victims of [the] social media platforms, and thereby use this tort remedy to make Defendants’ conduct too expensive to maintain.” Tapping into separation-of-power concerns between the judicial and legislative branches, Kuhl added that “Florida courts have expressed a strong aversion to expanding the common law of nuisance to substitute for the absence of legislative regulation.” She thus slammed the brakes on extending public nuisance law in both California and Florida.
+In November, US District Judge Yvonne Gonzalez Rogers
+ruled
+on public nuisance claims filed by school districts in 19 states, including California, Florida, and Rhode Island. Rogers
+presides
+over more than
+800 addiction actions
+in Oakland, California. Like Kuhl, she blocked the Rhode Island districts’ nuisance suit from proceeding, citing “reluctance” by Rhode Island’s Supreme Court to expand nuisance theories. Unlike Kuhl, however, Rogers allowed public nuisance claims filed by districts in California and Florida to proceed.
+Rogers
+viewed
+public nuisance law as “in flux” and offering “a flexible mechanism to redress evolving means for causing harm,” adding that the platforms failed “to rebut (i) that the public health is a right common to the public, (ii) and that their conduct as alleged interferes with that common right.” Finding no explicit authority from the supreme courts of California and Florida that would definitively stop public nuisance law from expanding to such platform-caused harms, Rogers let the claims continue.
+In sum, policy concerns about judicial discretion, expansive liability, and divergent state laws underlie today’s addiction lawsuits.

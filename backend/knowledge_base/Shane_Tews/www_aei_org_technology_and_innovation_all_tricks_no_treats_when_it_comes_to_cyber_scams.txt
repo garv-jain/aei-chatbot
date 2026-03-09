@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	All Tricks, No Treats When It Comes to Cyber Scams | American Enterprise Institute - AEI
+
+Has “Amazon” been trying to send you gift cards via text message lately? Funny, me too!
+This trick is known as “
+smishing
+,” a form of phishing done via text messaging. It’s also referred to as Short Message Service or SMS phishing. Traditional
+phishing
+is when a cybercriminal masquerading as a known trusted entity, usually a well-established shopping site or a well-known consumer website, sends an unsolicited message (usually via email) to a user.
+An example of a “smishing” message sent to an AEI staff member.
+If the user clicks the fake link, they are redirected to a phony website. Here, two criminal acts usually happen. The first is deceiving the user to divulge sensitive personal information, such as personally identifiable information (passwords, usernames, etc.), credit card information, or personal finance details. The second occurs in the background when the user opens the link. These fake websites are often programmed to download malicious malware onto the user’s mobile device or computer.
+It’s hard to believe that these scams work, but they do. A consumer is more
+apt
+to open a text message than an email in today’s market. While the trustworthiness of a spontaneous text message has gone down, it’s still an effective way of reaching a target audience for both businesses and scammers. Unfortunately, today’s inundation of text scams shows how easily users are still duped into getting defrauded. One reason is that criminals play on a user’s emotions by suggesting there is a tight time frame to claim a prize, the user is under investigation by law enforcement, or the user’s banking information has been compromised.
+Purporting to be
+Amazon
+has been one of these con artists’ most prominent backstories for smishing lately. A text scam sends a link to an inauthentic replica of Amazon’s website for the user to claim a fake Amazon gift card. Once the user interacts on the webpage to access the cash value, smishers deploy various malware tools onto their device.
+To deter consumers from participating in fraudulent activity, Amazon, like many others, have been proactive about informing consumers about this potential activity and how these scams work. Many federal authorities and consumer groups track these scams and share information with potential victims and the broader public. The Federal Trade Commission issued a consumer
+alert
+recently on smishing scams, noting that scammers have been impersonating Costco, Home Depot, and the US Postal System. FedEx, Netflix, and UPS are also being used as
+popular
+cover stories. And with the Biden administration’s recent student loan debt relief plan,
+scams
+posing as the entry point to the program with the intent of extracting applicants’ personal financial information are on the rise. The
+FBI
+also warns citizens not to send payments or interact with organizations urging and seeking immediate monetary support.
+Despite the uptick in smishing and other cyber-threats, there are remedies—some easier to implement than others. For starters, using strong passwords and two-factor authentication, actively updating software from known sources, and being cognizant of phishing links are the fundamentals of frontline cybersecurity protection. Every time one of these scammers has success, there are more compromised devices on our networks spreading more malware to more users.
+However, these frontline fundamentals are simply not enough. We need a more holistic cybersecurity approach to better manage the evolution and protection of our great digital economy and its everyday users. Because devices typically conform to “
+plug and play
+”—a standard in which software and hardware companies design things in a way that the user doesn’t need to reconfigure, adjust, or understand their devices’ inner mechanisms for them to work as intended—it can be easy to forget that you still need to be vigilant and have security front of mind when using your devices.
+As we near the end of
+Cybersecurity Awareness Month
+, this post serves as a reminder to be a conscious consumer and use devices provided by technology companies with a level of personal responsibility. The devices and applications these companies produce allow us to have a robust digital economy that enables society to live with better communication, conduct business quicker, and enjoy life online. As technology, and especially mobile devices, continues to be a powerful economic tool that allows us to engage with each other, stay informed, and organize our lives, we need to educate each other on needing to think about security and protecting our data while we interact in our digital world.

@@ -1,0 +1,53 @@
+PAGE_TITLE: 
+	Reducing Unemployment Fraud Without Depriving Eligible Applicants | American Enterprise Institute - AEI
+
+In the wake of the recent pandemic-induced unemployment crisis, policy debates have mostly centered on the way in which our existing unemployment insurance (UI) system, built on antiquated or otherwise flawed technology, failed in its primary task: the delivery of benefits to eligible workers. As we
+recently noted here in
+The Bulwark
+, some states with new or recently updated systems did no better, or even performed worse, than states with systems that hadn’t been modernized. Which is to say that it was not old technology but old policy—a program geared for an economy that no longer exists—that was the main obstacle to effective and efficient benefit delivery.
+UI fraud has also been a big part of the discussion in the news during the pandemic. The Pandemic Unemployment Assistance (PUA) program, a separate unemployment program created in 2020 that provided aid to independent contractors, gig workers, and others in nontraditional employment, was overwhelmed by fraudulent activity. California alone estimates that anywhere from
+$11 billion to $30 billion
+has been stolen from taxpayers through the PUA program, a fraud rate of up to 27 percent if the higher-end estimates are true.
+And it wasn’t just California. The
+U.S. Department of Labor
+found that 49 states faced serious challenges implementing PUA. Additionally, our AEI colleague Matt Weidinger points out that estimates of unemployment fraud during the pandemic have ranged between
+$63 billion to $200 billion
+, a significant majority of which came from the PUA program. If the higher-end estimates prove true, that would make unemployment fraud the fourth-largest “stimulus payment” compared to money spent on all other pandemic-relief programs over the last year.
+It is important to point out, however, that fraud is normally a negligible issue in UI, even during other recessionary periods when benefits have been extended. Between 2008 and 2011, overpayments due to all fraud were less than
+3 percent of total UI benefits
+despite the financial crisis expansions and extensions. This number has remained largely
+consistent in the years since
+. The UI recapture rate (the amount of money states take back upon discovering fraud or eligibility problems) in the years following the Great Recession was nearly
+60 percent
+. This means that since 2008, less than 1.5 percent of all traditional UI dollars have been lost to fraud or error.
+PUA’s slow, glitch-ridden benefit-delivery and fraud issues are tightly interwoven. PUA was added as a patch because Congress
+knew
+the UI system wasn’t prepared to meet the needs of suddenly unemployed gig and contract workers. At the same time, many states lacked the ability to efficiently cross-check UI or PUA applications against other public databases such as birth and death certificates and other public records to verify citizenship and eligibility and prevent identity theft. This was a big problem in California, as fraudsters were able to get approval for claims
+using the names of prisoners
+, since the state lacked the ability to verify against corrections databases.
+Organized crime
+operating from outside the United States also exploited this weakness, filing hundreds of thousands of false claims, draining money out of states’ programs.
+Worry about fraud in the traditional UI system isn’t new, even if, as the data shows, it is often misplaced, a kind of public policy urban legend. In post-2008 reforms, federal and state UI systems significantly tightened fraud and eligibility checks, placing
+new hurdles
+in applicants’ way. (Even some Republicans,
+like Florida Governor Ron DeSantis
+, admit that these “pointless roadblocks” were intended to get people to “just say, ‘Oh, the hell with it’” and give up on applying for benefits.) Using specialized software,
+including machine-learning programs
+, some states incorrectly denied claims because they violated parameters for being “normal” (e.g., too many people in the same neighborhood or block applying at the same time, or something as
+simple as a typo
+when filling out the application), resulting in astoundingly high inaccuracy rates. Needless to say, there was nothing normal about last spring resulting in massive unwarranted denial of benefits along with incorrectly reclaimed benefits and
+staggering penalties
+. Low-income workers of color were disproportionately the victims of computer error, part of a growing number of incidents where allegedly neutral algorithms end up disproportionately hurting minorities.
+We need to dwell on several ironies of this tangled UI system/PUA patch story. In our effort to attack a largely exaggerated UI fraud problem, we deployed technologies to “detect fraud,” and ended up denying American workers critical benefits during an unprecedented public health and economic crisis. At the same time, we threw a jury-rigged PUA program on top of ill-designed, inadequate systems, during a crisis, with limited or nonexistent capacity to determine applicant eligibility. Meanwhile, domestic fraudsters and foreign criminal gangs, most of whose members it is safe to say were never eligible for UI benefits, shot the gap in our public systems (
+rather easily it turns out
+) to bilk American taxpayers of tens of billions of dollars and entangle actually eligible workers in fraud investigations. There may be a way to achieve worse and more counterproductive results, but we’re hard-pressed to imagine it.
+As state and federal lawmakers consider UI reform, there are better ways to prevent fraud without making it harder on those who need and are entitled to UI benefits.
+Michigan, for example, solved its high-inaccuracy fraud-detection rate
+by identifying which stages in the application review process placed unnecessary holds on benefits and then relaxing those chokepoints.
+Utah has shifted to a system
+in which a private vendor verifies wages from tax returns and other employment data. In 2011, New Mexico similarly built in the ability to
+cross-match data
+in the UI system with other information, such as birth and death records, and even names of individuals held by the Department of Corrections, to uncover improper payments to ineligible individuals. What these reforms have in common is improving data integration at the state level so that applications can be processed more efficiently and accurately without sacrificing program integrity. Fraud detection and prevention is a dual-effect benefit of these reforms, but was not the sole motivation for implementing them.
+Effective UI delivery during a time of crisis is essential for keeping the economy afloat. During the Great Recession, state and federal UI payments totaled over $600 billion, keeping
+11 million workers above the poverty line
+. Federal stimulus dollars during the COVID recession, including expanded unemployment benefits, have stabilized millions of individuals and families while supporting the economy. Whatever their challenges, state UI systems provided vital services under the most adverse conditions they have ever experienced. But they could, and should, have operated more effectively and efficiently while walling out bad actors. To be better prepared for the “once-in-a-century” crises that seem to be occurring every ten years or so, we need to focus on prioritizing on making UI systems responsive to the needs of today’s workers and closing gaps that are exploited by fraudsters and sophisticated criminal enterprises.

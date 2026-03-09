@@ -1,0 +1,114 @@
+PAGE_TITLE: 
+	Your Autonomous Vehicle Ride Might Take a While | American Enterprise Institute - AEI
+
+For a time, when I wanted to make a point that AI hype was overblown, I would just cite Elon Musk’s various predictions about autonomous vehicles (AV).
+In 2013, Musk
+predicted that by 2016
+Tesla would be making self-driving cars. In 2016, the company unveiled a
+demonstration video
+in which a Tesla Model X seemed to be driving itself, proving the doubters like myself wrong. However,
+a former Tesla engineer
+has since testified he helped stage the video with Musk’s full knowledge. The car actually crashed. In 2019, Musk predicted full autonomy was just around the corner, saying “probably two years from now we’ll make a car with no steering wheels or pedals.”
+Musk wasn’t alone
+in making bold statements
+. General Motors (GM) said it would mass-produce driverless cars without steering wheels or pedals by 2019. Ford, being slightly more conservative, predicted it would do the same by 2021.
+I don’t have to tell you that none of these predictions happened. Instead, there have been a string of failures and setbacks for the technology. California suspended the operating license of GM’s self-driving division, Cruise, after one of its test vehicles hit a pedestrian and dragged her 20 feet before stopping. In another incident, two Waymo self-driving vehicles crashed into the same towed pickup truck within the span of a few minutes, prompting the company to recall the software that was running its robotaxis. Waymo, recognized for its advanced robotaxis, is a subsidiary of Alphabet alongside Google.
+As you might have gathered reading this newsletter, I’m an optimist about technology. But unlike my peers, I’ve always been pessimistic about AVs. Traversing an urban setting, following traffic signs, and adjusting to the erratic driving behaviors of other vehicles is difficult for people; coding all of this tacit knowledge into a self-driving vehicle is an incredibly difficult and costly task.
+To be clear, the promise of AVs is very real. Waymo
+opened its driverless taxi services
+to riders across San Francisco after previously having limited their availability.
+Nearly 41,000 people died in 2023
+from vehicle deaths with about a third of those because of alcohol use. Even now, AVs have been shown to be far more safe than those with human drivers. But the development still shows that we have a long way to go to make useful AI.
+The past was a grand challenge.
+Experiments in self-driving cars began in earnest in the 1930s. The most well-known of these was Futurama, an exhibit and ride at the 1939 New York World’s Fair, that
+presented the world 20 years into the future
+, where automated cars took you away from a modern, tall city into the vast suburbs.
+Easily, my favorite concept car of this era was
+General Motors’ Firebird II
+, a futuristic vehicle made entirely of titanium with jet engines for propulsion. It was the first GM car to use disc brakes on all four wheels, and a fully independent suspension, which is common now. Most importantly, it featured a guidance system tailored for the highway of the future, where signals from an embedded electrical wire in the road would steer vehicles and prevent collisions. It was Futurama made real.Source: Wikimedia
+While these projects helped to develop cruise control and other assistive technologies, the modern race to build driverless cars stems from the Defense Advanced Research Projects Agency’s (DARPA)
+Grand Challenge
+. Authorized by Congress in 2003, the Grand Challenge offered a prize money of $1 million for a team that could traverse a course with an autonomous vehicle. With a target to have one-third of its ground forces autonomous by 2015, the Pentagon viewed this prize as a crucial step towards achieving that objective.
+In 2004, the first year it was run, none of the 15 entries finished the grueling desert course that stretched from Barstow, California, to Primm, Nevada, in the allotted 10 hours. The best anyone did was complete approximately 7 miles of the 142-mile route. So, Tony Tether, the director of DARPA, announced that the prize money had been increased to $2 million for the next event. That next year, on October 9, 2005,
+a team from Stanford team won with its vehicle, Stanley
+.
+A third iteration of the Grand Challenge, known as the “Urban Challenge,” took place two years later, on November 3, 2007. The course was 60 miles in an urban setting. Instead of just blasting through the course, teams had to obey laws, route around obstacles, and merge into traffic in less than six hours. This time around, Stanford took second place.
+Out of this experience came the Google Self-Driving Car Project. Team members from Stanford started working for Google in 2009. Their labor remained relatively secret until it was announced in 2010 in the
+New York Times
+that “
+Google Cars Drive Themselves, in Traffic.
+” The project, renamed Waymo, was spun off from Google and became part of Alphabet. The company continues to be a pioneer in the driverless space. It claimed to provide “the world’s first fully driverless ride on public roads” in 2015, and in October 2020, it was the first company to offer a driverless service to the public.
+At the time Google was at the top of its game, and the announcement that Google was testing driverless cars sparked a revolution in autonomous tech. In 2014,
+Tesla started equipping cars
+with the hardware that could allow for driverless operation, rolling out the “Autopilot” self-driving feature
+in 2016. In 2015, around the time of Waymo’s first driverless trip, Baidu Senior VP Wang Jing announced that the tech giant would be offering self-driving cars to Chinese consumers by 2020.
+Toyota
+and
+Honda
+also said that they’d be pumping out self-driving cars by 2020. Around this time, then-Lyft President John Zimmer
+predicted that
+“within five years” the majority of rides on the platform would be in fully autonomous vehicles. If only to prove this inevitability, BMW and Daimler, longtime competitors,
+began pooling resources
+to create autonomous vehicles, while Ford and Volkswagen backed Argo AI, a driverless startup.
+At the time, analysts predicted significant benefits would come from the transformation.
+A 2016 report
+from the World Economic Forum estimated that driverless vehicles would generate $67 billion in economic value and $3.1 trillion in societal benefits by 2021.
+Business Insider
+projected
+that by 2020, 10 million autonomous vehicles would be operational on the roads, while
+The Guardian
+predicted that
+you would be a “permanent backseat driver” by 2020.
+Even the traditionally slow-moving government began to adjust. In 2016, the U.S. Department of Transportation introduced the “
+Federal Automated Vehicles Policy,
+” detailing how autonomous vehicles should handle technology malfunctions, ensure passenger privacy, and protect occupants during accidents. Arizona
+passed legislation
+to attract AV experimentation, which up until then had been mainly localized to California. In 2018 alone,
+15 states enacted 18 AV-related bills
+.
+AVs seemed to be just around the corner.
+The long and winding road to an AI world.
+Like so much else, the COVID pandemic was a turning point with AVs. Seeing companies shut down put pressure on ridesharing companies to cut costs. Uber offloaded its
+self-driving unit in 2020
+, followed by Lyft, which closed its project in 2021. Meanwhile, soaring investment costs drove Ford to reassess its self-driving venture, Argo AI, with Volkswagen. Ford
+pulled the plug first
+, followed by Volkswagen in 2022.
+In 2015, when Autopilot was rolled out and self-driving cars seemed only years away, Elon Musk
+told
+Fortune
+magazine that
+, “It’s a much easier problem than people think it is.” That was once again a big understatement. Autonomy isn’t a simple problem—it’s a collection of complex problems that must be tackled individually.
+This was painfully illustrated by the first known fatality involving a fully autonomous vehicle. In March 2018, per a
+National Transportation Safety Board investigation
+, Rafaela Vasquez was watching television on her smartphone when the Uber self-driving car she was monitoring fatally struck Elaine Herzberg as she crossed a road in Tempe, Arizona. While Vasquez was held
+responsible for the crash
+, the investigation also revealed that the company’s self-driving software wasn’t designed to expect that pedestrians outside crosswalks might cross the street. Now multiply this by every conceivable way an accident might occur and the enormity of self-driving cars becomes clear.
+Indeed, if we want to describe the challenge of autonomous vehicles as a single problem, it might be best understood as a
+big data
+problem. Cars need to know how to traverse countless scenarios. To address these obstacles, carmakers have tried numerous methods—logging more miles, training vehicles in simulations, and crafting particular scenarios to gather additional data.
+In an effort at transparency, Waymo has worked with insurance researchers to see just how effective automated driving systems (ADS) are.
+In a study released late last year
+, the difference was clear:
+When considering all locations together, the any-injury-reported crashed vehicle rate was 0.41 incidents per million miles (IPMM) for the ADS vs 2.80 IPMM for the human benchmark, an 85% reduction or a human crash rate that is 6.7 times higher than the ADS rate. Police-reported crashed vehicle rates for all locations together were 2.1 IPMM for the ADS vs. 4.68 IPMM for the human benchmark, a 55% reduction or a human crash rate that was 2.2 times higher than the ADS rate.
+All of this work to achieve driverless vehicles has come at a steep cost. An estimate from late 2022 put the total amount of investment in AVs
+at least $160 billion
+. And that doesn’t include this year, which saw another
+$5 billion for Waymo
+and
+$10 billion for Tesla
+.
+The road ahead.
+“It’s definitely happening a lot slower than people anticipated back in 2017,” industry analyst Sam Abuelsamid
+told Timothy Lee of the indispensable
+Understanding AI
+Substack
+. “But that doesn’t mean that there isn’t progress being made.”
+At least one arena where concerns about AVs have been overblown are the legal issues. In general, product liability law has been
+extremely adept in responding
+to new technologies entering the market. In the past, car manufacturers have been involved in suits over cruise control systems and adaptive control systems, precursors to more intelligent systems currently being deployed. Since the first AV-related death in 2018, a spate of cases have been settled with drivers and cars granted varying liability.
+But the real big issue I see in the future will be changing the cityscape to take advantage of driverless cars. Most municipalities have parking requirements which never made sense anyway, let alone in a driverless world. And then there’s the issue of
+congestion pricing
+, which economists are generally in favor of but people hate. As economist Tyler Cowen
+commented
+, “The absence of congestion pricing in most major urban centers means we are already bad at running roads, for whatever public choice reasons. So maybe we’ll get a bad version of driverless cars too.”
+While driverless cars are slowly inching their way toward viability, I fear all of the other policies needed to capitalize on it will have a much tougher time.

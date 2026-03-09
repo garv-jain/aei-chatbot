@@ -1,0 +1,333 @@
+PAGE_TITLE: 
+	Using Large Language Models to Understand Ordinary Meanings in Legal Texts: Some Early Judicial and Scholarly Experiments | American Enterprise Institute - AEI
+
+Key Points
+Courts and scholars are experimenting with artificial intelligence tools to help establish the ordinary meaning of words and phrases in statutes and contracts.
+A tone of cautious optimism—one cognizant of pros and cons—about using large language models (LLMs) pervades the outcomes of some early investigations.
+Future research should explore LLMs’ strengths and weaknesses before they are confidently deployed to supplement—not supplant—traditional interpretive tools such as dictionaries.
+Introduction
+Chief Justice John Roberts predicted in late 2023 that “legal research may soon be unimaginable without” AI.
+1
+Although suggesting that artificial intelligence “has great potential to dramatically increase access to key information for lawyers and non-lawyers alike,” Roberts warned that “any use of AI requires caution and humility.”
+2
+To wit, he observed that “legal determinations often involve gray areas that still require application of human judgment,” which AI cannot replace.
+3
+Thus, while forecasting that “judicial work—particularly at the trial level—will be significantly affected by AI,” Roberts believes “human judges will be around for a while.”
+4
+At least one of those “human judges” is already experimenting with AI tools to help determine the meaning of words and phrases in legal texts. In May 2024, Judge Kevin Newsom of the US Court of Appeals for the 11th Circuit used two AI products based on large language models (LLMs)—versions of OpenAI’s ChatGPT and Google’s Bard (now Gemini)—to help him understand the ordinary meaning of “landscaping” in an insurance contract and, specifically, to decide whether that meaning encompasses in-ground trampoline installation.
+5
+Describing his methodology in a concurrence in
+Snell v. United Specialty Insurance Company
+, Newsom concluded that “LLMs have promise” and “it no longer strikes me as ridiculous to think that an LLM like ChatGPT might have something useful to say about the common, everyday meaning of the words and phrases used in legal texts.”
+6
+He deemed it
+at least worth
+considering
+whether and how we might leverage LLMs in the ordinary-meaning enterprise . . . not as the be all and end all, but rather as one aid to be used alongside dictionaries, the semantic canons, etc.
+7
+(Emphasis added.)
+As I explained previously in an American Enterprise Institute blog article, Newsom’s concurrence “was not some full-steam-ahead, do-it-or-else judicial edict” demanding LLMs be used in interpretive analyses but rather “a laudable call for the judiciary to begin exploring and experimenting with” them.
+8
+Newsom followed
+Snell
+several months later with “a sequel of sorts” in
+United States v. Deleon
+.
+9
+He described a “humble little mini-experiment” using three leading AI products to help him interpret the ordinary meaning of “physically restrained” in federal sentencing guidelines.
+10
+The AI tools produced what Newsom called “subtly different responses to the same question” about that term’s ordinary meaning.
+11
+Nonetheless, he reasoned that “LLMs have something to contribute to the ordinary-meaning endeavor. They’re not perfect, and challenges remain, but it would be myopic to ignore them.”
+12
+Newsom added that LLMs may be especially useful in helping “decipher and explain the meaning of composite, multi-word phrases in a way that standard tools like dictionaries can’t always do.” He concluded that rather than supplanting dictionaries and other methods to decipher ordinary meanings, “LLMs may well serve a valuable auxiliary role as we aim to triangulate ordinary meaning.”
+13
+Scholars are also assessing ways LLM-based AI tools can help determine ordinary meanings in legal documents. A 2024 law journal article by Professors Christoph Engel and Richard H. McAdams features their findings from empirical experiments testing the ability of the GPT LLM (commonly accessed through ChatGPT) to discover the ordinary meaning of statutory terms.
+14
+They conclude that, while “legal actors have good reason to be cautious,” LLMs “have the potential to radically facilitate and improve legal tasks, including the interpretation of statutes.”
+15
+They add that “LLMs may provide empirical evidence of ordinary meaning with unparalleled ease.”
+16
+If this proves true, then LLMs could expedite judicial decisions, letting the wheels of justice turn more quickly.
+In another 2024 law journal article, Professors Yonathan Arbel and David A. Hoffman coin the term “generative interpretation” to describe the process of applying LLMs “to contractual texts and extrinsic evidence to predict what the parties said at contracting about what they meant.”
+17
+Although acknowledging weaknesses and “real structural limitations” with generative interpretation, they suggest—based on their experiments—that LLMs
+promise a future of better-calibrated (and more predictable) textualism. The models’ complex encoding of language far outstrips that of any dictionary, and extensive training data give them a superior sensitivity to actual usage. All of that promises a considerably more sensitive way to predict meaning, but it won’t replace judges.
+18
+Turning to LLMs to uncover ordinary meanings in legal texts is, in some ways, a variant of legal corpus linguistics.
+19
+Corpus linguistics “is a particularized study of language that uses . . . large collections of electronically stored literature to attempt to get at a data-driven understanding of what different words and phrases mean.”
+20
+Legal corpus linguistics, in turn, typically “involves searching large collections (‘corpora’) of founding-era language to determine the ordinary public meaning of words in order to guide judicial decision-making.”
+21
+An ostensible benefit of legal corpus linguistics is that
+by sampling and analyzing words and phrases in their natural setting [one] can access evidence about meaning and usage that before [one] could only guess about, making [the] assessment of the meaning of the language of the law more transparent and independently verifiable.
+22
+Both LLMs and corpus linguistics rely on computer analyses of massive collections of textual documents—ones in which words are found next to and in context with others—to help answer queries about ordinary meaning. Two leading proponents of legal corpus linguistics, however, contend that “existing LLM AIs fall short where corpus tools deliver.”
+23
+Critiquing legal corpus linguistics is beyond this report’s scope.
+In this report, I examine early judicial and scholarly forays into using LLM-based AI tools to help determine the ordinary meaning of statutory and contractual terminology.
+24
+I initially review the ordinary-meaning canon, a key facet of the textualist interpretative enterprise of construing a statute’s meaning and a highly relevant one for contractual interpretation. Next, I elaborate on Judge Newsom’s experiments with LLMs in
+Snell
+and
+Deleon
+and his tentative conclusions about the pluses and minuses of deploying LLMs in interpretive tasks. I then turn to two scholarly analyses of LLMs’ usefulness in statutory and contractual interpretation, delving into the experiments and findings presented in the abovementioned 2024 articles by Professors Engel and McAdams (“Asking GPT for the Ordinary Meaning of Statutory Terms”) and Professors Arbel and Hoffman (“Generative Interpretation”). I conclude by summarizing the judicial and scholarly findings.
+The takeaway in mid-2025 is that, while LLMs may prove beneficial in determining statutory and contractual meanings, they aren’t silver bullets that miraculously cure long-standing interpretive problems. Indeed, jurists and attorneys should consider several weaknesses of using LLMs to interpret legal texts, and more experimentation is essential. In sum, today’s LLMs—with finely tuned prompting and repeated questioning—offer a low-cost, accessible means of supplementing, but not replacing, tools such as dictionaries now commonly used to understand the ordinary meaning of words and phrases in statutes and contracts.
+Searching for Ordinary Meanings
+When opposing parties disagree about a word or phrase’s meaning in a statute, how do judges typically address the problem? “We start where we always do: with the text of the statute.”
+25
+That’s how Justice Amy Coney Barrett began her analysis for a majority of the US Supreme Court in a 2021 case that turned largely on the meaning of the phrase “entitled so to obtain,” located in a lengthy federal computer fraud statute.
+26
+In determining the statutory phrase’s meaning, Justice Barrett and the majority in
+Van Buren v. United States
+reviewed definitions of its key component words—“entitled” and “so”—found in
+Black’s Law Dictionary
+,
+Oxford English Dictionary
+,
+The Random House Dictionary of the English Language
+, and
+Webster’s Third New International Dictionary
+.
+27
+Since the initial public demonstration of OpenAI’s ChatGPT was not until late 2022, the justices in Van Buren likely never dreamed of prompting an LLM for a word or phrase’s meaning as Judge Newsom did in 2024 with
+Snell
+and
+Deleon
+.
+28
+When examining statutory texts and poring through dictionaries, the justices today typically search for the “ordinary meaning” of words.
+29
+This is especially true when a statute doesn’t define a key word or phrase.
+30
+In such situations, the “Court normally interprets a statute in accord with the ordinary public meaning of its terms at the time of its enactment.”
+31
+Timing thus matters:
+What
+an undefined statutory word ordinarily means is partly determined by when it was incorporated into a statute.
+32
+The problematically slippery concept of “ordinary meaning” is sometimes used interchangeably with “natural meaning”
+33
+or “plain meaning.”
+34
+Numerous “courts have equated ordinary meaning with dictionary definitions, or have otherwise treated such definitions as definitive.”
+35
+Indeed, a recent article asserts that “as textualism has come to dominate statutory interpretation, courts increasingly have employed dictionary definitions as (purportedly) neutral, and sometimes dispositive, evidence of ordinary meaning.”
+36
+This implicitly raises the question of whether LLM-based AI tools also can help judges discover ordinary meanings.
+Ultimately, unless a word’s statutory context (including a statute’s structure) indicates otherwise or lawmakers have articulated a specialized or term-of-art meaning for a statutory word that supplants its ordinary one,
+37
+“individuals and courts alike are entitled to assume statutory terms bear their ordinary meaning.”
+38
+Known as the ordinary-meaning canon or doctrine, this generally “requires that undefined terms in legal texts be interpreted in accordance with their ordinary meanings.”
+39
+A recent law review article deemed it one of “the two most fundamental doctrines of statutory interpretation,” along with the distinct and often conflated plain-meaning doctrine.
+40
+This is not to say that the ordinary-meaning canon is flawless—far from it. To wit, Marco Basile, an Alexander Fellow at New York University School of Law, identifies multiple problems with it, ranging from trouble defining “ordinary” to the extent that context (contextual meaning and “contextual clues found in the pertinent statute itself”)
+41
+is allowed to influence ordinary meanings.
+42
+Another influential article explains that there is both a theoretical problem of—ironically—having “no ordinary meaning of ‘ordinary meaning’” and an “operationalization or measurement” problem of how to assess ordinary meanings.
+43
+Additionally, judges often rely on legal precedent in interpreting a statute’s meaning, such that “the effort to identify the ordinary meaning of a federal statute is, at bottom, a legal and normative, not simply a linguistic, exercise.”
+44
+Viewed in this light, Professor Tara Leigh Grove contends, “The ordinary meaning of a federal statute is not equivalent to a conversation on the street or an advertisement on television, radio, or social media. The ordinary meaning of a federal statute is full of law.”
+45
+Another operational problem with ordinary-meaning analyses arises when judges search legal dictionaries that provide technical, term-of-art definitions,
+not
+just ordinary meanings, for words.
+46
+This problem might also occur if an LLM’s training datasets draw heavily from technical manuals and specialized dictionaries.
+Despite these difficulties, ordinary-meaning considerations are firmly implanted in today’s judiciary, including the US Supreme Court. A 2023 article observes that “for the first time, a super-majority of Justices clearly accept the primacy of ‘ordinary meaning.’ Furthermore, many of the young, Trump-appointed judges appear committed to this principle, suggesting that ordinary meaning’s import will continue to grow.”
+47
+Beyond its relevance for statutory interpretation, “analysis of the ordinary, plain, or natural meaning underlies popular approaches to contract interpretation in the United States and abroad.”
+48
+For example, California law provides that
+the words of a contract are to be understood in their ordinary and popular sense, rather than according to their strict legal meaning; unless used by the parties in a technical sense, or unless a special meaning is given to them by usage, in which case the latter must be followed.
+49
+California’s statute aligns with a federal appellate court’s recent observation that “contractual terms are accorded ‘their ordinary meaning unless the parties mutually intended and agreed to an alternative meaning.’”
+50
+To discover the ordinary meaning of contractual language, courts often look to dictionaries, just as they do when searching for the meaning of statutory terms.
+51
+In sum, although the definition of “ordinary meaning” and the methodologies for its determination are criticized and debated, the ordinary-meaning canon of statutory interpretation reigns supreme. As Justice Neil Gorsuch wrote in 2025 for a seven-justice majority in
+Bondi v. VanDerStok
+—a majority featuring conservative-tilting justices (Barrett, Gorsuch, Brett Kavanaugh, and Roberts) and liberal-leaning ones (Ketanji Brown Jackson, Elena Kagan, and Sonia Sotomayor)—“our task here, as ever, is to interpret the words Congress enacted ‘consistent with their ordinary meaning.’”
+52
+With this background on ordinary meaning, I turn to Judge Newsom’s 2024 experiments with and observations about using publicly available LLMs to help determine the ordinary meaning of disputed terms in legal texts.
+Judge Newsom, LLMs, and Ordinary Meanings
+In 2024, a three-judge panel of the US Court of Appeals for the 11th Circuit in
+Snell
+considered whether an insurance company had breached a contractual duty to defend an insured contractor named James Snell, who was sued for negligently installing a ground-level trampoline.
+53
+The insurance policy between United Specialty and Snell covered injuries arising from Snell’s performance of “landscaping.” United Specialty claimed it had no duty to defend Snell because installing a backyard trampoline isn’t landscaping. The insurance contract, however, didn’t define “landscaping.”
+The 11th Circuit ruled in favor of United Specialty because when Snell applied for insurance, he expressly disclaimed installing recreational equipment. The appellate court thus decided the case without ruling on an issue the parties fought over at the district court level—whether the ordinary meaning of the contractually undefined term “landscaping” includes installing in-ground trampolines.
+Judge Newsom, who agreed with the judgment in United Specialty’s favor and fully joined the opinion, penned a separate concurrence detailing his experiment using LLMs to assist with determining the ordinary meaning of “landscaping” and whether it includes in-ground trampoline installation.
+54
+Those experiments led him to propose that
+those, like me, who believe that ordinary meaning is
+the
+foundational rule for the evaluation of legal texts should consider—
+consider
+—whether and how AI-powered large language models like OpenAI’s ChatGPT, Google’s Gemini, and Anthropic’s Claude might—
+might
+—inform the interpretive analysis.
+55
+(Emphasis in original.)
+Newsom explained that his LLM experiment was spawned by frustration with unsatisfactorily spending “hours and hours (and hours) laboring over the question whether Snell’s trampoline-installation project qualified as ‘landscaping’ as that term is ordinarily understood.”
+56
+He found that dictionaries—common tools for locating ordinary meanings, as described earlier—“left a little something to be desired. From their definitions alone, it was tough to discern a single controlling criterion” for “landscaping.”
+57
+To escape “definitional purgatory,”
+58
+Newsom requested a law clerk to ask ChatGPT and Bard two questions: “What is the ordinary meaning of ‘landscaping’?” and “Is installing an in-ground trampoline ‘landscaping’?”
+59
+He deemed the LLMs’ answers to the first question “pretty similar,” while Bard “was more equivocal than ChatGPT” in its response to the second query.
+60
+He characterized ChatGPT’s response to the first question as “more sensible than I had thought it might [be],” noting it “squared with” his impression of how “ordinary people might well use the term ‘landscaping.’”
+61
+This prompted Newsom to conclude that LLMs might be useful for interpreting legal texts and that “at the very least, . . . it’s an issue worth exploring.”
+62
+Newsom then identified what he viewed as “some of the primary benefits and risks of using LLMs—to be clear, as one implement among several in the textualist toolkit—to inform ordinary-meaning analyses of legal instruments.”
+63
+Newsom described five advantages in using LLMs to seek out ordinary meanings:
+64
+Ordinary-Meaning Training.
+LLMs are trained on an “enormous amount of raw data” that strive “to reflect and capture how individuals use language in their everyday lives.” LLMs thus “can provide useful statistical predictions about how, in the main, ordinary people ordinarily use words and phrases in ordinary life.”
+Context Sensitivity
+. LLMs can “absorb and assess the use of terminology in context and . . . detect language patterns at a granular level.” This makes them “capable of probabilistically mapping . . . how ordinary people use words and phrases in context.”
+Accessibility.
+“LLMs’ easy accessibility” provides “the promise of ‘democratizing’ the interpretive enterprise, both . . . by leveraging inputs
+from
+ordinary people and by being available for use by ordinary people.” (Emphasis in original.) Additionally, LLMs’ accessibility “provides judges, lawyers, and litigants an inexpensive research tool.”
+Transparency of Research Relative to Dictionaries.
+How dictionaries arrive at their definitions isn’t always clear, and “the choice among dictionary definitions” affords judges discretion to select one over others without explaining why. In contrast, judges “know both (1) what LLMs are learning from—namely, tons and tons of internet data—and (2) one of the things that makes LLMs so useful—namely, their ability to accurately predict how normal people use language in their everyday lives.”
+Advantages over Other Empirical Methods of Discovering Meaning.
+LLMs are preferable to tools such as legal corpus linguistics that feature methods that “have been challenged on the ground, among others, that those tasked with compiling the data exercise too much discretion in selecting among the inputs.” Conversely, Newsom doesn’t believe LLMs necessarily carry the same risk.
+Newsom also identified four potential problems with using LLMs to search for ordinary meanings in legal texts:
+65
+Generating False Information.
+“The ‘hallucination’ problem,” as Newsom refers to it, “counsels against blind-faith reliance on LLM outputs—in exactly the same way that no conscientious judge would blind-faith rely on a lawyer’s representations.”
+Underrepresenting Some Groups’ Language Usage.
+Newsom noted that “people living in poorer communities (perhaps disproportionately minorities and those in rural areas) are less likely to have ready internet access and thus may be less likely to contribute to the sources from which LLMs draw in crafting their responses to queries.”
+Risking Manipulated Responses.
+“Lawyers and judges might try to use LLMs strategically to reverse-engineer a preferred answer—say, by shopping around among the available models or manipulating queries.” Additionally, “prospective litigants [might] seek to corrupt the inputs—the data on which the LLMs train and base their responses to user queries—in an effort to rig the system to spit out their preferred interpretations.”
+Spawning a Dystopian Jurisprudence.
+This fret—an outcome Newsom found unlikely—holds that LLM usage will produce a dystopian world of “‘robo judges’ algorithmically resolving human disputes.”
+Given the positive and negative possibilities of deploying LLMs, Newsom concluded his
+Snell
+concurrence on a cautiously—not unabashedly—optimistic note. Calling it a “pretty modest” proposal, he suggested that “we [should] consider whether LLMs might provide additional datapoints to be used alongside dictionaries, canons, and syntactical context in the assessment of terms’ ordinary meaning. That’s all; that’s it.”
+66
+About four months later, Newsom wrote a concurrence in
+Deleon
+describing his use of ChatGPT, Claude, and Gemini to explore the meaning of “physically restrained” found in federal sentencing guidelines.
+67
+A key issue was whether physical restraint requires actually touching (bodily contact) a person or whether pointing a gun at someone in close proximity suffices.
+While
+Snell
+involved one word’s meaning (“landscaping”),
+Deleon
+pivoted on a two-word phrase. Indeed, Newsom turned to LLMs partly because “the entire phrase—‘physically restrained’—isn’t defined in any reputable dictionary, the tool to which plain-language interpreters typically turn.”
+68
+Newsom reasoned that “by their very nature LLMs aim to capture and reflect how real people ordinarily use both individual words and multi-word phrases.”
+69
+He thus wrote that “in those instances where a phrase is
+more
+than the sum of its component parts, I think that LLMs may well help to fill the gaps left by word-centric dictionaries.”
+70
+(Emphasis in original.)
+In conducting his
+Deleon
+experiment, Newsom repeated the same question—“What is the ordinary meaning of ‘physically restrained’?”—10 times with all three LLMs (ChatGPT, Claude, and Gemini).
+71
+He found that the 30 responses “largely echoed the initial response” he received from ChatGPT and that “the models all tended to emphasize ‘physical force,’ ‘physical means,’ or ‘physical barriers.’”
+72
+Regardless of minor variations across the responses, Newsom found “an objectively verifiable throughline. . . . that the LLMs consistently defined the phrase ‘physically restrained’ to require the application of tangible force, either through direct bodily contact or some other device or instrument.”
+73
+Newsom then pondered whether the minor variations across the 30 responses were problematic. He concluded they weren’t, because LLMs aren’t designed to repeatedly produce the same response to a question but rather use statistical probabilities to predict responses, and the variations likely reflected similar discrepancies and everyday speech differences one might find if ordinary people were surveyed about the same question. Variations aside, the 30 responses “revealed a common core. And that common core, to my way of thinking, is the
+ordinary
+meaning.”
+74
+(Emphasis in original.)
+Newsom’s takeaways from
+Deleon
+were that LLMs, while “not perfect,” “have something to contribute to the ordinary-meaning endeavor,” especially when “explain[ing] the meaning of composite, multi-word phrases in a way that standard tools like dictionaries can’t always do.”
+75
+That observation is important because, as Professor William N. Eskridge Jr. recently explained, “Word phrases are often more or less than the sum of the definitions of each word.”
+76
+Put differently, knowing the ordinary meaning of each word in a two-word phrase doesn’t necessarily reveal the combined words’ ordinary meaning.
+Eskridge thus criticizes a compositional or “
+cut-and-paste
+approach to language comprehension: take each word, attribute a definition to that word, and then reassemble.”
+77
+(Emphasis in original.) He proposes a canon, positing “that when an ordinary reader would understand two or more words to yield a meaning that is different than the sum of the two words defined separately, the statutory interpreter should not disaggregate them.”
+78
+This is where LLMs, as Newsom suggests, carry special importance—revealing the ordinary meaning of two-word phrases in instances where using a dictionary definition of each word fails to reveal their combined ordinary meaning.
+In sum, Newsom’s stance after his
+Snell
+and
+Deleon
+experiments is “that LLMs may well serve a valuable auxiliary role,” along with traditional interpretive tools like dictionaries and semantic canons, “as we aim to triangulate ordinary meaning.”
+79
+That position reflects a cautious optimism of the “another tool in the toolkit” variety, with Newsom stressing he’s not suggesting “that AI can bring scientific certainty to the interpretive enterprise.”
+80
+The next section highlights methods and findings from two scholarly studies using LLMs to determine ordinary meanings in legal documents.
+Some Scholarly Experiments with LLMs and Ordinary Meanings
+Professors Engel and McAdams conducted proof-of-concept tests with GPT 3.5-Turbo, exploring its viability in offering empirical evidence of the ordinary meaning of statutory terms.
+81
+They gave it 17 tasks, each involving 25 different candidate objects that may or may not fit within the ordinary meaning of “vehicles” (including cars, bicycles, golf carts, and crutches). They repeated each of the 17 tasks with the 25 objects 100 times for a total of 42,500 requests.
+82
+The benchmark against which they compared GPT was a survey of 2,835 people who were asked whether a rule prohibiting “vehicles” in a park would encompass (within the ordinary meaning of “vehicles”) the same 25 objects.
+When GPT’s first attempt at replicating human responses failed, the authors changed the prompt, adding a chain-of-thought process guiding the LLM through “the equivalent of a mental process for generating the response” with a “classification task.”
+83
+That, too, proved unsatisfactory. The authors found that a “belief prompt,” when combined with a Likert scale evaluating GPT’s confidence level about an object’s inclusion within the ordinary meaning of “vehicles,” was successful when benchmarked against human responses.
+84
+“With the right prompts, GPT gives us empirical data on the meaning of terms that is
+reasonably close
+to the results of a large and sophisticated experimental survey of English-speaking humans,” they wrote.
+85
+(Emphasis added.) Adjusting and fine-tuning prompts is thus important for generating reasonably reliable results about ordinary meanings.
+After determining that a belief prompt combined with a Likert scale yielded reasonably reliable results, the authors experimented further by adding context to the prompt and telling GPT alternative purposes justifying the rule banning vehicles in the park. They found that, overall, adding purposes for the rule mattered in helping ChatGPT discern whether an object counted as a vehicle under the ban.
+Engel and McAdams’s bottom-line conclusion about LLMs’ potential value in discovering ordinary meanings in legal texts is positive but strewn with significant caveats (two “provided that” assertions, plus a “might” and a “may”):
+Provided that results from test runs come sufficiently close to human responses used as benchmarks, and provided that sufficient care is taken with repetitions, prompting, and the representation of the data, results might indeed serve as an easily accessible window into the way a contested term is interpreted in the wider population. LLMs may provide empirical evidence of ordinary meaning with unparalleled ease.
+86
+Engel and McAdams believe that “pending much more testing, the best use of GPT is in combination with other empirical evidence of meaning.”
+87
+Such other evidence would include dictionary definitions and possibly corpus linguistics.
+Among the key values of LLMs that Engel and McAdams highlight are GPT’s affordability and accessibility, giving it “the potential to democratize the use of empirical evidence” among jurists, parties, and scholars when determining ordinary meanings.
+88
+GPT, as they write, “is a populist tool.”
+89
+Another benefit they identify is that “GPT has not been specifically trained on legal text. For consideration of the ‘ordinary meaning’ of words, this is a feature, not a bug.”
+90
+Among the drawbacks the authors note is that GPT “is a proverbial black box”
+91
+—users don’t know precisely how its proprietary algorithms work or exact details about the data that train ChatGPT. Yet, the authors stress, similar problems exist with using dictionaries, because “the public does not know the process by which editors formulated the definition of the particular words whose meaning is subject to a legal dispute.”
+92
+Professors Arbel and Hoffman also recently explored using LLMs to produce what they call generative interpretation—applying LLMs “to contractual texts and extrinsic evidence to predict what the parties said at contracting about what they meant.”
+93
+LLM responses center on statistical predictions, so Arbel and Hoffman used the models to try to sensibly predict the contracting parties’ intent based on their contractual language. The authors conducted experiments using GPT-4, Claude 2, and a version of Llama 2. They pivoted on case-study comparisons with actual contracts—for example, a prenuptial agreement and a promissory note—that had produced real-world judicial opinions about their meanings.
+Based on these experiments, Arbel and Hoffman offer two key claims: (1) Generative interpretation “fills a glaring need for a simple, transparent, and convenient way to commit to an interpretative method that helps predict the parties’ intent,” and (2) AI usage should prompt reconsiderations of assumptions justifying traditional methods of interpretation, such as dictionary definitions.
+94
+As with Judge Newsom and Professors Engel and McAdams, Professors Arbel and Hoffman strike a cautiously optimistic stance. On the upside, they contend that “generative interpretation is easy to deploy, cheap, and accurate”
+95
+and that LLMs
+promise a future of better-calibrated (and more predictable) textualism. The models’ complex encoding of language far outstrips that of any dictionary, and extensive training data give them a superior sensitivity to actual usage. All of that promises a considerably more sensitive way to predict meaning.
+96
+On the downside, Arbel and Hoffman point out that LLMs have
+real structural limitations, which include their opacity, hallucinatory nature, latent biases, and susceptibility to adversarial attacks by sophisticated parties. And using today’s models for interpretation requires some expertise—creating multiple prompts or running code isn’t the day-today work of state trial court judges.
+97
+Thus, just as Judge Newsom did, Arbel and Hoffman identify the concern that LLMs “are subject to manipulation” (adversarial attacks by sophisticated parties) and the danger of hallucinations (false outputs), which seemingly are inevitable today because LLMs “are statistical tools optimized to make predictions” and therefore “sometimes will predict the world incorrectly.”
+98
+Conclusion
+The experiments and tests with LLMs conducted by Judge Newsom and Professors Engel and McAdams and Professors Arbel and Hoffman that I highlight in this report all offer positive yet level-headed pros-and-cons assessments about LLMs’ usefulness in discovering (or, at least, sensibly predicting) meanings in legal texts. Perhaps Engel and McAdams encapsulate the situation best, asserting that “before GPT evidence should be used to investigate ordinary meaning, one must understand how LLMs work, and ideally the prompts one uses should have been tested against a benchmark from human subjects.”
+99
+They add that, while “LLMs have enormous potential for revealing ordinary meaning in statutes,” there is a “pressing” need to better “understand LLMs as interpretive engines—with all of their strengths and weaknesses.”
+100
+Chief Justice Roberts observed in 2023 that “the legal profession is, in general, notoriously averse to change.”
+101
+The weaknesses I identify with using LLMs to help determine ordinary meanings in legal texts may make some judges and attorneys averse to experimenting with them. New communications technologies, however, often are freighted with frets and fears. The potential benefits of deploying LLMs that I describe, from their low-cost, easy-to-use accessibility to their context sensitivity about the meaning of two-word phrases, cannot be ignored. In the spirit of Roberts’s suggestion that “any use of AI requires caution and humility,” we should continue experiments with LLMs in ordinary-meaning endeavors today with a hopeful yet realistic sense of eyes-wide-open optimism.
+102
+About the Author
+Clay Calvert
+is a nonresident senior fellow in technology policy studies at the American Enterprise Institute, where he focuses on matters including First Amendment law, free speech controversies, and social media platform regulation.

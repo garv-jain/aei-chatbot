@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	What’s the Real Impact of Employment Programs? | American Enterprise Institute - AEI
+
+Through the good offices of Russ Roberts over at
+EconTalk
+, I discovered this study,
+Building a Good Jobs Economy
+by Dani Rodrik and Charles Sabel, which makes an over-arching argument against neo-liberalism. A chunk of the paper is devoted to the importance of “active labor market policies” as part of the solution to the shortage of “good jobs.”
+For the uninitiated, “active labor market policies” are the programs governments use to train workers and connect them to employment. During the interview, Rodrik suggested there was good evidence that active labor market programs work in helping individuals gain access to good jobs. In reviewing the paper, I found that Rodrik actually cites only two of these programs, Project QUEST in San Antonio and ASAP of the City University of New York. These are, in fact, good programs, and I reference one of them
+here
+.
+There are two reasons Rodrik’s assertion is somewhat
+misleading. First, QUEST, ASAP and other similar sector-based employment
+programs are remarkable in part because they rely on stringent participation
+requirements to help ensure positive outcomes. Those entering QUEST, ASAP, and
+other initiatives like them are screened for basic competencies like literacy
+and numeracy as well as motivation. They are also subject to extensive coaching
+once they are in the programs to improve soft-skills that are key to finding
+and retaining work.
+This is not a critique of QUEST or ASAP. The requirements
+they impose to screen participants are important for ensuring worker and
+program success. In randomized control trial evaluations of these programs,
+individuals who complete training are more successful in placement, wages and
+retention than similar candidates who are not selected for training. In a sense
+this is “creaming” but in a way that takes reasonably skilled but still
+disadvantaged workers and helps them gain the additional competencies they need
+to advance into family-supporting jobs. All to the good but perhaps less
+relevant for workers further down the skill/readiness continuum.
+The other remarkable aspect of programs like QUEST and ASAP is the seriousness with which they take employer partnerships. In these types of sector-based programs, employers have a big say in designing and updating training to ensure alignment with demand. In other words, employer demand is the main driver of training and training is really an extension of the market. Put another way, these are industry-focused worker training programs rather than social services programs with work as an add-on activity. Selectivity and an employer/job-first orientation actually makes these programs quite different from much of the rest of the publicly-funded workforce system for which results are often
+rather slender
+.
+QUEST, ASAP, and other programs like them are beacons for helping certain types of lower-skilled workers enter and advance in the modern workplace but they are typically small and narrowly tailored, which can make replication and scaling difficult. It is also why such programs, contra Rodrik’s comments, are comparatively rare in the world of workforce development.

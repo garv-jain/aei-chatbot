@@ -1,0 +1,67 @@
+PAGE_TITLE: 
+	Journalism and Generative AI: Exploring Limitations and Apprehensions Within the News Industry | American Enterprise Institute - AEI
+
+My AEI colleague
+Mark Jamison
+recently
+asserted
+that “traditional news journalists are toast” because the “cost of authoring written content” has plunged in just two years from “around $100 per 1000 words” to only four cents. That’s due to “advanced large language models such as ChatGPT and Claud 2 [that] have revolutionized content creation, driving costs down by a staggering 99.96 percent.” Mark argues that “[n]ewspapers must embrace this disruption. By reimagining their role from mere news reporters to comprehensive answer providers, legacy companies can leverage AI to deliver more relevant and insightful content to readers.”
+Indeed, numerous journalism organizations are exploring uses of AI-generated content.
+The New York Times
+even hired an
+editorial director for AI initiatives
+. Thus it’s important to recognize limitations regarding what AI can do for journalism and to understand news organizations’ apprehensions about AI-generated content.
+Via Reuters
+Limitations
+:  Artificial intelligence cannot: (1) actively listen to what government officials say at press conferences and then––based on what they say and in real time––formulate and ask them hand-raising, arm-waving questions that are most relevant to readers and repeat this on-the-fly process based on the officials’ subsequent answers; (2) interview a visibly upset school superintendent in her office shortly after a board meeting regarding students’ standardized tests scores, listen to the superintendent’s comments, sense when to ask a hard-hitting question, and judge when to back off because a question might kill the interview; (3) drive to a plane crash, locate and interview witnesses, talk to first responders, and query investigators; and (4) judge which reporters, given their personalities, temperaments, and soft skills, are best able to get which prospective government whistleblowers (given their own personalities) to talk on the record and then go out and do so. As
+WIRED
+states in its
+policy
+regarding generative AI tools, “AI software can’t call sources and wheedle information out of them.”
+In short, many traditional news organizations generate
+new
+facts and
+new
+information––they unearth knowledge with a combination of human effort and professional judgment. Not all journalists are “
+mere news reporters
+” who simply write up pre-existing information found in data sets, government documents, box scores, or stock market tickers. Some journalists: 1) break news (through interviews or on-scene observations); 2) cover breaking news (the plane crash); and (3) perform investigative, Fourth Estate functions to which Mark refers. If AI could reduce the costs of such essential
+newsgathering
+to four cents per thousand words published, that would be miraculously awesome. Cutting costs in searching through and reporting on
+extant
+information is different from reducing them in generating
+new
+facts.
+Apprehensions
+: The inconvenient reality that generative AI tools sometimes fabricate facts––euphemistically called
+hallucinations
+––can harm readers’ trust. OpenAI’s current
+terms of use
+acknowledge the possibility of errors: “Output may not always be accurate. You should not rely on Output from our Services as a sole source of truth or factual information.” That’s why the Associated Press’s
+standards
+regarding generative AI require treating “[a]ny output from a generative AI tool . . . as unvetted source material. AP staff must apply their editorial judgment and AP’s sourcing standards when considering any information for publication.”
+Gannett’s USA Today Network
+policy
+is similarly concerned, especially about AI programs’ lack of transparency regarding their own sources: “Until sourcing transparency improves, journalists need to treat AI-gen content as they would ‘off the record’ sources, meaning it can be used for ideas and leads, but we need to confirm whatever it tells us with an ‘on the record’ source.” This necessitates human effort, with Gannett mandating that AI-generated content “be verified for accuracy and factuality before being used in reporting. Journalists must ensure that the content they use is accurate and free of errors.”
+Other journalistic concerns involve what the
+Radio Television Digital News Association
+calls “
+inadvertent plagiarism
+” by generative AI programs. WIRED similarly
+worries
+that “an AI tool may inadvertently plagiarize someone else’s words. If a writer uses it to create text for publication without a disclosure, we’ll treat that as tantamount to plagiarism.”
+Additional frets are that generative AI tools: (1) “
+often produce dull, unoriginal writing
+” that is “
+soulless and dreadful, on the whole
+”; (2) “
+may not offer the proper context [and may] have facts misplaced
+”; (3) have “
+no sense of ethics or morals
+” and “
+can exacerbate the biases of those who created and programmed
+” them; and (4) cannot exercise news judgment like
+weighing privacy concerns
+against the public’s right to know.
+Conversely, traditional journalists are using generative AI to transcribe audio, summarize transcripts, spot patterns in data sets, generate story ideas, suggest headlines, and draft social media posts. Efforts are even underway to
+have AI attend meetings
+and describe what occurred. In sum, generative AI currently isn’t a panacea for journalism’s numerous ails, but a helpful––albeit imperfect––tool necessitating human oversight.

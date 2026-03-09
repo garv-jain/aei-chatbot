@@ -1,0 +1,37 @@
+PAGE_TITLE: 
+	Would It Even Be Constitutional to Pause AI? | American Enterprise Institute - AEI
+
+A year ago today, the Future of Life Institute
+released a letter
+calling for a 6-month pause in the training of artificial intelligence (AI) systems more powerful than GPT-4. The signers included Elon Musk and Apple Co-founder Steve Wozniak, alongside tech critics like Tristan Harris, who all agreed that AI labs must “immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.”
+It opened up the possibility of pausing AI.
+However, a critical aspect seems to be underrepresented in these discussions: What kind of legal framework could support a pause? The letter sparked a debate about the merits of pausing AI but the conversation has largely been bereft of legal analysis to make it a reality.
+There is only one mention of the legal underpinnings and it is brief, “If such a pause cannot be enacted quickly, governments should step in and institute a moratorium.” The letter’s cursory treatment of the legal aspects undermines its potential as a serious policy response.
+Via Reuters
+Discussions surrounding the AI pause idea have similarly neglected the essential legal foundations. In September,
+the Effective Altruism Forum
+held a symposium on the AI pause. While there were many insightful arguments, underscoring the ethical, societal, and safety considerations inherent in the continued advancement of AI, there was no discussion on the legal underpinnings that would implement a ban. The Forum has been one of the primary outlets for the AI safety community,
+along with Less Wrong
+, and yet, when searching both sites for the key legal cases that might interact with an AI pause, nothing comes up.
+John Villasenor of the Brookings Institute has written
+one of the few analyses of this topic
+and rightfully, he has singled out the big constitutional issues that a pause might bring. As he explained it, “to the extent that a company is able to build a large dataset in a manner that avoids any copyright law or contract violations, there is a good (though untested) argument that the First Amendment confers a right to use that data to train a large AI model.”
+The idea is untested because the issue has never been formally ruled on by the Supreme Court. Instead, it’s been the lower courts that have held that software is a kind of speech. All of the modern cases stem from the
+cryptography wars of the early to mid 1990s
+.
+Bernstein v. United States
+stands as the benchmark. Mathematician, cryptologist, and computer scientist
+Daniel Bernstein brought the cases
+, which contested U.S. export controls on cryptographic software. The Ninth Circuit Court recognized software code as a form of speech and stuck down the law.
+Junger v. Daley
+also suggests that software is speech. Peter Junger, a professor specializing in computer law at Case Western Reserve University, initiated the legal challenge due to concerns over his self-created encryption programs. Junger intended to publish these programs on his website but worried about potential legal risks so he sued. Initially, a District Court judge determined that encryption software lacked the expressive content needed for First Amendment protections. On appeal, the Sixth Circuit Court
+was clear
+: “Because computer source code is an expressive means for the exchange of information and ideas about computer programming, we hold that it is protected by the First Amendment.”
+So there is precedent that might restrict how far a law affects “an expressive means for the exchange of information and ideas about computer programming.” Still, there are avenues that either the president or Congress could take to potentially pause AI.
+The Biden administration already used the
+Defense Production Act
+(DPA) to support its 2023 Executive Order on AI. The most expansive use of that power came with the requirement in the Order “that developers of the most powerful AI systems share their safety test results and other critical information with the US government.” But there isn’t a clear provision in the DPA that would give the president authority to stop AI in a home grown system.
+Indeed, there isn’t a clear provision
+within the emergency powers
+of the president that would undergird a pause on AI systems. Instead, there are a lot of limitations, especially through the Berman Amendments, that would make it hard to shut down computer programs and communication services. Congress would probably need to write new provisions into law to grant the president power.
+The letter and the surrounding discussion shows the limits of the AI safety crowd. Without detailed legal frameworks or guidelines, it is not clear what a pause will actually entail, and how it will be triggered. As we envision a future with AI, let’s ensure that this future is not just technologically advanced, but also legally conversant.

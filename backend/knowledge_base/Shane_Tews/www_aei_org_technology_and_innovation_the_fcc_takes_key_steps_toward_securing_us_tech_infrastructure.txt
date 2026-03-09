@@ -1,0 +1,106 @@
+PAGE_TITLE: 
+	The FCC Takes Key Steps Toward Securing US Tech Infrastructure | American Enterprise Institute - AEI
+
+On Tuesday, the Federal Communications Commission (FCC) took
+a key step to protect US critical infrastructure,
+voting unanimously
+to revoke
+China Telecom America’s
+permission
+to provide services in the US. The FCC
+found
+China Telecom “is subject to exploitation, influence,
+and control by the Chinese government and is highly likely to be forced to
+comply with Chinese government requests without sufficient legal procedures
+subject to independent judicial oversight.” It’s not clear how China Telecom
+maintains security on its networks, how it protects customer data, or how it
+responds to cyberattacks, as noted in this
+report
+on
+Chinese equipment and services. The FCC noted this concern and raised further
+the possibility that Chinese government ownership and control of telecoms
+services “raise[s] significant national security and law enforcement risks by
+providing opportunities [for the company], its parent entities, and the Chinese
+government to access, store, disrupt, and/or misroute U.S. communications.”
+Before the China Telecom vote, FCC Commissioner Brendan Carr
+raised national security concerns
+about Chinese drone maker
+DJI, whose drones account for more than 50 percent of the US drone market.
+Drones are used to collect data and high-resolution images in areas that are
+hard to reach and safer to monitor via drone — for example, during telecom
+tower and pole attachment inspections. Carr also noted these drones play an
+important role in performance monitoring for American network companies’
+critical infrastructure, meaning they have a front-row view of how components
+of said infrastructure operate.
+FCC Commissioner Brendan Carr, June 24, 2020, via Reuters
+Carr’s comments affirm what we have known for some time:
+China recognized the potential for exploiting the network vulnerabilities of
+the connected world many years ago. China’s
+Ministry of Industry and Information Technology
+supports
+research and development (R&D) by Chinese companies that enables and
+promotes civil-military fusion in information and communications technology
+(ICT). R&D and industrial projects created in close cooperation with the
+Chinese military around communications architectures enable possible
+intelligence sharing and data mining that our own Department of Defense
+identifies as a potential national security threat. Indeed, the 2021 National
+Defense Authorization Act
+identified
+44 military-affiliated Chinese companies with
+products in the ICT supply chain. Congress has recognized that these
+circumstances present serious questions as to how secure a network operation
+can be if it relies on these companies’ equipment to facilitate critical
+operations.
+Congress has also
+recognized
+that Chinese government-controlled entities
+undermine the interests of the US and pose a threat to American communications
+networks. In recognition of these threats, Congress in 2019 passed the
+Secure and Trusted Communications Networks Act
+. This act built
+on the jurisdiction afforded to the FCC decades ago and assigned it
+responsibility for mitigating potential harms in our communications systems,
+including equipment attached to broadband networks. The rules directed the
+FCC’s Public Safety and Homeland Security Bureau to publish a “
+covered list
+” of communications equipment and services
+deemed national security risks. Equipment and services from Huawei, Hikvision,
+Hytera, and ZTE are on the list as of 2021, and Carr is now seeking to add DJI.
+“We do not need an airborne version of Huawei,” Carr
+stated
+, referring to DJI.
+Understanding the nexus between the FCC’s equipment
+authorization process and the crucial effort to protect US supply chains is
+more important now that we have a more complete understanding — and concrete
+examples — of how today’s more sophisticated malicious activities are executed.
+President Joe Biden’s May
+executive order
+on cybersecurity urged departments and
+agencies to do their part in upholding US cybersecurity and protecting critical
+infrastructure. The FCC has been a stellar role model in this regard; in
+addition to the China Telecom vote and Carr’s diligence on DJI, the commission
+recently
+announced
+it would start accepting applications from
+qualified internet service providers for a $1.9 billion reimbursement program
+to “rip and replace” network equipment deemed unsafe. Adding DJI to the covered
+list would apply the risk management framework of rip and replace to the FCC’s
+Universal
+Service Fund
+(USF) — as USF dollars cannot be spent on equipment made by an
+entity on the covered list — and would couple rip and replace with a larger
+security evaluation of edge items connected to the network’s core.
+DJI drones were also
+added
+to the Department of Commerce’s “Entity” export
+blacklist in 2020. The FCC now has a chance to build on this designation and
+bring conformity to the interagency process as part of a greater, more
+comprehensive cybersecurity strategy. Potential threats to the foundations of
+our network supply chain must be vetted to ensure next-generation
+infrastructure capabilities are built on a backbone of secure equipment. US
+policies around digital architecture must also facilitate next-generation
+innovation that prioritizes security by design. We cannot wait until the next
+major cyberattack to adopt enforceable regulations that protect critical
+networks. Dependencies and vulnerabilities are native challenges to the technology
+ecosystem; we must now enable policies that foster confidence in our
+technological partnerships.

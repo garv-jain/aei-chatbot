@@ -1,0 +1,121 @@
+PAGE_TITLE: 
+	The Specter of a Trade War | American Enterprise Institute - AEI
+
+I haven’t written about tariffs at all, leaving it to Scott Lincicome to
+cover
+the ins
+and outs
+of tariff policy for
+Dispatch
+readers. But with the escalating trade war and a lot of open questions, I thought I would take a crack at trying to steelman President Donald Trump’s tariffs.
+While his rhetoric often seems impulsive, Trump’s push for tariffs reflects a deeper transformation in American politics and policy. The free trade orthodoxy is being transformed into
+something else
+. Just to review a bit of recent history:
+Former President Joe Biden maintained Trump’s China tariffs with little political opposition.
+Marco Rubio said in his opening remarks
+for his confirmation hearing as secretary of state that “the postwar global order is not just obsolete; it is now a weapon being used against us.”
+Trump is pulling out of the World Health Organization.
+Before the election, J.D. Vance
+questioned Federal Reserve Chair Jerome Powell
+about the dollar’s reserve currency status, asking, “Why should the dollar be the reserve currency? Why would we want it to be the reserve currency? Is it a problem that foreigners like using the dollar?”
+And Trump, for all of his waffling, has been consistent about tariffs, announcing tariffs on Canada and Mexico before those on China.
+I should say from the outset that I’m not a fan of escalating tariffs. All countries lose in a trade war. And while
+it won’t be catastrophic
+for the United States, it will be devastating for our regional trading partners.
+The rhetoric around trade and finance has shifted. There is a growing sentiment that the American-supported global trading order of the last several decades was gamed by China, harming the U.S. working class while benefiting the upper class. Tariffs aren’t just punitive. They are seen as a way to reset and rebalance international relationships that many believe have tilted unfairly. This approach is fundamentally reactive, driven by the conviction that a hard reset is necessary to restore what advocates see as a more equitable system.
+To understand why so many policymakers are calling for a reset, it helps to see how our current trade and monetary framework came into being. A closer look at the history of international finance can shed light on the roots of today’s trade disputes.
+A brief history of international finance.
+Last year, then-Sen. Marco Rubio wrote
+an op-ed that reflected the changing orthodoxy
+. He wrote,
+America became an industrial juggernaut
+thanks
+in no small part to common-sense tariffs and trade protections. This kept our country resilient and provided good-paying jobs to millions of people. After the World Wars, however, a coalition of Washington insiders and industry elites began to abandon our protections. They lowered tariffs across the board, and they created trade agreements and programs that offered duty-free treatment to imports from dozens of countries.
+But the historical data tells a different story. As economist Tyler Cowen
+highlighted in a piece late last year
+, recent research shows industries with higher tariffs actually had lower productivity:
+A
+new paper
+from the National Bureau of Economic Research shows that tariffs probably did more harm than good. Using meticulously collected industry-level and state-level data, the paper traces the impact of specific tariff rates more clearly than before. The results are not pretty.
+One core finding is that industries with higher tariffs did not have higher productivity — in fact, they had lower productivity. Tariffs did raise the number of US firms in a given sector, but they did so in part by protecting smaller, less productive firms. That was not the path by which the US became an industrial giant, nor is it wise to use trade policy to keep lower-productivity firms in business. Not only does it slow economic growth, it also keeps workers in jobs without much of a future.
+These results contradict the traditional protectionist story — that tariffs allow the best firms to grow larger and capture the large domestic market. In reality, the tariffs kept firms smaller and probably lowered US manufacturing productivity.
+Still, there is an important context that Rubio skips over. The Smoot-Hawley Tariff Act, passed in 1930 as a reaction to the Great Depression,
+sparked a trade war
+. Tariffs interacted
+with already wonky exchange rates
+to make a mess of financial systems. Countries retreated from trade, and not soon after, they began preparing for war. Japan
+was hit particularly hard
+, causing a backlash against capitalism that allowed the military to take control of the civilian government.
+So, as leaders were contemplating the
+post-World War II financial regime, they wanted to forge a system that would bind together countries to sidestep these problems in the future. The
+agreement signed
+at Bretton Woods, New Hampshire, was intended to create stability, foster the reduction of barriers to trade, and ensure capital could flow to nations destroyed by the war.  Participating nations pegged their currencies to the dollar, which in turn was pegged to gold at a fixed rate of $35 per ounce.
+By the early 1970s, this system was breaking down, with a key force being
+the rise in inflation in the U.S. that began in 1965
+. The Kennedy and Johnson administrations were committed to full employment and used the Federal Reserve to reduce unemployment. But increasing U.S. monetary growth led to rising inflation, which spread to the rest of the world. Other countries started asking for their currency to be converted into gold, draining American reserves. All in all, the dollar was overvalued.
+In 1971, President Richard Nixon reset this system by devaluing the dollar, an event that is now known as
+the Nixon shock
+. While it saved the Bretton Woods system for a time, it broke down by 1973. This led to our current system of floating exchange rates based on supply and demand in foreign exchange markets. This new regime gave countries more flexibility to pursue independent monetary policies, but also cemented pressures on the American financial system.
+Free floating exchange rates fundamentally reshaped the global monetary order. One near-term consequence was the emergence of the petrodollar system, where oil-producing nations began pricing and trading oil exclusively in U.S. dollars. This arrangement created massive dollar surpluses for oil-exporting states, far beyond what their domestic economies could productively absorb, so they plowed this money back into the U.S. economy into safe assets, Treasury securities.
+As
+economist Josh Hendrickson noted
+,
+The oil shock of the 1970s can thus also be understood as a rational response to a dollar devaluation as oil producing countries wanted to prevent a decline in real revenues for oil prices in dollars. Furthermore, the U.S. government benefited from the oil shock in the sense that the dollar revenues of those oil-producing nations were recycled into U.S. Treasury securities, the new global reserve asset.
+Export powerhouses like China also channeled their trade surpluses primarily into U.S. financial markets, purchasing Treasury securities, equities, bonds, and property. This was on top of the high demand globally for dollars because foreign governments, businesses, and investors needed it for trade.
+The dollar as the reserve currency worked in tandem with the Treasury as a reserve asset. The dollar’s reserve status made American goods costlier abroad and reduced import prices at home, which in turn widened the trade deficit. The Treasury’s reserve asset status allowed the United States government to borrow funds cheaply, which helped to balloon the deficit.
+A different understanding of trade.
+In Trump’s orbit are thinkers who want to rebalance these relationships. The “former investment banker turned music impresario”
+Michael Pettis
+and Trump’s pick to head the Council of Economic Advisers,
+Stephen Miran
+, are two worth watching.
+It’s Pettis’ view that the industrial policies of China have been the primary driver of trade imbalances. As
+the
+Wall Street Journal
+reported in an October 2024 profile
+, Pettis thinks that “[t]he U.S. imports China’s industrial policy, but the mirror image [of it]. So just as China forces consumers to subsidize producers, that means in the U.S., the balancing act is that producers subsidize consumers.” Moreover, because the U.S. dollar is the global reserve currency, preferred by foreign central banks and investors, the United States bears an especially large burden among the nations with a trade deficit. “What the U.S. needs to do is stop playing that role,” he told the
+Journal.
+To Pettis, across-the-board tariffs are an attractive means of addressing trade imbalances and boosting the U.S. manufacturing sector. Capital controls are another way of getting there but this would mean limiting foreign capital investment, which would hurt the value of U.S. stocks, potentially putting the economy into recession.
+Still, I think there is a paradox inherent in the thinking of Pettis and the goals of Trump. Trump doesn’t want the dollar to be knocked from its podium. In fact, he has threatened tariffs if countries try to do exactly that, in what’s known as
+de-dollarization
+. On the other hand, Pettis wants de-dollarization to help solve trade imbalances.
+The most detailed policy blueprint comes from Stephen Miran, Trump’s pick to head the Council of Economic Advisers. Late last year, Miran authored
+a 41-page memo
+on ways to restructure the global trading system:
+Currency policy aimed at correcting the undervaluation of other nations’ currencies brings an entirely different set of tradeoffs and potential implications. Historically, the United States has pursued multilateral approaches to currency adjustments. While many analysts believe there are no tools available to unilaterally address currency misvaluation, that is not true. I describe some potential avenues for both multilateral and unilateral currency adjustment strategies, as well as means of mitigating unwanted side effects.
+But Miran is clear that “many of these policies are untried at scale, or haven’t been used in almost half a century, and that this essay is not policy advocacy but an attempt to catalogue the available tools and analyze how useful they may be for accomplishing various goals.”
+Another way to conceptualize Trump’s actions is to see them in service of a larger goal, which would be a renegotiation of the financial order. Economist Oren Cass, another ardent supporter of tariffs,
+made the case, saying,
+So while the headlines are about a “trade war,” the real question is how the reset of these relationships is going to proceed. There are many different theories regarding the best way to start down the path toward dramatic change. Do you try to turn the ship very gradually by small steps or—to mix metaphors—do you start by flipping over the gameboard and scattering the pieces? In a lot of areas, Trump has shown a very strong inclination to take that latter course.
+Hendrickson
+also thinks this logic might be animating the tariffs
+:
+If you think this system is unsustainable, then what you need is a devaluation of the dollar coupled with a reset to a more sustainable strategy. Like the 70s, this would primarily benefit the U.S. Thus, neither allies nor enemies want to bear the cost. As a result, you need a big stick to get other international players to the negotiating table to engineer that change. One way to do that is by levying across the board tariffs. Signaling you’re willing to take some pain to inflict pain potentially gets people to the table.
+But none of this will be pretty. Rebalancing means massive shocks.
+A new order?
+Entrepreneur and geopolitical commentator Arnaud Bertrand
+garnered a lot of attention on X
+, when he wrote last week about America’s controlled withdrawal from imperial commitments: “It’s becoming clearer and clearer that we’re looking at a seismic shift in the US’s relationship with the world.” Three recent events suggest a new path is being charted:
+The U.S. Agency for International Development is
+being cut
+and brought back into line with State Department aims.
+Rubio told podcaster Megyn Kelly
+in an interview last week that
+“it’s not normal for the world to simply have a unipolar power. That was not — that was an anomaly. It was a product of the end of the Cold War, but eventually you were going to reach back to a point where you had a multipolar world, multi-great powers in different parts of the planet.”
+Trump brought “tariffs on supposed ‘allies’ like Mexico, Canada or the EU,” as Bertrand framed it, although tariffs on Mexico and Canada have been put on hold pending further trade negotiations and no specific EU tariffs have been announced.
+In part, Bertrand is right. Hegemony was going to end at some point. However, these transition periods always bring significant risks, like disrupted trade relationships, currency volatility, and geopolitical tensions that could spiral into more serious conflicts. As we move away from American hegemony, the key question becomes not whether the old order will change, but whether its replacement will be deliberately negotiated or chaotically imposed.
+But it’s ill-advised to take the view that America’s attempt at running the world is over, that we’re now just another great power, not the “indispensable nation.” True, we are a great power, just as China is a great power. We need to embrace the transition back to a bipolar world. Not that long ago, the Soviet Union was considered the other great power.
+When I was in college, nearly two decades ago now, the big question was whether or not China would become part of the existing order. Some feared the size of its economy would mean it could create a new system on its own. But the real uncertainty centered on the transition away from a unipolar world.
+Historically, transitions between great powers have often come at the cost of enormous conflict and upheaval. In the wake of World War II, for instance, the United States and the Soviet Union rapidly morphed into opposing superpowers, dividing the globe into spheres of influence and entering a Cold War. Today, China’s rise revives questions of how the global order will adjust to a new bipolar or even multipolar configuration, and whether this realignment will mirror the strain of previous power shifts. My hope is that it yields a framework built more on negotiation than confrontation.
+The
+path forward for the United States requires a delicate balance between acknowledging new realities and preserving beneficial aspects of the existing order. I don’t want to sugarcoat it. The Chinese government
+has supported espionage
+and
+has been behind massive telecom hacks
+. They have violated norms.
+But China has also shown it’s willing to work within the global economic system. In fact, when Trump announced his 10 percent tariffs China immediately
+challenged them at the World Trade Organization
+. At the same time,
+Beijing rolled out new export controls
+targeting tungsten, tellurium, bismuth, indium, and molybdenum, metals used in defense, clean energy, and other industries. The pressure from tariffs caused Beijing to respond. We shouldn’t expect China not to react.
+The challenge ahead lies not in choosing between complete American dominance or total withdrawal, but in negotiating a sustainable framework that acknowledges both American and Chinese economic interests while maintaining the institutional structures that have helped prevent the kinds of catastrophic trade wars that marked earlier eras. The real test will be whether this transition can be managed through deliberate diplomacy rather than destructive confrontation. We need to choose the former.

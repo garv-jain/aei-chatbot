@@ -1,0 +1,24 @@
+PAGE_TITLE: 
+	Forget the Congressional Review Act: What the Internet Needs Is Legislation | American Enterprise Institute - AEI
+
+Last Thursday, the Federal Communications Commission’s (FCC) Restoring Internet Freedom Order was
+published
+, detailing why the commission voted in December to return to the 2010 rules that classified the internet as a Title I information service — and replace the (as termed by AEI’s Bret Swanson) “
+short-lived, heavy-handed public utility regulations
+” of the 2015 Open Internet Order. Predictably, Congressional Democrats have responded to this “
+new opportunity for outrage
+” by launching efforts to reinstate the Obama FCC’s onerous Title II rules for the internet using the Congressional Review Act (CRA).
+Via Twenty20
+My AEI colleague Daniel Lyons
+wrote a detailed explainer
+on the use of the CRA for this purpose, explaining that
+[The] proposed joint resolution is simple and straightforward: It states simply that Congress disapproves of the Restoring Internet Freedom Order and that the rule shall have no force or effect. If successful, it will nullify the Commission’s order and would de facto reinstate the 2015 Open Internet Order. Moreover, the resolution would prohibit the FCC from enacting a rule “substantially the same” as the repealed rule. The scope of this restriction is unclear, but proponents would argue it would preclude the Commission from repealing the classification of broadband service as a Title II telecommunications Service.
+He notes that it’s unlikely the effort will be successful, but Lyons writes that Sen. Markey (D-MA), who introduced the CRA legislation, “likely knows this. The purpose of the joint resolution is not legal but political: It keeps the net neutrality issue in the news going into the midterm elections.” This is simply a delay tactic — the CRA can only move forward if more senators and representatives join this effort to stall.
+Instead of embracing this election year ploy, Congress should make a serious attempt to legislate a permanent, bipartisan solution that will codify the FCC’s work while also protecting consumers and giving them the open internet protections that they expect. A recent
+poll
+on voter attitudes on net neutrality notes:
+The American electorate does not profess to be particularly familiar with the issue of net neutrality. Less than one in four voters, twenty-two percent (22%) indicate they believe they are very familiar with the issue, while 38% believe they are somewhat familiar with the issue, and there are 40% who are not at all familiar with the issue of net neutrality.
+What people say in interviews is that an “open internet” is what they want. According to the same poll
+Almost half of voters across the country, forty-six percent (46%) indicate that they believe that the rules of net neutrality apply to both internet service providers and internet companies alike. Only two in ten voters, twenty-one percent (21%) are aware that net neutrality rules only apply to internet service providers. Among those who say they are familiar with net neutrality, sixty percent (60%) believe the rules apply to all companies.
+Both sides of the aisle believe that we need to ensure an open, strong, and vibrant internet as we move into the future. Congressional efforts on the internet front should aim to promote innovation, not use parliamentary tricks to drag technology back under last century’s telecommunications regulations. Protecting the open internet — permanently — in the form of legislation is the right answer. Nearly everyone, from Republicans and Democrats in Congress to consumer advocates, tech giants, and broadband providers, agrees that legislation is needed to protect the internet for its long-term future. Most importantly, when polled, “The American electorate indicates that it favors a clear and concise legislative solution that covers all internet companies, as opposed to simply reinstating the FCC’s 2015 net neutrality rules on ISPs [internet service providers].”
+Lawmakers must leverage this extraordinary consensus and work to craft bipartisan legislation that permanently codifies net neutrality principles and ensures privacy protections through the Federal Trade Commission for consumers online. This is the best way to promote the interests of consumers today but also to secure the technological future they expect and deserve.

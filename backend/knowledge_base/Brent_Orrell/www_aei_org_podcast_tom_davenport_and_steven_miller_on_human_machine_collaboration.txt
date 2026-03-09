@@ -1,0 +1,19 @@
+PAGE_TITLE: 
+	Tom Davenport and Steven Miller on Human-Machine Collaboration | American Enterprise Institute - AEI
+
+From tech companies to healthcare providers and fast food services, organizations are deploying AI technologies to boost productivity and improve service. As these technologies filter into the economy and workplace, a host of questions are arising: will AI replace human labor? How will new technology affect the nature of work? How can we equip workers for the future and help them adapt to change?
+In their recent book
+Working with AI: Real Stories of Human-Machine Collaboration
+, management and technology experts
+Tom Davenport
+and
+Steven Miller
+explore these questions through real-world case studies. Pushing back against the growing anxiety over AI’s impact on work, Davenport and Miller contend that AI will not be a job destroyer, but a job-enhancer, a tool that will largely make work better–not only more productive but also more fulfilling and even more accessible–for most workers.
+In this episode, Davenport and Miller join Brent to discuss their book, offering a vision of the future of work in which AI and other “smart” technologies complement human labor–and make us richer and more productive in the process.
+Mentioned in this Episode
+AI life insurance underwriting
+Salesforce
+European AI Regulation
+Lump of labor fallacy
+DBS Bank’s use of generative AI
+Eric Brynjolfsson

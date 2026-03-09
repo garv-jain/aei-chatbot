@@ -1,0 +1,45 @@
+PAGE_TITLE: 
+	Persuasion or Coercion? Unpacking Oral Arguments and Problems in Murthy v. Missouri | American Enterprise Institute - AEI
+
+Did federal officials go too far and violate the
+First Amendment
+when they vigorously–– sometimes successfully––lobbied social media platforms like Facebook and Twitter (now X) to remove users and content questioning the effectiveness of COVID-19 vaccines and mask mandates during the pandemic?
+That question was centerstage during
+oral arguments
+on March 18 before the
+US Supreme Court
+in
+Murthy v. Missouri
+. There was near consensus among mainstream news organizations that the plaintiffs––Missouri, Louisiana, and five individuals––didn’t fare well.
+Reuters
+said the justices “appeared skeptical” of their case,
+CNN
+went further with “deeply skeptical,” the
+Washington Post
+contended the Court “seemed prepared . . . to reject” their arguments, and
+CBSNews.com
+asserted the “Court . . . appeared wary of limiting the Biden administration’s contacts with social media platforms.” Those analyses seem accurate, as discussed later.
+Via Reuters
+Initially, it’s important to grasp the basics.
+Murthy
+is about (1) defining (and drawing lines between) concepts like “persuasion,” “coercion,” and maybe “significant encouragement,” and (2) deciding in which activity government officials engaged.
+Arguing for the government,
+Brian Fletcher
+asserted
+that “[t]he government may not use coercive threats to suppress speech, but it is entitled to speak for itself by informing, persuading, or criticizing private speakers.” When the
+US Court of Appeals for the 5th Circuit
+issued a
+modified injunction
+last October banning dozens of government employees from “coerc[ing] or significantly encourag[ing] a platform’s content-moderation decisions,” Fletcher said it “mistook persuasion for coercion.” He added that “government speech crosses the line into coercion only if, viewed objectively, it conveys a threat of adverse government action. And because no threats happened here, the Court should reverse.” The government, in short, “stay[ed] on the persuasion side of the line,” with the 5th Circuit “very broadly” construing “contestable legal terms.”
+Fletcher acknowledged that while the “intensity” and “anger” reflected in some of the government’s communications with the platforms “is unusual,” the context of the COVID-19 pandemic––“when thousands of Americans were still dying every week”––justified the tenor. “[T]he First Amendment isn’t a civility code,” Fletcher stated, adding that “context matters a ton.” He also contended the platforms are “powerful, sophisticated entities” used to back-and-forth government interactions and can independently decide when to remove speech and speakers. They aren’t easily cowed.
+Arguing for the plaintiffs, Louisiana Solicitor General
+Benjamin Aguiñaga
+focused on “unrelenting government pressure,” contending “the government has no right to persuade platforms to violate Americans’ constitutional rights, and pressuring platforms in back rooms shielded from public view is not using the bully pulpit at all. That’s just being a bully.” He argued that the plaintiffs don’t need to prove coercion to win––only encouragement and pressure. “We don’t need coercion as a theory. That’s why we led with encouragement in our . . . brief,” he explained.
+That low-threshold approach (perhaps reflecting what Aguiñaga twice referred to as his “purist” First Amendment beliefs) seemingly gave some justices pause. As Justice Ketanji Brown Jackson stated, “my biggest concern is that your view has the First Amendment hamstringing the government in significant ways in the most important time periods.” Aguiñaga also sometimes had trouble providing nuanced responses, with Justice Brett Kavanaugh once telling him “you can’t just claim the [First Amendment] mantle.” Answering questions with 30,000-foot ones like “the top-line question I would ask is, has the government set out to abridge the freedom of speech?” doesn’t go far.
+More troubling was Justice Sonia Sotomayor’s questioning of the integrity of the plaintiffs’ brief: “I have such a problem with . . . your brief, counselor. You omit information that changes the context of some of your claims. You attribute things to people who it didn’t happen to.” It’s never good when a justice shifts her attention away from a legal argument’s merits and an attorney is left “apologizing if any aspect of our brief was not as forthcoming as it should have been.”
+The vast breadth of the Fifth Circuit’s order as a
+universal or nationwide injunction
+also arose, with Justice Neil Gorsuch noting there’s been “an epidemic of these lately.” Such orders bind the actions of far more than just the actual parties in a case.  As Gorsuch rhetorically asked Aguiñaga, “normally, our remedies are tailored to those who are actually complaining before us and not to those who aren’t, right?”
+Finally, the Court might completely dodge the merits of the case by deciding that the plaintiffs lack
+standing
+to bring it in the first place. Specifically, several justices raised important questions about whether (1) the censorship injuries allegedly sustained by the plaintiffs were actually traceable to the government’s interactions with the platforms, and (2) granting an injunction would redress those injuries. Without both elements, the plaintiffs’ case collapses, never reaching substantive questions about coercion and persuasion. Expect a ruling in June.

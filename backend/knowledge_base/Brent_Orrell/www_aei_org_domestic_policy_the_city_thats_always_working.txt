@@ -1,0 +1,16 @@
+PAGE_TITLE: 
+	The City That’s Always Working | American Enterprise Institute - AEI
+
+Among the sectors of the US economy most exposed to AI-driven automation is finance. This is unsurprising given that banking and financial advising are massive knowledge management operations, constantly scanning the globe—like the Eye of Sauron—for opportunities and risks.
+One of the main applications of AI in the finance sector is helping firms understand themselves, especially their immense collections of data and analysis used to shape investment and advising strategy. Effectively, the arrival of AI has connected world-class human advisors and financial firms to external brains that know everything there is to know about businesses, industry sectors, and market conditions. This closes the knowledge gap within companies and reduces “latency,” the difference between responding to customer inquiries and interests and action.
+In today’s
+Wall Street Journal
+, one executive talked about how his company’s AI monitors and summarizes financial activity and emerging issues in overnight markets and trading. This shaves hours off the process of collecting information and preparing advice for clients, allowing investors a chance to move quickly on new opportunities and risks. That is a big reduction in latency. AI also has the advantage of never getting tired, sick, or distracted by the need for sleep and other pesky non-work-related issues—also known as having a life.
+Predictably, these advantages come with risks. Speed can become an adversary during times of financial stress. Algorithmic and machine learning trading exposed Wall Street to increased volatility, resulting in events like the 2010
+“flash crash”
+and other similar incidents. In response, a series of “circuit breaker” reforms were put in place to prevent computer trading from accelerating beyond the human capacity to monitor and understand real-time data.
+AI, with its immensely expanded computing power and capacity for pattern recognition, are likely to exacerbate these challenges. No one wants a “
+hallucination
+” when it comes to handling trillions of dollars in value. AI can also act in ways that are “not transparent” (i.e. inexplicable), making it difficult for the sector workers to explain (and for their customers to understand) the reasons for AI-driven financial moves.
+Major firms like JP Morgan and Goldman Sachs have responded by establishing internal governance boards consisting of senior officers overseeing trading, technology, risk mitigation, bias monitoring, regulatory compliance, and external threats. In sectors like finance, health care and national security, the stakes have a way of focusing the mind. Governance models developed by business and government with severe consequences in mind likely have many insights to offer to other sectors in managing the downsides of AI.
+New York may be the city that never sleeps, but AI’s impact on the finance sector means it is increasingly a city that never stops working. There is much to be gained in the amount of work that gets done, and its efficiency and speed—and a lot of risks to be reckoned with as a result.

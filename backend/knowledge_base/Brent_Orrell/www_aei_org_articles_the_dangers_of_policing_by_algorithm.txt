@@ -1,0 +1,49 @@
+PAGE_TITLE: 
+	The Dangers of Policing by Algorithm | American Enterprise Institute - AEI
+
+The 2002 science fiction and action film
+Minority Report
+, based on a short story by Phillip K. Dick of
+The Man in the High Tower
+fame, depicted a form of policing with the capacity to predict, with certainty, who would commit murder. As told in the film, the use of the system in Washington, D.C. successfully reduces the murder rate to zero, encouraging federal officials to consider extending it nationwide. Just one problem: it was subject to tampering and misuse for political and criminal purposes, putting the inconvenient innocent away as well as the pre-guilty.
+It turns out “big data” and sophisticated algorithms are bringing us closer to Dick’s “pre-crime” law enforcement than we might have imagined, helping to erode the presumption of innocence in the name of crime prevention. Law enforcement agencies across the country are increasingly turning to vast data-mining programs and algorithms for something called “intelligence-led policing” (ILP) that ostensibly helps departments predict not only where crime might occur, but also the identities of potential criminals.
+ILP builds upon principles first used in the 1990s as part of “CompStat” and other data-driven policing practices. CompStat,
+credited
+with helping to break the back of New York City’s crime problems under then-Mayor Rudy Giuliani, directed police resources to crime “hot-spots” where individuals engaged in chronic offenses against property and persons could be arrested in the act. The program, since replicated in jurisdictions across the country, was intended to improve public safety through data-informed policing practices that disrupted patterns of criminal behavior.
+ILP sounds a lot like CompStat but isn’t. Rather than using aggregated data to direct police to areas of high criminal activity, ILP identifies
+individuals
+who, on the basis of their criminal records, socioeconomic status, neighborhood, and other factors gleaned from social media activity,
+might
+represent an increased risk to the community. Those individuals, including minors, are then targeted for increased scrutiny by police that, in some cases, borders on or becomes actual harassment. This goes beyond CompStat in monitoring not for crime but for a threat of crime by specific individuals implied through analysis of vast stores of data.
+So, what does intelligence-led policing look like in practice?
+The
+Tampa Bay Times
+conducted an investigation into the use of ILP by the Pasco County Sheriff’s Department to increase the monitoring of individuals determined to be at higher risk of committing criminal offenses. What accompanied the monitoring were frequent, usually unannounced visits by officers, and increased fines and arrests for petty crimes, such as allowing a teenager to use nicotine at home or keeping chickens in a backyard. A number of individuals targeted by ILP and their families experienced this as harassment, opting to leave the county entirely to escape police monitoring. Even if the strategy worked as hoped, it seems clear this would be a matter not of preventing crime but shifting potential crime elsewhere.
+Fresno, California’s police department has gone further by embedding intelligence-led practices in the city’s 911 call system. When an emergency call comes in, operators consult a program that gives them a
+“threat score”
+for the address and residents involved to prepare officers and other first-responders for possible problems. The civilian parties may not, and almost always are not, aware of the threat level assigned to them, ramping up the chances of miscommunication and misunderstanding between them and the police. A
+Fresno city councilman
+who asked in an open hearing for his own threat assessment learned that while he himself had been rated “green” (low-risk), his residential address received a “yellow” (medium-risk) score. The department representatives could not say for certain why the councilman’s address was a higher risk but speculated it may have had to do with the actions of a previous resident.
+How many people are aware that the terminology or images they use on popular sites like Facebook and Instagram may wind up informing police attitudes and behaviors toward them without their knowledge or consent?
+Beyond the potential for abuse, error, and increased use of aggressive policing practices, ILP raises basic issues of fairness in the way it is used, as well as serious constitutional questions of due process and the presumption of innocence.
+The first issue that has to be addressed is whether such programs are intelligible to the police forces that use them. As has been noted in the context of
+artificial intelligence
+more generally, it is often difficult for the programmers of sophisticated algorithms to understand how these systems reach their conclusions. If the programmers don’t know (and often won’t share what they do know in an effort to protect proprietary knowledge), police users of the information cannot possibly know, much less independently assess, the validity and reliability of the reports they receive.
+This challenge is reminiscent of the broader debate over the use of algorithm-driven risk-assessment programs in the criminal justice system. Civil liberty watchdogs and criminal justice reform advocates have argued that such programs are inevitably
+biased
+on matters of race, neighborhood, and class, leading to biased decisions on whether to detain a charged subject and the lengths of sentences for those convicted. ILP further raises the stakes in this debate. Potential bias based on individual characteristics, criminal history, and other factors is being extended not to matters relating to crimes that have been actually committed (as in pre-trial or sentencing decisions) but crimes that
+might
+be committed.
+Criminologists sometimes describe the criminal justice system as being “sticky”—once you have a criminal record, your chances of re-encountering the police and courts because of probation/parole violations or petty crimes, either of which can send you back to prison, increases. Criminal records also make it far more difficult to get a
+job or find stable housing
+. The criminal justice system, then, becomes part of a self-fulfilling prophecy of future criminal infractions. ILP may be becoming part of this ever-denser web of law enforcement and prosecution that drives recidivism and re-incarceration.
+Another problem with ILP is that citizens are unaware of the breadth and quantity of the data being “scraped” from public sources and social media accounts that is then used to build the risk profiles. How many people are aware that the terminology or images they use on popular sites like Facebook and Instagram may wind up informing police attitudes and behaviors toward them without their knowledge or consent—and without an opportunity to challenge the conclusions being drawn? Negative data or inferences from that data threaten to become a kind of extra-judicial indictment that risks sweeping up unsuspecting citizens and exposing them, without their knowledge, to future, higher-risk encounters with law enforcement.
+Much has been made of how the Communist Party leaders in China are using big data and video monitoring to develop and apply “
+social
+credit
+scores
+” that determine ideological and behavioral reliability and distribute social and economic privilege accordingly. To my mind, there’s a real question about whether ILP doesn’t share some of the characteristics of that system, subjecting individuals to a kind of predictive analytics that is meant to tell us who is likely to commit a crime and who isn’t. Such a system threatens to turn core elements of American constitutional freedom like the presumption of innocence and due process on their heads: henceforth, those with criminal records are at risk of being accused of crimes that they haven’t yet (and might never) commit and then denied the opportunity to understand where and how the accusation originated or to challenge their risk status.
+Given these potential pitfalls, it’s a wonder more questions haven’t been raised about ILP and its implications for freedom and justice. I suspect the answer lies in two factors. First, law enforcement occupies a privileged position in American society as the “thin blue line” that stands between civilization and chaos. What law enforcement asks for it generally gets, and what it’s been asking for lately are resources that make it look more and more like the military with ever-increasing levels of armament. ILP is another
+military- and foreign intelligence-adapted technique
+that further blurs the line between a security force that defends the nation against foreign aggressors and a police force with a mandate to serve and protect. ILP is one more step along a path that may end up turning citizens into enemies.
+Second,  the reality is that ILP is mainly a tool for combatting the most serious crimes, and the communities that are most afflicted by these kinds of crime are populated mainly by low-income and minority groups. When ILP abuses occur, they are most likely to occur in neighborhoods far removed from the oversight and concern of the majority of Americans. This is another one of those problems that mostly affect “others” rather than ourselves, and it contributes to and exacerbates other inequities in communities that already bear the brunt of discrimination, social disadvantage, over-policing, and excessive incarceration. If we want a better understanding of the kinds of practices that exacerbate tensions between police and communities, examining the use of ILP might be a good place to start.

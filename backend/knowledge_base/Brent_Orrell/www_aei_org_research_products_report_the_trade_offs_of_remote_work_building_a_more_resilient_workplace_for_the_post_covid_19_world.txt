@@ -1,0 +1,71 @@
+PAGE_TITLE: 
+	The Trade-offs of Remote Work: Building a More Resilient Workplace for the Post-COVID-19 World | American Enterprise Institute - AEI
+
+Key Points
+While only 7 percent of America’s workforce was working remotely before the pandemic, the popularity of this arrangement has been rising for years. In the face of stay-at-home orders, millions of employers and their employees shifted to working remotely seemingly overnight, and many now find themselves scrambling to navigate this “new normal.”
+Employers and employees face positive and negative trade-offs with remote work. Employers may be able to increase productivity and compete for top talent, but they also risk eroding organizational culture and hurting non-remote workers. On the flip side, employees may find that remote work improves job satisfaction and makes them healthier, but the boundaries between work and life may fade while a sense of social isolation grows. Employers and employees will have to find a way to balance these trade-offs to maximize the utility of remote work for business operations and workers.
+There are notable barriers that need to be addressed to ensure an equitable and effective shift to remote work. These include expanding broadband and computer access, closing the corporate digital divide, and equipping workers with the work spaces and tools they need to be effective.
+While many studies have been conducted on remote work, there are still many unknowns. A majority of the studies on remote work have evaluated how it affects the workplace, but less is known about long-term effects on employees. Policymakers and business leaders must do more to better understand the trade-offs businesses and employees face and develop policies that support both through this rapid telework transformation.
+Read the PDF.
+Executive Summary
+Before the pandemic, remote work in America was a luxury reserved for just 7 percent of the workforce, mostly highly educated and highly paid knowledge workers. Then, in a matter of weeks, COVID-19 forced virtually every industry, employer, and worker to transform their approach to work by shifting to an almost entirely remote model. It will be years before we fully understand how this shift has affected the economy, individual industries, and employees. This report seeks to outline the positive and negative trade-offs of remote work for employers and employees. We hope to improve the collective understanding of the existing research on remote work and some of the immediate impacts of COVID-19 and point the way toward areas of needed research.
+For employers, remote work provides opportunities for increased productivity, operational cost savings, competitive advantages in talent recruitment and retention, and positive environmental impacts. This comes with the potential costs of a loss of organizational culture, complications in managing a remote workforce, exposure to security risks, difficulty adapting remote-work policies to diverse business needs, and disparate impacts on non-remote workers.
+Workers may find that remote work increases satisfaction with their jobs and personal lives, which can improve their well-being. They can also save on costs associated with working in the office and may find that increased professional autonomy helps them create more comfortable working conditions. On the downside, remote work can erode boundaries between work and life, weaken social ties and informal communication on the job, slow career advancement, cause communication challenges, and increase fear of job loss as companies import remote talent globally.
+Worker choice and the hybrid remote-work model can help employers and employees maximize the benefits while minimizing the harm of remote work. A significant body of research points to the workplace becoming increasingly remote but also shows that neither workers nor employers want to work exclusively from home. To strike the right balance, employers and employees will have to work together through extensive trial and error to discover what works best for their businesses and workforces.
+There are also practical hurdles to scaling remote work. These include expanding broadband and computer access in the home, closing the corporate digital divide, and equipping workers with the work spaces and tools they need to be effective. Cooperation between business leaders, workers, and policymakers will be essential to scale remote work and establish sustainable solutions.
+While extensive research has been conducted on the impact of remote work, our ignorance vastly exceeds our knowledge. Most of the research to date has focused on a single employer and is not necessarily representative of all employers or the workforce. Further, this research has been conducted on the types of work that fit well with the remote-work model and skews heavily in favor of positive outcomes. This research has also emphasized the pros and cons employers face, but little is known about the long-term effect of remote work on employees. The pandemic has provided a unique opportunity to fill our knowledge gaps, but the pandemic and other external stressors may distort the results of studies during an extraordinary crisis.
+We must invest in research to better understand how long-term remote work affects employees and to educate businesses and policymakers about how they can better address their remote workforce’s needs. The real-time demands of the pandemic will continue to require employers and employees to adjust to these new realities and increase pressure to plan and execute the development of an equitable and effective shift to expanded remote work as the “new normal.”
+Introduction
+Before the COVID-19 pandemic, remote work in America was considered a luxury reserved for highly educated and highly paid knowledge workers,
+1
+but its popularity was rising, particularly following the Great Recession.
+2
+While remote work was gaining traction—increasing by 115 percent between 2005 and 2017
+3
+—just 7 percent of the workforce was fortunate enough to spend at least some time working away from the office.
+4
+Like many aspects of our lives, the pandemic rapidly changed that. In the face of stay-at-home orders and economic shutdowns, businesses across the US shifted to an almost entirely remote workforce in a matter of weeks. Despite some initial challenges, this was a largely seamless transition that has helped not only keep businesses operational and Americans working but also slow the spread of the virus and minimize its impact.
+5
+Eight months into remote work, many high-profile companies are looking to extend it for the foreseeable future, and some are looking to do so permanently.
+6
+Companies such as Google, Amazon (corporate), Viacom, and Indeed have told their workers they will be remote until at least 2021. Facebook, Twitter, Square, Slack, and several others have told their employees they do not ever have to return to the office. Estimates of the number of workers who are doing their jobs remotely in the US range from 33 percent to around 50 percent.
+7
+Pandemic aside, this sudden shift toward remote work is a drastic change in traditional US work culture. Current projections say upward of 20 percent of American workers will continue to work remotely at least some of the time after the pandemic, nearly tripling the pre-pandemic level.
+8
+Altogether, research shows that roughly a third of all jobs can be done remotely if employers and workers decide to make the shift.
+9
+The benefits and challenges of remote work have been studied for many years, but never at a time when the practice was as widespread as it is now. In a sense, the social distancing imposed by COVID-19 is a natural experiment on a massive scale. It provides an opportunity to understand how remote work is affecting workers and businesses on both sides of the ledger, positively and negatively. This report seeks to improve understanding of the existing data and research on remote work and point the way toward crucial areas of future research.
+The first two sections outline the top positive and negative trade-offs remote work poses for employers and employees. The third section discusses how worker choice and the hybrid work model can maximize the benefits while minimizing the harm of working remotely. The fourth section covers the essential barriers to scaling remote work that business leaders and policymakers must be aware of and work together to address, including broadband access and bridging the corporate digital divide. In the fifth section, we outline the limits of what we know about the impact of remote work from the studies that have been conducted. We also warn that many external factors may significantly hamper our ability to assess this new working model effectively during the pandemic. This report concludes with a call to action for policymakers to invest in research to better understand how long-term remote work affects employees and educate businesses about how they can better address their remote workforce’s needs.
+Read the full report.
+Notes
+Sarah Kessler, “Working from Home Is a Rich-People Thing,” Quartz, June 28, 2017,
+https://qz.com/1015947/working-fromhome-is-a-rich-people-thing/
+.
+Rani Molla, “How Remote Work Is Quietly Remaking Our Lives,” Vox, October 9, 2019,
+https://www.vox.com/recode/2019/10/9/20885699/remote-work-from-anywhere-change-coworking-office-real-estate
+.
+Matthew Dey et al., “Ability to Work from Home: Evidence from Two Surveys and Implications for the Labor Market in the COVID-19 Pandemic,” US Bureau of Labor Statistics, Monthly Labor Review, June 3, 2020,
+https://www.bls.gov/opub/mlr/2020/article/ability-to-work-from-home.htm
+.
+Drew DeSilver, “Before the Coronavirus, Telework Was an Optional Benefit, Mostly for the Affluent Few,” Pew Research Center, March 20, 2020,
+https://www.pewresearch.org/fact-tank/2020/03/20/before-the-coronavirus-telework-was-an-optional-benefit-mostly-for-the-affluent-few/
+.
+Adrian Ma, “Remote Work Has Cushioned the Pandemic’s Blow, but WBUR Poll Reveals Inequalities,” WBUR, August 14, 2020,
+https://www.wbur.org/bostonomix/2020/08/14/wbur-poll-work-from-home-coronavirus-shutdown
+.
+Alexis Benveniste, “These Companies Are Working from Home Until 2021—or Forever,” CNN, August 2, 2020,
+https://www.cnn.com/2020/08/02/business/companies-work-from-home-2021/index.html
+.
+Uri Berliner, “Get a Comfortable Chair: Permanent Work from Home Is Coming,” NPR, June 22, 2020,
+https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming
+.
+Derek Thompson, “The Workforce Is About to Change Dramatically,”
+Atlantic
+, August 6, 2020,
+https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/
+.
+Jonathan I. Dingel and Brent Neiman,
+How Many Jobs Can Be Done at Home?
+, Becker Friedman Institute for Economics at the University of Chicago, June 19, 2020,
+https://bfi.uchicago.edu/working-paper/how-many-jobs-can-be-done-at-home/
+.

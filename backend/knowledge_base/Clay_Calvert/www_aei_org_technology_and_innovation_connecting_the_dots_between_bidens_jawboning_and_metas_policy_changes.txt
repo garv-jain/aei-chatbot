@@ -1,0 +1,55 @@
+PAGE_TITLE: 
+	Connecting the Dots Between Biden’s Jawboning and Meta’s Policy Changes | American Enterprise Institute - AEI
+
+Much ink is being spilled over Meta CEO Mark Zuckerberg’s January 7
+announcement
+and a related
+statement
+by executive Joel Kaplan about the company replacing its platforms’ prior content-moderation efforts with a more laissez-faire, free-speech-friendly approach. The changes likely were influenced by not only a desire to please incoming President Donald Trump but also the outgoing Biden administration’s efforts to squelch content that conflicted with its preferred narratives.
+Changes.
+Meta
+is
+jettisoning third-party fact checking on its US platforms and “allow[ing] more speech by lifting restrictions on some topics that are part of mainstream discourse and focusing [its] enforcement on illegal and high-severity violations.” Zuckerberg
+explained
+that past content-moderation efforts relied on “complex systems,” including scanning filters and humans, that made “too many mistakes,” resulting in “too much censorship.” In short, excessive false positives unnecessarily silenced viewpoints.
+Via Adobe Stock.
+Zuckerberg
+averred
+that Meta’s fact checkers “destroyed more trust than they’ve created, especially in the US,” by being “too politically biased.” To regain trust, Meta is moving its trust-and-safety and content-moderation teams from blue state California to red state Texas where there will be “less concern about the bias of our teams.”
+In revamping Meta’s practices, Zuckerberg nodded to Trump’s November victory, stating that “the recent elections . . . feel like a cultural tipping point toward once again prioritizing speech.” In turn, Meta will now “focus on reducing mistakes, simplifying our policies, and restoring free expression on our platforms.” Zuckerberg added that “what started as a movement to be more inclusive has increasingly been used to shut down opinions and shut out people with different ideas.” The company now prioritizes “giving people [a] voice” and letting them receive more political content in their feeds.
+Meta
+will
+concentrate its censorship efforts on “terrorism, child sexual exploitation, drugs, fraud, and scams” and rely on a community notes system similar to that used by X for addressing false and misleading posts. The notes system, to be phased in over the coming months, will add contextual comments “written and rated by contributing users.” Zuckerberg
+acknowledged
+the changes will cause a tradeoff between “dramatically reducing the amount of censorship on our platforms” and “catching less bad stuff.” In sum, Meta will err on the side of free speech, even if some of it is false or offensive.
+Reaction and Jawboning.
+Timing, as the cliché goes, is everything. The timing of Zuckerberg’s announcement—shortly before Donald Trump retakes the White House and following a Thanksgiving meeting with Trump at Mar-a-Lago—raised criticisms and questions about whether Meta’s changes are simply transparent efforts to appease the incoming president at the cost
+of
+“open[ing] the floodgates of misinformation and hate speech on Facebook.”
+New York Times
+technology columnist Kevin Roose
+dubbed
+Meta’s moves “a full MAGA makeover,” while deriding Meta for “adopt[ing] whatever values Zuckerberg thinks it needs to survive.”
+Some of this may have merit, but as
+The New York Times
+reported
+in a subsequent story, Zuckerberg:
+also felt railroaded by what he views as the Biden administration’s anti-tech posturing, and stung by what he sees as progressives in the media and in Silicon Valley—including in Meta’s work force—pushing him to take a heavy hand in policing discourse.
+Indeed, the Biden administration placed a bullseye on Facebook, pressuring it to remove or bury conservative-tilting content that questioned COVID-19 vaccines, mask mandates, and the necessity of shutting down businesses and closing schools during the pandemic. Such
+jawboning
+was front-and-center in the 2024 US Supreme Court case of
+Murthy v. Missouri
+. Although the Court
+punted
+on the substantive merits of whether the Biden administration’s verbal arm twisting crossed the blurry line separating permissible persuasion from unlawful coercion, Zuckerberg telegraphed that he’d had enough just two months later in a
+letter
+to US Representative Jim Jordan, chair of the House Judiciary Committee.
+Zuckerberg there described how “senior officials from the Biden administration, including the White House, repeatedly pressured our teams for months to censor certain COVID-19 content, including humor and satire, and expressed a lot of frustration with our teams when we didn’t agree.” He asserted that such “government pressure was wrong” and regretted “that we were not more outspoken about it.”
+I explained
+earlier
+that Zuckerberg’s statements to Jordan wouldn’t have helped the plaintiffs’ case in
+Murthy
+if he’d made them before the Supreme Court heard oral arguments. That’s because Zuckerberg never used critical words like “coercion” and “threat of adverse consequences” that are the hallmarks of unlawful jawboning. Nonetheless, the letter suggested Meta would no longer bow to censorial pressure.
+The
+Newtonian
+takeaway here is straightforward: For every action there is an equal and opposite reaction. When liberals and the government play their paternalistic, cancel-dissenting-speech card too hard, corporate America pushes back when the winds of political fortune inevitably shift.

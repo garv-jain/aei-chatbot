@@ -1,0 +1,72 @@
+PAGE_TITLE: 
+	Reflections on Murthy v. Missouri: Opportunities Missed, Lessons Learned | American Enterprise Institute - AEI
+
+In a six-to-three decision, the
+US Supreme Court
+last week declined to address the substantive merits of the plaintiffs’
+jawboning
+claims in
+Murthy v. Missouri
+that multiple government officials unlawfully coerced and significantly encouraged leading social media platforms to remove, demote, and place warnings on conservative-tilting content regarding the 2020 presidential election and the COVID-19 pandemic. The majority concluded that the plaintiffs––Missouri, Louisiana, and five individuals––all lacked
+Article III standing
+to seek a court order (a
+preliminary injunction
+) barring the officials from engaging in such conduct in the future. Without standing, the justices didn’t possess jurisdiction to evaluate the merits of the plaintiffs’ claims that unduly coercive government communications are what caused Facebook, X (formerly Twitter), and YouTube to censor posts that conflicted with the Biden administration’s views. In brief, the government won and the plaintiffs lost.
+Via Adobe
+But if the Court dodged the merits, was
+Murthy
+––a
+politically divisive case
+––just a big nothing? What lessons are drawn from a decision where the Court missed opportunities to: 1) clarify the line separating permissible government persuasion from the illicit government coercion of third-party speech intermediaries (the platforms) to squelch others’ speech, and 2) apply the principles about the unlawful third-party coercion it expressed in May in
+National Rifle Association v. Vullo
+? Here are four important takeaways.
+First, “a six-to-three decision”––this post’s opening phrase––doesn’t always mean that six Republican-nominated justices comprise the majority and that the dissent includes three justices nominated by Democrats. The
+Murthy
+majority consisted of three justices (in order of Court seniority, John Roberts, Brett Kavanaugh, and Amy Coney Barrett) nominated by Republican presidents and three justices nominated by Democrats (Sonia Sotomayor, Elena Kagan, and Ketanji Brown Jackson). The dissent was comprised of three justices (Clarence Thomas, Samuel Alito, and Neil Gorsuch) nominated, respectively, by three Republican Presidents (George H.W. Bush, George W. Bush, and Donald Trump). The divide among the “conservatives” reflects tendencies of Roberts and Kavanaugh to play swing-justice roles, while Thomas and Alito sometimes veer further right.
+Second, standing is having a moment.
+Murthy
+marked the second time in June the Court punted on the merits of a politically fraught case by holding that the plaintiffs’ lacked standing. The other case is
+Food and Drug Administration v. Alliance for Hippocratic Medicine
+, where the Court determined that pro-life doctors and medical associations lacked standing to challenge the FDA’s “relaxed . . . regulatory requirements for mifepristone, an abortion drug.” While the standing-based outcomes in
+Murthy
+and
+Alliance for Hippocratic Medicine
+surely
+disappoint
+many conservatives, the constitutional standing requirement affects arguably the most important question in constitutional law: What issues should courts decide and what issues should be left to the political process (i.e., left to citizens to vote out current officials making or enforcing objectionable policies)? As Kavanaugh
+wrote
+for a unanimous Court in
+Alliance for Hippocratic Medicine
+, “the plaintiffs may present their concerns and objections to the President and FDA in the regulatory process, or to Congress and the President in the legislative process. And they may also express their views about abortion and mifepristone to fellow citizens, including in the political and electoral processes.” Similarly (although not based on standing principles), the Court in
+Dobbs v. Jackson Women’s Health Organization
+left abortion decisions squarely to state-by-state political processes, not an unelected judicial body.
+Third, Chief Justice Roberts is giving Justice Barrett ample room to play a leading role in free-speech cases involving social media. When the Chief Justice is in the majority, he gets to write the opinion or
+assign another justice
+in the majority to pen it. As I
+described earlier
+, Barrett wrote a clear, well-reasoned, example-packed unanimous opinion in March in
+Lindke v. Freed
+. She fashioned a rule there for determining when a government official who “posts about job-related topics on social media” is acting in a personal (private) or official (public) capacity. It’s thus unsurprising Roberts also assigned her to write
+Murthy’s
+majority opinion.
+Fourth, Barrett is demonstrating independence from Thomas. First, as noted earlier, she wrote the
+Murthy
+majority, while Thomas dissented. Second, this followed her
+fierce criticism
+of Thomas’s originalistic history-and-tradition methodology in the June trademark case of
+Vidal v. Elster
+. The Court there upheld––against a
+First Amendment
+challenge––the
+US Patent and Trademark Office’s
+statutory authority
+to ban federal registration of the mark “Trump too small.” Thomas wrote the majority opinion and Barrett agreed with the outcome, but she “
+took the gloves off
+,” punching back against his history-and-tradition approach
+as
+“wrong twice over.” She
+disagreed
+with Thomas’s “choice to treat tradition as dispositive of the First Amendment issue.” In so doing, the Court’s newest Republican-nominated justice took on the Court’s longest serving one over a core conservative tenet of judicial interpretation.
+So contextualized,
+Murthy
+is an important ruling about today’s Court and standing.

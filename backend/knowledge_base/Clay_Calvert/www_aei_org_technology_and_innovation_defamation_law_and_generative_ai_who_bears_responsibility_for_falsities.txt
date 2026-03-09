@@ -1,0 +1,77 @@
+PAGE_TITLE: 
+	Defamation Law and Generative AI: Who Bears Responsibility for Falsities? | American Enterprise Institute - AEI
+
+When
+generative artificial intelligence
+(AI) produces false, reputation-harming information about a person, who bears responsibility if that person sues for
+defamation
+? It’s an important question. As
+reported
+this month, the technology sometimes “creates and spreads fiction about specific people that threatens their reputations and leaves them with few options for protection or recourse.”
+Indeed, when the
+Federal Trade Commission
+(FTC)
+began investigating
+OpenAI
+(maker of
+ChatGPT
+) in July, an explicit concern was “
+reputational harm
+” caused by its “products and services incorporating, using, or relying on
+Large Language Models
+.” The FTC asked OpenAI
+to describe
+how it monitors and investigates incidents in which its large language model (LLM) products “have generated false, misleading, or disparaging statements about individuals.”
+Sam Altman
+, OpenAI’s CEO,
+predicted
+in June that it would “take us a year and a half, two years” before it “get[s] the hallucination problem to a much, much better place.”
+Via Adobe Stock
+What happens until then for people seeking redress for AI-generated falsities? Consider two defamation scenarios: (1) lawsuits targeting businesses and people (including
+journalists
+aided by
+AI programs
+) who use generative AI to produce information they later publish, and (2) lawsuits leveled at companies such as OpenAI and Google (maker of
+Bard
+) that create generative AI programs. In the first scenario, the defendants are AI users; in the second, they are AI companies.
+In the former situation, anyone who uses generative AI to produce information about a person and then conveys it to someone else may be legally responsible if it is false and defamatory. Such AI users will be treated as publishers of the information even though something else created it. As the
+Reporters Committee for Freedom of the Press
+observes
+, “[I]n most jurisdictions, one who repeats a defamatory falsehood is treated as the publisher of that falsehood.” Under an old-school analogy, a print newspaper cannot escape liability for publishing a defamatory comment just because it accurately attributes the comment to a source. This reflects the
+maxim
+that “tale bearers are as bad as tale makers.”
+Furthermore, because it’s commonly known that generative AI “
+has a propensity to hallucinate
+,” people who use it to generate information and then fail to independently verify its accuracy are
+negligent
+when publishing it. It’s akin to journalists trusting an unreliable human source—one they know has lied before. Indeed, OpenAI’s
+terms of use
+: (1) acknowledge its products may produce content “that does not accurately reflect real people, places, or facts,” and (2) advise users to “evaluate the accuracy of any Output as appropriate for [their] use case, including by using human review of the Output.” In sum, not attempting to corroborate content produced by a program understood to produce falsities constitutes a failure to exercise reasonable care in publishing content. That spells negligence—the fault standard private people typically must prove in defamation cases.
+Public figures and officials
+, however, must satisfy a higher standard called
+actual malice
+. Proving this standard requires demonstrating that an AI user acted with reckless disregard for whether the AI-produced statements they published were false––that they had a “
+high degree of awareness of their probable falsity
+.” This can be shown through
+circumstantial evidence
+including the “dubious nature of [one’s] sources” and “the inherent improbability” of the falsities. In brief, if AI-spawned defamatory falsities seem believable and users don’t otherwise doubt them, then a defamation case might fail.
+Regarding the second scenario—suing AI companies over defamatory falsehoods—there’s now a case on point. Talk-radio host
+Mark Walters
+filed a
+complaint
+in June against OpenAI in Georgia’s state court. It contends that ChatGPT, responding to a journalist’s request to summarize the allegations in a
+lawsuit complaint
+, falsely said Walters was a defendant “accused of defrauding and embezzling funds from” the lead plaintiff. Walters’s
+complaint
+contends “[E]very statement of fact in the summary pertaining to [him] is false.”
+In July, OpenAI
+transferred
+the case to federal court, where it
+moved
+for dismissal because “Walters cannot establish the basic elements of a defamation claim.” Perhaps that’s true, but what’s striking about the motion is how it largely relies on OpenAI’s terms of use (see above) and ChatGPT’s falsity warnings to absolve itself of legal responsibility and shift that responsibility to users (here, the journalist who asked ChatGPT to summarize the complaint). The
+motion
+states:
+Before using ChatGPT, users agree that ChatGPT is a tool to generate “draft language,” and that they must verify, revise, and “take ultimate responsibility for the content being published.” And upon logging into ChatGPT, users are again warned “the system may occasionally generate misleading or incorrect information and produce offensive content. It is not intended to give advice.”
+That may be an excellent strategy to end a defamation lawsuit, but it’s not exactly confidence-inspiring as a business model for ChatGPT. In fact, it actually bolsters the FTC’s concerns noted above. Walters’s
+opposition
+is due September 8; stay tuned.

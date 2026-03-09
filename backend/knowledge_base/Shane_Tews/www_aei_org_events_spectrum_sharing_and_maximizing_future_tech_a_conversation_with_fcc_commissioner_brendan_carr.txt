@@ -1,0 +1,44 @@
+PAGE_TITLE: 
+	Spectrum Sharing and Maximizing Future Tech: A Conversation with FCC Commissioner Brendan Carr | American Enterprise Institute - AEI
+
+Event Summary
+On Thursday, January 14, AEI’s Shane Tews hosted FCC Commissioner Brendan Carr and an expert panel for a discussion on maximizing spectrum efficiency.
+Commissioner Carr emphasized the importance of freeing up spectrum and the progress the current Federal Communications Commission (FCC) has made in this area by investing in new network gear and allowing the private sector to innovate. He attributed the resilience of American networks during COVID-19 to this strategy and emphasized the need for improved interagency coordination on spectrum issues.
+Echoing the theme of interagency coordination, Joel L. Thayer of Phillips Lytle LLP warned that the FCC’s spectrum reallocation efforts would face continued pushback without a long-term, cross-agency cooperation strategy. Patricia J. Paoletta of Harris, Wiltshire & Grannis LLP added that such cooperation must occur internationally, too, as other countries’ apprehensiveness about spectrum sharing could restrict American tech firms’ access to overseas markets. Peter Rysavy of Rysavy Research lauded the FCC’s existing interagency coordination efforts but called for further improvement. He warned that excessive constraints on spectrum deployment would put the US at a competitive disadvantage globally.
+Commissioner Carr and the panelists agreed that this FCC’s spectrum policies have laid important groundwork for next-generation networks. They encouraged the next administration to continue along this path.
+— William Rau
+Event Description
+As demand grows for more capable networks, optimizing wireless spectrum — the ranges of radio waves used for wireless communication — is important for America’s digital future. Reallocating spectrum for commercial and government use has been a top priority in recent years. This means working with international, federal, and state officials to reallocate spectrum to those who can make better use of it, maximizing the potential of this limited resource. How have the many government agencies involved tackled this issue? And what are the best practices that government and commercial users should abide by moving forward?
+FCC Commissioner Brendan Carr joins AEI’s Shane Tews to discuss how coordination with state and local governments, new licensing proposals, and fewer regulatory barriers are crucial for maximizing spectrum efficiency. A panel discussion on the international, federal, state, and technical uses for spectrum that call for updated spectrum policies will follow.
+Event Materials
+Event Transcript
+VIDEO
+Agenda
+10:30 AM
+Opening remarks:
+Shane Tews
+, Visiting Fellow, AEI
+10:35 AM
+Conversation
+Brendan Carr
+, Commissioner, Federal Communications Commission
+Shane Tews
+, Visiting Fellow, AEI
+10:50 AM
+Q&A
+11:00 AM
+Panel discussion
+Panelists:
+Patricia J. Paoletta
+, Partner, Harris, Wiltshire & Grannis LLP
+Peter Rysavy
+, President, Rysavy Research
+Joel L. Thayer
+, Associate, Phillips Lytle LLP
+Moderator:
+Shane Tews
+, Visiting Fellow, AEI
+11:45 AM
+Q&A
+12:00 PM
+Adjournment

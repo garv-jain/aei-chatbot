@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Where the Tech Layoffs Are Hitting Hardest | American Enterprise Institute - AEI
+
+Companies are cutting programmers, human resources, and DEI staffers.
+The
+hiring burst
+of 517,000 new jobs in January ran contrary to the conventional economic wisdom, namely that the Federal Reserve’s war on inflation is slowing interest-rate sensitive sectors like finance and technology and presaging a broader slowdown. Tech and finance did, indeed, show some
+losses
+—just not enough to offset huge hiring increases in services, retail, and health care. The Bureau of Labor Statistics also went back to revise prior months’ numbers adding even more to the nation’s job total over the past 12 months.
+The tech sector is reportedly taking a beating after a decade as the darling of the economy and the market. On the ground it looks more like a scolding, as terrible as that feels when you’re suffering a Fed-induced financial hangover. There’s been some talk about the “
+virality
+” of tech layoffs—firms cutting jobs not for any underlying economic reason but just because others are doing it. There’s nothing more Silicon Valley than piling on to a trend.
+I witnessed a somewhat different phenomenon on a recent visit. What we’re seeing isn’t a lemming effect but one created by company valuation issues and the need to cut costs and strengthen balance sheets in an environment where ZIRP (zero interest rate policy) is no longer a thing. Corporate boards, and especially “
+activists
+” on them, don’t like seeing their wealth evaporate; they want “good news” to share with Wall Street to help boost stock prices. Hence, we have Mark Zuckerberg and other CEOs taking “dry January” pledges for a “
+year of efficiency
+.” Other execs are getting substantial heat for acquisitions made during the pandemic, like Salesforce’s $27 billion purchase of Slack. Salesforce’s leadership believed Slack would open a channel (DYSWIDT?) for Slack-only customers to the more expansive (and expensive) Salesforce offerings.
+It hasn’t worked out
+that way. Similarly with startups, venture capital firms are demanding “default-alive” business plans that show near-term profitability. No more Mr./Ms. Nice, Helpful, Generous VC. It’s output or get out.
+Leaving aside the “hardcore” firings at Twitter, most of the laid-off workers are enjoying something of a busman’s holiday cushioned by short-term gigs, generous severance packages, and reports of plentiful job openings. One study estimated that almost
+80 percent
+will get new jobs within three months, albeit perhaps not with the same salaries and stock options. The
+ChatGPT craze
+and its many
+generative AI
+offshoots have also
+renewed hope
+among coders that the boom hasn’t quite gone bust yet. With Microsoft placing a
+$10 billion
+bet on OpenAI’s chat tech, that hope doesn’t seem entirely unwarranted. As always in the overheated world of digital technology, the real question is how many companies and people will be able to squeeze into the chat space before it is overwhelmed with offerings.
+So, who got laid off, and why? A surprising number of the layoffs over the past several months have targeted
+computer scientists
+—on average about 22 percent and higher with some firms. Amazon laid off 28 percent of its programmers and subsequent
+leaked Amazon emails
+reveal the company would, in future, favor hiring college students and recent grads over experienced programmers. This certainly makes sense from a cost standpoint, and it may also add up when firms are thinking about the types of coders who can work long hours and generate the breakthroughs the companies want. It also seems like an age-discrimination lawsuit waiting to happen. The job cuts are being felt more deeply on the discretionary side of Silicon Valley operations. This goes way beyond ping-pong tables, beer-at-your-desk service, and Friday-optional schedules. Cuts to human resource and talent sourcing accounted for 28 percent of the layoffs, outpacing those on the technology side. As will no doubt cheer many Elon Musk fans, the ax appears to be
+swinging
+at “environmental, social, and governance” and “diversity, equity, and inclusion” (ESG and DEI, respectively) professionals, who often operate in close coordination with HR. And, at the same time Zuckerberg was talking about “efficiency,” his chief technology officer, Andrew Bozworth, posted to his
+personal blog
+that Facebook’s charity-focused endeavors had become a distraction that were weighing down company operations. Would it be churlish to say social responsibility programs may have had more to do with burnishing corporate images for sales and recruiting than advancing social justice? Skeptical minds might reach that conclusion.

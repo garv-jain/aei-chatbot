@@ -1,0 +1,29 @@
+PAGE_TITLE: 
+	The Surprising Benefits of ‘Cooperative’ AI | American Enterprise Institute - AEI
+
+The Impact of AI on Work Quality and Collaboration: Insights from a Harvard Business School Study
+One of the great promises of the artificial intelligence era is the potential of the technology to democratize skill. Just as the internet and personal digital technology made it possible for us to instantly access the sum of all human knowledge, AI is creating new avenues for universal skilling.
+A
+new study
+from Harvard Business School,
+The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise
+, reports on a large, randomized trial conducted at Procter & Gamble (P&G), testing how AI affects the quality of work outcomes for individuals and teams. It holds significant implications for how we think about AI boosting skill levels by making high levels of technical competence more broadly available in the workplace.
+The study split 776 P&G workers into four groups: individuals with AI, individuals without AI, teams with AI, and teams without. AI increased solution quality by 0.37 standard deviation for individuals and a 0.39 standard deviation for teams with a high level of statistical significance (p < 0.01). Teams working without AI showed modest but less significant improvements and individuals without AI showed the lowest solution quality. Perhaps most significantly, individuals working
+with
+AI outperformed
+teams
+without AI.
+Average Solution Quality
+Source: Dell’Acqua et al.,
+The Cybernetic Teammate
+, Harvard Business School Working Paper, 2025.
+These results also show some of the profound ways in which AI may impact working environments, especially in knowledge-heavy sectors of the economy. A bright, inquisitive, employee with a knack for social engagement can use AI to close the knowledge-practice gap with those with more education and experience. AI-enhanced teams also seem to be better about “de-siloing” work and preventing those with specialized knowledge from dominating team processes and thereby skewing the development of solutions. The friendly generalist may yet have their day.
+The study also points to how the team use of AI helps drive innovation. Teams with AI had a three-times greater chance of generating the most important insights, compared to individuals with AI and teams without AI. AI, then, acts to increase the likelihood of discovering breakthroughs that yield outsized gains for the organization. Ironically, teams using AI were significantly less confident in their solutions, yet would rank in the top decile, suggesting a certain level of unease about AI and its reliability as a means for completing work assignments.
+Top 10% Solutions
+Source: Dell’Acqua et al.,
+The Cybernetic Teammate
+, Harvard Business School Working Paper, 2025.
+That last concern is important to understanding a key limitation of the study’s findings. It is very early days in the deployment of generative AI products and the training and upskilling of workers in its use. For this reason, the authors argue, “the observed benefits [of AI use], may represent a lower bound” to its potential. In other words, the outcomes of this study are probably a floor for its potential effects rather than a ceiling. As we become more comfortable using AI, and AI tools are increasingly tailored to specific industries and tasks, we can expect the innovation, quality, and productivity effects to grow.
+One final thought on the implications of this study beyond economics and work. We have internalized fretting about the negative effects of digital technology and the ways it divides and fragments human society. Widespread commercial and personal use of AI may end up having the opposite effect by reasserting the
+value of social connection
+across different perspectives and social strata. Rather than further isolating and atomizing people, AI might turn out to magnify the human “superpowers” of collaboration and cooperation, leading to  positive effects for work and society more broadly.

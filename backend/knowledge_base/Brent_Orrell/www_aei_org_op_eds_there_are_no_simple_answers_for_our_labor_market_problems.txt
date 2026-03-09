@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	There Are No Simple Answers for Our Labor Market Problems | American Enterprise Institute - AEI
+
+This spring was a wake-up call for economists, employers, and workers alike as the recovery from the pandemic has been less sharp and fast than they had hoped and anticipated. The most recent
+Job Openings and Labor Turnover (JOLT) report
+from the Bureau of Labor Statistics (BLS) did little to change that narrative. Despite a relatively high level of overall unemployment, businesses are struggling to find workers who have the skills for and interest in the jobs on offer.
+BLS reported that at the end of April, 9.3 million jobs were available.
+By way of comparison
+, there were 9.8 million unemployed individuals actively seeking work in April, and 9.3 million in May. A labor market that tight leans bargaining power toward workers and away from employers. Quit rates, which are a reliable indicator of favorable labor market conditions for workers, hit a record 2.7 percent in April. Combined with record low layoff rates and ample job openings, many workers appear to be open to rethinking their jobs and careers and willing to jump if a more attractive opportunity arises. Businesses have responded by raising wages and offering a wide array of
+bonuses and perks
+beyond anything that would have been unimaginable eighteen months ago. All of this contributes to job churn and employer frustration with choosy workers.
+So what the statistics show—at least through April—is a strange labor market brew of post-pandemic elevated unemployment, rising wages and incentives for historically low-wage jobs, and high job turnover. These conditions are disorienting because they have probably never occurred simultaneously in the memory of most people living today, if ever. Call it labor market
+terra incognita
+.
+But there may be another factor that is further complicating the restoration of a more normal labor market: the perennial challenge of the skills gap—the mismatch between the interests and abilities of the American workforce and the talent needs of the economy.
+According to BLS’s most recent
+unemployment report
+(with data from May), workers with bachelor’s and associate’s degrees are either at or approaching “full employment” already, with unemployment rates of 3.2 percent and 5.9 percent respectively. Unemployment rates were much higher for those with high school educations (6.8 percent) and less than a high school degree (9.1 percent).
+These less-educated workers are a poor fit for a sizable chunk of the available jobs. I asked
+Emsi
+, the labor market research firm, to look at the underlying qualifications for jobs advertised since the beginning of 2020. Emsi found that 37 percent of these jobs required some postsecondary education. Emsi also looked at the ratio of skills sought by employers to those possessed by job seekers, based on job listings and job-seeker profiles. As seen in the chart below, except for the accounting category, the employer demand for specific hard skills was between two and five times greater than the occurrence of those skills among job seekers. This suggests that large numbers of people searching for work either aren’t marketing their skills in a way that can be recognized by employers or, more likely, they don’t have the skills, education, and qualifications needed for many of the open jobs.
+(Source: Emsi)
+This brings us to the widely debated and politically heated question of the effect of federal unemployment benefit supplements on worker willingness to accept available jobs, especially those at the lower end of the labor market. A recently published
+Federal Reserve Bank study
+found moderate disincentive effects of expanded unemployment benefits at the height of the pandemic last spring when the supplements were set at $600 per week. (It’s worth remembering that at that point in the pandemic, our policies actively encouraged people to stay home to slow the spread of the virus.) The disincentive effects of the expanded unemployment benefit, the Fed study says, have diminished substantially under the prevailing $300 per week Congress approved late last year. And even that benefit is being phased out:
+As of now
+, twenty-two states are planning to eliminate the $300 supplement by the end of June, with four more states eliminating it in July, and the entire program expiring nationally by September 6. If the Fed model about how these incentive effects work is right, we should see a significant increase in job seeking and employment acceptance, especially among low-wage hospitality and leisure sector workers, as we move into late July and August.
+COVID-19 has been a long, strange trip in which uncertainty has been the only sure bet. With infection, hospitalization, and death rates all plummeting, something more like the old normal is likely to reassert itself soon. This means one of the most important, longstanding problems of the American economy—namely the shortage of skilled, qualified workers—will begin reasserting itself. To meet that challenge, we will need to focus on strategies that boost the quantity and quality of the labor supply by
+better
+equipping
+both incumbent workers and those still on the sidelines. That debate may lack the political cut-and-thrust of the fights over unemployment benefits, but it is much more likely to contribute positively to the rebuilding of the workforce and the economy.

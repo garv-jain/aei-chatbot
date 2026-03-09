@@ -1,0 +1,78 @@
+PAGE_TITLE: 
+	STEM Without Fruit: How Noncognitive Skills Improve Workforce Outcomes | American Enterprise Institute - AEI
+
+Download the printable one-pager.
+Key Points
+Labor market data and employer feedback suggest that the emphasis on STEM in workforce development is obscuring deeper, widespread challenges to employability relating to noncognitive skills associated with persistence and character, particularly for middle-skill occupations.
+Employers report a need for employees with these skills and place a higher value on them than on job-specific skills.
+Noncognitive skills (e.g., listening, problem-solving, teamwork, integrity, and dependability) are rooted in infancy and early childhood experience and develop across the life cycle.
+Especially for low-income families and communities, interventions that strengthen family formation, improve early childhood education, and support adults in combining noncognitive and technical skill training are key to improving long-term labor market outcomes.
+Read the full PDF.
+﻿
+Introduction
+Over 20 years ago, the term “skills gap” entered the national lexicon as employers and educators began to grapple with the perceived disconnect between employers’ changing demands and American workers’ knowledge, skills, and abilities. The problem is seen as so significant that some argue that in bad economies (the Great Recession) and good ones (such as today’s full-employment economy) millions of jobs go unfilled due to a shortage of qualified workers.
+In searching for ways to bridge this gap, many experts, educators, and employers have focused on increasing certifications and college-educated graduates in STEM occupations. Multiple reports from organizations such as the National Governors Association, the National Academy of Sciences, the American Association for the Advancement of Science, and the National Science Board have called for expanding and improving STEM education as essential to the nation’s economic future.
+1
+The Obama and Trump administrations rolled out STEM education-based programs designed to educate people for future jobs. President Barack Obama argued for “an all hands-on-deck approach to STEM” and proposed preparing 100,000 new STEM teachers over the next decade and increasing federal investment in STEM education.
+2
+Earlier this year, the Trump administration called STEM education “of paramount importance to America’s future workforce,” and the basis to cultivating a competitive economy.
+3
+One industry-sponsored survey found that two out of five Americans believe a STEM worker shortage is “at crisis levels.”
+4
+Current and projected labor market demands suggest that this rhetoric may be overdone and point toward a need to revise this STEM-focused approach to workforce development. STEM jobs make up a small fraction of the overall workforce: In 2015, just 6.2 percent of all workers were employed in STEM jobs. While these jobs are expected to grow faster than non-STEM jobs, this growth is from a small base, and Bureau of Labor Statistics (BLS) projections point toward slowdowns in growth.
+5
+A separate BLS study found that the STEM-dominated high-technology industry represented 9.1 percent of the US job market in 2016. In 2026, BLS projects this high-technology workforce’s share of wage and salary employment will grow only marginally to 9.9 percent. For better or worse, non-STEM occupations will dominate the economy for decades to come.
+6
+Moreover, STEM employment appears to be subject to a high degree of churn. A new study from David Deming and Kadeem Noray at Harvard University found that 58 percent of STEM graduates leave the field within 10 years due to advances in technology that leave workers with credentials that are no longer in demand.
+7
+Of greater concern for a nation in need of good middle-skill jobs, STEM occupations skew high on the educational distribution. Currently, just 27 percent of STEM professionals have less than a B.A., down from 32 percent in 2010.
+Massachusetts Institute of Technology scholar David Autor has found that, as technology has advanced, occupations that demand skills such as flexibility, conscientiousness, and social skills are increasingly relevant.
+8
+This suggests that in a technology-driven, highly automated economy, the most intrinsically human characteristics will, paradoxically, matter most. As I argue below, for those seeking to enter well-paying middle-skill jobs that require less than a bachelor’s degree, developing a balanced portfolio of technical and noncognitive skills appears to be the key to finding and retaining family-sustaining employment.
+This insight is supported by what employers consistently say are the skills they value most: noncognitive or “soft” skills such as professionalism, teamwork, and written and oral communication. Surveys for college and M.B.A. graduates found similar emphasis on oral and written communication, adaptability, and presentation rather than quantitative skills.
+9
+A 2018 LinkedIn survey of over 4,000 talent development managers, line managers, and executives found strong majorities favoring skills such as leadership, communication, and collaboration over role-specific skills.
+10
+Figure 1 shows the results of a survey of medium-sized and large employers who were asked to prioritize job-specific and flexible skill sets. Almost twice as many employers favored candidates who had a range of skills that could be used in various positions over candidates who had skills for specific fields or jobs. As might be expected, workers with strong skills in both domains are most prized.
+Figure 2 defines what employers mean by broad, flexible skills. The top of the pyramid has the industry-specific certifications, while the base is made up of noncognitive attributes: interpersonal skills, integrity, professionalism, initiative, and dependability. This model is consistent with competency requirements for virtually every industry sector, highlighting the core competencies required of all workers across occupations.
+11
+Such competency models suggest that the beginning of a successful career is not necessarily found only in technical expertise but also in possessing the personal characteristics that lead to success in relationships with coworkers and customers and the capacity to adapt to changing skill needs.
+I do not intend to suggest that “hard” applied STEM skills are unimportant. In a rapidly changing, technologically advanced economy, math, science, and engineering will never go out of style. Rather, I believe, based on employer surveys and labor market data showing a sharp rise in nonroutine service-based jobs, that educational and workforce programs may be overemphasizing the development of technical skills while underemphasizing what we call noncognitive personality traits—a term encompassing personality and socio-emotional skills not captured by cognitive skill assessments, such as IQ, which measure thinking and logical reasoning.
+This neglect of noncognitive skill development may interfere with the ability of individuals, particularly those without B.A.s and from low-income and disadvantaged backgrounds, to find and retain good middle-skill jobs. The balance of this report examines the importance of noncognitive skills, where those skills come from and how they develop, and how the supply of noncognitive skills might be increased.
+Read the full report.
+Notes
+1. Margaret Honey, Greg Pearson, and Heidi Schweingruber, eds., STEM Integration in K–12 Education: Status, Prospects, and an Agenda for Research (Washington, DC: National Academies Press, 2014), https://doi.org/10.17226/18612; James Rutherford, Science for All Americans (New York: Oxford University Press, 1990); National Governors Association, “
+Science, Technology, Engineering, & Math (STEM) Education
+,” 2018; National Science Board, “
+Our Nation’s Future Competitiveness Relies on Building a STEM-Capable U.S. Workforce
+,” 2018; and Dow, “
+STEM Education and Workforce Development
+,” December 2016.
+2. White House, “Educate to Innovate,” 2013.
+3. White House, Office of Science and Technology Policy, “
+Summary of the 2018 White House State-Federal STEM Education Summit
+,” June 2018.
+4. Emerson, “
+Emerson Survey: 2 in 5 Americans Believe the STEM Worker Shortage Is at Crisis Levels
+,” August 2018.
+5. Ryan Noonan, “
+STEM Jobs: 2017 Update
+,” US Department of Commerce, Economics and Statistics Administration, March 2017.
+6. Brian Roberts and Michael Wolf, “
+High-Tech Industries: An Analysis of Employment, Wages, and Output
+,” US Department of Labor, Bureau of Labor Statistics, May 2018.
+7. David Deming and Kadeem Noray, “
+STEM Careers and Technological Change
+,” National Bureau of Economic Research, September 2018.
+8. David Autor and Brendan Price, “
+The Changing Task Composition of the U.S. Labor Market: An Update of Autor, Levy, and Murnane
+(2003)” (working paper, Massachusetts Institute of Technology, June 2013).
+9. Margaret Andrews, “
+What Do Employers Want?
+,” Inside Higher Ed, June 30, 2015.
+10. Benjamin Spar et al., “
+2018 Workplace Learning Report
+,” LinkedIn, 2018.
+11. Michelle R. Ennis, “
+Competency Models: A Review of the Literature and the Role of the Employment and Training Administration (ETA)
+,” US Department of Labor, January 2008.

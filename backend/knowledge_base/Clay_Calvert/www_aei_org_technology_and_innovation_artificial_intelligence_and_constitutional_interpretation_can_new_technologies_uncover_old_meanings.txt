@@ -1,0 +1,74 @@
+PAGE_TITLE: 
+	Artificial Intelligence and Constitutional Interpretation: Can New Technologies Uncover Old Meanings? | American Enterprise Institute - AEI
+
+Can artificial intelligence assist conservative jurists in pursuing an originalist
+text, history, and tradition
+approach for interpreting and applying the US Constitution? Can it help them better ferret out––more accurately and efficiently––the
+original public meaning
+of
+contested provisions
+such as the
+press clause
+in the
+First Amendment
+or what the
+Second Amendment’s
+right to “bear arms” meant upon
+ratification
+in 1791?
+According to Judge
+John K. Bush
+of the
+US Court of Appeals for the Sixth Circuit
+, the answer to those questions eventually may be yes. During a
+headline-grabbing
+Federalist Society
+event in April at the
+University of Chicago Law School
+called “
+History, Tradition, and AI
+,” Bush
+explained
+“how the development of AI may have big implications for the history and tradition method that the Supreme Court has recently used to interpret certain provisions of the Constitution.”
+Via Adobe Stock
+Assuming that “history and tradition is essentially the same thing as originalism,” Bush
+asserted
+that “the viability of the history and tradition method actually will turn on the development of new technologies” to help determine “the historical record of how words in the Constitutional text were used at the time of adoption.” By examining contemporaneous uses of the exact same words and phrases in other real-world contexts, AI can help resolve their constitutional meaning. In doing so, AI tools would build on current
+corpus linguistics
+efforts that, as Professor
+Lawrence B. Solum
+writes
+, use “large-scale data sets (corpora) that provide evidence of linguistic practice.”
+Calling today’s manual use of corpus linguistics by legal scholars “highly laborious and time consuming,” Bush
+asked
+“what if AI were employed to do all the review of the [search] hits and compile statistics on word meaning and usage? If the AI could be trusted, that would make the job of determining word meaning and usage much easier.” He added that “AI would allow us to easily quantify meaning of words and word usage,” with “quantify” referencing “how often a term or phrase is used to mean a particular thing versus something else.”
+Beyond deciphering the original public understanding of the Constitution’s words, Bush suggested AI could help judges search for relevant analogues and historical examples for today’s problems. This is important because the
+US Supreme Court
+in a 2022 Second Amendment
+decision
+asserted that the “historical inquiry that courts must conduct will often involve reasoning by analogy—a commonplace task for any lawyer or judge.”
+There are, of course, caveats. Bush
+noted
+that a database must be “comprehensive enough for a designated period in history.” Additionally, AI faces difficulty in “captur[ing] verbal speech” from “the founding era.” Finally, Bush noted that
+Article III
+of the US Constitution “vests judicial power in people, not technology,” so humans (judges) possess ultimate authority in interpreting the law. Nonetheless, Bush suggested judges could “rely on AI for assistance, a form of expert opinion, if you will.”
+I
+explained
+in January that Chief Justice John Roberts addressed in his
+year-end report for 2023
+the possible benefits and limitations that AI holds for the legal system. He did not, however, reference either originalism or text, history, and tradition. Yet, Roberts advised that “legal determinations often involve gray areas that still require application of human judgment.” Making judgments about what words and phrases meant many decades ago––either more than 230 years ago when the Bill of Rights was ratified or in 1868 when the
+14th Amendment
+, which lets the Bill of Rights apply to the states,
+was adopted
+––necessitates such human judgments in the absence of a definitive consensus explicitly expressed by the long-ago deceased.
+After reviewing Bush’s remarks, I emailed
+Matthew Schafer
+, an adjunct professor at
+Fordham Law School
+who
+specializes in historical analyses
+of First Amendment issues, to weigh in. He responded that
+originalism has always had an implementation problem. Judges are not historians, and they certainly do not have time to do historical research. Yet, originalism only works if judges are able to accurately and efficiently discern the original public meaning of the Constitution.
+Importantly, Schafer added,
+Rigorous historical research requires you to do just that. It requires a researcher to take up residence in a moment of history. You have to live in the moment. This is hard work. Only by immersing oneself in primary sources can one learn to speak and––more importantly––to think like those who lived in that moment. And only when we start to think like those in the past can we begin to understand that moment.
+Whether AI tools eventually will do that––live in a relevant moment of time, such as 1791, when the Bill of Rights was ratified––depends largely on the data and instructions they are fed. That, in turns, depends on human choices. For now, Bush and Schafer raise important points.

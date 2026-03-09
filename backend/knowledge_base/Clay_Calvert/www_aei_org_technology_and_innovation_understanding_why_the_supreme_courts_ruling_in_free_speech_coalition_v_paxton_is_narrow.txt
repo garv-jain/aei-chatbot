@@ -1,0 +1,106 @@
+PAGE_TITLE: 
+	Understanding Why the Supreme Court’s Ruling in Free Speech Coalition v. Paxton Is Narrow | American Enterprise Institute - AEI
+
+With the US Supreme Court now considering in
+NetChoice v. Fitch
+whether to reinstate an injunction blocking enforcement of Mississippi’s online age-verification and parental-consent
+law
+, it’s vital to understand the narrowness of the Court’s recent ruling in
+Free Speech Coalition v. Paxton
+.
+The Court in
+Free Speech Coalition
+upheld, against a First Amendment challenge, a
+Texas law
+that requires adult websites—those devoting more than one-third of their content to sexual material Texas deems “
+harmful to minors
+”—to verify all users’ ages. I earlier
+described
+how the six-justice conservative majority, in an opinion by Clarence Thomas, inventively avoided applying the stringent strict scrutiny test to examine the statute’s constitutionality. The majority instead used the relaxed intermediate scrutiny standard to declare Texas’s law valid.
+Via Adobe.
+Although ostensibly protecting minors, the outcome is problematic because it requires adults to sacrifice their anonymity and personal information in exchange for accessing speech they have a First Amendment right to receive. Put bluntly by Robert Corn-Revere of the Foundation for Individual Rights and Expression,
+the
+“ruling limits American adults’ access to only that speech which is fit for children—unless they show their papers first.”
+Justice Elena Kagan authored a
+dissent
+joined by Ketanji Brown Jackson and Sonia Sotomayor. They vehemently rejected the majority’s simultaneous sidestepping of strict scrutiny and fashioning of a new rule for selecting scrutiny in cases where, as Thomas wrote, “the First Amendment
+partially
+protects speech.” (Emphasis in original.) In short, the majority created a new, government-friendly mechanism for scrutiny determination that gives short shrift to adults’ ability to access content they have a right to view (speech that’s neither
+child pornography
+nor
+obscene
+). This workaround from strict scrutiny, however, is extremely limited.
+Free Speech Coalition
+Doesn’t Affect All Online Age-Verification Statutes
+.
+The Court in
+Free Speech Coalition
+examined an online age-verification law in a very specific context. Texas’s statute targets minors’ access to websites and platforms that feature—devote more than one-third of their material to—
+sexually explicit content
+that minors do
+not
+have a First Amendment right to view under the Court’s opinion in
+Ginsberg v. New York
+. In short, Texas’s statute aims
+only
+at expression the Court in
+Free Speech Coalition
+called
+“obscene to minors” and “age-inappropriate sexual content.”
+The very same content, however, is protected for adults’ eyes by the First Amendment. This created a rare situation: The Court had to weigh the burden that can be imposed on the First Amendment rights of
+adults
+to access speech that’s
+lawful
+for them against Texas’s interest in blocking
+minors
+from viewing speech that’s
+unlawful
+for their eyes.
+As Thomas
+wrote
+, the law’s “apparent purpose is simply to prevent
+minors
+, who have no First Amendment right to access speech that is obscene to them, from doing so.” (Emphasis in original.) The age-verification mandate thus concentrates narrowly on speech that, as noted above, “the First Amendment
+partially
+protects” (emphasis in original), given that adults possess a constitutional right to view it (it’s not obscene for them) but minors don’t.
+Those are exceedingly significant facts: They readily distinguish the age-verification law upheld in
+Free Speech Coalition
+from the
+one
+in
+NetChoice v. Fitch
+and numerous age-verification and parental-consent statutes that
+NetChoice
+has successfully
+challenged
+that broadly restrict minors’ access to (and, importantly, their right to engage in)
+fully protected
+expression on social media platforms. As the Electronic Frontier Foundation
+encapsulates
+it, “the Court’s reasoning [in
+Free Speech Coalition
+] applies only to age-verification rules for certain sexual material, and not to age limits in general.” The American Civil Liberties Union similarly
+stresses
+that
+Free Speech Coalition
+is “a limited opinion that does not permit age verification for non-sexual content online.” Indeed, Thomas emphasizes this narrowness, writing that the statute involves “an exercise of Texas’s traditional power to prevent minors from accessing speech that is
+obscene from their perspective
+.” (Emphasis added.)
+Courts must hold this line, confining
+Free Speech Coalition
+to its narrow factual context—one involving age-verification requirements imposed on adult-oriented sites to block minors from accessing sexually explicit material they don’t have a constitutional right to view. Unfortunately, lawmakers intent on restricting minors’ access to (and ability to engage in) all varieties of
+lawful
+expression on popular social media platforms will ask judges to stretch
+Free Speech Coalition
+to apply to
+any
+online age-verification law. Republican
+Jason Anavitarte
+, the Georgia State Senate majority leader, already did exactly that,
+contending
+a federal judge now has “no choice” but to let a
+currently enjoined
+age-verification and parental-consent statute that sweepingly limits minors’ (and adults’) First Amendment rights and access to social media platforms take effect.
+Anavitarte is mistaken.
+Free Speech Coalition
+is tightly tethered to its partially-protected-speech facts scenario involving sexual content. It does not provide a workaround from strict scrutiny review for all online age-verification statutes and does not give them a constitutional free pass.

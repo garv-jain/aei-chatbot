@@ -1,0 +1,16 @@
+PAGE_TITLE: 
+	Meet My Personal Learning and Career Coach: Artificial Intelligence | American Enterprise Institute - AEI
+
+AI is beginning to transform education, training, and workforce development, often in surprising and unexpected ways. At a recent AEI
+event
+, Leslie Sizemore, Associate Vice President of the Kentucky Council on Postsecondary Education talked about how state higher ed is using AI technology to help train students as Advanced Peer Support Specialists (APSS), who help guide individuals through substance use disorder recovery.
+Kentucky’s community colleges are experimenting with an AI chatbot with the goal of accelerating learning and guiding students along an integrated career pathway. Using CONVO, a GPT trained on the APSS educational materials, students can engage in realistic scenarios that simulate interactions with individuals with a substance use disorder. These simulations provide a safe environment for students to practice core peer support skills. Their hands-on nature helps to bridge the gap between theoretical knowledge and practical application and so better prepare students for real-world situations.
+CONVO’s 24/7 accessibility and real-time feedback helps create a customized and personalized learning experience. In addition to providing in-depth feedback on students’ interactions, it can suggest conversations, recommend conversational strategies, and reference course material for review. After the conversation, students can share a transcript with their instructor for additional feedback. CONVO also helps students plan their personal educational pathways advising students on course requirements and financial aid resources needed to reach their educational goals.
+There’s an important lesson here about education and training programs generally. Our current systems are often unable to offer the kind of tailored instruction needed to improve student and worker performance, especially that of students from disadvantaged backgrounds. As a recent
+study
+found, chatbots can help call center workers boost their job performance, productivity, and job satisfaction through interpersonal skills coaching. It increasingly looks like AI could rewrite the rules of education and training, enabling low or no cost tutoring in a wide range of learning and work environments. Such tutors will only become more useful and important as AI’s multimodal capabilities expand and improve. Watch Salman Khan, founder of
+Khan Academy
+, and his son
+demo
+GPT-4o and try not to be impressed as it provides instantaneous—and humanlike—math coaching.
+At its best, technology helps us surpass our natural limitations. Planes enable flight, medicine improves our health and extends our lifespans, and the Internet enables global knowledge-sharing and communication. On its current trajectory, AI may also accelerate skills acquisition, extending our professional capacities and boosting our careers with less of the arduous effort and time-investment that accompanies traditional learning. The potential impact of AI technology in improving and accelerating learning holds great promise for solving some of our most difficult human capital challenges.

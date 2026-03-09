@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	AI Governance: From Fears and Fearmongering to Risks and Rewards | American Enterprise Institute - AEI
+
+To better understand issues affecting governance over (and guardrails for) the development and deployment of artificial intelligence (AI) tools, it’s essential to step outside of one’s own research niche and listen to diverse and distinguished experts from the United States and abroad debate the matters. For me, that meant moving beyond examining First Amendment issues surrounding usage of algorithms and AI tools by social media platforms when moderating content and attending a two-day workshop last month in Atlanta hosted by Georgia Tech’s
+Internet Governance Project
+(IGP).
+Created with generative AI
+Here are two observations drawn from remarks by panelists and participants at the IGP’s
+workshop
+, “Does AI Need Governance? Examining the Political Economy of Machine Learning.” To be clear, these points were raised by others such as
+Viktor Mayer-Schönberger
+and
+Andrew Strait
+, not me (i.e., I’m not claiming ownership). Indeed, hearing from experts outside of one’s own tiny domain of knowledge is necessarily a humbling experience, driving home the point that there are many different lenses and perspectives through which to view any single topic, especially one as timely and momentous as AI. A final caveat: These are simply my interpretations of what others said or seemingly meant; hopefully (in generative AI parlance) I haven’t hallucinated too much.
+Fears and Fearmongering
+: To understand the impulses for regulating AI, one first must identify: (1) the frets and worries driving them, and (2) the individuals and organizations propounding fear-embracing narratives and peddling them to lawmakers and the public. Fears may include the notion that AI endangers human decision making––human agency over decisions and the ability to independently decide things well. If that’s the case (that what society wants to protect is a sense of human control over decisions rather than turning them over to AI), then adopting guardrails that facilitate human agency and choice when interacting with AI tools may be appropriate. Similarly, understanding that AI tools can serve to complement or enhance human judgment, rather than substitute for it, may quell these concerns.
+Another fear driving calls for greater AI governance may be a lack of trust in the companies and individuals now wielding power over AI. This possibly stems partly from the larger phenomenon of a so-called techlash or when a company like OpenAI purportedly changes its core values and then
+restructures
+itself into a for-profit enterprise. Relatedly, my colleague
+John Bailey
+recently
+argued
+that “the AI industry must pivot from reactive lobbying to proactive outreach and education to inform public policy.” Indeed, educating the public––not just lawmakers––may be essential to gain public trust when it comes to AI.
+Ultimately, who gets to (and how we) frame the risks (the fears, real or imagined) and rewards from AI is crucial. As one panelist noted, perceived threats tend to drive both government and private funding efforts to reduce them. Another panelist remarked that unrealistic threat models will lead to faulty policies. Ensuring that no single stakeholder hijacks the risks-versus-rewards, fears-versus-benefits conversation for their own self-interest thus is imperative.
+Evaluating and Mitigating Risks
+: When it comes to risks posed by AI, important considerations involve how we evaluate and measure them (considering the likelihood or probability of the risk becoming a negative reality, as well as the magnitude or severity of that negative impact on individuals and society) and how the burden for mitigating risks should be distributed across governments, corporations, users, and others. Anyone who attended law school will recognize shades of Judge Learned Hand’s famous formula for
+negligence
+and tort principles of
+risk distribution
+creeping into these issues.
+A pivotal issue here involves how governments can incentivize corporate governance policies that attempt to mitigate risks from AI through self-regulation while reducing the need for heavy handed risk-mitigation laws imposed by the government that may unintentionally stifle AI’s benefits. In other words, how can governments attempt to influence organizational actions, letting them enforce voluntary and meaningful guardrails? If compliance burdens become too onerous––perhaps because, hypothetically, 50 states adopt 50 different policies governing AI that a business must comply with––this may deter AI innovation. In brief, regulatory fragmentization carries its own costs.
+Relatedly, panelists addressed whether there are simply too many different initiatives––from governments and private organizations––now percolating regarding how best to manage AI’s risks and rewards. Some of those initiatives may overlap or have synergies that suggest that some consolidation of duplicative or similar efforts may be helpful. There also may be a danger stemming from a certain amount of competition to become the first to speedily race to adopt a regulatory framework (and to have one’s name prominently attached to it). Being first, of course, doesn’t always mean being correct, as journalists chasing
+the scoop
+have repeatedly learned.
+In sum, understanding public fears of AI while measuring risks and rewards of AI usage can spur informed governance.

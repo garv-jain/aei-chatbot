@@ -1,0 +1,29 @@
+PAGE_TITLE: 
+	The National Telecommunications and Information Administration Steps Beyond Congress’s Purview in Broadband Deployment Plans | American Enterprise Institute - AEI
+
+The National Telecommunications and Information Administration (NTIA) is the distributor of grant funds from the Infrastructure Investment and Jobs Act (IIJA), which the Biden administration
+calls
+a “once-in-a-generation investment in our nation’s infrastructure and competitiveness.” The $42.45 billion
+Broadband Equity, Access, and Deployment
+(BEAD) program is the NTIA’s largest mechanism for distributing grant funds; through a combination of grant formulas, states will receive and pass along funding for broadband coverage in unserved or underserved populations down to cities, towns, and municipalities. Each state that applies for BEAD grants is
+eligible
+to receive a minimum allocation of $100 million and can request $5 million for “Initial Planning Funds” to prepare a grant application.
+The BEAD program is complemented by several additional federal government programs, including $2 billion for state digital equity grants, $2 billion for tribal broadband connectivity, $1 billion for middle-mile network grants, $2 billion for broadband grants and loans distributed by the Department of Agriculture’s Rural Utilities Service, and $600 million in Private Activity Bonds for qualified broadband projects.
+via Adobe open commons
+NTIA unveiled BEAD this past summer alongside the new Office of Internet Connectivity and Growth. The BEAD Notice of Funding Opportunity (NOFO) has been at the center of attention ever since; 13 senators sent a
+letter
+to NTIA in August asking for clarification around the NOFO’s guidance to states regarding funding applications, since NTIA stepped beyond Congress’s intent by issuing specific guidance to meet new environmental, labor-related, and social goals created by the administration, not the IIJA. The letter applauds the intense effort needed to accomplish the goal of universal broadband access across America, but it calls for NTIA to roll back these additional requirements and administrative burdens that are not in the legislation passed by Congress and are not consistent with its intent.
+The introduction of
+rate regulation
+for broadband prices topped the senators’ list of concerns. They
+noted
+that the IIJA established the Affordable Connectivity Plan at the Federal Communications Commission, eliminating any alleged need for rate regulation by letting eligible households apply for a $30 per month benefit that can be applied to any internet service offering. “The bipartisan negotiators were also deliberate to prohibit the NTIA, or any other federal agency, from regulating rates of broadband service,” they added, noting that the IIJA clearly states: “Nothing in this title may be construed to authorize the Assistant Secretary or the National Telecommunications and Information Administration to regulate the rates charged for broadband service.”
+Yet the BEAD NOFO is specific about a “middle-class affordability plan” that includes rate regulation as a criterion for states’ grant eligibility. But again, rate regulation does not appear in the IIJA; in other words, Congress did not direct NTIA to take on this task, yet NTIA is moving forward with it as part of its grant program.
+The NOFO also demonstrates preference for symmetrical upstream and downstream internet speeds of one gigabit per second and requires that any participating internet service provider offer speeds of at least 100 megabits per second (Mbps) for downloads and 20 Mbps for uploads. Again, the senators point out that this requirement was added by the administration—not stipulated in the IIJA.
+The NOFO explicitly prioritizes fiber over other technologies with a strong track record of serving hard-to-reach communities such as fixed wireless and satellite. Like the above-mentioned provisions, this preference for fiber is not established by the IIJA. While fiber is at times a preferred way to deliver end-to-end service to consumers, there are many areas of the country where the cost of fiber is exceptionally high due to geographic challenges. Other technologies are capable of more immediately connecting unserved areas that can scale up over time, enhancing speeds as technology advances.
+At a recent AEI event I hosted, Duke University’s Michelle Connolly
+noted
+four objectives in the NOFO that have nothing to do with broadband deployment: “Buy American,” which exacerbates supply chain issues; union labor and workforce requirements, which add to the cost and greater challenge of labor shortages; the aforementioned middle-class affordability program created by NTIA, not Congress; and waiving existing state laws that restrict government provisions of certain services—
+namely, municipal internet
+. These obligations reduce the actual dollars available to deploy broadband connectivity to citizens.
+These extraneous requirements will likely cause delays in broadband deployment with little benefit to the intended recipients. Once broadband is in place, many communities may wish to pursue the guidance NTIA has added to increase local involvement and provide information about the comprehensive capabilities an internet connection can bring to work, play, and communication. But slowing deployment and encumbering programs with expensive priorities that follow the administration’s political goals should not be part of the states’ BEAD planning or connectivity programs.

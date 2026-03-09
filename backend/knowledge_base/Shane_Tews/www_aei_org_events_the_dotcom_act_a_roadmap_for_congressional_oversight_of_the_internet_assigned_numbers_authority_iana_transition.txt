@@ -1,0 +1,15 @@
+PAGE_TITLE: 
+	The DOTCOM Act: A Roadmap for Congressional Oversight of the Internet Assigned Numbers Authority (IANA) Transition | American Enterprise Institute - AEI
+
+Event Summary
+How can Congress, private interests, and other international stakeholders best manage the transition of the Internet Assigned Numbers Authority (IANA) function away from the US Department of Commerce? On Wednesday, July 29, Rep. John Shimkus (R-IL) and four members of the Internet governance community addressed this question at a breakfast roundtable at AEI.
+Rep. Shimkus began by pointing out that Congress has scarcely had an opportunity to review this transition process. Without the passage of the DOTCOM Act, he argued, Congress will not have the chance to obtain complete information regarding this transition’s challenges. Additionally, Congress will lack the authority to review the transition plan before it moves forward. He concluded by endorsing the multistakeholder model, while emphasizing the potential consequences of a failed transition.
+Following Rep. Shimkus’s remarks, panel members addressed other issues at stake in this transition, including the challenge of balancing copyright enforcement with free speech, the involvement of various governments in the transition, and the significance of the transition itself.
+Overall, it was clear from the day’s discussion that this debate is not over and that many issues remain unresolved as we approach the transition’s September deadline.
+–Evelyn Smith
+Event Description
+Early last year, the US Department of Commerce announced its intention to relinquish oversight of the Internet Assigned Numbers Authority (IANA) function, which allocates Internet domain names and their corresponding IP addresses. The function’s contract is slated for either expiration or renewal in September 2015. This important role’s transition to the international community has been challenging, and appropriate review will be needed to safeguard the Internet’s core infrastructure and the proper stewardship of this function going forward.
+On Wednesday, July 29, Rep. John Shimkus (R-IL) will speak on the Domain Openness Through Continued Oversight Matters (DOTCOM) Act, a bill which provides a framework for congressional oversight of the transition. Following his remarks, members of the Internet governance community will comment on the bill and outlooks for the transition’s progress.
+Breakfast will be served.
+If you are unable to attend, we welcome you to watch the event live on this page. Full video will be posted within 24 hours.
+VIDEO

@@ -1,0 +1,65 @@
+PAGE_TITLE: 
+	Addictive Design: The Legislative and Litigation Synergy Driving Florida’s Social Media Crackdown | American Enterprise Institute - AEI
+
+When Florida Governor Ron DeSantis
+signed
+a bill
+last month banning anyone “younger than 14 years of age” from holding accounts with certain social media platforms, it garnered coverage in the
+Wall Street Journal
+,
+Washington Post
+, and
+USA Today
+.
+The New York Times
+deemed the law “one of the more restrictive measures that a state has enacted so far in an escalating nationwide push to insulate young people from potential mental health and safety risks on social media platforms.” Known as
+House Bill 3
+, it also requires 14 and 15-year-olds to obtain parental or guardian consent to hold an account. As I previously
+described
+, an earlier version––
+House Bill 1
+––that DeSantis vetoed was even broader, banning any Floridian under age 16 from holding a social media account.
+Via Reuters
+Others
+have encapsulated the law’s problematic (and likely unconstitutional) nature. As trade association
+NetChoice
+explained to DeSantis in a
+March 7 letter
+asking him to veto House Bill 3, the law violates minors’
+First Amendment
+rights to obtain lawful information and “presents serious privacy concerns” by requiring data collection and verification for obtaining online parental consent.
+One facet of House Bill 3 meriting greater attention is that it defines regulated platforms partly by whether they incorporate any one of five “
+addictive features
+.” These allegedly addictive design elements include: (1) infinite scrolling, such as platforms continuously loading content or featuring seamless content without page breaks; (2) push notifications and alerts sent by platforms “about specific activities or events related to the user’s account”; (3) displays of “personal interactive metrics” such as the number of times a user’s post is liked or shared; (4) auto-play video that starts without having to click it; and (5) “Live-streaming or a function that allows a user or advertiser to broadcast live video content in real-time.”
+This is significant because using these supposedly “addictive features” to statutorily define the platforms on which minors’ account holding is barred or necessitates parental permission closely mirrors allegations in Florida’s
+complaint
+filed last October against Meta and Instagram. In trumpeting that lawsuit, Florida Attorney General
+Ashley Moody
+said
+she was trying “to stop Meta from targeting minors with addictive features to keep them online for hours . . . [and] harm teens’ mental health.”
+Among other allegations, the
+complaint
+asserts that “Meta has designed its Platforms to exploit the teenage brain’s susceptibility to the addictive features of its Platforms” and has engaged in “deceptive representations,” including claiming that its platforms “are not addictive, are not designed to be addictive and [are] less likely to result in psychological and physical harm for children than their . . . Platforms are in reality.”
+Some of the same features targeted in the complaint have now made their way into Florida law via House Bill 3. For example, the lawsuit asserts that design features “such as infinite scroll, . . . autoplay, and disruptive alerts are unfairly used by Defendants to extract additional time and attention from children whose developing brains were not equipped to resist those manipulative tactics.” It further alleges that Meta “continues to develop and implement features that induce young users’ harmful, extended and compulsive social media use.” All of this allegedly violates Florida’s statutes targeting
+deceptive and unfair trade practices
+.
+In short, Florida’s litigation and legislation now simultaneously attack social media platforms for deploying supposedly addictive design features harming minors. The legislation essentially tells platforms that if they want unfettered access to minors of certain ages, then they simply shouldn’t include any of the five design features described earlier. Voluntarily jettisoning those elements, in other words, opens a pathway to minors’ business that avoids litigation. It’s an interesting statutory tactic––if that’s its purpose––to try to change the business models and design elements of private companies. It’s somewhat akin to stringent
+California laws
+that affect how vehicles sold elsewhere are designed.
+Meanwhile, the discovery process in Florida’s lawsuit against Meta and Instagram may eventually shed light on whether the design features are, in fact, addictive and harmful. After all, statutorily labeling design elements “addictive features” does not make them so.
+Florida, as I
+described earlier
+, is far from alone in suing social media companies over allegedly addictive design features that supposedly promote compulsive usage harming minors. I
+explained in early November
+that such
+lawsuits
+typically target platforms’ alleged design defects (their purported addictiveness mechanisms), using
+negligence
+claims,
+products liability
+theories, and
+states’ consumer protection statutes
+“to thwart First Amendment defenses and block the federal statute—
+Section 230
+—that generally shields platforms from liability for hosting and removing others’ content.” Whether these end-run efforts ultimately succeed remains to be seen.
+For now, we’re witnessing a Red-state legislative body follow the strategic lead of its attorney general in an escalating battle pitting free-speech and privacy interests against ostensible harm to minors.

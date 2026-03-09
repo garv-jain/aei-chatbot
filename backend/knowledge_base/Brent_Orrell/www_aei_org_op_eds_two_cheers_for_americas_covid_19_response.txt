@@ -1,0 +1,76 @@
+PAGE_TITLE: 
+	Two Cheers for America’s COVID-19 Response | American Enterprise Institute - AEI
+
+In March 2020, a seismologist at the Royal Observatory of Belgium reported, “the Earth was suddenly still.” This was not a metaphor. Nicholas Christakis, a Yale physician-sociologist recounts this pandemic-induced seismic pause in
+Apollo’s Arrow: The Profound and Enduring Impact of Coronavirus on the Way We Live
+, one of the truly indispensable books for understanding the social implications of COVID-19. Normally, as human beings move about we create a seismologically measurable “rattle.” When COVID reached pandemic proportions, the rattle abruptly stopped.
+The sudden quiescence of a large portion of the planet’s 8 billion people wasn’t an accident. It was a spontaneous response to a severe public health threat that morphed into a policy. A deadly disease, and limited therapies and resources to respond to it, meant that the best available tools were “non-pharmaceutical interventions” (NPI). The most powerful and effective of these NPIs were various forms of social distancing including the shuttering of businesses, schools, and other public venues. The earth didn’t stand still but the people living on it did.
+This abrupt downshift threatened to
+close businesses permanently
+and
+impoverish families
+and individuals suddenly
+deprived of work
+and income. Governments
+around the world
+went on fiscal and monetary sprees seeking to cushion the blow of lost business and work with the hope of keeping as many people as possible healthy, housed, and fed while ensuring economies, if not fully intact, had the capacity to restore operations as pandemic conditions eased.
+In the United States, the two most important federal COVID initiatives (aside from the
+Fed’s liquidity actions
+to support financial markets) were built to address the interconnected needs of workers and employers. The
+expansion
+of federally funded unemployment insurance (UI) programs aimed to maintain incomes while actively encouraging workers to
+stay home
+to prevent illness and death and to protect the health system from an overwhelming surge of COVID cases. The
+Paycheck Protection Program (PPP)
+sought to sustain business infrastructure, especially for small businesses, and the connection between businesses and their furloughed workers, through continued payment of salaries and other operating costs during periods of shutdown. Together these programs spent a combined $1.5 trillion:
+$835 billion
+for PPP (in three tranches) and
+$680 billion
+for expanded and “topped-up” UI benefits to
+30 million American workers
+. All this was achieved not only quickly but with broad, bipartisan support in Congress. The
+Coronavirus Aid, Relief, and Economic Security (CARES) Act
+passed the House of Representatives by
+419 to 6
+and the Senate by
+96 to 0
+. President Trump signed the bill into law immediately. Record-breaking bipartisan work done in record-breaking time.
+Assessments of the effectiveness of PPP and the UI expansions are beginning to tell us whether, how, and to what degree these programs fulfilled their policy objectives. A recent
+evaluation
+of PPP by MIT’s David Autor
+et al.
+found that while expensive ($169,300 per job-year saved) and tilted toward high earners ($365.9 billion, or 72 percent, of PPP benefits went to the top 20 percent of earners), the program was successful in stabilizing business and preventing bankruptcies. Ninety-four percent of small firms (those with 500 or fewer employees) took part in PPP, helping to limit long-term damage to the economy and the job market.
+It is a similar story with the UI expansions directed to supporting workers during shutdowns. One
+study
+published in July 2020 found that the enhanced UI benefits successfully replaced household incomes and helped maintain macroeconomic demand levels during closures. A recent
+evaluation
+by my AEI colleagues Michael Strain and Glenn Hubbard and Georgetown University’s Harry Holzer looked at the program from the perspective of its impact on work and economic welfare. UI expansions, they concluded, did have the effect of discouraging workforce re-entry last summer (remember, discouraging work was a feature, not a bug, or perhaps a feature that became a bug) and the early withdrawal of benefits by certain states increased the number of households reporting economic difficulties. The UI expansions may have gone on too long but they were, in fact, working to reduce COVID-induced hardships.
+On the disease-mitigation side, a peer-reviewed
+study
+published in June 2020 estimated that NPIs prevented as many as 60 million U.S. infections during the first wave of disease.
+Reason
+magazine’s Ron Bailey, extrapolating from the  2020 study,
+estimated
+the reduction in infections reduced hospitalizations by 575,000 during the first wave. The health system was, and remains, highly stressed by COVID-19 and health workers are experiencing
+burnout
+, but so far the system hasn’t buckled. Of course, the counterfactual analysis of NPIs (what would have happened
+without
+them) remains contested ground, and it will be years before epidemiologists poring over all the data will start to reach consensus conclusions, but the
+weight
+of
+evidence
+available now suggests that NPIs were important to reducing the pandemic’s disease and health-system impacts. In other words, the pillars of pandemic control—NPIs and government supports for the workers and businesses impacted by them—appear to have spared the country a lot of suffering, albeit at high costs fiscally and
+socially
+.
+Having painted a somewhat rosy picture of success, it’s important to acknowledge the asterisks. As the Autor study found, PPP could have been better
+targeted to small firms
+, which might have spread program resources more evenly. As has been well documented, the explosive and largely unregulated release of new and enhanced UI benefits, much of which were delivered based on “self-certification,” was subject
+to enormous fraud
+driven chiefly by criminal entities outside the United States. As noted already, these programs also appear to have slowed the return to work as vaccines took hold and pandemic conditions improved. Much still needs to be done to
+reform and increase the capacities
+of the federal and state governments to more effectively and efficiently deliver emergency benefits to avoid some of these pitfalls in the future.
+But the key word here is “emergency.” It’s likely that with better planning, greater transparency from public health leadership, and less COVID partisanship, especially in late 2020 and in the early days of the Biden administration, we could have protected even more people from infection and death and avoided some inefficiency, fraud, and waste. That, however, was not possible given the dynamics of the election year and the presidential transition.
+To an important degree, though, a crisis like COVID-19 can never be fully anticipated and there will always be some level of disagreement over how to respond when the policy tradeoffs between economic freedom and public health are so profound. Contingency will thwart and confound our best-laid plans. But grading on the curve of a once-in-a-century pandemic, it’s arguable that Americans and their federal and state governments ought to give themselves a bit more credit for their handling of the pandemic, as imperfect and contentious as it has been.
+Relative successes like PPP and expanded UI (as well as stunning, world-historic achievements like the Trump administration’s
+Operation Warp Speed
+) are signs of a society and political order that, whatever its many faults and frictions, was still able to rally in a crisis to do essential work. The downstream consequences of PPP (moral hazard in future crises, enriching the already rich, “zombie” businesses that probably should have been allowed to fail) and the federal UI expansion (fraud, waste, post-crisis labor shortages, and wage inflation) have yet to reveal themselves fully, much less resolve. But those problems are much preferable (to me, anyway) than what otherwise might have happened: even higher levels of illness and death, an imploded health system, and economic ruin. Right now, we should be counting our blessings that America’s COVID response may in fact have been better than it looked in dealing with the biggest global crisis since the Second World War.

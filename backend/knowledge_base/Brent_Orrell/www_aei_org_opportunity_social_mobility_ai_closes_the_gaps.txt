@@ -1,0 +1,23 @@
+PAGE_TITLE: 
+	AI Closes the Gaps | American Enterprise Institute - AEI
+
+It’s a perennial hazard of the policy and opinion space that just about the time one is ready to hold forth on a topic, another, smarter, faster writer jumps in. On the one hand, it’s a bummer; on the other, the explanation of the issue is so good and comprehensive, all one can do is admire, appreciate, and occasionally add to it.
+Over the weekend, economics blogger Noah Smith published “
+Revenge of the Normies
+,” an exploration of how artificial intelligence applications may be about to resolve some of the biggest inequities in the American workforce. For decades, we have been plagued by a “skills gap”: the difference between in-demand skills and the actual skills of American workers. Sometimes, these skills are very high-end, like those required by computer programmers, IT specialists, or skilled trades’ workers. More generally, employers complain about a problem with “soft” or noncognitive skills which, taken as a whole, add up to the ability to relate well to other people and learn on the job. These skills are
+all but required
+in America’s fast-moving (and accelerating) technological environment.
+As Smith points out, these skills gaps have tended to reinforce the advantages of the “nerds,” the highly educated workers who are adept with technology. These nerds became the chosen people of the US economy, reaping strong wage growth as well as social status. The “normies,” not so much. The “average” person was left behind as the premium on college degrees and advanced skills rose relentlessly. As Smith says in his blog post, it looked like it would go on this way forever.
+Then artificial intelligence, the culmination of decades of investment in nerd-work, arrived on the scene with some surprising effects. A growing number of studies, which Smith covers, show how AI is actually helping to “level up” the workforce by substituting computer algorithms for the intellectual labor that increasingly dominates the economy. Don’t know how to code? No problem,
+there’s an AI for that
+. Struggle with writing? ChatGPT is one vast auto-complete system that can
+help you express yourself better than you ever thought possible
+. Need help studying for the LSAT? An AI assistant
+can help boost your performance
+. Is drawing a challenge? Midjourney can take a few words in your head and turn them into pictures. Unsure how to deal with an angry or frustrated customer? AI can help
+smooth ruffled feathers and simultaneously solve complex technical problems
+. And on and on.
+In the past, technological advances have had the biggest effects on manual tasks, like factory work, while leaving heavily cognitive tasks, such as accounting or law, largely untouched.
+Generative AI
+may reverse this historical pattern, raising the specter of a world in which robots don’t just automate physical processes but are increasingly proficient at automating intellectual processes as well. Effectively, generative AI is robotic automation for the brain. Factory robots reduced back-breaking physical labor; AI may do the same for intellectual labor, reducing human cognitive loads while leveling the playing field for those who lack the education, social-emotional skills, or training they need to work at the high levels our advanced economy requires.
+This is a remarkable, exciting, and hopeful turn of events in the world of work. The nerds have (unintentionally) delivered technologies that will help others keep up with the pace of change and build new, more prosperous futures. It truly is a world, or at least an economy, turned upside-down.

@@ -1,0 +1,91 @@
+PAGE_TITLE: 
+	Content Creators vs. Generative Artificial Intelligence: Paying a Fair Share to Support a Reliable Information Ecosystem | American Enterprise Institute - AEI
+
+Imagine two companies in the same business––generating and delivering information to consumers. One has done it for more than 170 years, the other––
+founded in 2015
+––for
+about 15 months
+. The older company invests substantial financial resources in paying its employees to create “
+original works of authorship
+” that are so valuable that “
+more than 10 million subscribers pay
+” to receive them. The new company arrives and, instead of hiring its own people to research, write, and edit original content, relies on––“
+without consent or compensation
+”––the older company’s intellectual property and lets a software application produce content it confesses “
+may not always be accurate
+.” In fact, the newcomer sometimes attributes such “
+misinformation
+” to the older company, tarnishing its reputation.
+Via Reuters
+That’s the gist of
+a federal lawsuit
+filed in late December by the
+New York Times Company
+against
+Microsoft
+,
+OpenAI
+, and a “web of interrelated” OpenAI companies known for
+ChatGPT
+, a generative artificial intelligence program. For older readers, this may sound like a 1970s
+commercial
+starring
+John Houseman
+for a company that makes “money the old-fashioned way”––earning it through “hard work, research”––over an upstart that “bite[s] you on the bottom” to say “we’re here.” But make no mistake, this is serious business for the information ecosystem.
+The
+Times’s
+lawsuit is one of several brought by content creators ranging from
+renowned fiction authors
+to
+prizewinning nonfiction writers
+to
+comedian Sarah Silverman
+against generative AI companies that train their
+large language models
+(LLMs) on the content creators’ intellectual property. These cases involve pressing policy concerns about incentivizing and rewarding human creation of original content, as well as knotty legal problems regarding intellectual property and the copyright concept of
+fair use
+.
+The
+Times’s
+69-page
+complaint
+boils down to a key assertion: Microsoft and OpenAI “seek to free-ride on The Times’s massive investment in its journalism by using it to build substitutive products without permission or payment” that “steal audiences away from” the newspaper while propelling OpenAI’s “valuation to as high as $90 billion.” The complaint asserts that the newspaper sued only after “months” of negotiations failed to produce an agreement that would let the paper receive a “fair share” for its content.
+The ramifications of Microsoft and OpenAI’s alleged “systematic and competitive infringement” of the
+Times’s
+intellectual property rights stretch far beyond the fiscal well-being of a lone business. The defendants’ purported free-riding threatens the “public interest” and “our democracy” by disincentivizing the production of quality and independent reportage across the journalistic board:
+If The Times and its peers cannot control the use of their content, their ability to monetize that content will be harmed. With less revenue, news organizations will have fewer journalists able to dedicate time and resources to important, in-depth stories, which creates a risk that those stories will go untold. Less journalism will be produced, and the cost to society will be enormous.
+One may disagree with the
+Times’
+editorial opinions and quibble with the stories it prominently features, but its
+complaint
+correctly emphasizes the “damaged information ecosystem . . . awash in unreliable content” in which we currently live.
+National newspapers like the
+Times
+and
+Wall Street Journal
+will play an increasingly vital role in informing citizens as reliable local journalism dwindles. Northwestern University’s November 2023
+report on the state of local news
+predicts that given “the current trajectory, by the end of [2024], the country will have lost a third of its newspapers since 2005. Discouragingly, the growth in alternative local news sources—digital and ethnic news outlets, as well as public broadcasting—has not kept pace with what’s being lost.” The report adds that “residents in more than half of U.S. counties have no, or very limited, access to a reliable local news source—either print, digital or broadcast.”
+Large daily newspapers also are suffering, with fewer journalists employed to cover the news. The Northwestern report
+asserts
+that “many of the large dailies owned by chains employ less than a fifth of the journalists on staff in 2005.” Gannett,
+the country’s largest newspaper chain
+, has
+severely cut its number of employees
+in the
+past three years
+.
+One solution involves generative AI companies entering into licensing agreements with content creators, paying them for using their copyrighted works. The venerable Associated Press news service
+did just that
+in July 2023 with OpenAI. Additionally,
+Axel Springer
+, owner of
+Politico
+and Business Insider,
+entered into an agreement
+with OpenAI last month that allows content usage from “Springer media brands for advancing the training of OpenAI’s sophisticated” LLMs.
+OpenAI virtuously
+proclaims
+it wants to “redistribute profits from our work to maximize the social and economic benefits of AI technology.” Forget––temporarily––post-hoc redistribution: Paying the
+Times
+and news organizations upfront for content that economically benefits OpenAI’s generative beast is essential for a well-informed citizenry.

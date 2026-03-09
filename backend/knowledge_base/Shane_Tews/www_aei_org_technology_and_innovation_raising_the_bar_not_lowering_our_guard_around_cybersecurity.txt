@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	Raising the Bar, Not Lowering Our Guard, Around Cybersecurity | American Enterprise Institute - AEI
+
+Last week’s global IT outage demonstrated the vulnerability of our deeply interconnected digital infrastructure. A single unchecked software update by the cybersecurity company CrowdStrike to its customer, Microsoft, rapidly cascaded into a series of worldwide disruptions throughout the network of operating systems, with CrowdStrike’s cybersecurity solutions safeguarding
+nearly
+60 percent of the Fortune 500, 86 percent of US states, and most industry leaders.
+The security vendor incident and the global IT outage it caused demonstrated the danger of kernel-level access to a system’s operating core. Kernel-level access is the highest level of access to system resources in an operating system. In this case, CrowdStrike pushed out an update of its Falcon sensor software program that created what the end-user saw as the “Blue Screen of Death,” making an extensive enterprise system no longer interoperable and disrupting business at airlines, banks, medical facilities, media outlets, and many more.
+Photo by Kostas Pikoulas/Sipa USA
+Sky News, which could not broadcast during the outage,
+reported
+a faulty software update that caused the global IT outage, most likely skipping needed security checks before deployment. The disruption, while not the result of malicious activity, underscores the critical role of rigorous testing protocols before deploying updates to production systems, the vital need for thorough security vetting processes, especially for third-party software and updates, and robust security processes for all software updates deployed across our interconnected systems. According
+to Steve Cobb
+, chief security officer at Security Scorecard, “What it looks like is, potentially, the vetting or the sandboxing they do when they look at code, maybe somehow this file was not included in that or slipped through.”
+Interestingly, smartphone operating systems remained relatively unaffected by the global IT crisis. This resilience can be attributed to their unique architecture, which currently includes robust sandboxing of app software as part of the app store approval processes. This security-by-design feature limits access to the core operating system by vetting each app before it can be downloaded, preventing harm to the individual’s device and guarding against the ability to cause widespread disruptions. These protective measures have historically shielded mobile ecosystems from many vulnerabilities affecting other systems.
+However, new regulations, particularly the Digital Markets Act (DMA) in Europe, threaten to dismantle these protections. The Digital Markets Act (DMA) aims to boost competition in digital markets but may unintentionally compromise critical security measures. By requiring major platforms to allow direct app downloads and bypassing official app stores and their security checks, the DMA could expose users to unvetted, potentially harmful software, just as CrowdStrike’s software did to Microsoft.
+The DMA’s mandated openness risks undermining existing security protocols, and as other governments consider similar legislation, there’s a potential for weakening mobile security standards globally. EU officials have been warned by many, myself
+included
+, that complying with the DMA regulation could cause security concerns; as Trusted Future
+pointed out
+this spring, “It seems impossible to square the circle between allowing any and every unvetted app onto devices and maintaining or ensuring the security and privacy of consumer, enterprise, critical infrastructure, and government users, networks, and data.” Yet, Margrethe Vestager, Executive Vice President of the European Commission,
+disagrees
+with the premise that the DMA harmed security and argues instead that it’s up to the company to fix the security problems while complying with the new DMA mandates.
+Meanwhile, Apple and Microsoft have
+different approaches
+to system security due to legal and historical reasons. In 2020, Apple restricted developers’ kernel-level access to MacOS, enhancing security. Microsoft, however, can’t implement similar restrictions on Windows because of a 2009 agreement with the European Commission. The agreement requires Microsoft to provide security software makers the same level of access to Windows that Microsoft has, resulting in a more open but potentially less-secure system than Apple’s approach. As Amit Yoran, chief executive of cybersecurity firm Tenable
+notes
+:
+Because
+Apple
+runs a closed ecosystem, the company has a ‘much healthier balance between forcing people to upgrade, forcing applications to maintain good security practices, or they pull them off of the App Store’
+As last week’s outage lays clear, policymakers need to grasp the workings of proactive cybersecurity measures. However, European regulators risk breaking the security before it is implemented into another company’s operating system. The DMA’s regulatory obligation to allow any company to load their app onto the mobile operating system by bypassing the App Store security review exposes mobile ecosystems to a wide range of vulnerabilities.
+Moving forward, we can work towards a more secure digital future by learning from recent incidents, questioning the outcomes produced by new regulatory mandates, and encouraging the continued implementation of comprehensive, resilient security approaches. However, this will require ongoing vigilance, adaptive strategies, and a commitment to prioritizing security by design in our increasingly interconnected digital world for enterprises and end consumers alike.

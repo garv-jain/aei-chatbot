@@ -1,0 +1,103 @@
+PAGE_TITLE: 
+	Answering the Paris Call: An Important Step for US Cybersecurity Leadership | American Enterprise Institute - AEI
+
+By Shane Tews and Ivana Stradner
+The
+Paris Call for Trust and Security in Cyberspace
+was
+launched in 2018 by French President Emmanuel Macron with the goal of promoting
+a multi-stakeholder, multilateral solution to improve trust, security, and
+stability in cyberspace. When this public call for global action was made in
+2018, the US did not answer it. But this past month, the Biden administration
+changed the US position when Vice President Kamala Harris
+endorsed
+the Paris Call in person during a meeting with
+Macron.
+French President Emmanuel Macron and US Vice President Kamala Harris meet in Paris, France, November 12, 2021, via Reuters
+Cybercrime
+costs
+the US and Europe billions of dollars per year and
+generates
+trillions in profits for criminals. Cybercrime
+was front-page news after an attack
+derailed
+critical American infrastructure earlier this
+year; the Paris Call specifically calls out this type of activity as contrary
+to the international document’s guidance for global security. It
+specifically
+calls out “indiscriminate or systemic harm to individuals and critical
+infrastructure,” which would include shutting down an electric grid.
+Unsurprisingly, the US government has been trying for some
+time to find a range of solutions to deter malign cyber actors through bilateral
+and multilateral channels. By answering the Paris Call, the US will now
+participate in collaborative efforts to combat cybercrime and “make
+cyberspace
+a free, secure, and open place.” But is this the
+ultimate solution to America’s cyber woes?
+While the Paris Call represents a symbolic step in the right
+direction, its aims are limited in scope. The Paris Call has been framed as a
+nonbinding declaration full of nice ideas — namely, that we should work
+together to tackle new threats; agree to the fundamental rights and principles
+the United Nations (UN) pledges its member governments to (but in cyberspace);
+protect the internet, individuals, and infrastructure from harm; defend
+electoral processes; prevent retaliatory hacks; strengthen international norms;
+and — where corporations were very eager to sign on — defend intellectual
+property.
+For the Biden administration, this effort falls squarely
+into its
+stated
+priority
+of renewing the transatlantic relationship and
+strengthening America’s engagement with the international community on cyber
+issues. The declaration has joint support from the European Union’s 27 member
+states and now the US. Encouraging collaboration in the Paris Call appears to
+be in everyone’s best interest, so why is it unlikely that this document will
+make a major difference in the cybersecurity challenge?
+First, this is a nonbinding agreement that lacks a
+supranational authority to enforce international legal obligations. Regardless,
+we should perceive it as a coordination platform on which states and nonstate
+actors can communicate their cybersecurity needs and make security of digital
+assets a top priority.
+Second, although some countries have refused to support the
+Paris Call, major tech companies including Facebook, Google, Hewlett-Packard,
+International Business Machines, Microsoft, and even Moscow-based Kaspersky Lab
+have
+joined
+because they see an opportunity to limit risk liability through a
+multi-stakeholder set of agreements on international cyber norms — that
+include
+nation-states — to deter cybercrime, espionage,
+data theft, and attacks against individuals and infrastructure.
+Third, without the support of countries such as China, Iran,
+or Russia — notorious for their malign behaviors in cyberspace — the Paris Call
+might become another instance of democratic states preaching to the choir.
+Fourth, and finally, the Paris Call is open to all states,
+but China and Russia refused to join it because it promotes human rights on the
+internet and promises to counter election hacking. Instead, Russia (with
+China’s support) is
+leading
+the UN Open-Ended Working Group’s cybersecurity
+proceedings. Russia has since used this body to further its favored positions
+on cyber issues — especially “
+cyber sovereignty
+.” As negotiations on the global
+cybercrime treaty will continue at the UN in 2022, Russia will compel its
+friends to support its agenda in UN subcommittees with the help of China, with
+whom it has
+repeatedly
+affirmed
+shared autocrat-friendly values for cyberspace.
+Cyber threats aren’t going away. If the Paris Call can be a
+catalyst to improve cybersecurity for individuals, businesses, and
+nation-states, it’s at least a starting point for establishing real security
+norms. The Paris Call’s aims are undoubtedly laudable, but we should not be
+overly idealistic and treat it as a panacea for all global cybersecurity
+problems. Instead, we should be realistic and perceive it as a diplomatic
+document and convenient platform for furthering negotiations and understanding
+different cybersecurity needs among different stakeholders.
+As China and Russia continue to hijack UN processes to
+further their favored cybersecurity positions with the goal of drafting a new
+global treaty, the US should use the admittedly flawed Paris Call to promote
+trust and security in cyberspace through strengthening transatlantic tech
+relations and developing a coalition of the willing to counter the Sino-Russian
+cybersecurity coup that is building momentum at the UN.

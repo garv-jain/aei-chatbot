@@ -1,0 +1,10 @@
+PAGE_TITLE: 
+	Global Connectivity Unplugged (with Brian Barritt and Michael Cheng) | American Enterprise Institute - AEI
+
+While internet access has spread rapidly across the globe during the past several decades, around three billion people still lack access. Some argue that the solution lies in fiber cable expansions, while others are innovating with satellites to meet users’ demands. Satellite connectivity supports network access for users in formerly unconnected geographies by leveraging existing global satellite coverage rather than the arduous process of building additional infrastructure.
+Today’s guests are
+Brian Barritt
+and
+Michael Cheng
+of Aalyria, a space connectivity company. Brian Barrit, Aalyria’s chief technology officer and cofounder, has spent his career developing innovative ways to address connectivity challenges. He’s worked as an engineer with NASA, CISCO, Google, and most recently, Meta’s innovation labs before starting Aalyria. Michael Cheng, chief product officer at Aalyria, is a lawyer and network engineer by training with deep experience steering technology companies. Before joining Aalyria, Michael served as associate general counsel for mergers and acquisitions at Meta as well as product manager and head of Open Source. He also serves as an adviser to several technology start-ups.
+Tune in as Brian and Michael illuminate the connectivity problems that Aalyria is working to solve.

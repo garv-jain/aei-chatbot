@@ -1,0 +1,47 @@
+PAGE_TITLE: 
+	AI’s Automatic Stabilizers | American Enterprise Institute - AEI
+
+Automatic stabilizers are government mechanisms, like unemployment insurance and progressive taxes, that help to stabilize the economy without needing direction from Congress.
+In a similar way
+, there are a range of mechanisms that will automatically stabilize artificial intelligence (AI) adoption without Congress acting. In his must-read paper titled “
+Flexible, Pro-Innovation Governance Strategies for Artificial Intelligence
+,” Adam Thierer lays out six broad categories. Even if Congress does nothing, AI will still get regulated.
+First, and most importantly, consumer protection agencies at both the federal and the state level have the power to police “unfair or deceptive acts or practices in or affecting commerce.” In other words, the Federal Trade Commission (FTC), as well as state attorneys general, already have broad consumer protection authority to stop bad actors. And
+the FTC has been clear
+that they intend to use the full extent of their authority. They have even
+launched an inquiry
+to understand whether “investments and partnerships pursued by dominant companies risk distorting innovation and undermining fair competition.”
+Second, property and contract law will serve as essential constraints on AI’s expansion. Notably, industry giants like OpenAI, Microsoft, Meta, Midjourney, and GitHub
+are currently embroiled in copyright disputes
+. These legal battles hold the potential to significantly reshape their operational frameworks, underscoring the power of intellectual property laws in setting boundaries for AI development and deployment.
+Tort law and more broadly, the common law, will also help protect against AI harms. Tort law is the body of law concerned with acts that cause legally cognizable harms to persons or property. Largely
+developed through case-by-case adjudication
+, tort law allows parties to seek compensation for injuries, thus deterring and punishing activities that are harmful.
+As one legal scholar
+explained it, “The scope of tort law makes it especially relevant for individuals who are harmed as a result of an artificial intelligence (AI)-system operated by another person, company, or government agent with whom the injured person has no pre-existing legal relationship (e.g. no contract or commercial relationship).”
+Fourth, product recall authority gives entities like the National Highway Traffic Safety Administration (NHTSA), the Food and Drug Administration (FDA), and the Consumer Product Safety Commission (CPSC) the ability to regulate and mitigate risks posed by AI systems. Highlighting this point, Thierer referenced a pivotal moment in February 2023 when the NHTSA compelled a recall of Tesla’s autonomous driving feature, necessitating an over-the-air update for more than 300,000 vehicles equipped with the problematic software. The event underscored that the regulatory agency and product recalls could be used to intervene directly in the interest of public safety.
+Insurance and accident compensation mechanisms offer an indirect yet potentially effective method of regulating AI systems as well. Through heightened premiums for higher-risk AI applications or stringent compensation requirements for mishaps, the insurance sector can incentivize safer AI development and deployment practices. This approach ensures that companies incorporate robust safety measures to mitigate risks, as failing to do so could result in prohibitive insurance costs or significant compensation payouts. All together, insurance could act as a deterrent to negligent AI implementation.
+Sixth, agencies are likely to adapt their current authority to apply to AI systems. Case in point, the Consumer Financial Protection Bureau (CFPB) issued a warning to banks over
+generative AI chatbots
+, over “numerous” complaints from customers who say the chatbots have failed to provide “timely, straightforward” answers to their questions. The CFPB isn’t alone as there is a broader move towards adapting regulatory frameworks to address the challenges posed by AI systems. The
+Department of Education
+, the
+Equal Employment Opportunity Commission
+, the
+Federal Communications Commission
+, the
+Federal Election Commission
+, and
+other agencies
+have all announced plans to adapt and apply their authority to AI systems.
+Separate from these active measures, there’s also an inherent predisposition favoring humans.
+As I have explained before
+:
+All throughout our legal regimes, there is a subtle bias towards persons. This bias will likely act as a brake on AI adoption at all levels of government. The U.S. District Court for the Eastern District of North Carolina, for example,
+upheld
+a North Carolina restriction on drone operators, claiming their maps and models amount to illegal “surveying.” The attorney’s bar in California
+threatened to sue
+for operating without a law license when an AI system was to be trialed in court. Meanwhile, there is a massive fight over mandates to require
+two crew members on freight trains
+.
+A common refrain is that the government is doing nothing about AI. Already there is a lot being done by the government. The obviousness of more comprehensive AI regulation needs challenging.

@@ -1,0 +1,80 @@
+PAGE_TITLE: 
+	Persuasion or Coercion? Understanding the Government’s Position in Murthy v. Missouri, Part I | American Enterprise Institute - AEI
+
+The
+US Supreme Court
+crept closer last month to resolving the
+jawboning
+case of
+Murthy v. Missouri
+when Solicitor General
+Elizabeth Barchas Prelogar
+filed her
+opening brief
+in this
+politically divisive battle
+over free speech and informal government censorship. She explained why multiple government officials and entities ostensibly did nothing wrong in trying to convince––often successfully––social media platforms to remove content incongruent with the Biden administration’s stance on matters like vaccines, pandemic lockdowns, and election fraud.
+The government’s argument, plus other considerations the Court will confront this spring in
+Murthy
+(formerly
+Missouri v. Biden
+), are the focus of this two-part series. Before getting there, however, some background is essential.
+Via Reuters
+Murthy
+centers on “the constitutional limits to coordination between government and private actors,” according to the
+Wall Street Journal
+. The
+New York Times
+, meanwhile, frames the case differently, as about “when government efforts to limit the spread of misinformation amount to censorship of constitutionally protected speech.”
+Framing aside, the
+key question
+facing the Court is whether the Biden administration’s vigorous lobbying to have platforms squelch speech “transformed [the] private social-media companies’ . . . decisions into
+state action
+.” If so, then the platforms’ censorial actions are imputed to the government and the government therefore violated the
+First Amendment
+rights of censored and banned users.
+The
+US Court of Appeals for the Fifth Circuit
+concluded
+in early October that’s precisely what happened with the efforts of some Centers for Disease Control and Prevention (
+CDC
+), Cybersecurity and Infrastructure Security Agency
+CISA
+,
+FBI
+,
+Surgeon General
+, and White House officials. It thus enjoined them from any actions that “coerce or significantly encourage a platform’s content-moderation decisions,” reasoning the officials had “engaged in a broad pressure campaign designed to coerce social-media companies into suppressing speakers, viewpoints, and content disfavored by the government.”
+Later that month, the Supreme Court
+granted
+the government’s request to review the Fifth Circuit’s ruling. It also placed on hold the appellate court’s injunction until the justices resolve the matter.
+Laying bare
+Murthy’s
+ideological discord, three conservative-leaning justices––Samuel Alito, Clarence Thomas, and Neil Gorsuch––dissented from the decision postponing enforcement of the Fifth Circuit’s injunction. Writing for the trio, Alito
+worried
+that delaying enforcement “will be seen by some as giving the Government a green light to use heavy-handed tactics to skew the presentation of views on the medium that increasingly dominates the dissemination of news.”
+Where does the law now stand? The Court
+concluded
+in 1982 that the government “normally can be held responsible for a private decision only when it has exercised
+coercive power
+or has provided such
+significant encouragement
+, either overt or covert, that the choice must in law be deemed to be that of the [government].” (Emphasis added). In other words, the government may freely attempt to convince and persuade private businesses (platforms included) to remove lawful expression, but it can’t coerce them to do so.
+The Court previously
+determined
+in 1963 that “a system of informal censorship” violates the constitution when officials make “thinly veiled threats to institute criminal proceedings” or to invoke other “legal sanctions” against private businesses unless they comply with government requests “phrased virtually as orders,” not as “mere legal advice.”
+The Court in
+Murthy
+must: (1) clearly demarcate the line separating permissible persuasion and advice from unlawful coercion and significant encouragement, and (2) determine if Biden administration officials crossed that line when trying to get platforms to remove content and users. In short, the justices first must define the rule and then apply it.
+Solicitor General Prelogar waded into the fray with her December
+brief
+. The following––here and in the next post––are key parts of her argument why the government’s private communications with (and public statements about) social media platforms regarding removal of content and users didn’t violate the First Amendment.
+Drawing the Line Between Persuasion and Coercion
+. Prelogar’s
+central thesis
+, pulled largely from the
+1982
+and
+1963
+Supreme Court rulings noted above, is that “so long as the government seeks to inform and persuade rather than to compel, its speech poses no First Amendment concern—even if government officials state their views in strong terms, and even if private actors change their speech or conduct in response.” She contends that government officials’ may freely make public and private statements to (or about) private companies that forcefully––“even repeatedly and in strong terms”––advocate, inform, criticize, request, urge, convince, persuade, express frustration, mention potential legislative reforms, and defend the government’s position. The only impermissible statements are ones: (1) expressing or implying “coercive threats” of “adverse consequences” for noncompliance, or (2) offering inducements (“positive incentives” and “significant encouragement”) for compliance that overwhelm a company’s independent judgment and compel it to act in the government’s desired direction.
+The next post will delve into Prelogar’s arguments about: what the government officials said, history and the bully pulpit, remedies, and a parade of horribles.

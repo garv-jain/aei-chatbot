@@ -1,0 +1,61 @@
+PAGE_TITLE: 
+	The FCC’s Work on Light-touch Regulation and Spectrum Allocation Continues to Enable the Internet and Technologies of the Future | American Enterprise Institute - AEI
+
+Under Chairman Ajit Pai, the Federal Communications
+Commission’s (FCC) work on light-touch regulation and spectrum allocation has
+made a big difference in helping advance next-generation technologies. The
+policy changes made by the current FCC have created jobs in the
+telecommunications and technology sectors by creating incentives for investment
+in infrastructure and a demand for advanced internet services. And this month’s
+FCC meeting was an assurance that the government will continue to modernize
+telecommunications regulations to encourage continued infrastructure
+investments.
+Federal Communications Commission Chairman Ajit Pai presides over a commission meeting, via Reuters
+The Restoring Internet Freedom Order has been a key component
+to the FCC’s light-touch regulatory approach. As my AEI colleague Daniel Lyons
+writes
+, “By reducing the regulatory burden on broadband
+providers, the order makes it easier for companies to invest in improving and
+expanding their broadband networks.” This benefits consumers, and he also notes
+that the order promotes innovation “particularly in a business environment as
+dynamic as the internet ecosystem.”
+As a result of these investments, more companies can expand
+broadband service across America. Rural areas can see their economic prospects
+enhanced as broadband access expands. But achieving this means finding the
+right mix of technology and innovation that can bring connectivity into
+previously unserved area. While the speed of 5G mobile technologies isn’t absolutely
+necessary to have connectivity in all areas, having access to broadband enables
+more remote learning, more remote work capabilities, and increased business
+opportunities. On Tuesday, the FCC voted to establish a $9 billion 5G fund
+providing federal support for rural broadband.
+This FCC has also placed a tremendous amount of effort into improving the efficiency of how the limited resource of wireless spectrum is allocated. Reallocating and repurposing some spectrum bands can create spectrum-sharing opportunities that are more efficient and can create economically superior outcomes. Innovation and technology advancement have demonstrated that optimizing this valued resource is key to our digital future. As engineer Peter Rysavy
+notes
+in his paper on defining spectrum efficiency:
+Since spectrum is a precious commodity, knowing how efficiently different technologies and applications use it allows users and operators to make the best decisions on what wireless technology to deploy and in what configuration. Understanding spectrum efficiency can also assist policy makers better decide on how to most effectively allocate spectrum and to whom.
+Better, more efficient spectrum management means better
+signal quality, better bandwidth, and better network speeds. To deploy our
+knowledge about how to best use spectrum, we need to be open to changing or
+exchanging some of the current uses and users of spectrum to ensure the best
+outcomes.
+Another area in which the FCC has been doing important work is very high frequency and ultra high frequency broadcast TV bands known as “
+TV white spaces
+” for mobile and Wi-Fi applications beyond their current use by unlicensed devices with limited reach. Allowing this segment of spectrum to be opened up can enhance the capabilities of many Internet of Things devices and provide service in these previously blocked spectrum bands.
+Access to this spectrum could bring additional resources to
+unserved Americans who have had digital connectivity challenges with
+traditional wired infrastructure. Even Congress
+agrees
+that the use of TV white spaces will enable
+unserved and limited-population areas to have more cost-effective access to
+internet connectivity with minimal infrastructure buildout required due to the
+unique qualities of this level of spectrum being available to the open market.
+These policy and regulatory changes have strengthened today’s
+internet. As Chairman Pai wrote in a
+blog post
+earlier this month, “We replaced the prior
+administration’s heavy-handed regulation with a consistent, light-touch
+regulatory approach that protects the free and open Internet, encourages
+infrastructure investment, and requires strong transparency from broadband
+providers for consumers and innovators alike.” As infrastructure investments
+enable the next generation of networks to be deployed, we will see even more
+market opportunities to enhance our economy, enable education, and keep our
+lives moving forward.

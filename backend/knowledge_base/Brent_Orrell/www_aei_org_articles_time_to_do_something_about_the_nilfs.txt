@@ -1,0 +1,68 @@
+PAGE_TITLE: 
+	Time to Do Something About the NILFs | American Enterprise Institute - AEI
+
+The overall employment situation looks great in the United States—so why are so many men not working?
+The
+Wall Street Journal
+reports
+that work among prime-age Americans—those between 25 and 54 years of age—is at the highest rate in two decades, driven by rising wages and worker shortages. After years of decline in labor force participation, this is certainly welcome news. But it isn’t the whole story.
+To put it bluntly: The resurgence of work is largely leaving men behind. While the labor-force participation rate for prime-age women has jumped above its pre-pandemic level, going from
+76.8 percent in February 2020
+to
+77.8 percent today
+—an all-time high—the male rate is about the same today that it was in February 2020 (89.1 percent then, 89.2 now). Where rates of labor-force participation for women have risen significantly over the past half century, the other side of the data reflects a decades-long retreat from work among men:
+Labor force participation among men aged 25 to 54 (1950-2021)
+Data sources: Mitra Toosi, “
+A century of change: the U.S. labor force, 1950–2050
+,” May 2002, Census.gov; and “
+Civilian labor force participation rate by age, sex, race, and ethnicity
+,” Table 3.3, Census.gov (accessed on July 26, 2023).
+This collapse in work participation has been accompanied by a surge in men’s dependence on disability payments and other safety net programs like Supplemental Nutritional Assistance (SNAP). Unsurprisingly, non-work and welfare is also correlated with “
+deaths of despair
+,”
+incarceration
+, and
+single parenthood
+.
+As Nicholas Eberstadt has
+documented
+, men who are “not in the labor force” (NILF) are alarmingly disengaged from others and overly self-focused. According to federal time-use surveys, NILFs do very little work
+of any kind
+, whether paid, unpaid, household chores, or caring for family members. Most of their waking hours are occupied with “personal care” and “socializing, relaxing, and leisure,” with much of the latter devoted to looking at screens: phones, computers, and television.
+If our blistering hot labor market, rapid wage increases, and
+growth
+in traditionally male-dominated occupations are not enough to coax men back into the workforce, we are going to need to start looking closely at how federal policies discourage work and how reforms might encourage those who can work to do so.
+The first place to start is with Social Security Disability Insurance (SSDI), which has functionally become an open-ended welfare entitlement for NILF men, analogous to the Aid to Families With Dependent Children (AFDC) program that Congress and the Clinton administration ended in 1996 and
+replaced
+with the work-oriented Temporary Assistance to Needy Families (TANF) program. Since 1985, the number of men enrolled in SSDI has
+jumped
+from 1.8 million to 4.1 million, an increase of more than 100 percent even as the total male population aged 25-54
+rose by less than 40 percent
+. For men who can work, we need to consider how SSDI could be reconfigured as a work-support program with case management, training, rehabilitation, and re-employment on a model similar to that of TANF. Tighter initial screenings for disability and more rigorous periodic reviews of disability status would also help to slow the flow of marginally disabled men into the program and identify those who might be enabled to return to work with technological or other supports.
+SNAP also needs changes. In 2018, about 3.4 million male single-person households
+received
+SNAP benefits, more than the number of such households that did not receive SNAP benefits (about 2.7 million). This May, congressional Republicans secured
+new work requirements
+for this program, but challenges remain. As Kevin Corinth
+documents
+, 18 states qualify for federal waivers that would allow men to avoid the new work requirements. The current exemption policy needs to be revisited to make the waivers harder for those states to get, and harder for SNAP recipients to exploit.
+A third opportunity is in the way we think about substance-use disorder (SUD) treatment, which is especially relevant given the widespread abuse of
+opioids
+among this demographic.
+Scott Wetzler
+, a clinical psychologist and professor in the Department of Psychiatry and Behavioral Sciences at Montefiore Medical Center in New York, has
+demonstrated
+that incorporating work requirements into SUD treatment plans improves recovery outcomes. Federal and state governments should consider ways of incorporating this treatment-plus-work principle into programmatic and judicial policy. Unless there is a compelling reason for a man undergoing SUD treatment not to work, the default should be to require work or preparation for work, along the lines of what is required for TANF recipients.
+Finally, we can also promote work among formerly incarcerated and
+justice-involved
+men. According to a 2015 analysis by the
+Brennan Center
+, 70 million Americans—almost a quarter of the country—had some sort of criminal record, and “nearly half of black males and almost 40 percent of white males are arrested by the age 23.” These records impede employability and aggravate skill deficits. Reentry programs that focus on helping these individuals develop the soft and hard skills they need to succeed in work and life need more attention and funding, as do other
+evidence-based
+approaches to successful reentry.
+Some of these policy proposals, especially the ones focused on work incentives, can sound punitive—
+Look, these men aren’t to blame for worklessness. They didn’t leave jobs; the jobs left them. Requiring work is really just victim-blaming. We need to address the root causes of joblessness first.
+It would be, shall we say, ironic if we accepted on behalf of NILF men the same arguments we rejected when it came to welfare dependency among women. Based on the nation’s TANF experience, we know work incentives and requirements increase work and reduce dependency. If they worked with women, why wouldn’t they be effective with men?
+But beyond the fairness and equity issues, these policy changes are necessary because NILF men
+themselves
+are suffering by staying away from work. Employment requirements and supports could do a lot to help men to recover the sense of hope and purpose that work provides, and in turn to push back against the tidal wave of dis-employment and despair that has engulfed too many individuals, families, communities over the past few decades. For the sake of our nation’s future and the future of American men, we can and must do better.

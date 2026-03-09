@@ -1,0 +1,97 @@
+PAGE_TITLE: 
+	Moderating Speech on Social Media Platforms: A Matter of Private Editorial Discretion, Not Government Compulsion | American Enterprise Institute - AEI
+
+How much
+First Amendment
+freedom do social media platforms have to define and control their online speech communities? Do they possess the constitutional autonomy to determine for themselves—without coercive government mandates—the content they host, how they arrange it, and when to ban users who flout acceptable-speech policies? Can the government force platforms to meticulously explain all banning and removal decisions to affected users?
+After
+NetChoice
+and the
+Computer & Communications Industry Association
+(CCIA) jointly filed briefs on November 30 in the “
+potentially momentous cases
+” of
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+, the
+US Supreme Court
+should now better understand the platforms’ perspectives on these questions. As
+previously explained
+, the cases involve Florida and Texas statutes that collectively: (1) compel large platforms to host content and users they otherwise would bar for not complying with their acceptable-content guidelines, (2) restrict how platforms can moderate—arrange, organize, and present—content, and (3) force them to provide timely, thorough, and individualized explanations to users who’ve been banned or had posts removed or altered.
+Via Adobe Stock
+The NetChoice and CCIA briefs powerfully explain why the Florida and Texas statutes violate the First Amendment. In fact, they’d make for excellent reading by law students in free speech and media law courses. The briefs vividly and comprehensively demonstrate the statutes’ numerous flaws and patent unconstitutionality by invoking multiple doctrines, principles, and concepts:
+chilling effect
+,
+compelled speech
+,
+content discrimination
+,
+editorial discretion
+,
+history and tradition
+,
+overinclusiveness
+,
+right not to speak
+,
+speaker discrimination
+,
+strict scrutiny
+,
+underinclusiveness
+, and
+viewpoint discrimination
+.
+The briefs also thoroughly refute the views that platforms: (1) should be treated as
+common carriers
+(a point AEI’s
+Mark Jamison
+previously
+explained
+) and (2) don’t have First Amendment rights because they arrange and disseminate others’ speech. Here are four highlights from the briefs:
+Editorial Discretion
+: The briefs’ core concept—one the associations want to etch deeply into the justices’ thinking and analysis—is “editorial discretion.” That phrase appears more than 50 times in the
+Paxton
+brief
+, along with 13 uses of its close cousin “editorial choices.” The
+Moody
+brief
+deploys “editorial discretion” 26 times—three times alone in the introduction’s opening paragraph—and uses the synonymic “editorial judgments” 13 times. In short, the statutes violate the First Amendment by negating the platforms’ freedom to decide for themselves what speech to convey and how to convey it. As the
+Moody
+brief
+encapsulates it:
+Just as Florida may not tell the
+New York Times
+what opinion pieces to publish or Fox News what interviews to air, it may not tell Facebook and YouTube what content to disseminate. . . . [D]ecisions about what messages to include and exclude are for private parties—not the government—to make.
+Legislative Intent
+: For Justices who want to examine lawmakers’ motives, the briefs make it clear the statutes were discriminatorily adopted to punish large social media platforms for perceived liberal biases against conservative speakers and viewpoints. As the
+Paxton
+brief
+asserts, Texas “officials’ declared purpose is to single out certain websites because of their perceived ideological bias.” The
+Moody
+brief
+observes that Florida’s law was intended to target “only the largest [platforms] with a perceived ‘unfair’ ‘leftist’ bent.” Such illicit motives trigger strict scrutiny, the most rigorous level of judicial review.
+History and Tradition
+: Some of the Court’s conservative Justices—most prominently, Clarence Thomas—increasingly
+focus on text, history, and tradition
+when addressing constitutional issues. That methodology only permits new regulations on text-explicit, constitutional rights if there is a long history and tradition of imposing similar regulations. There’s a possibility, as I asserted
+earlier
+, that this approach might influence those conservative justices’ analysis of the NetChoice cases. That’s especially true because the
+US Court of Appeals for the Fifth Circuit
+, in upholding the Lone Star State’s statutes,
+explicitly
+“turn[ed] to the First Amendment’s text and history.”
+The NetChoice and CCIA
+brief in
+Paxton
+directly confronts a history-and-tradition analysis, explaining  that “there is no American tradition of forcing private parties to disseminate viewpoints against their will.” It adds that “from the Founding onward, one basic rule has persisted: The First Amendment prevents governmental efforts to compel people to disseminate others’ speech.” Finally, and quoting a 1995 Supreme Court
+ruling
+, the brief observes that “‘the presentation of an edited compilation of speech generated by other persons is a staple’ of our Nation’s history.”
+The Kavanaugh Factor
+: Briefs filed with the Supreme Court often target a potentially critical swing justice––one whose vote might determine a close case’s outcome. NetChoice and CCIA may believe that justice is Brett Kavanaugh. First, only two justices are named and quoted in the briefs––Kavanaugh and Thomas. Second, Kavanaugh’s
+majority opinion
+in a First Amendment decision where the Justices split along perceived political lines is cited in the
+Paxton
+brief
+more than a half-dozen times. That might capture Kavanaugh and his clerks’ attention.

@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Worldcoin’s Introduction to the Kenyan Market Is Temporarily Halted Due to Privacy Concerns | American Enterprise Institute - AEI
+
+The debut of
+Worldcoin
+, an innovative cryptocurrency initiative that offers individuals a complimentary token in exchange for scanning their irises, has been put on temporary
+hold
+in Kenya, prompted by apprehension around security and data-protection risks of collecting citizens’ biometric data.
+Following a week of iris scanning, the Communications Authority of Kenya and the Office of the Data Protection Commissioner (ODPC) issued a
+joint statement
+raising concerns about the absence of transparency in data security measures and the sensitive data retention process. The agencies listed the following concerns:
+Lack of clarity on the security and storage of the collected sensitive data,
+Inadequate information on cybersecurity safeguards and standards, and
+Massive citizen data in the hands of private actors without an appropriate framework.
+Via Adobe Stock
+The ODPC questioned whether the consent Worldcoin obtained for data processing was legal, as offering a monetary incentive could be seen as a form of inducement to participate without a full understanding of the data being collected in the iris-scan-for-tokens program. The Associated Press even
+reported
+some people “traveled for miles after friends said ‘free money’ was being handed out. They acknowledged not knowing why they needed to scan their irises and where that information would go but just wanted the money.”
+The Worldcoin
+project
+“is intended to be the world’s largest, most inclusive identity and financial public utility, owned by everyone” and includes an ID, a Worldcoin token, and an app that facilitates payments, international transfers, and purchases. It would seem, however, that Worldcoin still has some way to go in terms of addressing privacy and data protection concerns. Countries such as France, Germany, Spain, and the United Kingdom have begun to review Worldcoin’s activities to determine their alignment with the countries’ regulatory framework—in this case, the
+General Data Protection Regulation
+.
+Kenya instituted a
+Data Protection Act
+in 2019 designed to preserve the rights and interests of Kenyan individuals’ personal data. In Kenya, the core dispute involving Worldcoin’s launch revolves around the principles of unencumbered, unambiguous, and knowledgeable consent. Under the Data Protection Act, consent is defined as “express, unequivocal, free, specific and informed indication of the data subject’s wishes by a statement or by a clear affirmative action.” With this statute in mind, the ODPC questions whether the entire process of collecting and processing people’s data is legal.
+The two initial facets of consent are now subject to scrutiny due to the cash incentive extended to users for their participation in the initiative. Furthermore, informed consent hinges on the assumption that Kenyan citizens possess a fundamental grasp of personal data’s importance—an assumption that might not hold universally true. Overall awareness concerning privacy—encompassing the various facets of personal data as relevant in the Kenyan context—remains somewhat limited. This circumstance consequently places a greater onus on entities involved in personal data collection and processing, necessitating a higher degree of transparency in Worldcoin’s operational conduct to align with ongoing compliance requisites.
+The Kenyan Data Protection Act calls for registering
+data controllers
+and
+data processors
+, and stipulates the legitimate parameters for personal data processing, including conditions for cross-border data transfer outside Kenya. The extent to which all such requirements were satisfied prior to the introduction of Worldcoin in Kenya remains uncertain. Notably, however, Worldcoin’s parent company,
+Tools for Humanity
+, did register as a data controller with the ODPC.
+The cybersecurity safeguards should be in the collection process’s initial design for the retinal scans to protect against sensitive biometric data theft and misuse. Worldcoin has firmly asserted its commitment to pertinent legal and regulatory frameworks along with the expectation of compliance. There continues to be a lack of clear communication regarding the collection and security of the collected data. However, basic questions persist: What happens to the collected data? How long is it being stored? Where is it being stored?
+It remains to be seen whether the Worldcoin exercise will continue given recent events and an
+X post
+alleging consultation with Kenyan regulators a year before the launch. The company has also communicated its proactive engagement in addressing the reservations the Kenyan authorities articulated. The trajectory of Worldcoin’s future activities in Kenya remains contingent upon whether these endeavors prove sufficient to resume operations.
+In the interim, the case of Worldcoin in Kenya casts a luminous spotlight on critical inquiries at the intersection of groundbreaking innovation and individual privacy.

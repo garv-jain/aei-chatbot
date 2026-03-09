@@ -1,0 +1,68 @@
+PAGE_TITLE: 
+	Free Speech Tradeoffs and Role-playing Chatbots: Sacrificing the Rights of Many to Safeguard a Few? | American Enterprise Institute - AEI
+
+First Amendment law entails tradeoffs. Consider
+Free Speech Coalition v. Paxton
+, a case the US Supreme Court
+heard
+in January. It involves an online age-verification
+statute
+that ostensibly is designed to prevent minors from accessing sexually explicit content that Texas deems harmful to them but that is
+not
+obscene (and thus
+is
+constitutionally protected) when viewed by adults. The tradeoff in
+Free Speech Coalition
+concerns the amount of burden––via compelled, online disclosure of personally identifiable information––that the government can heap on adults’ rights to view lawful pornography so that minors can’t access it.
+Put differently, the price paid for protecting minors from speech is encumbering adults’ ability to receive it by eviscerating their privacy––their anonymity––while creating a wealth of hackable information. As my colleague Daniel Lyons recently
+encapsulated
+it, adults “may not want their names tied to specific content, which could reveal information about their preferences, or they may fear identity theft.”
+Via Shutterstock
+While the Supreme Court will resolve the tradeoff’s constitutionality in
+Free Speech Coalition
+this spring, lower courts are now grappling with a new, technology-spawned tradeoff involving the speech of generative artificial intelligence (Gen AI) chatbots on the Character.AI (C.AI) platform and the ability of people to interact with (and receive speech from) them. The swap in the federal cases of
+A.F. v. Character Technologies, Inc.
+and
+Garcia v. Character Technologies, Inc.
+involves potentially sacrificing the First Amendment speech rights
+of
+“the over 20 million people who use the [C.AI] platform each month” in order to protect some minors from harm and supposedly dangerous messages.
+Before delving deeper into the tradeoff, here are some key facts. First, C.AI’s
+community guidelines
+currently require users in the United States to be at least 13 years old. Second, but sadly subsequent to the filing of
+the
+Garcia
+lawsuit
+on behalf of a 14-year-old boy who allegedly committed suicide after becoming infatuated with a sexualized C.AI chatbot character, C.AI now
+offers
+“a different experience for teens from what is available to adults—with specific safety features that place more conservative limits on responses from the model, particularly when it comes to romantic content.” According to a December 2024 C.AI
+post
+, there now are “two distinct models and user experiences on the Character.AI platform—one for teens and one for adults.”
+This two-models effort to preserve the First Amendment rights of adults while safeguarding minors––a laudatory venture
+not
+to tradeoff adults’ First Amendment right to receive lawful speech in order to protect minors––provides cold comfort for Megan Garcia. It arrives after her son killed himself in February 2024. Indeed, it wasn’t until October 2024 that C.AI
+announced
+the “rolling out [of] a number of new safety and product features,” including “[c]hanges to our models for minors (under the age of 18) that are designed to reduce the likelihood of encountering sensitive or suggestive content.” The company also announced in October that using “certain phrases related to self-harm or suicide . . . [now] directs the user to the National Suicide Prevention Lifeline.” There’s an important lesson lurking here about proactively conducting comprehensive risk assessments
+before
+releasing a Gen AI product rather than reactively embracing safety measures
+after
+tragedies arise, as apparently happened here.
+How might the two C.AI chatbot cases involve a free speech tradeoff? The December-filed
+complaint
+in
+A.F. v. Character Technologies, Inc.
+makes it apparent: The plaintiffs––two minors and their mothers––“seek injunctive relief that C.AI be taken offline and not returned until Defendants can establish that the public health and safety defects set forth herein have been cured.” The rights of the above-noted 20 million monthly C.AI users to receive and engage in lawful speech would thus be sacrificed to protect a few people who C.AI allegedly harms. Is such an extreme tradeoff warranted?
+Based on the complaints’ allegations, sympathy for the plaintiffs comes easily. For example, in
+A.F.
+a 17-year-old boy with “high functioning autism” allegedly suffered severe anxiety and depression and engaged in self-harm after he began using C.AI. He later “became intensely angry and unstable,” once “punching and kicking” his mother (she’s also a plaintiff, representing her son). The complaint claims “the C.AI product was mentally and sexually abusing [the boy] . . . through the establishment and manipulation of his trust in C.AI characters.” That, of course, is only one side of the story.
+Character Technologies filed a
+motion to dismiss
+in
+Garcia
+that raises the tradeoff problem, asserting that “sweeping [injunctive] relief . . . would restrict the public’s right to receive protected speech.” Unless the cases settle or proceed to
+arbitration
+, federal district courts in Florida (
+Garcia
+) and Texas (
+A.F.
+) will need to confront the question of whether sacrificing the speech rights of many to serve the interests of a vulnerable few is constitutional.

@@ -1,0 +1,95 @@
+PAGE_TITLE: 
+	AI Tools for Economists and Policy Analysts | American Enterprise Institute - AEI
+
+New artificial intelligence tools are rapidly transforming how economists and policy analysts conduct research, dissect data, and communicate findings. Rather than replacing traditional research methods, ChatGPT, Claude, and Gemini are serving as force multipliers, allowing analysts to explore ideas more thoroughly and overcome common bottlenecks in the research process.
+The Basics
+As of writing, I use
+ChatGPT
+,
+Claude
+, and
+Gemini
+fairly interchangeably. Oftentimes, I will ask the same query of all three to compare the outputs; that being said, I tend to find that ChatGPT is the best at doing
+deep research
+, Claude is the best at coding, and Gemini is the best at writing and copyediting.
+Here are other notable tools worth exploring:
+NotebookLM
+. NotebookLM is Google’s tool for extracting information from large documents. Upload a paper and NotebookLM can make a podcast from it.
+Copilot
+. Copilot is excellent at programming in Visual Studio Code.
+Cursor
+. Cursor is a code editor that many swear by.
+Perplexity
+. Perplexity is an all-purpose AI-powered answer engine.
+arXiv Xplorer
+. This tool is an AI-powered search engine for ArXiv papers.
+ResearchRabbit
+. This tool will find similar research from just three articles. It also monitors new literature and visualizes research landscapes.
+Consensus
+. Ask any question and get research papers in response.
+Prompts and Prompt Engineering
+The key to getting useful outputs from these AI tools lies in crafting effective prompts, which are the specific instructions and questions you provide to guide the model’s responses.
+Some of my most commonly used prompts include
+“Write three variations on this sentence/paragraph ensuring each takes an active voice, varying the length, structure, and sentence order”;
+“Proofread the following. Fix grammar and spelling mistakes. Make suggestions that will improve the clarity of my writing”;
+“Summarize the text below and give me a list of bullet points with key insights and the most important facts”; and
+“Draft three paragraphs from the outline below”;
+Research from Google
+has found that simple commands such as “Take a deep breath and work on this problem step-by-step” or “Break this down” are incredibly effective at yielding high-quality results. Sometimes, the most powerful way to get positive results is through an all-purpose prompt like the one below:
+Help me craft a really good prompt.
+First, ask me what I want to do. Pause and wait for my answer. Ask questions to clarify as needed.
+Second, once you have the information suggest a prompt that includes context, examples, and chain of thought prompting.
+Third, show what your response as ChatGPT would be to the prompt.
+Fourth, ask if the user has any suggestions and help them revise the prompt.
+For data extraction, multi-step workflows, and document processing, pure JSON commands might be your best bet. This would mean prompting the LLM with the following string:
+{
+“task”: “summarize this article”,
+“audience”: “college students”,
+“length”: “100 words”,
+“tone”: “curious”
+}
+Prompting can become quite complex. For example,
+Chain of Density prompts
+generate increasingly concise, entity-dense summaries to ensure articles are summarized correctly.
+Another trick
+is to ask the LLM to adopt multiple personas and simulate a debate between them. For more advanced prompts, visit the
+Prompt Engineering Guide
+, check out the
+Prompt Engineer subreddit
+, and follow
+Ethan Mollick on X
+.
+Interesting Use Cases
+For economists and policy analysts, the ability to quickly create compelling visualizations and break down complex mathematical functions has traditionally required significant technical expertise and time investment. But by knowing how to use the tools at your disposal, AI can speed this up considerably.
+As Ömer Özak
+explained on X
+, “A student of mine needed to draw a graph so I decided to check whether #ChatGPT would be able to create figures in #TiKZ #LaTeX and voilà. So useful!” The prompt was simple: “Write Tikz code to draw the supply and demand curve for a good. Supply curve is red and demand curve is blue.”
+Economist
+Scott Cunningham
+went one step further, asking ChatGPT to create a directed acyclic graph, with the following prompt. (See Figure 1.)
+Figure 1. Scott Cunningham’s ChatGPT Prompt Requesting a Directed Acyclic Graph
+Via
+@causalinf
+on X.
+The results were exactly what he asked for. (See Figure 2.)
+Figure 2. ChatGPT’s Response to Cunningham’s Prompt Requesting a Directed Acyclic Graph
+Via
+@causalinf
+on X.
+Via
+@causalinf
+on X.
+LLMs can also be useful in understanding equations.
+From economist Simon Eskildsen
+comes this workflow:
+Find big scary equation that’s hard to parse
+Latex OCR it with Mathpix
+Ask ChatGPT to break it down into heavily commented Python
+Eskildsen used this workflow to transform the equation below into Python. (See Figure 3.)
+Figure 3. Equation Provided in Workflow from Eskildsen and
+ChatGPT’s Output
+Into this…
+Economist
+James Brand
+has found ChatGPT useful for developing “example code for structural estimation from a description + latex equations. The goal was to get it to give me a function that could estimate an approximate mixed-logit model.”
+As these AI tools continue to evolve, economists and policy analysts who master prompt engineering and integrate these technologies into their workflows will find themselves better equipped to tackle complex research questions, communicate findings more effectively, and contribute more meaningfully to their profession.

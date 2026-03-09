@@ -1,0 +1,63 @@
+PAGE_TITLE: 
+	DOGE Needs to Dig Deeper Than Its Leaders Understand | American Enterprise Institute - AEI
+
+An undergraduate class on Congress and legislation was one of the lowlights of my academic career. In my work for the class, I would often get wrapped up in critiquing legislation from the angle of bureaucratic implementation, when the professor was very clearly testing for understanding of the material about Congress. I resisted the class at every step and got my only C as a result, even though I graduated with honors.
+I’ve grown since then, especially in my understanding of the whole of government. My thinking might be understood as the Bresson theory of government. Robert Bresson, the French filmmaker, once famously said, “A film is born three times. First in the writing of the script, once again in the shooting, and finally in the editing.” Government is also born three times. First it is written in Congress, then it is rewritten in the administrative state, and finally it is edited by the courts.
+I have been thinking about this since writing my November 14 edition of
+Techne
+about
+the Department of Government Efficiency
+(DOGE) that will be run by Elon Musk and Vivek Ramaswamy. Since that writing, a lot more details have emerged: Musk and Ramaswamy laid out their approach in a
+Wall Street Journal
+op-ed
+and have been tweeting about ideas that tackle government waste.
+I want both Musk and Ramaswamy to succeed, but they don’t seem to fully grasp the totality of this problem. True government reform looks beyond streamlining agencies or leveraging court decisions. Real reform recognizes the complex interplay between how laws are written, implemented, and interpreted to make things run smoother.
+I’ve been on the government efficiency beat for a while. In a Fox News op-ed I wrote last year titled “
+Let’s use AI to clean up government
+,” I explained ways that new AI tech could help reform government processes. Using the concept of “ChatGVT,” I explored ways that ChatGPT might reform the government. One form of it “could provide straight answers about the newest tax plan, if a bill is stuck in committee, or the likelihood that a piece of legislation will pass. Or a ChatGVT could be turned on the regulatory code to understand its true cost to households and businesses.” As I pointed out, “Using AI to turn law into code will mean that the true impact of government will be understandable and accessible. Most know that the burden imposed by regulation is colossal but the exact costs are hard to quantify. A ChatGVT could help sort out that problem.” If Musk and Ramaswamy really wanted to advance government reform, they could be working to build AI tools like the one I outlined.
+But it worries me that Musk and Ramaswamy are making this a part-time job. Without direct involvement in the day-to-day operations of government agencies, any reform efforts will likely remain superficial. Real change requires getting into the trenches to understand the intricate web of processes, relationships, and institutional knowledge that makes agencies function. You can’t reform what you don’t fully comprehend, and you certainly can’t streamline systems you’ve never personally navigated. The success of DOGE will ultimately depend on whether its leaders are willing to immerse themselves in the very bureaucracy they aim to transform.
+What DOGE is shaping up to be.
+Musk and Ramaswamy’s op-ed
+offers the most comprehensive plan for DOGE. They open with a swing,
+Our nation was founded on the basic idea that the people we elect run the government. That isn’t how America functions today. Most legal edicts aren’t laws enacted by Congress but “rules and regulations” promulgated by unelected bureaucrats—tens of thousands of them each year. Most government enforcement decisions and discretionary expenditures aren’t made by the democratically elected president or even his political appointees but by millions of unelected, unappointed civil servants within government agencies who view themselves as immune from firing thanks to civil-service protections.
+This is antidemocratic and antithetical to the Founders’ vision. It imposes massive direct and indirect costs on taxpayers.
+Their solution? As they write,
+The two of us will advise DOGE at every step to pursue three major kinds of reform: regulatory rescissions, administrative reductions and cost savings. We will focus particularly on driving change through executive action based on existing legislation rather than by passing new laws. Our North Star for reform will be the U.S. Constitution, with a focus on two critical Supreme Court rulings issued during President Biden’s tenure.
+Being specific, they explain,
+DOGE will work with legal experts embedded in government agencies, aided by advanced technology, to apply these rulings to federal regulations enacted by such agencies. DOGE will present this list of regulations to President Trump, who can, by executive action, immediately pause the enforcement of those regulations and initiate the process for review and rescission.
+While the ideas are headed in the right direction, they are rooted in a misconception that actually got us into this mess. Musk and Ramaswamy have adopted a very specific, and inherently modern, way of understanding the problem. While the Founders framed their debates as tyranny and liberty, today the conversation is dominated by democracy and antidemocracy. This matters because some of the worst excesses of government come because policymakers seek democratic input.
+I touched on this idea recently when
+I wrote about how a federal environmental law stopped
+a dam from being built in western North Carolina. And I explained
+the broader notion of vetocracy
+, a government ruled by excessive veto power, back in September when I wrote about how difficult it is to start or expand a business in San Francisco:
+Flying Falafel sought to expand to a second location in a vacant storefront on Castro Street. However, Gyro Xpress, a neighboring restaurant, used San Francisco’s
+Discretionary Review process
+to force a public hearing before the notoriously capricious Planning Commission, which
+one commenter described
+as “the minotaur in San Francisco’s permit labyrinth.” The competitor successfully blocked Flying Falafel’s permit, preventing the location from opening.
+When you dig into the
+section of the planning code
+that grants this power, its purpose is “to determine compatibility of the proposal with the neighborhood” and give notice to “interested neighborhood organizations, so that concerns about a project may be identified and resolved during the review of the permit.” These kinds of democratic provisions are sprinkled throughout the regulatory code at both the federal and state level. The vetocracy needs to be dismantled, which is going to mean eliminating these kinds of excessive provisions. (I look forward to the emails chiding me for being anti-democratic.)
+But I am not sure either Musk or Ramaswamy truly grasps the problem they’re trying to solve. If there were an easy lever to pull to untangle regulations, it would have been pulled long ago. There is not just one reason government services are poor or why government projects exceed their budgets. There are countless overlapping problems that all need to be addressed.
+Jennifer Pahlka, the deputy chief technology officer of the United States under President Barack Obama,
+pointed this out recently
+:
+If you’ve spent the past ten years trying to make, say, better online services for veterans, or clearer ways to understand your Medicare benefits, or even better ways to support warfighters, you’ve sat in countless -– and I mean countless — meetings where you’ve been told that something you were trying to do was illegal. Was it? Now, instead of launching your new web form or doing the user research your team needed to do, you spend weeks researching why you are now branded as dangerously lawless, only to find that either a) it was absolutely not illegal but 25 years ago someone wrote a memo that has since been interpreted as advising against this thing, b) no one had heard of the thing you were trying to do (the cloud, user research, A/B testing) and didn’t understand what you were talking about so had simply asserted it was illegal out of fear, c) there was an actual provision in law somewhere that did seem to address this and interpreting it required understanding both the actual intent of the law and the operational mechanics of the thing you were trying to do, which actually matched up pretty well or d) (and this one is uncommon) that the basic, common sense thing you were trying to do was actually illegal, which was clearly the result of a misunderstanding by policymakers or the people who draft legislation and policy on their behalf, and if they understood how their words had been operationalized, they’d be horrified. It is absolutely possible to both respect the rule of law, considering the democratic process and the peaceful transfer of power sacred, and have developed an aversion to the fetishization of law that perverts its intent.
+Time to get your hands dirty.
+A lot of my pessimism has come from paying close attention to comments made by Musk and Ramaswamy. For example, Musk
+just recently tweeted this
+:
+I honestly hope Musk intended this as a troll because there are countless reasons laws are seemingly incomprehensible, and it’s not because they are magic spells. Law has evolved through centuries of practical application and precedent, spreading from one legal system to another because of its proven utility in addressing complex human situations. Law isn’t magic, it is closer to a really complex and old meme.
+What’s even more concerning is that DOGE’s approach reinforces a dangerous oversimplification: The idea that all laws and regulations can, and should, be reduced to plain language and brief documents. While AI could indeed help make legal language more accessible to the general public, this obsession with simplicity is oddly selective. We don’t demand that technical manuals, medical protocols, or engineering specifications be stripped down to their bare essentials. Why should we expect the complex machinery of governance to be any different? If a basic stereo system warrants a detailed manual, surely the rules governing a nation deserve the same depth and precision.
+But more importantly, both need to be at the White House, working with agencies to map out their workflows. You need a synoptic view of how these agencies work in practice to make any real change possible. Otherwise, you just get the
+recent Department of Education bill
+that eliminated the agency by moving all of its programs to other departments.
+Working in the administration as a leader will quickly disabuse you of the power behind the two cases cited in Musk and Ramaswamy’s op-ed,
+West Virginia v. Environmental Protection Agency
+, and
+Loper Bright v. Raimondo
+. Jonathan Adler, a well-respected law professor,
+has a great essay
+explaining why he’s “skeptical DOGE can fulfill its ambitious objectives through unilateral executive action, particularly without exquisite attention to relevant administrative law constraints.”
+The proposed Department of Government Efficiency under Musk and Ramaswamy, while well-intentioned, appears to suffer from the same oversimplified understanding of government that I once held as an undergraduate. Government reform isn’t just about eliminating bureaucracy or invoking Supreme Court cases—it’s about understanding how legislation, administration, and judicial interpretation work together in practice. The problems of government inefficiency stem from multiple overlapping issues: excessive democratic input leading to vetocracy, legal misinterpretations that create artificial barriers, fear of innovation within agencies, and the complex interplay between policy intent and operational reality. Without full commitment from its leaders and a deep, hands-on understanding of how agencies actually function, DOGE risks becoming yet another surface-level attempt at reform that fails to address the fundamental complexities of government administration.

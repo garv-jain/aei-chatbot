@@ -1,0 +1,43 @@
+PAGE_TITLE: 
+	Suing OpenAI for ChatGPT-Produced Defamation: A Futile Endeavor? | American Enterprise Institute - AEI
+
+More than 16 months after I
+wrote
+about the defamation-by-chatbot case
+Walters v. OpenAI
+, the groundbreaking battle pitting radio show host
+Mark Walters
+against the company behind ChatGPT is reaching a pivotal point. Following Georgia Superior Court Judge Tracie Cason’s
+refusal
+last January to dismiss Walters’s claim that OpenAI is civilly liable for defamatory output generated about him by ChatGPT, the parties conducted discovery. It revealed that a false statement suggesting Walters embezzled money was produced by ChatGPT after several prompts by a third-party user and friend of Walters, Frederick Riehl.
+Via AP Newsroom.
+OpenAI’s
+motion for summary judgment
+is now pending before Cason and slated for a January 15 hearing. It asserts that Walters’ libel-by-hallucination case fails because he cannot prove certain elements essential for winning a defamation claim. Should OpenAI’s arguments about two of those elements prevail, it may become a fool’s errand to sue a generative AI company for defamation—especially if one is a public figure or official. While defamation lawsuits against journalists who recklessly incorporate chatbot-spawned falsities into their articles may be winnable, the OpenAIs of the world wouldn’t be culpable for negative reputational externalities. Here’s why.
+First, to win a defamation case, there must be a false factual assertion about the plaintiff. If no reasonable reader would interpret a statement as conveying actual facts, the claim fails. For example, the Reverend Jerry Falwell once
+lost
+a libel claim against
+Hustler
+magazine for publishing an ad parody suggesting Falwell preached while drunk and had sex with his mother in an outhouse. Although a jury ruled for Falwell on a claim for
+intentional infliction of emotional distress
+, it ruled against his libel claim because it concluded no reasonable reader would understand the parody as asserting actual facts about Falwell; it was an offensive joke.
+Open AI’s
+motion for summary judgment
+similarly asserts that “no reasonable person could understand the [ChatGPT] output to communicate actual facts about Walters.” That’s because of what OpenAI calls “the prominent warnings and disclaimers laced throughout the ChatGPT site” alerting users like Riehl to the reality that ChatGPT sometimes produces falsities. As OpenAI’s
+terms of use
+state, “output may not always be accurate” and the “use of our Services may, in some situations, result in Output that does not accurately reflect real people, places, or facts.” In sum, OpenAI’s we-warned-you argument in
+Walters
+holds that for purposes of defamation law, users should treat its output as fiction, not actual facts. If Cason and other judges buy this, defamation suits against generative AI companies will be impossible to win so long as they provide users with a bevy of warnings and disclaimers.
+Second, OpenAI contends it’s impossible for Walters, as a public-figure plaintiff, to prove the required fault standard of
+actual malice
+. That standard focuses on the subjective state of mind of a defendant at the time a falsity is published, asking whether a defendant actually knew the statement was false or had a high degree of awareness it was probably false (also known as recklessly disregarding the truth). Without demonstrating one of those two elements on the part of the defendant—a knowledge of falsity or a reckless disregard for the truth—a public-figure plaintiff can’t prove actual malice.
+Open AI
+asserts
+that “there is
+no
+evidence that anyone at OpenAI was even aware of the output before Riehl saw it, much less was subjectively aware of its probable falsity.” Here again OpenAI cites its disclaimers and warnings about falsities to beat back a key element of a defamation claim, contending the disclosures:
+negate any reasonable inference that OpenAI acted with “reckless disregard” in connection with the output at issue. They demonstrate instead that OpenAI took care in warning all users that any ChatGPT output, including the output challenged here, might be false.
+OpenAI also notes an even bigger problem here with proving actual malice: The defamatory statements are “computer output.” That’s important because as Professor Nina Brown
+explains
+, “even the most sophisticated chatbots lack mental states. Chatbots cannot act carelessly or recklessly. They likely cannot ‘know’ information is false. They are algorithms: algorithms that behave by following a list of instructions.” If Cason agrees with OpenAI’s actual malice argument and other courts follow suit, public officials and figures will never succeed in defamation cases against OpenAI unless OpenAI officials previously had been alerted to a specific falsity and did nothing to prevent it from being reproduced.
+Is this good public policy? Allowing a business to escape liability for defamation doesn’t incentivize it to improve its product—to reduce the odds of spawning reputation-harming falsities. Should the 60-year-old actual malice standard be tweaked to adapt to technological developments like falsity-spouting chatbots? How Cason rules will influence these questions’ importance.

@@ -1,0 +1,55 @@
+PAGE_TITLE: 
+	The Unemployment System Is Broken. Technology Alone Won’t Fix It. | American Enterprise Institute - AEI
+
+Responding to the horror stories of millions of jobless Americans struggling, and often failing, to register for unemployment benefits during the pandemic, Senator Ron Wyden (D-Ore.), the new chairman of the Finance Committee, recently proposed
+legislation
+providing $500 million
+to upgrade and standardize the technology and tools used by unemployment offices across the country. There is no doubt that there is a great need to upgrade the technology that helps to process unemployment claims, but no one should labor under the mistaken belief that technology upgrades alone will fix a fundamentally broken system.
+The bill tasks the U.S. Department of Labor to work
+alongside technology experts
+to create modern websites and technological infrastructure, and then incentivizes states to adopt them with the objective of fostering greater uniformity in the fragmented unemployment system. This would help to prevent the kind of system crashes and technology failures we witnessed during the pandemic—problems that left
+millions of
+jobless Americans unable to even apply for unemployment aid. Even now, some states are
+still working through the backlog of claims
+, demonstrating just how badly states need better backend technology to do this critical work.
+However, the main challenge facing the unemployment systems is less about computers and websites than it is about how the federally mandated, state-operated unemployment system itself is designed. Prior to the pandemic, many states had upgraded technology yet still struggled as much or more than those working with older systems. According to the
+Century Foundation
+, 22 states that had modernized unemployment benefits systems as recently as two years ago saw “significant problems, including numerous delays, issues with testing, data conversion errors between legacy and new systems, data loss and security issues, and poor training of staff” that made claims-processing challenging even during normal times.
+The root of the administrative problem with unemployment insurance is that it is mostly an early-twentieth-century law trying to serve a twenty-first-century workforce. With eligibility criteria
+designed for a Great Depression-era workforce
+, the number of workers eligible for and receiving unemployment benefits has
+gradually declined
+, leaving out categories of workers that didn’t exist when unemployment insurance was created. When debating the need to extend unemployment benefits during the pandemic, this very fact was lost on our political leaders and in the court of public opinion as millions were never able to access benefits to begin with. Just before the pandemic in 2019, studies showed that
+roughly 27 percent of unemployed workers
+were receiving benefits, consistent with the steady decline in the accessibility of unemployment insurance over the last couple of decades. Despite rule changes, emergency patches and benefit expansions created by Congress during the pandemic, one Harvard survey found that at the peak of the unemployment crisis in spring 2020
+the percentage of actual
+recipients
+was
+27 percent—suggesting that millions of people who qualified for unemployment insurance support hadn’t yet received it.
+Source: Daniel Schneider, Kristen Harknett, and Annette Gailliot, “
+Unemployed Without a Net
+,” The Shift Project, Harvard Kennedy School, September 2020.
+Beyond statutory design issues, the application process is also complicated and cumbersome for unemployed workers to navigate due to the multilayered bureaucratic processes that slow claims approval. Florida’s system is a good example. In response to reports that his state was the
+slowest in the country to process claims
+during the pandemic, an adviser to Governor Ron DeSantis best described the unemployment system in the state as a
+uniquely unappetizing sandwich
+. Elaborating, Governor DeSantis
+said
+he believed his state’s unemployment insurance system, which had recently been technologically modernized, was designed to “put as many kind of pointless roadblocks along the way [as possible]” so that people gave up applying altogether. Administrative complexity and speed are also problems for Missouri, Indiana, Wyoming, and North Carolina, all of which
+underwent system modernizations since 2014
+but
+were nonetheless among the slowest
+in processing claims during the pandemic. Clearly, something other than technology is amiss.
+Technology, which is allegedly a way to improve efficiency, has also in some cases perversely backfired, often for those who most need help. For example, under former governor Rick Snyder, Michigan implemented
+automated technology and algorithms
+to process unemployment claims as part of a modernization effort. Unfortunately, the algorithms were flawed and resulted in the
+rejection of tens of thousands qualified claimants
+, a significant number of whom were incorrectly flagged as fraudulent applicants. Many unemployed workers were fined heavily as a result of these false positives and some were driven into bankruptcy and disqualified from future benefits. Following Florida’s modernization, the state
+cut off access to unemployment benefits
+for anyone who didn’t use online tools, effectively barring many people with language barriers, computer-literacy challenges, or lack of internet access.
+Perhaps the greatest, and costliest, irony of our recent unemployment insurance troubles is how this complex, patchwork system failed in both its primary role of helping unemployed workers and its secondary task of fraud prevention. Billions of dollars were
+siphoned out of the system
+by computer hackers overseas while cash-strapped Americans saw their payments delayed by systems supposedly designed to keep bad actors out.
+The United States can—and must—do better than this kind of lose-lose outcome.
+The unemployment system’s epic failures in the face of the COVID-induced recession demonstrate that, as currently constituted, it is no longer effectively serving the public. And we can’t expect to fix the systemic problems by just throwing money at the technology .
+Congress needs a thorough review of the challenges of the existing unemployment insurance system, with the aim of a root-and-branch redesign. Such a transformation would include updated eligibility criteria to better reflect the makeup of today’s modern workforce; simplified application processes that reduce the burden on applicants and administrators; and built-in flexibilities that will allow states to adapt to future mass unemployment events as well as helping them keep pace with the accelerating pace of labor market change. Only then should we consider investing in technological fixes that are aligned to and will effectively implement refreshed and updated policies.

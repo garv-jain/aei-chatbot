@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	California’s Privacy Law Shows That Congressional Action Is Needed | American Enterprise Institute - AEI
+
+The California Consumer Privacy Act (CCPA) took effect on January 1, 2020. It’s the second major data protection or privacy regulation since the European Union implemented the General Data Protection Regulation (GDPR) in 2018. The GDPR created great awareness around concerns with data collection and aggregation by corporations, but almost two years of legal and compliance confusion have followed its implementation.
+The CCPA is headed down a similar path for companies and consumers. While it doesn’t have some of the GDPR’s onerous requirements, the California law is more aggressive in some aspects. Among other things, it could increase cybersecurity risks around personal information, impose unexpected costs on businesses, and conflict with realities of how modern enterprises manage data. It’s clear that Congress needs to take action on privacy sooner rather than later.
+via Twenty20
+What does the CCPA
+do?
+CCPA rules apply to any company
+that
+: (1) serves California residents with gross annual revenues of $25 million or more; (2) buys, receives, or sells the personal information of 50,000 or more consumers, households, or devices; or (3) derives 50 percent or more of its annual revenue from the sale of consumer information. As
+noted on CSO
+, companies “don’t have to be based in California or have a physical presence there to fall under the law. They don’t even need to be based in the United States.”
+The reported intent of the CCPA is to protect consumers and give them enhanced data privacy rights. Under CCPA, consumers have the “
+right to know
+what personal information is collected, used, shared or sold . . . the right to delete personal information held by businesses . . . the right to opt-out of sale of personal information . . . [and] the right to non-discrimination in terms of price or service when a consumer exercises a privacy right under CCPA.”
+The CCPA considers a wide range of information to be sensitive data
+including
+name, address, email address, internet protocol address, geolocation information, biometric identifiers, social security numbers, passport numbers, loyalty program identification, professional employment or educational information, and even logs tracking browsing history and interactions with websites. If the collected data is shared with a third party, the consumer should be given the ability to redact, change, or eliminate any information retained in a 12-month period.
+Consumers must also have the option to opt out of data collection with a “do not sell my info” link that lets consumers see what data may have been collected and request they be deleted. Companies that receive a request for a change in the recorded data have 45 days to make the change or face a fine of $7,500 per record.
+Complications for businesses
+and cybersecurity
+The rules may sound straightforward at first, but they’re not. A company’s ability to comply with the CCPA’s data review, change, and deletion requirements assumes the data are stored in one place and easy to access. The reality is that information on individual consumers is often distributed across multiple databases with limited authorization to access the data without proper permission. From a cybersecurity perspective, this is actually a good thing. Information on consumers is often collected for many reasons beyond marketing. To protect that information, companies maintain data points on consumers on multiple storage platforms and in varying file configurations. Pooling all information on a consumer in one easy-to-reach location creates a single target with obvious drawbacks.
+The realities of how businesses handle their data means that
+creating a search tool for consumers who wish to review their information is more
+difficult than the CCPA’s authors anticipated. To comply with CCPA, some
+businesses may have to create completely new database storage processes for
+their consumer data, as CCPA gives consumers the ability to request a
+comprehensive list of data kept on them and gives companies 45 days to comply.
+Legacy data storage processes may have to be migrated to forward-looking formats
+or eliminated entirely. This makes data use and secure data storage more costly
+while also creating potential liabilities.
+The path forward
+The digital economy was so valuable in this past decade in part because information collected by companies through consumer interactions had value in the market. The internet and application-based tools have continued to improve thanks to the data shared between consumers, companies, and platforms. For example, the geolocation data logged on consumer habits and addresses frequently visited in the Uber app are key aspects of what makes the service valuable. Consumers must keep in mind that any removal of information could give their favorite devices or tools techno-amnesia and lower their effectiveness.
+The law should encourage the data economy to create
+innovative tools that can protect consumer data while still letting companies
+enjoy the benefits of the information. There must be a balance between
+information sharing for consumer benefit and the aggressive marketing tactics that
+many consumers find undesirable.
+While we wait for the first major CCPA-related fines to come out of California — fines that will start to define how data protection is done in the US — it’s time to realize that the only sane path forward is with a federal approach to data processing starting with congressional legislation. As I’ve
+written
+previously, data collection does not adhere to geographical boundaries. With cloud computing, it doesn’t make sense to create geographical boundaries and hurdles that will most likely add to consumer confusion. Federal legislation expressing clear, transparent guidance on the collection, retention, and dissemination of user data would be much more helpful to consumers than a collection of state-level regulations like the CCPA.

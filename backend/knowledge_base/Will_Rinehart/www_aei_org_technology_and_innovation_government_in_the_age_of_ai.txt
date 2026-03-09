@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Government in the Age of AI | American Enterprise Institute - AEI
+
+In a first-of-its-kind initiative, Virginia Governor Glenn Youngkin signed
+an executive order
+last week employing artificial intelligence to comprehensively scan state regulations and guidance documents, directing the technology to flag unnecessary provisions and suggest more streamlined alternatives.
+This AI initiative builds on Virginia’s already successful regulatory reform efforts, which achieved a 25 percent
+reduction
+in regulatory requirements, hitting a target set at the beginning of Youngkin’s administration. Led by Office of Regulatory Management Director Reeve Bull, this earlier project involved the painstaking work of reviewing regulations line by line to simplify the state’s regulatory code. Now Youngkin aims to leverage AI to accelerate and scale these proven manual approaches.
+Via Reuters
+In 2023, I
+argued
+for using large language models (LLMs) to streamline government operations, proposing exactly this type of regulatory cleanup. Since then, the technology has advanced dramatically and government officials are recognizing that these tools could finally enable regulatory reform agendas that have long proven difficult to implement at scale.
+But how else might government processes be affected by AI?
+AI’s most immediate impact will likely be in rulemaking processes. A few years ago, experts
+worried that
+“public comments on new regulations [would] overflow with millions of cogent and entirely unique submissions that the regulator must, by law, individually read and respond to.” While this flood hasn’t yet materialized, AI tools are already being deployed to analyze public comments more efficiently and identify key themes within large comment volumes. The Institute for Progress
+database analyzing comments
+for the Trump administration’s AI Action Plan demonstrates the analytical power these tools can bring to regulatory processes.
+In the near future, agencies might start using AI to accelerate rule drafting. Regulations can take years to develop, partly because agencies must carefully craft language that withstands legal challenges. AI could help generate initial draft text, identify potential legal vulnerabilities, and suggest alternative phrasings that reduce ambiguity.
+AI could also be used to model the impact of proposed regulation. In my own recent work, I used some of the leading LLMs
+to model cost compliance for new AI laws
+. Instead of waiting months for comprehensive economic studies, regulators could generate preliminary impact assessments within days, testing multiple regulatory approaches and identifying potential unintended consequences before drafting begins.
+AI has already become deeply embedded in regulatory oversight, particularly in financial supervision where the technology is known as “suptech.” The Cambridge SupTech Lab’s
+State of SupTech Report 2023
+reveals how supervisory authorities worldwide are leveraging AI for pattern recognition in violation detection, predictive enforcement targeting, and real-time monitoring of regulatory compliance across sectors.
+This shift represents a fundamental change in how oversight operates. Rather than reactive, periodic examinations, AI enables continuous monitoring that can flag potential violations as they occur. Financial regulators have long used machine learning algorithms to detect suspicious trading patterns, but now environmental agencies are considering deploying
+AI systems to monitor pollution levels and predict compliance failures
+.
+Perhaps the most controversial frontier involves AI’s role in administrative hearings and decision-making processes. AI systems could assist in case routing, precedent analysis, and even initial determinations in routine matters. For straightforward licensing decisions or permit applications that meet clear criteria, AI could provide preliminary assessments, freeing human reviewers to focus on complex cases that require nuanced judgment.
+A cautionary tale comes from the Department of Government Efficiency’s deployment of an AI tool to review Veterans Affairs contracts.
+As ProPublica reported
+, the system contained numerous technical flaws, including reliance on outdated models, analyzing only the first 10,000 characters of contracts, and hallucinating contract values, mistakenly claiming that around 1,100 agreements were each worth $34 million when they were often worth far less. The AI flagged thousands of contracts for potential cancellation, inviting court challenges, including
+one high profile suit from the ACLU
+. These flaws underscore why AI adjudication raises constitutional red flags. The technology’s opacity, potential for bias, and susceptibility to errors could violate due process requirements that individuals receive fair and accurate determinations of their legal rights.
+The courts represent perhaps the most concerning blind spot in discussions of AI’s impact on government. While legal scholars have
+cataloged 125 cases
+where generative AI produced hallucinated content in legal briefs, they’ve largely overlooked a more immediate threat: AI-generated fake evidence. The same technology that can fabricate legal citations can also create convincing fake texts, contracts, and other supporting documents that defendants and plaintiffs may soon submit, or may already be submitting, to courts.
+The promise of AI to revolutionize government efficiency is undeniable, but realizing these benefits will require careful implementation that prioritizes accuracy, transparency, and constitutional protections.

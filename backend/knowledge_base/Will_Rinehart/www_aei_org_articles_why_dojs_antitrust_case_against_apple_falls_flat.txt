@@ -1,0 +1,120 @@
+PAGE_TITLE: 
+	Why DOJ’s Antitrust Case Against Apple Could Fall Flat | American Enterprise Institute - AEI
+
+Last week marked the beginning of another significant legal battle in the tech world, as the Department of Justice (DOJ)—along with 15 states and the District of Columbia—filed
+an antitrust case against Apple
+. The core of the lawsuit, formally known as
+United States v. Apple
+, claims the company has abused its market position to the detriment of both consumers and app developers.
+With
+U.S. v. Apple
+, the DOJ has fulfilled an
+agreement
+it reached with the Federal Trade Commission (FTC) in June 2019 to split up enforcement of “Big Tech” through antitrust cases. The other open cases include:
+Tuesday’s
+Morning Dispatch
+by Mary Trimble and Grayson Logue included an excellent overview of the case against Apple, and you should read it to understand the complete picture. Tech policy—and antitrust policy, especially—is tough to get right, and
+I wish I had written that newsletter
+.
+In today’s edition, though, I’ll dive deeper into some of the minutiae of the case. This is only a first read of the case. As it develops in the court, the arguments are sure to shift.
+DOJ’s case against Apple.
+I’ve read all of the complaints against the tech giants, and this one against Apple follows a similar pattern. They are laid out as modern tragedies—in
+Aristotle’s sense of a tragedy
+—with a beginning, a rising action, a change of fortune, and a fall from grace. Like any good tragedy, the Apple complaint
+ends with a
+catharsis
+, an act of purification or cleansing as the ancient Greeks would have understood it. And also like any good tragedy, the remedies need to match the behavior.
+The beginning of this particular tale starts in 2007 when, in the DOJ’s words, “Apple launched the iPhone, a smartphone that offered high-end hardware and software applications, called ‘apps,’ built atop a mobile operating system that mimicked the functionality and ease of use of a computer.” Initially, the company only offered a small number of apps, but it “quickly realized the enormous value that a broader community of entrepreneurial, innovative developers could drive to its users and the iPhone platform more broadly.”
+In fairness, Steve Jobs
+originally wanted to keep
+the iPhone ecosystem relatively closed. But when the late Apple co-founder previewed the application integration system at Apple’s developer conference in 2007, it was largely seen as a miss. Pressure from the developer community and the success of Facebook’s platform coaxed Jobs into opening the system. “We are excited about creating a vibrant third-party developer community around the iPhone,”
+Jobs said
+, “enabling hundreds of new applications for our users.” Those “hundreds” of new applications quickly turned into millions.
+In the DOJ’s telling, Apple’s power grew alongside its iPhone sales, and “its leverage over third parties reinforced its tight control over how third parties innovate and monetize on and off the smartphone in ways that were anticompetitive and exclusionary.” As evidence of this bad behavior, the DOJ points to five areas where it believes there should be more competition:
+Super apps like WeChat provide a user with broad functionality in a single app. But Apple has suppressed these apps, because they require App Store approval for each program, thus harming smartphone users “by denying them access to high-quality experiences.”
+Cloud streaming game services “can improve smartphone competition by decreasing the importance of expensive hardware for accomplishing high compute tasks on a smartphone.” But Apple has denied applications from playing “high-compute games,” once again because they require each game to go through the App Store approval process.
+“Apple makes third-party messaging apps on the iPhone worse generally and relative to Apple Messages, Apple’s own messaging app, by prohibiting third-party apps from sending or receiving carrier-based messages.”
+Smartwatches also allegedly show how Apple has hurt competition. Because Apple doesn’t allow smartwatches to “respond to notifications and messages and to maintain consistent connections with the iPhone,” the DOJ avers, “Apple has denied users access to high performing smartwatches with preferred styling, better user interfaces and services, or better batteries.”
+Digital wallets are an increasingly important app on smartphones. But “Apple has denied users access to digital wallets that would have provided a wide variety of enhanced features and denied digital wallet developers—often banks—the opportunity to provide advanced digital payments services to their own customers.”
+Together these five actions, intertwined with other allegedly problematic behaviors, helped concoct what has been
+dubbed in antitrust circles
+the “monopoly broth that produces the unsavory flavor.” But I would categorize this broth as pretty weak: It needs much more salt, which might be provided when it hits the courts.
+Why the DOJ’s case falls flat.
+U.S v. Apple
+will be Assistant Attorney General Jonathan Kanter’s legacy. In
+his prepared remarks for the case announcement
+, Kanter put this lawsuit next in line after
+Standard Oil
+,
+AT&T
+, and
+Microsoft
+, each blockbuster cases that helped to redefine the field: “Today, we add to that distinguished legacy by announcing an antitrust lawsuit against Apple for monopolizing smartphones.”
+But the case has a lot of holes, so Kanter’s
+effort to reshape the antitrust regime
+in the United States might fall flat.
+While the complaint never explicitly mentions WeChat, news outlets quickly
+singled out the app
+as a potential beneficiary of any antitrust action against Apple. Super apps like WeChat provide messaging and payment processing together in a format that allows for a self-contained commerce and communication platform.
+In the DOJ’s telling, super apps reduce user dependence on the iPhone “because a super app is a kind of middleware that can host apps, services, and experiences without requiring developers to use the iPhone’s APIs or code.” As the super app develops, users “rely less on the smartphone’s proprietary software and more on the app itself.” Apple’s rules haven’t wavered; it has long disallowed apps-within-apps, and each application has to get approval.
+There is some truth to the DOJ’s narrative. In an
+interview conducted around the time
+Apple was ramping up its supposed leverage over apps, Karel Baloun—the first senior engineer at Facebook—explained that Silicon Valley at that time was worried about getting “WeChatted.” That was the term most were using to describe a super app popping up to compete against the entire stack. Given his experience, Baloun had long been attuned to the competitive aspects of big tech companies. His comments underscore that Apple wasn’t the only company concerned about super apps—Facebook was, too. But Apple can easily point out that both
+WeChat
+and
+Facebook
+have long been available on the App Store, undercutting this part of the case.
+The DOJ also contends in the lawsuit that cloud streaming games have the potential to enhance smartphone competition by reducing reliance on costly hardware. But that’s an odd proposition to make. A more competitive world, to the DOJ, would mean that Apple is providing a less costly product.
+Instead, there is a much simpler explanation for the first two chides by the DOJ. Apple aims to integrate all of the components into a bundle, brand it, and then sell the entire package. The company’s
+story about product design and management
+is well known. It pioneered and built iPhone
+processors using the ARM chipset architecture
+, which it then brought into all of its products, including all of the current Macbooks. ARM is widely recognized
+as being faster and more efficient
+. But Apple had to design all of its components, bring about their manufacture, and then integrate them into a platform product to be sold widely. In other words, the DOJ will have to parse the bad effects from the broader story of hardware-software integration that the company is known for. I’m not sure the agency will win here.
+Apple’s text messaging has always been a bone of contention and, like most complaints against the company, the DOJ’s lawsuit brings up the issue of
+the dreaded green bubble of Android users
+. Still, I don’t think this concern will be relevant for long. Late last year, Apple
+indicated it is planning
+to implement the
+Rich Communication Services (RCS)
+standard on iPhones, which will allow Android and iOS devices to send text messages securely. iMessage
+is encrypted end-to-end
+and only recently has Google and the rest of the industry committed to this level of encryption. This new standard will allow for extended message lengths, sharing of high-resolution images, read receipts, indicators for when someone is typing, the use of GIFs, sharing of one’s location, messaging via Wi-Fi, and enriched group chat features within a secure standard. It should make moot the concerns laid out in the complaint.
+While official data is scarce, smartphone users
+surveyed typically rank
+iMessage fourth among the most-used messaging apps, behind Facebook Messenger, Facetime, and WhatsApp. To make this charge stick, the DOJ will need to convince the courts that the relevant market is more narrow than just messaging apps.
+Smartwatches are another area of the ecosystem where Apple is allegedly having a detrimental impact. Because Apple doesn’t allow non-Apple smartwatches to “respond to notifications and messages and to maintain consistent connections with the iPhone,” the DOJ contests, “Apple has denied users access to high performing smartwatches with preferred styling, better user interfaces and services.” Again, when RCS is fully implemented, many of these concerns are likely to fade away.   I also expect that Apple will argue it has grown the smartwatch market by allowing FitBit and other providers secure access to health data on the iPhone.
+Digital wallets are an unusual inclusion on the DOJ’s list, in my opinion, because they are an example where you’d expect to see integration,
+according to economic theory
+. When there is demand for trust in the process—especially in financial transactions—you want to integrate everything. It makes sense, then, why both Apple and Google have been undergoing this process at the same time. Google Pay’s iOS app
+was recently retired
+and integrated into the Google Wallet. Google said it would make the entire process simpler and more secure. Apple did exactly the same.
+Besides, if the DOJ wanted to remedy this problem, they would likely have to force the company to open up
+the Apple Pay component security system
+. Payments are complicated and it’s not clear to me that the DOJ has a shining example of harm. The better story is that Apple is trying to provide security for financial transactions.
+What next?
+How likely is it that the DOJ’s suit against Apple will prevail?
+I’ve long thought the DOJ’s case focusing on Google’s advertising technology was the strongest of the Big Tech antitrust probes. But even in that instance, I’d rate the government’s odds of success as slim. In an effort to be a little more scientific, Daniel Crane, a law professor at the University of Michigan,
+recently reached out to fellow academics
+with a questionnaire aimed at ranking the legal challenges by the strength of their arguments. Nineteen antitrust professors answered, and according to Crane, they were all “distinguished in the field, fair-minded, and highly knowledgeable.” Compiling the rankings yielded a consensus view:
+A clear separation emerges from the raw scores. Google is the consensus choice for the strongest government case; Amazon is the consensus choice for the weakest government case. Indeed, not a single respondent ranked Amazon the strongest government case, and only one ranked Google the weakest. … Respondents were consistently bullish on Google (from the government perspective) and bearish on Amazon. Facebook and Apple were a toss-up in the middle.
+All of this is to say that,
+under existing Supreme Court precedent
+, the DOJ’s case faces serious hurdles. At its core, the complaint alleges that Apple withheld access to specific applications from competitors or potential competitors, which could have increased its immediate profits. But the problem is that Apple never allowed those contracts in the first place, so they didn’t give up profits.
+Mizzou Law Professor Thom Lambert
+offers a deeper read of the two common holdings in the law for these kinds of antitrust cases,
+Aspen Skiing
+and
+Trinko,
+and what they might mean for Apple.
+Besides, even if the DOJ were to win this case, they would struggle to make remedies work. As Alden Abbott, former general counsel of the Federal Trade Commission,
+pointed out
+, the proposed remedies in the complaint “would be virtually impossible to administer by a court. This would lead to constant litigation and haggling over whether future actions by Apple fell within the decree, thereby hobbling Apple and diminishing its future innovation.” The subtext here is
+United States v. AT&T
+, the 1982 case that led to the break up of the telecom company. The DOJ was able to secure an antitrust judgment against AT&T in that instance, but it spent the next decade in the courts trying to administer the decision. It was a mess that eventually led to
+a new law
+regulating telecommunications.
+The DOJ is confident in its case’s ultimate aims.
+U.S. v. Apple
+is “about freeing smartphone markets from Apple’s anticompetitive and exclusionary conduct and restoring competition to lower smartphone prices for consumers, reducing fees for developers, and preserving innovation for the future.” But the DOJ’s confidence seems to overlook the substantial challenges in proving Apple’s conduct crosses the line into illegality, especially in a sector as rapidly evolving and competitive as technology.

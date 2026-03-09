@@ -1,0 +1,108 @@
+PAGE_TITLE: 
+	Twenty-Four Ways to Understand 2024 | American Enterprise Institute - AEI
+
+Economist Deirdre McCloskey opens
+The Narrative of Economic Expertise
+with an observation that blew me away when I read it as an undergraduate:
+It is pretty clear that an economist, like a poet, uses metaphors. They are called ‘models.’ The market for apartments in New York, says the economist, is ‘just like’ a curve on a blackboard. No one has so far seen a literal demand curve floating in the sky above Manhattan.
+To understand how the earth and the other planets revolve around the sun, we might use curves. To understand the forces acting upon a bridge, we construct a model. Disney uses agent-based models—simulations used to study the interactions of  people with things and places over time—to design its parks and attractions. When the Congressional Budget Office scores a bill and gives it a cost, it uses a model of the economy. Models are metaphors and like all metaphors, models have limits.
+But if you take these limits into consideration, weaving together multiple models of the world can be
+incredibly powerful
+. They helped Berkshire Hathaway’s Charlie Munger become a billionaire: “You’ve got to have models in your head. And you’ve got to array your experience—both vicarious and direct—on this latticework of models,” he
+said
+in 1994. Especially in policy, having multiple models of the world can generate solutions, and it can also limit action.
+This week’s
+Techne
+is my attempt to share some of my models of the world. What follows are 24 insights that help to capture this moment in politics, in technology, in
+the culture
+of 2024.
+They don’t cover everything
+, they may even change in the future, but they are a start to making sense of this moment.
+Why is social media so tiring?
+Dror Poleg has a convincing framework
+: We’re caught in a dancing landscape. Fitness landscapes represent how well an organism is suited to its environment. Our environment is communication and because we are constantly responding to each other, our landscaping is dancing. Poleg said it simply: “The internet compels us to constantly respond and adapt to each other’s behavior.”
+Echo chambers have utility. Especially when information is dispersed and preferences are polarized,
+research has found that
+“segregation into small, homogeneous groups can then maximize the amount of communication that takes place, thus making such segregation both individually rational and Pareto-efficient.” Interestingly enough, it seems that people aren’t in enough echo chambers.
+People are widely exposed to false news online. However, echo chambers are minimal, and the most avid readers of false news content regularly expose themselves to mainstream news sources.
+A study on this topic
+found that “a naive intervention that reduces the supply of false news sources on a platform also reduces the overall consumption of news.”
+Do you think the world is in decline? You aren’t alone.
+Across 235 surveys and 574,000 responses
+, stretching back to the 1940s, people believe that humans are less kind, honest, ethical, and moral in their current time than they were in the past. Sometimes it’s called the declension narrative.
+Trust may be declining, but cooperation among people in the United States seems to be slightly increasing over time.
+A metastudy
+of “511 studies conducted between 1956 and 2017 with 660 unique samples and effect sizes involving 63,342 participants” found no evidence for a decline in cooperation over the 61-year period. Rather, there was found “a slight increase in cooperation over time.” This finding undercuts one part of the
+thesis of
+Bowling Alone
+.
+Going on an app, logging onto a social media site or watching a video online are all safe bets for how we spend our free time. Just like in finance, where the risk-free rate is the lowest return you can get without taking any chances (like investing in T-bills), using social media or watching videos is a
+low-risk way to relax
+, unlike more active or unpredictable activities like playing basketball or going hiking.
+Even simple terms like “chicken” or “whale” can have massively different meanings and associations for different people. Polysemy, which is the coexistence of many possible meanings for a word or phrase, serves as one fundamental gulf between people.
+Recent research
+has quantified the level: “at least ten to thirty quantifiably different variants of word meanings exist for even common nouns” like penguin and dolphin, and this is important because “people significantly overestimate how many others hold the same conceptual beliefs.”
+Not taking a side on a contentious moral and political issue can sometimes be seen as being worse than holding the opposing view. Not taking sides can sometimes be
+seen as strategically deceptive
+. There is
+a reputational risk
+for not taking sides awaiting those who opt not to do so.
+Researchers
+have failed to replicate
+one widely cited finding suggesting that the mere presence of a smartphone reduces brain power.
+Big Tech isn’t a monolith. Meta, Amazon, Apple, and all the other tech companies aren’t aligned. Meta is
+pushing legislation
+that would regulate Apple, for example, and
+company officials told
+federal regulators behind closed doors that they were hurt by Google. The Internet Association, a former trade group for big tech companies, partially imploded
+because the bigger members
+had “wildly different goals from smaller members.” There’s a lot less agreement than people imagine.
+Even if you give away online subscriptions for newspapers, people still don’t consume local news. In
+this experiment conducted in Pennsylvania
+, 2,529 individuals were offered free online subscriptions, but only 44 subscribed. It seems that “contemporary local newspapers may face a demand-side dilemma: the engaged citizens who formerly read them now prefer national, partisan content.”
+Pew polled people
+in 27 countries between 2022 and 2023 and found that “Americans are the least likely to evaluate social media positively. Just 34% of U.S. adults say social media has been a good thing for democracy in the United States.”
+There is a
+growing body of research
+confirming what I’ve long suspected, that there is “little evidence that the YouTube recommendation algorithm is driving attention” to extreme right-wing and left-wing content. Instead, “trends in video-based political news consumption are determined by a complicated combination of user preferences, platform features, and the supply-and-demand dynamics of the broader web.” The title of
+one paper
+is particularly blunt about its main finding: “
+Algorithmic recommendations have limited effects on polarization,” while
+another report
+in this space finds that the algorithm pulls users away from political extremes, and it pulls users away from far right content more strongly than from far left content.
+The internet isn’t egalitarian. A small group of people tends to be the cause of a very large part of all content. This power law turns up across the ecosystem.
+Around 10 percent of X, formerly Twitter
+, users create 80 percent of tweets. Reddit is built on a similar scale;
+the most prolific 0.1 percent of all users
+wrote 12 percent of all comments.
+If you see an online friend express a view, you might assume a lot of people hold that view. But data scientists
+Kristina Lerman, Xiaoran Yan, and Xin-Zeng Wu
+have found that “In some cases, the structure of the underlying social network can dramatically skew an individual’s local observations, making a behavior appear far more common locally than it is globally.” As a result of this paradox, which they call the majority illusion, “a behavior that is globally rare may be systematically overrepresented in the local neighborhoods of many people, i.e., among their friends.” I wrote
+about the majority illusion here
+.
+Research from Alexander Bor and Michael Bang Peterson
+has found that online environments don’t necessarily attract people predisposed to hostility. Hostile people talk about politics whenever they can. Rather, “the public nature of online discussions exposes people to way more hostile attacks directed against strangers.” Scaling up your network means scaling up the instances in which you might be trolled. It’s a corollary of the majority illusion.
+If you post about politics online, you aren’t a normie:
+Pew Research has found
+that 70 percent of U.S. social media users either never or rarely post about political and social issues. Only 9 percent say they often post or share. Moderates of all stripes, including self-described conservative or moderate Democrats and liberal or moderate Republicans, are more reluctant to post than either liberal Democrats or conservative Republicans. In short, the people posting and commenting are far more partisan than the average.
+Deplatforming on social media seems to work
+.
+Turning off notifications makes
+users check their phones even more frequently.
+Judith Donath
+of Harvard’s Berkman Center is right: “In the world of social media, of Facebook and Twitter, news is shared not just to inform or even to persuade. It is used as a marker of identity, a way to proclaim your affinity with a particular community.” Similarly, online misinformation might be best
+understood as gossip
+that “spreads as part of an economy of social capital.”
+Some research suggests that misinformation boosts short-term engagement with social media platforms. But it is tough to compare platforms with and without misinformation in the wild, partly because users learn and change their preferences over time. With these concerns in mind, my former colleagues set up an experimental game to test some key questions about partisanship online.
+The results undercut the notion
+that misinformation is good for the bottom line. Even our researchers were shocked. Much as Meta CEO Mark Zuckerberg had suggested, social media platforms focused on users’ long-term engagement have a clear incentive to purge their platforms of misinformation.
+The literary critic Lionel Trilling once observed “Some of the charm of the past consists of the quiet—the great distracting buzz of implication has stopped and we are left only with what has been fully phrased and precisely stated.” While I’m not excusing Facebook, when I read the
+internal documents
+from its engineers describing the events of January 6, 2021, I thought of Trilling’s great distracting buzz of implication: “[A]t the time it was very difficult to know whether what we were seeing was a coordinated effort to delegitimize the election, or whether it was protected free expression by users who were afraid and confused and deserved our empathy.”
+Music by Bach
+is performed almost 30 percent faster in tempo than it was 50 years ago. Time is speeding up. Meanwhile, the likelihood “that the allotment of time to decision-making is undergoing systematic compression remains a neglected consideration, even among those paying explicit and exceptional attention to the increasing rapidity of change,”
+according to philosopher Nick Land
+.
+Behavioral economics has amassed a large volume of research since the 1970s showing that individuals make irrational decisions. But more recent work from economists Thomas Epper, Helga Fehr-Duda, Benjamin Enke, and Thomas Graeber have shown that the inherent uncertainty of the future combined in a unifying framework explains a large number of puzzling behavioral findings. In other words, when the uncertainty of the future is baked in, a lot of the irrational findings of the past make sense.
+That research is documented here
+.

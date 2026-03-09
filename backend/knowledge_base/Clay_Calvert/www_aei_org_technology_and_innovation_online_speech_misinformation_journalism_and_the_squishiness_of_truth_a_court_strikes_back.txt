@@ -1,0 +1,53 @@
+PAGE_TITLE: 
+	Misinformation, Journalism, and the Squishiness of Truth: A Court Strikes Back | American Enterprise Institute - AEI
+
+What’s the difference between a completely true statement, one that’s substantially true, and one that’s just plain false? The US Court of Appeals for the Eleventh Circuit grappled with that issue last month in
+Project Veritas v. Cable News Network
+. It’s a
+defamation
+dispute that tests the boundaries of how much legal leeway journalists have in claiming that inaccurate on-air statements should nonetheless be taken as true.
+As explained later, the Eleventh Circuit correctly put the brakes on CNN’s efforts to expansively define substantial truth. In doing so, one judge
+proclaimed
+he “never thought [he’d] see a major news organization downplaying the importance of telling the truth in its broadcasts. But that is what CNN has done in this case.”
+Via Reuters
+Before exploring that outcry and the case’s outcome, some context is essential. As a starting point—and as
+The New York Times
+recently
+observed
+—“for years, the discussion about misinformation online has focused on falsehoods circulating on the American right.” A February 2021 CNN report suggesting that conservative-tilting, undercover-video journalism organization
+Project Veritas
+was banned from Twitter (now X)
+for
+“promoting misinformation” fit snugly within this longstanding narrative.
+The only problem is that CNN’s assertion wasn’t true. Although Project Veritas was banned from Twitter, the reason for its removal was that it had accurately revealed a residential house number in the background of a video it posted about its efforts to interview a Facebook executive. As the Eleventh Circuit
+explained
+, the revelation of the house number violated Twitter’s
+doxing
+policy against posting “other people’s private information without their express authorization and permission.” In brief, Project Veritas was kicked off Twitter
+not
+for spreading false information, but for disseminating
+true facts
+incidental to an attempted news interview.
+Project Veritas sued CNN for
+defamation
+, reasoning the accusation that it peddled false information—misinformation—harmed its journalistic reputation. That logic clearly comports with journalists’
+ethical obligations
+to seek truth, report it, and be fair and accurate. Project Veritas thus asserted it was CNN host Ana Cabrera who disseminated misinformation when she told viewers:
+We’re starting to see companies cracking down to try to stop the spread of misinformation and to hold some people who are spreading it accountable . . .   For example, Twitter has suspended the account of Project Veritas, a conservative activist, uh, activist organization. . . . this is part of a much broader crackdown, as we mentioned, by social media giants that are promoting misinformation.
+To win a defamation lawsuit, a plaintiff must demonstrate that a reputation-harming statement made about it was provably false. Project Veritas contended this element was easily satisfied because it wasn’t barred from Twitter due to propagating misinformation but for reporting true private facts. CNN, however,
+countered
+that its report was “substantially true and thus not actionable.” It argued that the difference between being barred for disseminating misinformation versus for publishing a truthful private fact was “immaterial,” “modest,” and—invoking tennis terminology—“at most, a foot fault.” This is where the squishiness of truth in defamation law arises.
+Under the
+substantial truth doctrine
+, minor inaccuracies sometimes are permissible “if the gist of their statement was true.” For example, the Nevada Supreme Court once
+deemed
+substantially true a report that an animal trainer beat his animals with a steel rod when, in fact, he beat them with a wooden one. The negative gist or meaning of the allegation that would cause the trainer reputational harm—that he beat his animals—would be the same, regardless of the rod’s composition.
+The Eleventh Circuit in
+Project Veritas
+framed the issue as whether “the ‘gist’ or ‘substance’ of being suspended for ‘promoting misinformation’ is the same as being suspended for ‘publishing private information of another without their consent.’” It concluded they were not the same, rejecting CNN’s substantial truth argument.
+In reaching that result, the court reasoned that “Cabrera accused Veritas of substantially different behavior than that in which Veritas engaged. Veritas committed one infraction; CNN accused it of a completely different one.” The court added that the distinction between spreading misinformation and publishing truthful private facts is “not an inconsequential detail” and, in fact, involves “substantially different behavior[s].” Put differently, the factual difference in meaning to an average listener upon hearing that Project Veritas was banned for spreading misinformation would
+not
+be minor when compared to hearing it was banned for reporting truthful private facts.
+Ultimately, the court’s decision reinforces the importance of truth telling for the journalism profession in a seemingly post-truth world. As Judge Ed Carnes
+wrote
+in his concurrence, “the truth is never an immaterial detail when accusing another of misconduct, and the boundary line between truth and falsehood that CNN allegedly stepped over is more important than any line in the game of tennis.” That’s a lesson for all news organizations to remember.

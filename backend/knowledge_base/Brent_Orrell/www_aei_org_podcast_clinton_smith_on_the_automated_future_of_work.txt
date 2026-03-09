@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	Clinton Smith on the Automated Future of Work | American Enterprise Institute - AEI
+
+In their short, shared history, electrical and computing technology have fundamentally altered the way we live and work. Documents are sent in a flash, and goods are produced more efficiently than ever. While that efficiency tends to increase productivity, raise wages, and create new jobs, it also imposes costs in transitions for workers in affected industries. In this episode of
+Hardly Working
+, I am joined by Clinton Smith, co-founder of RIOS, a company that delivers robots-as-a-service to manufacturing companies. RIOS seeks to alleviate labor shortage and reduce human wear and tear, especially in fields like manufacturing. We discuss Clinton’s path to industry as well as the benefits and challenges created by his company’s product in on our increasingly-automated economy.
+Mentioned in the Episode
+Georgia Tech Computer Science
+Princeton Electrical Engineering
+Clinton Smith
+Clinton Smith Dissertation
+PARC
+SPIR Grant
+ARPA
+,
+DARPA
+,
+IARPA Grants
+IOT Distributed Sensing
+McKinsey Report: A Future that Works
+Bernard Casse – RIOS Co-founder
+Haptics
+Mechanoreceptors
+,
+in fingers
+Deep Learning
+RIOS Website
+RIOS Case Study: Hit Promotional Products
+RIOS VULCAN Robot Workcell shows the possibilities of Pack Out to Box
+Robots as a service (RaaS)
+Who Made the Pencil?

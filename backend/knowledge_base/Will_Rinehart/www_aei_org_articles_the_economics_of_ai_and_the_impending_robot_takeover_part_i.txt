@@ -1,0 +1,77 @@
+PAGE_TITLE: 
+	The Economics of AI and the Impending Robot Takeover, Part I | American Enterprise Institute - AEI
+
+Tim Lee, the author of the excellent
+Understanding AI
+Substack,
+recently took to X with a plea
+: “I really wish there were more economists involved in discussions of the implications of superintelligence.” He continued:
+The most obvious example is people predicting mass unemployment without thinking through the impact of high productivity on fiscal and monetary policy. There are also people who implicitly assume that the economy will become 90 percent data centers, which doesn’t make much sense.
+To be fair, there are a lot of assumptions built into the issue. For one, Lee’s scenario assumes that machine intelligence is capable of artificial general intelligence (AGI). Moreover, it assumes that AGI might be able to become super intelligent and best humans. But is that likely?
+For the next two editions of
+Techne
+, I’d like to respond to his call. This week, I am going to lay out some of the big findings that economists have made about companies adopting new technologies. Next week, I’ll dream big and imagine what might happen with advanced AI.
+The basic market model and technological change.
+Jobs are bundles of related tasks. A truck driver doesn’t just drive a big rig; he also loads and unloads cargo, reviews documentation for completeness and accuracy, ensures cargo is secure, and checks that equipment is in good working order,
+among other tasks
+. Jobs, or labor, are then combined with capital to make a firm, which is an even bigger bundle of tasks. In turn, that firm is situated in one or more markets, where it sells a good or service to consumers.
+Truck drivers might work for FedEx, Amazon, or a dedicated truck service like J.B. Hunt. Each of those companies is situated in distinct market niches. (FedEx specializes in package delivery, Amazon is an online retail platform, while J.B. Hunt is a dedicated truck driving service.) Truck drivers for each of those scenarios are likely to share many tasks, but not all of them.
+When a company adopts a new technology, it can augment labor and capital differently by automating certain tasks or enhancing the productivity of tasks. But that changeover comes with costs. Two costs, in fact. First, the investment cost, which includes all of the resources that the entrepreneur has to muster to actually change production. These consist of outlays required to procure new machines, buy new software, or set up a new production line.
+The second cost is more subtle: the opportunity cost. Economists are obsessed with opportunity costs because they represent all of the benefits that come with
+not innovating
+. By setting up a new production line, an entrepreneur might lose revenue initially because it isn’t that much better than the old way of doing things. Or, they might miss out on an opportunity to boost current production. Moving up the learning curve to produce a better product at a cheaper cost takes time.
+These two costs must be coupled and weighed against the benefits, which are increased revenues. Combined, the company will carry out the innovation only when it believes that the predicted time for investment to break even is reasonable and the forgone units of sale are bearable. Since large firms with higher output and sales tend to benefit more, they might be more willing to incur the fixed costs of investment. But there are real limits, especially if the payoff isn’t that great or if a lot of learning is needed to make the technology work.
+Electricity took time to get adopted. Manufacturers had built up a large stock of knowledge around water and steam power, and they were reluctant to abandon it. As Andrew Atkeson and Patrick J. Kehoe detailed in a classic
+2001 National Bureau of Economic Research paper
+, though the transition to electricity started in the 1890s, it didn’t overtake steam power until around 1920. It then took another 20 years for the transition to be complete.
+Electricity is the classic example of a general purpose technology (GPT) because it has been shown
+time and again
+to positively
+affect productivity
+across a range of industries. Most technologies are more niche and only apply to one industry or profession. Not too long ago,
+I wrote about
+the last hand-operated telephone switchboard in the U.S. going automatic and the time it took to get there:
+Invented in the 1880s, automatic switchboards were only sparingly installed into telephone networks. Instead, AT&T used long switchboards staffed by female telephone operators to make calls. That era peaked in the 1930s
+when some 180,000 operators
+were employed, waning only when the changeover to automated tech began in earnest during the 1960s and 1970s. Then it took another twenty years for the last manual boards to get pulled out.
+Similarly, the farm tractor was once a narrow technology before becoming a GPT.
+In the 1920s
+, tractors were initially adopted for use in the Wheat Belt of North Dakota, South Dakota, and Kansas. Then they became a more common technology from 1930 to 1940 in the Corn Belt of Iowa, Illinois, and Nebraska.
+The point is that both electricity and the tractor were among the most disruptive of all technologies—and they still took decades to be adopted.
+Robots and automation.
+Even though robots aren’t a GPT, their adoption has nuanced effects on how firms use labor and capital.
+In a 2019 paper—aptly named “
+Robots and Firms
+”—Michael Koch, Ilya Manuylov, and Marcel Smolka delivered one of the most comprehensive recent papers on the topic. They tracked individual Spanish manufacturing firms from 1990 to 2016 to see how they adopted new technologies. As they noted, “robot adoption generates substantial output gains in the vicinity of 20-25% within four years, reduces the labor cost share by 5-7%-points, and leads to net job creation at a rate of 10%.” At the same time, they recorded “substantial job losses in firms that do not adopt robots, and a productivity-enhancing reallocation of labor across firms, away from non-adopters, and toward adopters.”  They also found that more productive firms were more likely to adopt robots, leading to substantial output gains over time.
+A study focusing on a particular Dutch
+company experiencing automation revealed a variety of intricate effects. In general, employees were more prone to leaving the firm and experiencing a reduction in workdays, resulting in lower wage incomes, although the overall wage rate remained stable. These lost earnings were only partially compensated by different benefits systems, with older workers and those with longer tenure shouldering the majority of the financial burden.
+International comparisons tend to find
+that industrial robots increased both labor productivity and value added. In a comparison of 17 countries from 1993-2007, the increased use of robots raised countries’ average growth rates by about 0.37 percentage points. Robots also tended to increase both wages and total factor productivity, but they had no significant effect on total hours worked. However, this work does show some evidence that they reduced the hours of both low-skilled and middle-skilled workers.
+It is also important to note that robots are only one kind of automation technology. There are others, like computer numerical control (CNC). Since the 1970s, computerized machine tools have been replacing semi-skilled manufacturing workers, contributing to factory automation. In studying this change,
+Leah Platt Boustan, Jiwon Choi, and David Clingingsmith
+(2022) found that industries more impacted by CNC boosted capital investment and experienced higher labor productivity. Total employment increased, with gains for college-educated workers and abstract tasks compensating for the decline in less-educated workers and routine tasks. Unionized jobs saw the most significant employment gains. Workers in these industries went back to school, prompting the growth of relevant degree programs.
+Meanwhile, when nursing homes were forced to upgrade and
+adopt automation technologies
+, high-end nursing homes decreased their staffing levels by 5.8 percent, while low-end homes saw an increase in staffing by 7.6 percent. As the authors of the study pointed out, “these findings suggest that the impact of automation technology on staffing decisions depends crucially on a facility’s strategic position in the local marketplace.”
+And then there is the story of ATMs
+, which seemed to propel an expansion of regional banks in the 2000s.
+In a classic episode of the EconTalk podcast
+, James Bessen explains what happened
+Basically starting in the mid-1990s, ATM machines came in in big numbers. We have, now, something like 400,000-some installed in the United States. And everybody assumed –including some of the bank managers, at first — that this was going to eliminate the teller job. And it didn’t. In fact, since 2000, not only have teller jobs increased, but they’ve been growing a bit faster than the labor force as a whole. That may eventually change. But the impact of the ATM machine was not to destroy tellers, actually it was to increase it.
+What happened? Well, the average bank branch in an urban area required about 21 tellers. That was cut because of the ATM machine to about 13 tellers. But that meant it was cheaper to operate a branch. Well, banks wanted, in part because of deregulation but just for deregulation but just for basic marketing reasons, to increase the number of branch offices. And when it became cheaper to do so, demand for branch offices increased. And as a result, demand for bank tellers increased. And it increased enough to offset the labor-saving losses of jobs that would have otherwise occurred. So, again, it was one of these more dynamic things where the labor-saving technology actually created more jobs.
+Focus on job churn, not job loss.
+To summarize what we have covered so far:
+When a company adopts a new technology, it can augment labor and capital differently by automating certain tasks or enhancing the productivity of tasks
+Even disruptive technology like the tractor and electricity took decades to be adopted.
+Automation technologies have a variety of effects, but there are a lot of cases where skilled workers benefit and where the market for labor expands.
+To those three stylized facts, we need to add a fourth, which Kerstin Hötte, Melline Somers, and Angelos Theodorakopoulos
+explain in a paper
+from just a couple of years ago. Looking at a wide range of studies, they conclude that “the labor-displacing effect of technology appears to be more than offset by compensating mechanisms that create or reinstate labor.”
+One of these compensating mechanisms is known as
+the Baumol effect
+and it helps to explain why orchestra musicians aren’t paid the same wage as they were 200 years ago although they have not gotten any more productive. In short, jobs without productivity gains see wage increases because the jobs must compete for workers with jobs that have productivity gains and can naturally offer higher wages. Orchestra musicians aren’t paid the same as programmers,
+but a top musician gig
+can bring in well over $150,000 a year.
+Another one of those compensating mechanisms is that an increase in income tends to change what a society as a whole demands. As MIT’s David Autor explains in
+a must-read paper on the topic
+, when aggregate incomes go up, there tends to be an increase in the demand for service jobs and other manual task-intensive work. In the end, computerization should indirectly raise demand for manual task-intensive occupations because it increases societal income.

@@ -1,0 +1,81 @@
+PAGE_TITLE: 
+	Taking a Swing at the Size and Cost of Government | American Enterprise Institute - AEI
+
+When people talk about Illinois politics, they often reference Chicago. But when Chicagoans talk about politics, they talk about Springfield, the state capital where I was born and raised. Quite literally, I grew up in the shadow of politics. As a kid, I’d often bike to the statehouse just to relax beneath
+the statue of Lincoln
+.
+Given this background, it is not surprising that my professional career has been shaped by concerns over poorly designed public policy. So,
+I felt hopeful when President-elect Donald Trump
+announced
+that entrepreneurs Elon Musk and Vivek Ramaswamy would lead what Trump calls the Department of Government Efficiency (DOGE) with the aim of tackling government waste.
+While the “department” is not a government agency and details are lacking, Trump has said that DOGE will “provide advice and guidance from outside of Government, and will partner with the White House and Office of Management & Budget to drive large scale structural reform, and create an entrepreneurial approach to Government.” And all of this is to be done “no later than July 4, 2026,” the 250th anniversary of the signing of the Declaration of Independence.
+Musk has been more explicit in his goals, however unrealistic. He wants to cut $2 trillion from the budget, do away with what he calls
+the “Kafkaesque” rules of government
+, and make it easier to
+fire bad employees
+. Musk’s long history of clashes with the Federal Aviation Administration as head of SpaceX underscores the potential conflicts of interest that this effort could generate. While I appreciate the optimism from Musk, he and Trump will face pushback and obstacles that could derail DOGE’s aspirations.
+For one, Trump already attempted
+a dramatic reduction of government back in 2017
+but couldn’t make headway with Congress, which ultimately decides if agencies are created or cut. On top of this, the United States
+already ranks
+near the bottom of rich countries when it comes to government spending per total size of economy. Reducing this spending even more will prove difficult, if not impossible. More importantly, Trump has taken reform of Social Security and Medicare off the table, which means that two huge entitlement programs that could drive significant savings won’t be touched.
+Given these constraints, DOGE could be effective by focusing on more mundane problems in government rather than radical changes. It should work to clear the backlog of already proposed reforms, make processes more rational, and solicit reforms from people working in government. They wouldn’t be flashy changes, but they could actually make things better.
+It’s been tried before.
+The U.S. government is massive. Over the last fiscal year, which ran from October 2023 to September 2024, the federal government
+spent $6.75 trillion
+. The largest chunk of this went to Social Security ($1.46 trillion); then health ($912 billion), which includes Medicaid
+;
+interest payments on debt ($882 billion); Medicare ($874 billion); national defense ($874 billion);
+and veterans benefits ($325 billion).
+Reducing these outlays will be difficult, given
+the promises Trump has made
+. What DOGE should tackle is fraud, which is a known problem. According to the Government Accountability Office’s
+first ever study of the problem
+, released late last year, the federal government likely loses between $233 billion and $521 billion annually to fraud. During the pandemic alone, the Small Business Administration’s Office of Inspector General
+estimated
+the agency disbursed $200 billion in potentially fraudulent payments, between 11 and 15 percent of its total spending.
+In early 2023, for example, Edward Whitaker and Schunda Coleman
+pleaded guilty to operating
+a nationwide scheme that helped people forge documents for COVID relief loans and commit millions of dollars in fraud. Similarly, in Medicare and Social Security, fraud schemes often involve billing for unnecessary medical procedures, stealing personal information to collect benefits, or creating fake identities to siphon funds from these essential programs.
+But hiring auditors and doing the necessary technical upgrades to combat fraud requires spending that’s often a tough sell politically. Reducing headcount might trim budgets, but it is likely to make fraud worse.
+There is also a similar sort of tension in undoing the regulatory state. While Musk seems more focused on cutting the size of government, Ramaswamy has been talking about curbing bureaucratic regulations,
+which he characterizes
+as a legal mandate from the Supreme Court.
+In part, he’s got a point.
+A number of recent court cases
+have limited agency authority to push regulations. But undoing all of those mandates will require more lawyers. Undoing the regulatory state is likely to mean more government workers in the near term, rather than fewer.
+And as much as I am a fan of slimming budgets, the United States already ranks at the bottom of public sector spending. Public sector employment in the United States
+only constitutes about 14 percent
+of all employment, far lower than Canada at 19 percent and lower than the United Kingdom at 16 percent. A vast majority of this employment comes from local, not federal, government.
+As Francis Fukuyama
+recently wrote
+in an open letter to Musk,
+There are basically the same number of full-time federal employees today as there were back in 1969, about 2.3 million. This is despite the fact that the government now disburses more than five times as many dollars as it did back then. In fact, you can argue that the government is understaffed, due to relentless pressure over the decades to keep headcounts down. The Center for Medicare and Medicaid Services, for example, oversees the spending of $1.4 trillion, or one fifth of the entire federal budget, with a staff of only 6,400 full-time employees.
+Instead of trying to thin the ranks of federal employees, some have also suggested that entire agencies should be axed.
+The Department of Education
+has especially drawn ire. But the president doesn’t have unilateral power to shutter an agency. Congress would need to initiate that process and it has been resistant to reforms. When Trump tried in 2017 to
+cut $2.5 trillion in spending
+, Congress passed a budget that was broadly in line with years previous and he signed it into law.
+Timing also complicates structural reform. If DOGE indeed finishes its recommendations by July 2026, the earliest the president could try to implement reforms would be in a budget for the 2028 fiscal year, by which time the House could be controlled by Democrats.
+The short timeline will inherently limit what DOGE can do. The Base Realignment and Closure (BRAC) process is often cited as an example of a successful reorganization and downsizing by the government. Unlike DOGE, this was a congressionally authorized process that allowed the Department of Defense (DOD) to reorganize its facilities, resulting in 350 base closures and
+a combined savings of $12 billion annually
+. But BRAC happened over the course of five rounds, beginning in 1988 and ending in 2005. Part of what made the effort successful was that it was slow and deliberate, giving the DOD time to adjust and unravel all of its interests. Quick changes and deep cuts will face steep opposition.
+Cleaning up regulations and processes.
+The new administration already has a lot of options to make the government better. In fact, it has roughly
+5,372 options
+. The Government Accountability Office (GAO) has published thousands of recommendations over the years to improve efficiency, accountability, and transparency across federal agencies. As it currently stands, more than 5,000 recommendations are currently open and 499 are priority recommendations. By the GAO’s own estimates, implementing these recommendations could save
+between $106 billion and $208 billion
+. Additionally, the inspectors general have put forward
+14,000 more suggestions
+to boost government efficiency. DOGE should think of ways to clear this backlog of recommendations.
+One of the ways that DOGE could be useful is in soliciting advice from administrators on hangups that slow deployment. Jennifer Pahlka, former deputy chief technology officer under Obama and author of
+Recoding America
+,
+recently explained the problem of cascades
+, as she calls it, that desperately needs to be resolved:
+The story that I’ve probably told the most is about a friend of mine who worked on a project at the Air Force. Back in 2014, we were trying to get new software on the satellites that manage GPS, and the project was extremely delayed and way over budget. They had inserted a huge enterprise service bus (ESB) in the middle of a really simple protocol; it was so complex and Rube Goldberg-y that it caused timeouts between the ground stations and the satellite.
+He asked why this ESB was in there, and someone said that it’s a requirement in the contract. As he pulled the thread, he found out that everybody believed this was required by Congress. So he went back and looked at the Clinger Cohen Act, which requires all agencies to have a plan for how they’re going to handle technology. At some point, somebody wrote some guidance around that, which suggested interoperability using ESBs — for software developers who are asking, “Why is she talking about ESBs?”, this was in the ‘90s. As it descended from the federal enterprise architecture to the Department of Defense enterprise architecture to the US Air Force enterprise architecture to an actual contract, it went from being a suggestion to a requirement.
+Pahlka’s book details a number of programs that are burdened by these cascades. Finding these suggestions that seemingly became requirements could go a long way to making the government operate better.
+Big government versus small government.
+DOGE fits into a long line of efforts by presidents to reduce the size of government. Barack Obama signed the “Delivering an Efficient, Effective, and Accountable Government” executive order and Bill Clinton advanced the “National Partnership for Reinventing Government.” Both initiatives had some success, but neither was able to fully deliver on their promises. Perhaps I am too cynical, but I expect DOGE to suffer the same fate, especially since Trump has promised to not touch entitlements.
+Ultimately, DOGE could help everyone by recommending incremental, pragmatic changes that enhance accountability and transparency without derailing essential services. By focusing on cutting waste, streamlining processes, and addressing the cascade of outdated standards, DOGE has the potential to become a meaningful force in government reform. To me, that would still be a big win.

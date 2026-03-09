@@ -1,0 +1,90 @@
+PAGE_TITLE: 
+	Inching Closer to Editorial Freedom? The Government Weighs In on Social Media Platforms’ First Amendment Rights | American Enterprise Institute - AEI
+
+Two potentially momentous cases affecting social media platforms’
+First Amendment
+rights to compile, organize, and remove content as they see fit and to jettison users who violate their acceptable-speech policies crept closer to
+Supreme Court
+review on August 14. That’s when US Solicitor General
+Elizabeth Barchas Prelogar
+weighed in with the federal
+government’s position
+on
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+—conflicting federal appellate court rulings the Court soon will decide to hear or let stand.
+The cases center on Florida and Texas statutes that, as I explained
+elsewhere
+, restrict the ability of large social media platforms “to determine and curate for themselves—as business entities, free from government censorship—the content they host, where they host it and, ultimately, the types of communities they maintain.” A key constitutional question, in turn, is whether the First Amendment safeguards the platforms’ content-moderation decisions from such government interference, similar to the way the Supreme Court
+concluded
+nearly 50 years ago that it protects “
+the exercise of editorial control and judgment
+” by print newspapers.
+Via Adobe Stock
+The federal appellate courts in the
+NetChoice
+cases disagreed on the answer. Last year in
+Moody
+, the
+US Court of Appeals for the 11th Circuit
+concluded that it was “substantially likely” that a Florida
+statute
+restricting how and where large platforms display content and
+another
+banning the deplatforming of candidates running for public office in the Sunshine State “
+unconstitutionally burden
+” what it called “
+protected exercises of editorial judgment
+.” As I
+wrote
+for AEIdeas in June, the 11th Circuit “reasoned that Florida’s content-moderation statutes likely wouldn’t pass
+intermediate scrutiny
+(let alone the more rigorous means-end test,
+strict scrutiny
+) because they did not further any substantial government interest.”
+Conversely, the
+5th Circuit
+in
+Paxton
+upheld a Texas
+statute
+that, in key part, bars
+large platforms
+from censoring “a user, a user’s expression, or a user’s ability to receive the expression of another person based on . . . the viewpoint of the user or another person.” The 5th Circuit “
+reject[ed] the idea
+that corporations have a freewheeling First Amendment right to censor what people say.” Embracing an originalism text-and-history analysis I
+previously described
+, it reasoned that “the First Amendment’s text and history . . . offer no support for the Platforms’ claimed right to censor.”
+The wonderful news for social media platforms’ autonomy and independence is that Prelogar did more this month than simply ask the Court to consider the constitutionality of the content-moderation restrictions in
+Moody
+and
+Paxton
+. She also weighed in on the merits,
+asserting
+that (1) “The platforms’ content-moderation activities are protected by the First Amendment,” given that the “act of culling and curating the content that users see is inherently expressive”; and (2) Florida and Texas “have not articulated interests that justify the burdens imposed by the content-moderation restrictions under any potentially applicable form of First Amendment scrutiny.” In brief, the content-moderation mandates imposed by both states are unconstitutional.
+The Supreme Court, of course, doesn’t need to adopt the Biden administration’s stance on the content-moderation question, and it doesn’t even need to hear the cases in the first place. But it is a heartening step for online-speech businesses seeking to avoid government edicts about whether and how they host third-party users and their content. Indeed, NetChoice issued
+a statement
+noting, “The Solicitor General’s brief underscores that both Texas and Florida’s laws are unconstitutional and that the Court should review our cases.”
+If the Supreme Court ultimately adopts Prelogar’s position, it would—perhaps, ironically—finally give social media platforms solid legal precedent to forcefully push back against the type of
+jawboning
+Biden administration officials allegedly engaged in cases such as
+Missouri v. Biden
+to get the platforms to remove content the government doesn’t like. Compounding the irony,
+oral argument
+about the merits of a July 4 trial-court
+order
+in
+Missouri v. Biden
+banning such jawboning activity occurred on August 10 in front of the 5th Circuit, the same appellate court that ruled
+against
+the platforms’ First Amendment right of free speech in
+Paxton
+.
+Print newspapers have long had the Supreme Court’s 1974 ruling in
+Miami Herald v. Tornillo
+in their constitutional corner to protect their First Amendment right of editorial control and autonomy against government efforts (informal or otherwise) to control content. The Court in
+Tornillo
+struck down a Florida statute compelling newspapers to print—free of charge, no less—the replies of candidates running for the public office whom the newspapers had criticized. Now, almost a half-century later, it just may be that Florida statutes of much more recent vintage—the ones at issue in
+Moody
+—help to propel the First Amendment right of editorial control and autonomy beyond the realm of print and into the digital, online era.

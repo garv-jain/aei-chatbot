@@ -1,0 +1,98 @@
+PAGE_TITLE: 
+	Cybersecurity in Agriculture: Don’t Forget About Mobile | American Enterprise Institute - AEI
+
+Cyberattacks are the most significant national security
+threat facing the United States today,
+according
+to our intelligence community. Data breaches,
+computer viruses, malware, insecure interfaces, account hijacking, and
+ransomware have the potential to cause tremendous economic harm across all
+industries —
+as
+we
+have
+seen
+multiple times in the past year. As Sen. Chuck
+Grassley (R-IA)
+noted
+on the Senate floor last week, an overwhelming number
+of agriculture companies have already been targets of cybercrime. Cyberattacks
+hit businesses at every level every day, and are not just targeting large
+multinational corporations; as Grassley notes, they are happening to small
+businesses and individuals.
+Sen. Chuck Grassley holds a small news conference with constituents in Grundy Center, IA, August 16, 2021, via Reuters
+Security by design should be incorporated at every level of
+our connectivity and tech-support systems. While Grassley gets it right on how
+devastating cyberattacks are to our nation’s agriculture sector, he should
+apply these concerns to all levels of the economy, including hardware and
+software (i.e., apps) on individual users’ devices. Grassley recently
+cosponsored
+legislation that would require app store
+operators such as Apple and Google to allow unvetted, third-party apps onto
+mobile devices and demand hardware providers give any software application the
+ability to use all hardware and software features on any device. This
+legislation would be a huge step away from the security-centric architecture of
+many trusted ecosystems.
+Mobile devices are popular because they can always be with
+you — at home, in the office, or in the field. For farmers, mobile apps can deliver
+key, up-to-date agricultural information to help inform decisions on location,
+weather, market evaluations, sensor data, and work-task management. Farmers
+have a long history of making decisions through on-the-ground observations, but
+the ability of today’s technology to measure and monitor field and crop
+conditions has meant more farm operations have
+embraced
+just-in-time technology to make more informed decisions using mobile solutions.
+Farmers have a
+high adoption rate
+of smartphones (over 90 percent).
+Smartphones’ mobile applications offer improved operations, enhanced
+productivity, and increased profits. Fast data access places a wealth of data
+in farmers’ hands for real-time decisions on harvests, transportation, labor,
+and maintenance. Having the ability to use data in the field means applications
+on a farmer’s mobile device need to be secured just as well as their computers at
+the office.
+Apple’s recently released
+report
+describes the importance of its App Store security features:
+Cybercriminals often reach their targets through social engineering or supply chain attacks and sometimes use popular social media networks to spread the scams and attacks. Most rely on third-party app stores or direct downloads to spread malicious apps. Developers and advertisers are also harmed by these attacks, mostly through piracy, intellectual property theft, and loss of advertising revenue.
+With so many farming systems relying on GPS mapping, soil
+sensors, drones, and automated tractors, there is plenty of room for malware to
+disrupt these key systems through a unvetted app. App protection is just as
+essential as administrative credentials for protecting a company’s control
+system.
+Grassley
+explained
+that an Iowa grain co-op was recently targeted by
+a Russian cybercrime operator demanding a $5.9 million ransom. In further
+testimony of just how much disruption to farming cycles and food production is
+at stake, Grassley added that this was one of several attempted hacks of
+agricultural systems this year.
+A CrowdStrike intelligence report
+notes
+that of the 160 hacking groups or gangs the company
+tracks, 13 were identified as targeting the agriculture industry. The FBI
+reported
+just last month that in 2021 there had been at
+least eight hacks of agriculture companies. Such interference with our nation’s
+food supply is simply unacceptable. This is why companies such as Apple and
+Google have created a security design process to avoid malware and “
+Trojan
+” apps that
+can inject
+malicious code into industrial control systems
+or internet-based applications through a mobile connection. For smaller farm
+operations that are time-sensitive and operationally intensive, a cyberattack
+that shuts down the farming cycle can cause several days of lost productivity,
+along with a significant financial burden.
+Why take this risk? So much innovation has been brought into
+industries such as agriculture through technology that allows for better
+planning, more efficient processes, and higher crop yields. Most of today’s
+farming equipment has incorporated sophisticated software that allows for
+better data control, transparency, and safety through curated software-security
+designs. With these innovative strides must come robust security protections.
+The importance of cybersecurity for the many layers of the
+agriculture industry is also applicable to the entire digital ecosystem, which
+needs protective measures at every level. Grassley has rung the alarm bell on
+the importance of protecting the agricultural sector from cyber disruptions.
+Let’s be sure this mission includes mobile devices: one of the most vital
+assets for farmers and one of the most prominent targets for cyberattacks.

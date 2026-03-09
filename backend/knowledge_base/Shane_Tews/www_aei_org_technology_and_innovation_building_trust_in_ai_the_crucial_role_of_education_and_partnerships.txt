@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	Building Trust in AI: The Crucial Role of Education and Partnerships | American Enterprise Institute - AEI
+
+Artificial Intelligence is transforming our world, revolutionizing industries, and reshaping our lives and work environments. As we navigate the complexities of the digital age, we must prioritize building trust in and educating the public on AI. This is where partnerships between industry leaders, academia, nonprofits, and community organizations can play a vital role.
+Establishing trust is a fundamental starting point for society to embrace AI. Part of this includes developing frameworks that set best practices and guidelines for safe and responsible AI development, as several major tech companies including
+Google
+,
+Microsoft
+, and more have done. Many framework models prioritize trust through transparency, allowing users to understand how AI systems work and how their data is being used. By promoting openness and accountability as a priority, these initiatives work to build a solid foundation of trust.
+Created with Generative AI
+Part of the need for transparency around generative AI is concerns about synthetic (AI-generated) media. The increasing capabilities of AI systems also means there is greater potential for the creation and dissemination of AI-generated false or misleading content, including images, audio, and video. Deepfakes and other forms of AI-generated misinformation pose a significant threat to society’s already-faltering trust in media. Creating a framework that establishes best practice guardrails to record provenance is fundamental to building societal trust in AI use, especially when AI is being used in popular media and news outlets.
+Given the role media organizations play in shaping public perception on various issues, including AI trust, it is crucial that they use AI responsibly. If media organizations mishandle AI tools and disseminate inaccurate or misleading AI-generated content, they could severely erode public trust in AI. Media organizations using AI tools must create policies and practices for responsible AI use, including ensuring that the information disseminated is accurate.
+Collaborating with technology partners and AI developers who share the values of maintaining integrity and upholding journalistic standards is essential to prevent further deterioration of AI trust among the general public. AI developers and AI deployers have unique perspectives on how AI will affect information flows. By collaborating and sharing their respective skills, they can better navigate the opportunities and challenges presented by AI.
+Proper education can also help resolve AI trust issues by increasing general AI literacy across society. Training users in AI literacy and enabling education opportunities for communities that may be unfamiliar with the technology or skeptical of its deployment are crucial to unleashing AI’s positive impact.
+Partnerships
+between industry giants like Microsoft and OpenAI, and organizations such as AARP, International IDEA, and PAI pave the way for accessible AI education by investing in educational campaigns, training programs, and global partnerships.
+However, AI training extends beyond general literacy efforts. As AI transforms various industries, it will also reshape the job landscape, necessitating workforce retraining and skill development initiatives. Democratizing AI is not just about access; it’s about fostering an empowering, inclusive AI ecosystem. By providing user-friendly tools, supporting open-source development, and breaking down barriers to entry, we can create an ecosystem where ideas flourish and innovation thrives.
+AI partners, including the developers, deployers, and users, need to participate in a public dialogue to address societal concerns, including possible work displacement, by creating reskilling programs to help in preparing the workforce for an AI-driven future. As AI-driven automation potentially reshapes job roles, it is crucial to educate and equip the workforce with the skills needed to thrive in the AI era. Enhancing AI literacy through programs like
+AARP’s OATS
+and
+C2PA’s educational campaigns
+charts a path to help navigate the challenges and opportunities presented by AI. Initiatives such as Google’s AI for Social Good and Microsoft and OpenAI’s
+Societal Resilience Fund
+exemplify the commitment to leveraging AI for positive societal impact, including workforce development and empowering individuals to adapt and succeed in a rapidly evolving landscape.
+Educating the public and building trust in AI is essential for society to embrace and benefit from its transformative potential. Harnessing AI for societal benefit means employing its potential to address social challenges and drive positive change. Building partnerships between industry leaders and organizations creates these opportunities and underscores the global significance of AI education.
+By prioritizing transparency, responsibility, and education, we can create a solid foundation of trust that allows us to navigate the complexities of the digital age. Together, we can shape a future where AI is not just a technology but also a force for good, empowering individuals, driving innovation, and fostering positive societal impact.

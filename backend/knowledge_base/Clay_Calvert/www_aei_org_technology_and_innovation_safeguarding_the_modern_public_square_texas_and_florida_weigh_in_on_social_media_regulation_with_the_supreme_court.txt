@@ -1,0 +1,110 @@
+PAGE_TITLE: 
+	Safeguarding the Modern Public Square: Texas and Florida Weigh In on Social Media Regulation with the Supreme Court | American Enterprise Institute - AEI
+
+The
+US Supreme Court
+hears
+oral arguments on February 26
+in two
+First Amendment
+cases––
+NetChoice v. Paxton
+and
+Moody v. NetChoice
+––that will determine how much editorial freedom social media platforms possess to define their own “
+speech-based communities
+” in the face of government directives compelling them to host content and users against their will. At stake in that issue’s resolution are
+Texas
+and
+Florida
+laws dictating how large platforms moderate content and explain decisions to users who’ve been banned or had posts removed. As I
+wrote
+earlier, the Court will decide whether platforms, as private enterprises, “possess the constitutional autonomy to determine for themselves—without coercive government mandates—the content they host, how they arrange it, and when to ban users who flout acceptable-speech policies.”
+On January 16,
+Texas
+and
+Florida
+filed briefs with the Supreme Court. Distilled to a single sentence, their arguments might read as follows:
+Our laws regulate platforms’ conduct––not their speech, thus eviscerating their First Amendment arguments––to promote citizens’ access to “
+the modern public square
+” and prevent discrimination by “
+social-media giants
+” that wield “
+enormous power over public discourse
+” and, accordingly, should be regulated “
+in the public interest
+” as common carriers like telephone companies that convey others’ speech, not as speakers like “
+a newspaper or a bookstore
+.”
+Via Adobe
+The Modern Public Square
+: Texas and Florida contend their statutes ensure that citizens have access to––and are not discriminated against in––what the Supreme Court in 2017 called “
+the modern public square
+.” Delivering the Court’s opinion in
+Packingham v. North Carolina
+, Justice Anthony Kennedy called it “clear” today that “cyberspace” and “social media in particular” are “the most important places . . . for the exchange of views.”
+The states take Kennedy’s exuberant
+dicta
+and run with it. The introduction of Florida’s
+brief
+quotes
+Packingham’s
+“modern public square” analogy in its opening sentence, while Texas’s
+brief
+cites it in the introduction’s opening page. Repeating the phrase several times, the briefs shift focus away from the First Amendment rights of platforms to citizens’ ability to freely converse on platforms. Platforms like Facebook and X, however, aren’t “public” spaces like government-owned parks, streets, and sidewalks; they are privately run businesses that enforce their own acceptable-content guidelines.
+Texas positions its ban on
+censorship
+by
+large platforms
+of speech based on “
+the viewpoint of the user or another person
+” as “
+an anti-discrimination law
+” targeting “
+the gatekeepers of ‘the modern public square
+.’” Similarly, Texas’s
+statute
+compelling platforms to explain their decisions to users who’ve had content removed and requiring an appeal process is benignly framed as a “
+consumer-protection measure
+,” not as a
+compelled-speech obligation
+.
+Likewise, Florida frames its statutes barring large platforms from
+deplatforming
+candidates for public office
+and
+journalistic enterprises
+, in addition to restricting how platforms organize content, as “
+speech-promoting protections
+.” This moves focus away from the government compelling platforms to host individuals and enterprises that violate––once or repeatedly––the platforms’ guidelines regarding acceptable posts.
+Taking its speech-promoting theme further, Florida
+asserts
+“[i]t would be perverse if powerful private interests could freely deny access to the modern public square while profiting billions from their users’ speech . . .” The Court thus must not “neuter the authority of the people’s representatives to prevent the platforms from abusing their power over the channels of discourse.”
+Conduct, Not Speech
+: Fundamental to the states’ position is the contention that their content-moderation statutes only regulate platforms’ conduct, not their expression. This relates to what I’ve
+elsewhere called
+the “fundamental dichotomy in First Amendment jurisprudence” between speech and conduct: Conduct generally receives no First Amendment protection unless, like
+burning a flag in political protest
+, it constitutes
+symbolic expression
+. Florida thus asserts that its statutes banning deplatfoming and restricting where platforms “
+place, feature, or prioritize certain content or material
+” simply “
+regulate conduct, not expression
+.”
+Common Carriers
+: The arguments above all lead to the states’ game-changing assertion: Platforms may be regulated like common carriers, not like speakers vested with First Amendment editorial rights over speech. Texas
+asserts
+its law “just enables communication between willing speakers and willing listeners like earlier regulations on telegraphs and telephones.” Platforms, however, neither act like nor purport to be common carriers. AEI’s
+Mark Jamison
+explains
+that “social media companies do not have common-carrier business models. Reddit, TikTok, Facebook, and WeChat are more like meeting places than carriers and differ in their promises and cultures they promote.” AEI’s
+Daniel Lyons
+adds
+that “unlike a telephone company or the postal service, which carry communications between users without regard to the underlying message, social media companies’ terms of service explicitly reserve the right to treat customers differently by moderating individual user content to offer users a personalized, curated experience.” Although the common carrier theory is suspect, Justice Clarence Thomas has deemed it “
+a fair argument
+” for regulating “
+dominant digital platforms
+” with “
+no comparable competitors
+.”

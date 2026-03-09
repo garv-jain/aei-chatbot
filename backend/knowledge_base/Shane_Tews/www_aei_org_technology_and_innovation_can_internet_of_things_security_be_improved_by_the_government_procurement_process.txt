@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	Can Internet of Things Security Be Improved by the Government Procurement Process? | American Enterprise Institute - AEI
+
+Billions of Internet of Things (IoT) devices will soon be connected to the internet and government networks. To help create a more secure internet environment, the US government could use the power of the purse — the procurement process — to guide the IoT market toward more secure devices.
+via Twenty20.
+Cybersecurity has traditionally focused on a limited number of
+end points
+, but the IoT is poised to change that as “the physical and virtual worlds combine at a large scale,” as one World Economic Forum report put it. IoT devices are often
+vulnerable
+to attack and exploitation because manufacturers want to appeal to consumers with devices that are affordable and simple to use, and manufacturers prioritize these attributes over security. As I have written
+previously
+, the “importance of securing IoT systems has been highlighted by cyberattacks that have used IoT objects as
+attack vectors
+to wreak havoc on internet transmissions.” In response, the security community has pushed for
+security by design
+, “the practice of building security into the basic design of devices that will be attached to a network rather than trying to patch designs after they’ve been connected to the network.”
+The
+Federal Acquisition Supply Chain Security Act of 2018
+introduced by Sens. Claire McCaskill (D-MO) and James Lankford (R-OK) in June is a good start to raise awareness about the need to improve the security of information technology attached to government networks. The legislation proposes to
+establish
+a cross-agency Federal Acquisition Security Council under the Office of Management and Budget. That council would then help executive agencies manage and mitigate supply-chain risk in the procurement of information technology. The bill requires the government to develop a strategy for supply-chain security and standards for measuring supply-chain risk, hoping to help agencies identify potentially risky information technology purchases.
+As a large and influential consumer of many devices, the government can enormously affect the IoT industry. Prioritizing security in federal procurement and ensuring that the government purchases only items that meet specified security criteria will drive IoT manufacturers to produce more secure products.
+One way to accomplish this would be to develop a public list of products that meet security standards. A list of current threats and vulnerabilities that may pose a threat to IT systems from public interest and national security perspectives could accompany this. The creation and maintenance of these lists would facilitate information sharing between the intelligence community and the private sector, helping to solve an ongoing challenge: identifying information gathered by intelligence agencies that can help mitigate cybersecurity risks if shared responsibly with the public (especially with private network security firms).
+A “stovepipe” mentality currently limits the private sector’s access to useful cybersecurity insights and intelligence gathered by government security agencies due to federal laws requiring that information gathered from investigations remain confidential. Making more useful cybersecurity information public will allow the private sector and consumers to reap the benefits from information about security concerns identified by the government.
+McCaskill and Lankford’s legislation follows recent efforts by the White House to engage agency procurement managers and plug them into the information flow from agencies tracking criminal activities and threats from foreign governments. This sharing of information gathered by the intelligence agencies could lead to more effective procurement programs that are better at preventing and mitigating risks.
+Developing procurement standards and setting policies for measuring supply-chain risk that are informed by intelligence agencies can positively affect the cybersecurity of civilian government. It can also have positive effects for consumers, as the market will be incentivized to produce more secure products. Having more secure products on the market and creating an information sharing process could quicken reactions to cyber threats and improve the government’s ability to respond to or deter additional damage that IoT devices could cause. Using the financial incentive of procurement policy will improve security for everyone connected to the internet and the Internet of Things.

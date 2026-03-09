@@ -1,0 +1,29 @@
+PAGE_TITLE: 
+	Australia’s Web Watchdog: Online Personal Content Scans Provoke Surveillance Concerns | American Enterprise Institute - AEI
+
+The digital age has brought unparalleled advancements, but it has also ushered in new challenges, particularly in online safety and personal privacy. The two hang in a delicate balance. Australia’s recent intentions to curb the spread of harmful online content, including child sexual abuse material (CSAM) and terrorism-related content, are understandable. However, measures taken to achieve this goal should not infringe on individuals’ privacy.
+In a recent
+announcement
+, Australia’s eSafety commissioner Julie Inman Grant revealed plans to make tech giants such as Apple, Google, Meta, and Microsoft scan
+all
+user content. This move, aimed at curbing the spread of CSAM and pro-terror content, is groundbreaking. If implemented, it would be the first in the Western world to mandate government surveillance over personal storage and privacy on an individual device.
+Via Adobe Stock
+The European Union and the United Kingdom are also
+moving
+forward with bills for children’s online safety that would demand service operators such as WhatsApp and Signal to enable a law enforcement backdoor to their encrypted messaging services.
+The Rationale Behind the Move
+Technology companies must walk a fine line between legally recognizing that their systems are used as a platform for illegal content and simultaneously protecting their law-abiding consumers’ right to privacy. In Australia’s case, the eSafety stance is clear: Tech companies should take steps to prevent their platforms from being misused. The proposal involves manipulating advanced technologies such as
+hashing
+, machine learning, and artificial intelligence to monitor digital media. Hashing, for instance, creates digital fingerprints from files, allowing tech providers to scan user files for matches with known harmful content. However, this raises the challenge of how to keep this information narrowly assigned to
+harmful
+and private content, as the data could potentially be used to track users’ online activity.
+The Concerns
+While the intent behind the move is noble, the casualty of this government proposal is people’s privacy. Implementing many of these proposed legislative proposals and regulations could lay the groundwork for mass surveillance, something potentially ripe for misuse by authoritarian regimes. Even with advanced technologies, digital scanning systems are not foolproof. They can produce false positives, leading to unjust consequences for innocent individuals. Moreover, the technologies often lack context, and a limited knowledge of content sensitivity can lead to unwarranted flagging and potential legal ramifications for innocent users. For instance, Google
+mistakenly
+flagged and reported a father for possessing medical images of his child, resulting in a police investigation and immediate account lockouts.
+The Global Implications
+Grant hopes that the influence of these codes will
+resonate
+globally, stating, “What will be required of them in Australia will likely have a global knock-on effect and force them to take global action.”
+Australia’s move has broader implications for government interference toward its citizens’ technology use. If Australia forces technology companies to implement these changes, there will be international pressures to enable this capability globally on personal devices and cloud services. This regulatory demand and new “safety” precedent could lead to widespread surveillance of major infrastructure providers. Moreover, because breaking the end-to-end encrypted messaging services is at the Australian government’s request, the lack of encryption could potentially open the door to regular mass surveillance.
+As the world watches Australia’s next moves, we will also be watching how governments in the US, the EU, and the UK find the path to protect their younger citizens from harm while preserving the privacy of all their citizens. It’s crucial to ensure that governments’ measures do not compromise the very freedoms they aim to protect. Democratic governments should lead the way in developing and using technology tools to protect freedom of speech for populations worldwide, not manipulate them to enable authoritarian governments to control their citizens.

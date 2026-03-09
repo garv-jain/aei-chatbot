@@ -1,0 +1,24 @@
+PAGE_TITLE: 
+	Calibration: Making AI a Partner at Work | American Enterprise Institute - AEI
+
+Artificial intelligence (AI) is reshaping the workforce, yet the workers who stand to benefit the most are often the most wary of it. Lower-skilled and less-educated workers view AI as a threat, fearing job loss and marginalization. But research tells a different story. These workers could gain the most from AI—if they learn to use it effectively.
+Trust in AI is unevenly distributed. According to the
+2024 Edelman Trust Barometer
+, lower-income and less-educated workers are more skeptical of AI, fearing job loss, insufficient regulation, and a lack of control over how AI impacts their lives. This is unfortunate. Evidence suggests, rather, that less-educated workers should be more open to trusting the tool.
+Research from Andrew Caplin, David Deming, and their coauthors
+shows that AI can improve the performance of lower-skilled workers more than their higher-skilled counterparts. The key to unlocking these benefits lies in a concept called
+calibration
+.
+Calibration—accurate self-assessment in one’s own skill levels—plays a crucial role in maximizing AI’s potential. Workers who can assess their skills and know when to rely on AI saw the greatest productivity gains. In their study involving 732 participants, those who were “calibrated” saw a 20 percent improvement in productivity when using AI. On the other hand, workers who were overconfident in their abilities or too unsure of themselves did not see the same gains.
+The
+trust gap
+is a persistent and ubiquitous challenge, but could also be an opportunity. Research shows that even brief calibration training gives workers the feedback they need to
+better assess
+their abilities to understand when to trust AI,
+improving decision-making accuracy and reducing bias
+.
+This isn’t the first study to find that lower-skilled workers are the ones who will gain the most from supportive AI tools at work. In 2023, Stanford University economist Erik Brynjolfsson published a
+study
+showing the use of AI chatbots for call center workers led, on average, to a 14 percent increase in productivity. Among lower-skilled workers, in particular, productivity rose
+35 percent
+. Helping lower skilled workers see AI as an ally rather than an adversary, and approach the technology with a realistic sense of their own capacity, could be decisive for those who must work the hardest to gain a foothold in the economy.

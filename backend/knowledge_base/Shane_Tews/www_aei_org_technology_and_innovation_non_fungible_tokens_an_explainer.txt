@@ -1,0 +1,98 @@
+PAGE_TITLE: 
+	Non-fungible Tokens: An Explainer | American Enterprise Institute - AEI
+
+By Shane Tews and Matthew Glavish
+Non-fungible tokens (NFTs) are in the
+news
+daily
+, yet they are still not well understood by most of the world beyond their early adopters. While NFTs are most closely associated with digital artwork, such as Beeple’s
+$69 million digital collage
+or the
+Bored Ape Yacht Club collection
+, there are numerous other examples of how they are being used — including for
+virtual real estate
+,
+domain names
+,
+smart contracts
+, and even
+ballet recitals
+.
+via Twenty20
+What is an NFT?
+An NFT is a one-of-a-kind, technically unique token used as a certificate of authenticity and ownership of a unique digital asset that is recorded on a digital ledger called a
+blockchain
+. “
+Non-fungible
+” in this sense means there is no equivalent, and thus the token is unique and cannot be replaced with anything else.
+Why do NFTs matter?
+There is a lot of money circulating in the NFT market. The use of blockchain technology allows a digital asset, such as digital artwork and objects, video and music clips, and virtual versions of physical consumer products, to have a unique imprint with a collecting or trading value. In 2021, total NFT transactions
+reached $24.9 billion
+in value worldwide, with most coming in the second half of the year. This market is expected to continue growing, with the investment bank
+Jefferies forecasting
+the NFT market cap to hit $35 billion in 2022 and $80 billion by 2025.
+Several notable companies have also made forays into the market. For example,
+Coca-Cola
+,
+Gap
+,
+Louis Vuitton
+,
+Nike
+, and
+Taco Bell
+have all released NFT collections. Along with the much-hyped “
+Crypto Bowl
+” Super Bowl
+ad buys
+, even the Los Angeles Times dropped a limited Los Angeles Rams Super Bowl NFT collection on
+Discord
+and at
+nft.latimes.com
+.
+But why all the
+interest?
+One argument for why NFTs took off during the COVID-19 pandemic is that they foster a sense of community around the collectors of and investors in a particular type of NFT.
+Coindesk notes
+, “Owning a digitally tokenized piece of art can also serve as your membership ticket to exclusive online clubs, gaming communities, Discord chat rooms and interactive experiences.” Many of these collectors use an NFT as a profile photo on their social media feed to show their support for a particular community. And the
+Bored Ape Yacht Club
+and
+CryptoPu
+n
+ks
+are particularly popular with
+cult
+investors.
+Another major appeal to collectors is NFTs’ built-in provenance and chain of custody due to the blockchain verification process. The use of the blockchain public ledger also allows artists to activate a royalty asset tracker. In this case, a sale will trigger the
+smart contract
+embedded in the blockchain, which then results in an automatic payment being sent to the artist’s cryptocurrency wallet.
+Moreover, there are practical applications of NFTs, as some collections give buyers real-world items. Gap has
+a branded, gamified collectable NFT
+accompanied by a limited-edition Gap hoodie, and
+John Cena’s
+now-defunct NFT collection gave purchasers actual merchandise. Retired football star Rob Gronkowski (Gronk)
+minted
+a limited-edition series on the blockchain that gave the winning bidder an opportunity to meet Gronk and receive tickets to
+Gronk Beach
+. Additionally, many NFT drops include digital merchandise that buyers can equip onto their avatars in the
+metaverse
+. Whether wearing name-brand gear in the metaverse is important is ultimately up to the individual, but many statistics point toward the metaverse
+growing
+in both value and popularity.
+One major problem
+The most apparent problem with NFTs is the prevalence of scamming involved with them. One of the most famous NFT scams revolved around the
+Evolved Apes
+collection. These NFTs were meant to be usable in a game developed by the collection’s creators; however,
+Vice News reported
+, “A week after the project launch, the anonymous developer known as Evil Ape who promised that game vanished along with the project’s official Twitter account and website,” along with $2.7 million. Even more recently, a
+phisher
+stole
+$1.7 million worth of NFTs
+by persuading unsuspecting individuals to sign incomplete smart contracts.
+As with all parts of the digital economy, transparency,
+accountability, and authentication are key elements to avoiding NFT scams.
+Credible NFT operators will also have digital rights management and copyright
+protection built into their NFTs to validate authenticity. All of the
+transactions for an NFT should be authenticated on the blockchain from the
+current owner back to the original creator.
+As NFTs continue to grow in popularity, security protections must be balanced with opportunities for innovation and financial gain.

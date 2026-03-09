@@ -1,0 +1,63 @@
+PAGE_TITLE: 
+	The Necessity of Narrow Tailoring: Why Florida’s Latest Social Media Law Is Unconstitutional | American Enterprise Institute - AEI
+
+If ever a First Amendment challenge to a statute constraining minors’ access to social media platforms was inevitable, it’s surely the one filed in late October by trade associations
+Computer and Communications Industry Association
+(CCIA) and
+NetChoice
+targeting a vastly overbroad Florida law,
+House Bill 3
+. As explained here, the
+complaint
+in
+CCIA v. Moody
+provides a primer for Sunshine State legislators and those elsewhere on why—before passing a law—they should consider whether alternative means of protecting minors already exist that don’t violate their right to access constitutionally protected speech.
+House Bill 3 imposes on minors what the
+complaint
+correctly calls “draconian access restrictions.” Signed by Governor Ron DeSantis in March, the measure completely bans anyone under 14 years of age from holding a social media account. It makes no difference what their parents want. Florida lawmakers believe they know what’s best for all minors age 13 and under, treating them as identical—not as unique human beings possessing different maturity levels—and not allowing their parents to judge their abilities to navigate social media platforms. This is wrong because, as CCIA’s
+complaint
+avers, “The Constitution . . . leaves the power to decide what speech is appropriate for minors where it belongs: with their parents.”
+Via Reuters
+Additionally, minors who are 14 and 15 may possess accounts under House Bill 3, but only after obtaining consent from a “confirmed parent or guardian.” In brief, Florida lawmakers substitute their judgment for that of parents, adopting a legal presumption that parents don’t want their 14- and 15-year-olds accessing constitutionally protected expression. The price paid by parents who do want their children to enjoy the informational, social, and self-expressive benefits of platforms is the forced disclosure of personally identifiable information to confirm parental status. Such age-gating raises privacy concerns and the possible nefarious use of personal information by bad actors.
+Significantly, House Bill 3 (1) defines regulated social media platforms partly by whether they have supposedly “
+addictive features
+,” and (2) doesn’t explicitly target a particular brand of content or subject matter for regulation. This was a strategic move by lawmakers to make it a content-neutral law—one that applies evenhandedly or neutrally to all ideas, messages, and topics. Why does that matter? Courts examine content-neutral laws under the
+intermediate scrutiny
+test, which is more forgiving and government friendly than the
+strict scrutiny
+standard, which applies to content-based laws. House Bill 3 thus ostensibly has better odds of being deemed constitutional under intermediate scrutiny.
+Even a law that appears to apply evenhandedly to all topics and ideas still must surmount strict scrutiny if, as the US Supreme Court has
+held
+, “the purpose and justification for the law are content based.” Digging into the legislative intent behind a seemingly content-neutral law thus may reveal that it was, in fact, adopted
+for
+“a content-based purpose or justification” and therefore must face strict scrutiny. This may become a battleground if CCIA can demonstrate that Florida lawmakers were worried about the content that platforms serve to minors, not just the platforms’ allegedly addictive components like auto-play videos, push notifications, and live-streaming functions.
+Regardless of whether House Bill 3 faces strict or intermediate scrutiny, it must be narrowly tailored—carefully drafted in its scope—to serve lawmakers’ interest in safeguarding minors. Under strict scrutiny, the court will ask whether House Bill 3 regulates any more speech than is absolutely necessary to protect minors (i.e., whether the law embrace the
+least speech-restrictive
+way of safeguarding them). If there’s an alternative way to protect minors that infringes less on their right to receive constitutionally protected expression, then House Bill 3 is unconstitutional.
+Intermediate scrutiny affords lawmakers slightly more leeway regarding how precisely drafted a statute must be (i.e., how close or tight the fit must be between a law’s goal and the means adopted to serve it). House Bill 3 will be declared invalid under intermediate scrutiny if it burdens substantially more speech than is necessary to protect minors.
+House Bill 3 isn’t narrowly tailored under either strict or intermediate scrutiny because many alternative ways exist to protect minors without imposing a blanket ban for those under age 14, which completely usurps parental authority or a parental permission requirement for minors age 14 or 15. CCIA’s
+complaint
+makes this readily apparent, highlighting numerous extant means of safeguarding minors and helping parents. These include but aren’t limited to:
+(1)
+Device-level restrictions
+, such as those offered by
+Apple
+;
+(2)
+Network-level restrictions
+, deployed by companies like
+Verizon
+;
+(3)
+Browser-level restrictions
+, like
+Microsoft’s
+Kids Mode, which allow minors’ access to only pre-approved websites; and
+(4)
+Application-level restrictions
+, such as supervised experiences offered by
+YouTube
+and
+Instagram
+.
+Ultimately, sweeping statutes like Florida’s infringe on minors’ First Amendment rights, hijack parental decision-making, and are anything but narrowly tailored.

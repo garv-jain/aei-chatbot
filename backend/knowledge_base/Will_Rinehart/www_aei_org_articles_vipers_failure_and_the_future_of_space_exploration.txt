@@ -1,0 +1,101 @@
+PAGE_TITLE: 
+	VIPER’s Failure and the Future of Space Exploration | American Enterprise Institute - AEI
+
+Earlier this year, NASA’s most advanced lunar rover—the Volatiles Investigating Polar Exploration Rover or VIPER—seemed to be on track to the moon. Engineers
+integrated
+the VIPER’s final instrument of four in February. By April, the golf-cart-sized rover
+stood
+“taller and more capable than ever” after its mast was installed and it passed a crucial review. The fully assembled VIPER was
+cleared
+in May for environmental testing, which would simulate the conditions it would face during launch, landing, and operation on the lunar south pole.
+But on July 17, following a comprehensive internal review, NASA
+announced
+the project’s cancellation.
+The news was met with
+condemnation
+from the scientific community, and
+an open letter opposing
+the VIPER cancellation racked up thousands of signatures. “A team of 500 people dedicated years of their careers to construct Viper and now it has been canceled for no good reason whatsoever,”
+said
+Ben Fernando of Johns Hopkins University, one of the organizers of the letter.
+But there were good reasons to shelve the project. NASA had
+requested
+a 2 percent increase in its 2025 budget request, but Congress
+budgeted half
+as required by last year’s debt ceiling deal. Moreover, NASA officials
+were clear
+that continuing VIPER jeopardized other missions in the Commercial Lunar Payload Services program. CLPS was designed to encourage space startups to invest in commercial lunar landers, but VIPER had already forced the cancellation of another project.
+I find myself at odds with nearly every side when it comes to NASA. Like the broader community, I’m fundamentally supportive of its scientific and space missions. But unlike this group, I don’t think the agency should get a special dispensation from budgetary pressures. After all, NASA has a
+long history
+of problems with budget overruns and oversight. The agency has improved, but problems persist. On the flip side, some of these cost overruns were avoidable in VIPER’s case.
+But on a deeper level, I also find myself at odds with the scientific community because I’m convinced that NASA needs to be reconceptualized for the 21st century. The entire game has changed in the past couple of decades.
+SpaceX has proved
+that rockets can be reused and costs can be driven down. Meanwhile, China’s launches show they are serious about the commercial possibilities of space.
+No one really wants to talk about it, but NASA and the regulatory framework around space needs to be realigned. Why? Because we need to be focused on developing space capitalism.
+How VIPER fell apart.
+VIPER was officially added to NASA’s agenda in 2019, but the rover is partly a holdover from another project—the Resource Prospector, which itself was canceled in 2018
+for cost overruns
+. NASA leaders seem to have hoped to keep the project below the $250 million threshold set by Congress for major projects (this cost threshold triggers reviews and oversight). But in a theme that recurred with VIPER, Resource Prospector was just too big of a project.
+VIPER’s core mission was to explore the lunar south pole—a region of the moon that remains perpetually dark, with unstable terrain—
+to investigate whether
+the ice that was found there could be broken into oxygen to breathe or hydrogen and oxygen to fuel future landers. VIPER was thus a platform for a drill and three instruments: the Neutron Spectrometer System, which detects hydrogen concentrations on the surface; the Near-Infrared Volatiles Spectrometer System, which determines whether the detected hydrogen was water or just free hydrogen atoms; and finally a mass spectrometer to determine if other materials were present.
+Because of the challenging environment, VIPER
+required
+real-time control by Earth-based drivers, relying on blue headlights to navigate the darkness. In turn, VIPER needed
+to transmit
+data back to Earth in real-time across 240,000 miles, necessitating antennas that could maintain precise orientation even while moving. The rover’s design also had to
+withstand
+extreme temperature fluctuations ranging from 500 degrees Fahrenheit caused by the moon’s rotation patterns.
+NASA adopted a new strategy with VIPER, as it was part of the larger CLPS program. Instead of being involved in every part of the launch, NASA’s role in CLPS is mostly confined to providing the payloads and purchasing delivery services. In turn, commercial companies would build robotic lunar landers and arrange launch services to transport payloads, like VIPER, to the moon.
+CLPS was meant to incubate startups working on lunar landers since there were no commercial providers at the time. But VIPER represented a significant advance in this program as it was to be the
+largest, heaviest, and most expensive
+payload to be delivered through CLPS. NASA
+eventually selected
+Astrobotic, one of the CLPS providers, to deliver VIPER to the moon’s surface via its Griffin lunar lander, expecting it to be more cost-effective. This decision seems to have led to disaster.
+In 2019, when it
+was initially announced
+, VIPER was estimated to cost $250 million, which meant that it was a major project requiring special oversight. Once the project reached the
+final design and fabrication stage
+, (also known as Key Decision Point C) in March 2021, the project’s formal cost commitment ballooned to $433.5 million. Over time costs kept rising and delays kept coming. By the time of its cancellation, total project costs were
+estimated
+at around $609.6 million, with a launch date of 2025.
+Due to the cost increases, NASA conducted a mandatory cancellation termination review for VIPER in June, and it eventually sank the project. Reports from NASA’s Inspector General (IG) help fill in all the details of what exactly happened with VIPER.
+According to a 2022 report
+, the 2021 cost estimate of $433.5 million “included development of the rover, science instruments, lunar operations, and applicable cost reserves but not costs for Astrobotic’s launch and delivery services.” Astrobotic was also new player in the industry and there was no guarantee that they’d launch on time. This risk was ignored by the agency, causing delays. In 2023, NASA’s IG
+chided the agency
+, saying,
+We find it troubling that NASA chose not to include the VIPER delivery system, which was still in development by a company that had never demonstrated this capability, in that project’s [Agency Baseline Commitment] as a risk to the project’s cost and schedule. The Agency essentially ignored this risk and in July 2022 caused a mission delay of a year and an additional $64 million in VIPER development costs, as well as adding $67.8 million to the cost of the CLPS task order.
+NASA also decided to select a lander before finalizing the design of VIPER, which led to cost increases. VIPER did not complete its critical design review until October 2021, more than a year after the CLPS award, and the audit found several issues, like an increase in the mass of the rover and concerns about excess vibration, that led to changes in the Astrobotic CLPS task order that increased its value.
+Challenges at Astrobotic also added complications. In January 2024, Astrobotic deployed the Peregrine Lander, which shared multiple systems and subsystems with Griffin, to deliver five smaller payloads to the moon. The
+test failed
+, reentering Earth’s atmosphere and burning up. This failure raised concerns about Griffin’s reliability, as Astrobotic had only about a year to resolve issues affecting both systems before integration and launch.
+Taken together, it’s clear that VIPER was just too big of a project for CLPS. The CLPS program was designed to support the Artemis moon mission through
+iterative progress
+, focusing on quickly demonstrating success for small payloads of 10kg to 15kg that could then be ramped up in size over time. But VIPER, at approximately 500kg, represented a massive leap in payload size. This significant increase necessitated considerable design changes, adding costs and risks to the project. Since VIPER was also a major project, NASA again added more testing, again raising costs. By way of comparison, the tally for the other 52 payloads in CLPS
+sums to $245.5 million
+.
+What’s next?
+In the end, NASA worried that VIPER’s additional costs
+would threaten
+“cancellation or disruption to other CLPS missions” and so VIPER was shelved. Ensuring that CLPS succeeds is the agency’s top priority, which was reiterated in the
+bill report
+for NASA’s 2025 budget.
+Still all is not lost. The agency solicited proposals from private companies on what to do with the rover, and
+at least a dozen have reached out
+. Among them is Intuitive Machines, a Houston-based firm that attracted significant attention this year with the successful lunar landing of its Nova-C spacecraft. So VIPER might still launch. But at a minimum, NASA is planning to disassemble and reuse VIPER’s instruments and components for future moon missions.
+For its part, Astrobotic will still fly the delayed Griffin mission even though VIPER has been canceled. Most importantly, NASA is pursuing alternative methods to accomplish many of VIPER’s goals, including the launch of the
+Polar Resources Ice Mining Experiment-1 (PRIME-1)
+later this year.
+Still, VIPER is emblematic of NASA’s struggles with cost overruns and schedule delays. The
+most recent overview
+of major projects puts this into perspective:
+Since 2023, NASA’s cumulative cost and schedule performance has improved. Cost overruns decreased from $7.6 billion in 2023 to $4.4 billion in 2024. Schedule overruns decreased from a total of 20.9 years in 2023 to 14.5 years in 2024. These decreases are primarily because two projects, the Space Launch System and Exploration Ground Systems, demonstrated their initial capability and left the portfolio. Previously, these projects accounted for $3.6 billion in cost overruns and each experienced delays of 4 years.
+All of this is heightened because of what has happened in the past 20 years in space. A sleepy industry has been transformed by SpaceX and by China. Indeed, I tend to agree with former U.S. Air Force Lt. Gen. Steven L. Kwast,
+who explained
+, “This is not a military race, this is an economic race.”
+But Kwast isn’t alone. Space attorney Jim Dunstan has also been a leading voice for reform, arguing that Congress must act urgently to
+reform America’s space regulatory system
+. Otherwise, he warns that adversarial nations like China may have grounds to handicap or co-opt American space actors. My former colleague Eli Dourado
+has also made the case that space
+investment is critical for human (and U.S.) advancement, as it presents opportunities to improve living conditions on Earth, safeguard democracy, and further scientific research.
+While voices like Kwast, Dunstan, and Dourado make compelling cases for continued U.S. leadership in space across security and economic domains, China’s rapid mobilization of state and private space resources challenges the U.S. on this front. We need to respond, and to me that begins with rethinking how NASA operates and what it sets out to accomplish.

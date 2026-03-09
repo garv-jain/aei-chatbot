@@ -1,0 +1,84 @@
+PAGE_TITLE: 
+	Rent-a-Robot and Our Tight Labor Market | American Enterprise Institute - AEI
+
+Born from a chance encounter between a
+robotics tinkerer
+and an Isaac Asimov-inspired
+engineer-turned-entrepreneur
+,
+the Unimate
+—a single-armed,
+vacuum tube-driven
+robot—was put to work on the assembly lines of the General Motors plant in Ewing, New Jersey in 1961. It was a watershed moment for industrial robotics and the first sign of changes that would rewrite the rules for automation, employment, and trade.
+Following that first Unimate, industrial robotics progressed in fits and starts thanks to the complicated dynamics of human labor costs, innovations in non-robotic automation, and advances in robotic control technology. While the economic and energy crises of the 1970s slowed the adoption of industrial robots, by the end of that decade, they had started to be deployed not just in the United States but in factories in Japan, Finland, and elsewhere, boasting
+digitally programmable
+functions and dramatic advancements in physical mobility. In the 1980s, the field was pushed further by various technical advances, including the capacity to perform
+multiple functions
+simultaneously.
+Boston Dynamics
+and
+iRobot
+entered the robotics market in the 1990s; these companies would become widely known in the 2000s for the robots they designed for industrial, military, and consumer applications. In the year 2020 alone, according to one estimate,
+384,000
+industrial robots were shipped globally. It’s hard to imagine industry without them—and yet this entire transformation happened in just over sixty years.
+Today, firms like
+Formic Technologies
+,
+Stout Industrial Technologies
+, and
+Rios Intelligent Machines, Inc
+. are helping move robotics into new sectors of the economy and into small- and medium-sized firms through a
+robots-as-a-service model
+. The robotic systems they offer are not only more nimble, smarter, and more efficient than their predecessors of a quarter-century ago but are also cost-effective in helping mid-sized and small firms overcome constraints posed by
+capital and technological know-how
+. Companies paying $15 an hour or more for labor—if they are
+able to find workers at all
+—can rent a robotic solution for around $8 per hour per robot while avoiding capital outlays of as much as
+$125,000
+per unit. Avoiding big-ticket investments combined with a 40 to 50 percent reduction in labor costs is the kind of thing that gets business-owner attention.
+The “robots-for-rent” model has several other advantages. The machines are typically taking over the kinds of repetitive or labor-intensive tasks that workers don’t want to do:
+harvesting crops
+, packing boxes, and tending to machines that feed raw materials into manufacturing processes. A California-based
+food manufacturer
+found that by turning over parts of its production line to robots, it simultaneously reduced human wear-and-tear (less bending and turning), significantly increased productivity, and generated sufficient savings to allow the company to raise wages for its staff. Most remarkably, many of these robots are generic in the sense they can be adapted to a variety of manufacturing purposes for bespoke business solutions. Breaking these cost, technology, and function-variety barriers means that robots are moving even more quickly from the exotic to the everyday.
+Because the adoption of automation and robotics generally means that the same amount of work can be accomplished by fewer people, worker displacement is a perennial concern. Amazon has incorporated robots into its sorting and packing functions and has seen a
+four-to-fivefold increase
+in productivity. Consequently, Amazon’s labor demand has decreased by as much as
+75 percent
+in its fulfillment centers; a facility that needed 1,000 workers before robots needed only 250 after. A
+robot
+that supports construction by automatically marking foundations for doors and windows cut human labor for that task by 50 percent and increases accuracy. As these technologies work their way through the economy, a lot of jobs—some desirable and competitive, others tedious or dangerous—are going away.
+In the context of the current ultra-tight labor market, however, worker displacement by automated processes is far less a concern than it would otherwise be. In fact, the California
+food-processing factory
+noted above still had 25 open positions
+after
+it phased in robots. In other words, these robots might not be replacing human labor so much as extending the capacity of a supply-constrained human workforce.
+Robots-for-hire as a business model is still in its market infancy. The firms mentioned above don’t operate like a Home Depot, where a customer might casually rent a lawnmower. These companies are deliberate in working closely with prospective clients to provide end-to-end consultation, installation, and maintenance, which means they have to choose clients that can actually benefit from robotics and are serious about seeing the implementation through. The amount of effort required to customize the service means these robotics companies tend to only take on projects where benefits are clear.
+A recession could change that equation. So could rapid technological progress—such as a sudden advance in
+artificial intelligence
+, which could further
+reconfigure labor needs
+in ways that are not as benign to human labor. In addition, the implementation of these technologies is likely to be self-accelerating: The more times robotics and various types of AI technology are combined, the more robotics firms will learn about how to adapt to new business processes. The scope for potential innovation might expand quickly with unforeseen labor effects.
+On balance, expansion of robotics is a plus for the economy so long as it remains
+productivity-enhancing
+rather than simply
+labor-replacing
+. For workers to keep pace with this change means more investment by companies, government, and individuals in their own skill development and upgrading. Our sluggish
+formal training systems
+(public workforce systems and community colleges) must become more agile in adapting to robotics-driven changes. But the ultimate answer may be to shift our training paradigm away from industrial-era models of classroom-based instruction and certification into more self-directed, virtual learning approaches and financing mechanisms like
+personal reemployment accounts
+that put control over educational decision-making in the hands of workers. Government can play an important role by simply investing in
+better labor-market information
+analysis and predictive analytics that help firms, workers, and educators anticipate and prepare for the changes as they are emerging rather than playing catch-up after they’ve already displaced workers.
+When it comes to automation, we are in what John Maynard Keynes
+called
+the “painfulness of readjustment between one economic period and another.” The right policy response is not to interfere with or try to manage this transition from the top down but to incentivize thoughtful, human-centered adaptation, from both worker and employer standpoints. But with
+11.5 million job openings
+(including close to one million manufacturing jobs) and just
+5.9 million Americans looking for work
+, combined with renewed efforts to “
+re-shore
+” critical manufacturing, robots may prove to be less of a problem than part of the solution to the nation’s
+long-term
+labor shortage
+.

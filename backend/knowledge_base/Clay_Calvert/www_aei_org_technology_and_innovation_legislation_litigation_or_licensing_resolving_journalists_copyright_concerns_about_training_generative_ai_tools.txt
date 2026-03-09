@@ -1,0 +1,84 @@
+PAGE_TITLE: 
+	Legislation, Litigation, or Licensing? Resolving Journalists’ Copyright Concerns About Training Generative AI Tools | American Enterprise Institute - AEI
+
+In May, the Bipartisan Senate AI Working Group, comprising sens.
+Chuck Schumer
+(D-NY),
+Mike Rounds
+(R-SD),
+Martin Heinrich
+(D-NM), and
+Todd Young
+(R-IN), issued a
+report
+,
+Driving U.S. Innovation in Artificial Intelligence: A Roadmap for Artificial Intelligence Policy in the United States Senate
+. Regarding the relationship between journalism and generative artificial intelligence (Gen AI), the group
+said
+it
+recognizes the AI-related concerns of professional content creators and publishers, particularly given the importance of local news and that consolidation in the journalism industry has resulted in fewer local news options in small towns and rural areas. The relevant Senate committees may wish to examine the impacts of AI in this area and develop legislation to address areas of concern.
+But, especially as a new technology’s risks and benefits are just surfacing and undoubtedly will evolve, is lawmaking truly the best solution? As an alternative, litigation—not legislation—is having quite a moment. The group’s report arrived amid
+a steady drumbeat
+of copyright-infringement lawsuits targeting Gen AI companies for using unlicensed content in training large language models. The cases now are so numerous that George Washington University’s
+Ethical Tech Initiative
+maintains an
+AI Litigation Database
+.
+Via Reuters
+A lawsuit was filed in April by
+eight newspaper companies
+against Microsoft and OpenAI for “purloining millions of the Publishers’ copyrighted articles without permission and without payment to fuel the commercialization of their [Gen AI] products.” Two months prior, similar complaints were lodged against OpenAI on behalf of two news organizations,
+Raw Story
+and
+The Intercept
+.
+These cases follow the New York Times Company’s December
+complaint
+against Microsoft and OpenAI, asserting that their “unlawful use of the Times’s work to create artificial intelligence products that compete with it threatens the Times’s ability to” supply “trustworthy information, news analysis, and commentary.” Conversely, in support of their
+motion to dismiss
+the lawsuit, Microsoft and OpenAI
+argue
+that “it has long been clear that the non-consumptive use of copyrighted material (like large language model training) is protected by fair use—a doctrine as important to the Times itself as it is to the American technology industry.” Specifically, AI companies contend their tools transform all of the copyrighted data into new, original creations—so-called
+transformative uses
+.
+Fair use, as articulated by
+federal statute
+,
+provides
+“a defense against a claim of copyright infringement,” but
+it’s
+“not always clear” whether a given use is fair. Thus, barring quick settlements, these lawsuits will turn into expensive, protracted battles—ones reaching appellate courts and perhaps the
+US Supreme Court
+––contesting whether training large language models on unlicensed, copyrighted content is a fair use.
+From a journalistic perspective, two things rest in the balance: 1) the preservation of high-quality, copyrighted journalistic content that supports a healthy media ecosystem and a democratic society, and 2) maintaining a vigorous press––one safeguarded by the
+First Amendment
+––that plays a critical
+watchdog role
+on government abuses of power. Without compensation for its content, the press’s strength withers.
+The non-profit
+News/Media Alliance
+filed
+comments
+in December with the
+US Copyright Office
+, which is
+studying
+“copyright law and policy issues raised by artificial intelligence . . . systems.” The News/Media Alliance directs the Copyright Office’s attention to the fact that:
+the dissemination of professional journalism is a cherished public good, with the essential democratic function of the Press enshrined in the Constitution. Public policy conversations should give heavy weight to the risk that this established public interest will be undermined by generative AI development that is parasitic, lacking accountability, and dodging compensation for the media content that fuels these models.
+Similarly, the eight news organizations in
+Daily News v. Microsoft Corporation
+contend
+that the copyright issue is “not just a business problem for a handful of newspapers or the newspaper industry at large. It is a critical issue for civic life in America. Indeed, local news is the bedrock of democracy and its continued existence is put at risk by Defendants’ actions.”
+Licensing agreements––private dealmaking––provide a path forward that avoids both litigation and legislation. Indeed, the News/Media Alliance asserts that the Copyright “Office should use its expertise in copyright licensing issues to encourage the further development of relevant licensing models, including by acknowledging the feasibility of voluntary collective licensing to facilitate effective solutions for generative AI developers to license content at scale from both small and large publishers alike.” The licensing deals struck, like those by the
+Associated Press
+,
+Financial Times
+, and
+Wall Street Journa
+l
+will affect litigation by allowing news organizations to avoid it or by suggesting the size of possible damage awards.
+I
+contended
+in January, shortly after the New York Times filed its
+lawsuit
+, “that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators.” Five months and multiple lawsuits later, that remains true.

@@ -1,0 +1,50 @@
+PAGE_TITLE: 
+	Are Software Jobs Collapsing? | American Enterprise Institute - AEI
+
+The image below,
+which appeared in the
+Fina
+n
+cial Times
+, has been gaining traction on the Internet because it seems to show what people in the software industry fear most: The introduction of new groups of AI models has collapsed the software industry.
+Via Financial Times
+Beginning in 2022 and gaining momentum through 2023, the tech industry experienced a wave of job cuts that hit software engineers especially hard. Layoffs peaked in early 2023, then gradually tapered in 2024. The downsizing has continued into this year.
+The scale of these cuts was unprecedented. Amazon’s
+initial announcement of 10,000
+layoffs in 2022
+expanded to 18,000
+workers by January 2023. This was followed by an
+additional 9,000 cuts in March
+. Other tech giants implemented similarly massive reductions: Google
+eliminated 12,000 positions
+while Meta reduced its
+workforce by 11,000
+. The momentum continued throughout 2023 as major players in the tech industry, including Salesforce, Microsoft, Intel, Tesla, Cisco, and Zoom, announced significant workforce reductions.
+To understand the magnitude of the layoffs,
+Crunchbase
+and
+TrueUp
+developed specialized tracking sites. Their estimates are collected below.
+Trends observed in these data seemingly fit with the change in
+Indeed postings
+for software development jobs.
+But when you compare software development job postings with Indeed job postings in aggregate as well as sector-specific postings for research and development and banking and finance, a pattern emerges: Postings are slowing for every sector.
+If AI were the culprit of the tech layoffs, you’d assume that different industries would be impacted in varying ways. But when taking a step back and looking at the overall trendline, data suggests that everyone is slowing their hiring.
+So what do the official employment data say?
+Employment numbers are classified by industries via the North American Industry Classification System (NAICS). Software engineers are typically found in
+NAICS 5415
+, the broad category for computer systems design, and
+NAICS 5112
+, which includes software publishers. Combining the two from
+Bureau of Labor data
+shows that jobs hit a high-water mark in 2022 of 3,258,000
+,
+then declined slightly to 3,244,800 in 2024 for a combined loss of 13,200 jobs.
+Most telling, if AI were erasing jobs, those remaining jobs should be more productive. But there wasn’t a spike in
+productivity captured in NAICS 5112
+from 2022 to 2023.
+An alternative explanation is that the economy is slowing.
+This possibility is hardly comforting to computer science graduates now entering the workforce. In the
+latest labor market report
+from the New York Federal Reserve, recent computer science grads are battling a 6.1 percent unemployment rate.
+What remains clear is that the tech industry’s hiring freeze has created a perfect storm: Even highly skilled workers are finding themselves competing for fewer opportunities, regardless of whether the cause is artificial intelligence or simple economic uncertainty.

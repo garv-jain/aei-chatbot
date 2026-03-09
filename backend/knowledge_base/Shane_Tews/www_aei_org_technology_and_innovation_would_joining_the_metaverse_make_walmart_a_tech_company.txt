@@ -1,0 +1,50 @@
+PAGE_TITLE: 
+	Would Joining the Metaverse Make Walmart a Tech Company? | American Enterprise Institute - AEI
+
+By Shane Tews
+All the kids are doing it now: Walmart is joining the
+metaverse
+with plans to create its own digital currency and collection of non-fungible tokens (NFTs) for online community members, according to a recent
+patent application
+.
+As Walmart saddles up to enter the metaverse,
+Web3
+, the world of crypto, NFTs, and online digital tokens, they are walking right by the platform companies that created this online path in Web2 — companies that legislators like to call “Big Tech.” As Congress
+charges ahead
+with legislation that would hamstring Big Tech’s ability to create in-house software technology (i.e., apps) and acquire companies with complementary technology, one must wonder whether Walmart’s foray into the metaverse would run afoul of the legislation’s guidelines. If Walmart were to acquire tech startups to enable its leap into a hybrid physical and virtual world, would it be subject to new Federal Trade Commission and Department of Justice merger
+guidelines
+targeted at Big Tech?
+A second
+patent filing
+details Walmart’s plans to offer downloadable e-commerce software to help users obtain and pay for virtual merchandise in a web-based environment. Also included in the filing is user authentication software that could access, read, track, and share information across other computer networks. The software would allow for secure, encoded payments and activities in the virtual world, utilizing hardware and software designed specifically for Walmart. In other words, Walmart wants to offer virtual products that are paid for by a Walmart token in a closed, self-preferencing digital commerce loop.
+Will Walmart be allowed to curate its Web3 apps as part of a secure online experience as the patent filing suggests? Or would it fall under the no-self-preferencing
+rules
+that congressional antitrust legislation seeks to mandate? Would Walmart — like Amazon, Apple, and Google — be required to
+let anyone
+onto its specifically curated, secure platform?
+via Twenty20
+In a 2019 report on mobile app security, the Department of Homeland Security (DHS)
+recommended
+that users avoid and enterprises prohibit app “
+sideloading
+,” along with the use of unauthorized app stores. Earlier this week, Apple and Google
+reiterated
+the security risks posed by mandates that forcibly open the app ecosystem to unvetted vendors and users. Still, the
+American Innovation and Choice Online Act
+and
+Open App Markets Act
+, which
+received
+Senate markups this week, would enact nondiscrimination mandates to prevent removal of unvetted apps and enable sideloading. For Amazon, Apple, Google — and potentially Walmart — a secure, closed app marketplace that protects users would be outright illegal if these bills became law. Rather than appreciate the extensive work done by mobile platform companies as a feature that enables better privacy and security, Congress sees this as a bug that hinders competition.
+The FBI has also
+warned
+that our dependence on technology is a dream come true for cybercriminals. Given this, the aforementioned DHS report, and Apple’s and Google’s security warnings, it is clear that insisting on open access to tech-enabled platforms is a security and privacy nightmare. So why is Congress this eager to break consumer protections on millions of devices in today’s vulnerable internet environment? Shouldn’t they be applauding the efforts of companies that curated a multitiered control mechanism that combines human analysis with automated tools to identify security and privacy risks before consumers download a product onto their personal devices? Finally, how will Congress and these potential new laws address efforts to create closed, secure e-commerce systems by companies like Walmart, which do not fit the conventional Big Tech classification?
+Walmart’s patent applications envision what any shareholder company would expect: full control over all newly created Walmart digital economy services and assets. Like any well-engineered plan, Walmart’s applications have security built into product designs. If the US Patent and Trademark Office, rather than Congress, ordered Walmart to remove these integrated security processes and permit open access to their metaverse platform, Walmart would be awestruck.
+It has also been
+argued
+that Congress’ antitrust bills specifically exempt Walmart and other traditional retailers from enforcement, granting them special immunity and future growth opportunities. When a recent amendment to one of the bills sought to lower the threshold for enforcement, potentially ensnaring Walmart, Sen. Tom Cotton (R-AR)
+expressed opposition
+.
+As Walmart enters the metaverse with plans to keep digital customer network effects in-house, it will join the ranks of online companies whose innovative successes meet a threshold for punishment. But Walmart’s metaverse plans are proof that Big Tech’s allegedly anticompetitive practices are widespread and security friendly. Not having security by design could create a systemic security and privacy risk anytime a customer accesses Walmart’s metaverse platform. This is indefensible in today’s cybersecurity environment in which many security measures are available, and cybersecurity should be a priority. Furthermore, if the lawmakers focused on antitrust acknowledge this fact for Walmart but not for Big Tech, they will have contradicted themselves
+yet again
+.

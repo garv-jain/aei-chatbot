@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	How ‘Negativity Bias’ Skews the Conversation About Artificial Intelligence | American Enterprise Institute - AEI
+
+Just as I was preparing an article titled “Calm Down About Artificial Intelligence”—one in a series—
+Marc Andreesen
+has preempted me with an 18-page blog post inventorying the main threads in the “AI doom-loop” and why these concerns are either wrong or substantially overblown. In fairness, Andreesen is open to the criticism that he is engaging in the opposite error, focusing solely on potential upsides without considering the risks and challenges that will undoubtedly arise from a new general-purpose technology.
+With that in mind, one element missing from Andreesen’s argument, which connects all the different facets of AI doomism, is the problem of
+negativity bias
+—our propensity to look for problems, whether they exist or not. Negativity bias is rooted in human evolution and is a key aspect of our survival instinct and our seemingly endless search for a better life. When our ancestors roamed the African savannah, negativity bias manifested as constant wariness for potential threats. Anxious and hyperaware people likely had a survival advantage over sleepier, less attentive types, and so anxious awareness was gradually selected into our genes.
+Our tendency to worry is something we probably can’t and shouldn’t entirely avoid; worry leads us to plan and strategize against obstacles.
+Iain McGilchrist
+argues
+the structure of the brain itself reflects this tendency to scan our environment for threats, with the right hemisphere focused on detecting the novel while the left hemisphere organizes and systematizes that information for later use. From the perspective of evolution, this structure is about how we find our lunch without becoming lunch for someone else. What was necessary in our ancient past when scarcity ruled human life and danger abounded might not be as helpful in the security and abundance of the modern world.
+Understanding negativity bias doesn’t require expertise in evolutionary psychology. Adam Smith, the father of market economics, analyzed this aspect of human behavior in his
+Theory of Moral Sentiments.
+“Pain,” Smith said, “is, in almost all cases, a more pungent sensation than the opposite and corresponding pleasure. The former almost always depresses us much more below the ordinary level or what may be called the natural state of our happiness than the latter ever raises us above it.” Since pain exacts a higher toll than pleasure can counteract, we naturally seek to avoid it.
+Technological progress, for all its long-term benefits, entails loss (pain). The transition from an agrarian society to an industrial one disrupted long-established patterns of family and community, leading suddenly uprooted workers into alcohol abuse as they sought relief from the pressures and uncertainties of urban life. More recently, the shift from a manufacturing-based economy to one centered on services and information increased the premium on education and skills and left many factory workers unemployed. Researchers have linked chronic unemployment to “
+deaths of despair
+” among non-college educated Americans. While we don’t know exactly how AI will reshape work and relationships, it’s already
+evident
+that, unlike the two previous economic transitions, higher levels of education correlate with increased exposure to AI-driven automation. Individuals who have never had to consider the risk of technology-driven job loss are now
+noticing
+the skills they worked hard to develop may no longer be sufficient to remain employed in their chosen professions.
+Contra Andreesen, AI is not a panacea but a mixed bag of blessings and problems.
+In the aggregate
+, this technology holds great promise for improving the human condition in nearly every domain through innovations that will enhance our health and well-being. At the same time, many people are likely to experience significant AI-driven disruptions in their jobs and lives. Instead of trying to stop this inevitable transition, we should focus on how to maximize the gain while mitigating the pain.

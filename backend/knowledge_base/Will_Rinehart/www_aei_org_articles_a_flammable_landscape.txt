@@ -1,0 +1,85 @@
+PAGE_TITLE: 
+	A Flammable Landscape | American Enterprise Institute - AEI
+
+Los Angeles continues to burn.
+As of this writing, the
+Palisades Fire
+is spread over 23,713 acres and is 22 percent contained. This means that 22 percent of the fire’s perimeter has been controlled by firefighters through containment lines. The Eaton Fire currently stands at 14,117 acres burned at 55 percent containment. Will Rogers State Park is gone. The homes of celebrities Paris Hilton, Mandy Moore, Billy Crystal, and many others are gone. More than 12,000 homes, businesses, and schools have burned, and 25 people have died.
+AccuWeather
+has estimated the cost to rebuild at between $250 billion and $275 billion, and it is sure to rise.
+Online commenters were quick to blame the byzantine regulatory systems in California for the magnitude of the disaster. While this is often a good heuristic, since California’s bad policies affect so many aspects of life there, the conflagration seems to have been a natural disaster, not a pure policy disaster.
+What many may not know about the fires that occur near Los Angeles is that it’s located in the middle of a chaparral shrubland, a type of ecosystem that grows up around rocky Mediterranean-type regions. Unlike the forests or the prairie, fires in the chaparral are infrequent and intensely hot. While the Native Americans in California deliberately set fires to shrubland, they were not trying to maintain the chaparral but to transform it into grasslands for hunting. Southern California could transform itself into grassland, which would have some advantages in fire management, but it would come with the destruction of the chaparral.
+While understanding the ecosystem is crucial for long-term planning, the immediate focus is on recovery and rebuilding. Gov. Gavin Newsom’s first major action was to suspend the California Environmental Quality Act (CEQA) and the California Coastal Act’s permitting system.
+As he explained on X
+, these suspensions “will allow victims of the SoCal fires to not get caught up in bureaucratic red tape and quickly rebuild their homes.”
+I am glad these suspensions are becoming the norm during natural disasters. Not only do they  fast-track rebuilding, but they also hint at the uncomfortable truth of government: Our normal rules actively prevent us from solving urgent problems.
+But if these rules can be safely suspended during our most challenging moments—when careful oversight should matter most—then it’s time to reevaluate their necessity during calmer times as well.
+The unique nature of chaparral.
+Los Angeles is dominated by chaparral, a type of scrub that occurs in Mediterranean climates where there is dense, rocky soil. And chaparral is dominated by pyrophytes, the name botanists give to plants that need fire—and smoke,
+as it has been recently found
+—to germinate seeds.
+Massive, swift, but infrequent conflagrations are common wherever chaparral occurs, which includes parts of California, Oregon, Baja California, Chile, South Africa, and Australia. Chaparral grows in a way that creates an unbroken layer of fuel from the ground all the way up through the vegetation, making intense fires unavoidable. These are called crown fires because they burn through the tops of the plants. This differs from most forest fires, which primarily burn near the ground because of the separation between the forest floor and the tree canopy.
+The western part of Los Angeles is uniquely vulnerable to disaster. As the urban theorist Mike Davis wrote in “
+The Case for Letting Malibu Burn
+,” this is due to “the uncanny alignment of its coastal canyons with the annual ‘fire winds’ from the north: the notorious Santa Anas.” The shape of the “San Fernando Valley acts as a giant bellows, sometimes fanning the Santa Anas to hurricane velocity as they roar seaward through the narrow canyons and rugged defiles of the Santa Monica Mountains. Add a spark to the dense, dry vegetation on such an occasion and the hillsides will explode in uncontrollable wildfire.”
+Infrequent, uncontrollable wildfire is now understood as a key part of the life cycle of chaparral. As Richard W. Halsey of the California Chaparral Institute, and Alexandra D. Syphard of the
+Conservation Biology Institute explained in “
+High-Severity Fire in Chaparral: Cognitive Dissonance in the Shrublands
+,”
+Although counterintuitive, chaparral plant communities are much more resilient to infrequent, high-intensity fires than they are to more frequent, lower-intensity fires (Keeley et al., 2008). If chaparral does not have sufficient time to replenish the soil seed bank, accumulate the biomass necessary to produce fires hot enough to successfully germinate fire-cued seeds, or allow resprouting species time to restore starch supplies in underground lignotubers, a cascading series of events begins that can significantly change or eliminate the plant community. If the fire return interval is less than 10—20 years, biodiversity is reduced and nonnative weeds and grasses typically invade, ultimately type-converting native shrubland to nonnative grassland (Brooks et al., 2004).
+So while it is true that Native Americans in Southern California were actively setting fires long before Europeans arrived,
+it’s likely that they were doing it
+to eliminate shrubland and help grasses grow so that grassland animals could be hunted on that land. That is to say, Native Californians weren’t maintaining a healthy chaparral.
+Fuel build-up is invariably blamed for the occurrence of large chaparral wildfires.
+One commenter on the Marginal Revolution blog
+, for example, relayed what he was seeing on local news broadcasts a week ago,
+A man who had lost his house made the point that it was his neighbor just below him that created the conditions for both houses and others to burn: the neighbor allowed brush around the neighbor’s house to grow thick and high, creating a fire bomb once the embers hit the brush. The brush didn’t need a controlled burn, it needed a weed whacker or other device to keep it cut.
+But researchers are now balking at that idea.
+Contrary to popular belief
+, fire suppression like preventing or fighting fires hasn’t disrupted the natural fire patterns in these areas. In fact, fire suppression has actually been helpful because it’s protected the chaparral from burning too frequently, which would be harmful to the ecosystem, which prefers a cycle of 30 years or more. Without fire suppression efforts, human-caused fires would have resulted in the vegetation burning far more often than it did historically. Because fire suppression has helped maintain a more natural fire pattern in the long term, the chaparral was set up to go up in a blaze when the conditions were right. Abnormally
+strong rains in 2023 drove plant growth
+, which then became a tinderbox this year with a lack of rain. Unusually strong winds gave it the air to quickly expand. Monday’s
+The Morning Dispatch
+did an excellent job of explaining how all of this came together.
+While conventional wisdom suggests we need more frequent, controlled burns to prevent disasters, the science of chaparral tells a different story. These ecosystems don’t just tolerate massive conflagrations, they require them for their very survival. The devastation we witnessed wasn’t an aberration or a result of poor fire management. It was the chaparral operating exactly as nature intended, on a timeline measured not in years, but in decades. Understanding this reality is essential for anyone choosing to live in these beautiful but periodically explosive landscapes.
+Regulations still stymie controlled burns.
+All of this makes controlled burns ill-suited for Southern California’s chaparral. But that isn’t to say that controlled burns aren’t needed elsewhere in other ecosystems in California. And controlled burns are stymied by delays. Like any other government action, controlled burns are subjected to the National Environmental Policy Act (NEPA) and CEQA, California’s version of the law.
+Environmental groups aren’t fans of controlled burns or thinning efforts and have taken both the state and federal governments to court over them.
+Activists delayed
+a 9,000-acre forest thinning project in California for 10 years, citing potential threats to spotted owl habitat. However, the unthinned forest ultimately burned in a wildfire, destroying the very owl habitat they had sought to protect.
+The
+Sacramento Bee
+reported
+that one woman’s lawsuit over another California forest-thinning project forced the government to process 19,193 pages of paperwork. And to top it off, in 2007,
+the Sierra Club successfully sued the Forest Service
+to prevent it from exempting small, controlled burns. In California, it takes months to get approval for a controlled burn, while in Florida it takes
+mere minutes
+.
+Still, as Kevin Drum wrote in “
+Why don’t we do more prescribed burning? An explainer.
+” regulations are part of the problem, but they aren’t the only thing stopping controlled burns:
+The biggest impediments are public opposition,
+rising insurance costs,
+resource constraints, and the risk-averse views of forest managers, many of whom are still wary of prescribed burns. This is partly for technical reasons and partly out of fear.
+Only one out of a thousand
+prescribed burns gets out of control, but that’s enough.
+If officials conduct a prescribed burn that gets out of control, they face serious consequences and liability. However, when devastating wildfires destroy communities and landscapes due to long-term neglect of forest management, no one is held accountable for these preventable disasters. The cumulative result is that
+fewer acres are burned
+than what experts would want.
+What’s next.
+Insurers will face pressure as people inevitably rebuild, and something will break.
+California’s insurance system requires a public hearing and an affirmative approval by elected insurance commissioners to increase rates. But Proposition 103, which passed in 1988 to reform California’s insurance regulations,
+is unique in that it allows nonprofit organizations
+to collect fees when they challenge proposed insurance rate hikes. California’s system is generally viewed as unmatched in terms of the extent to which consumers and advocacy groups can formally intervene in insurance rate filings.
+As a result, insurance companies have stopped issuing new policies that cover fire. This, in turn, has put pressure on the state’s insurer of last resort, FAIR. But even FAIR is buckling under all the payouts. For years, the Pacific Palisades has been cited as one of the largest areas of exposure for FAIR at nearly
+$6 billion
+. As it last reported, however, FAIR had about
+$700 million
+in cash and even
+though it caps payments at $3 million
+, it likely will need a bailout.
+Still, I think it is telling that Newsom’s immediate policy response was an executive order that suspended CEQA review and California Coastal Act permitting for properties being reconstructed. His executive order didn’t just streamline reconstruction. It laid bare a paradox at the heart of the state’s regulatory framework. By suspending both CEQA review and Coastal Act permitting for rebuilding, while directing agencies to identify other regulations that could be safely relaxed, Newsom tacitly acknowledged what many have long suspected. If these rules can be safely suspended during our most challenging moments when careful oversight should matter most, perhaps it’s time to reevaluate their necessity during calmer times as well.
+My former colleague Tahra Jirari made a similar point recently,
+writing that
+, “Rather than temporarily waiving them just for rebuilding, we should seize this moment to create a permanently more functional system.” As a Los Angeleno, she’s been in the middle of this disaster, and as an economist, she’s been thinking about how to rebuild better. As she told me, even with the suspension of CEQA and California Coastal Commission rules, “current policies are quite restrictive and will make it difficult to rebuild. All of this has made us more vulnerable than we should be because we need to build densely away from fire-prone zones.”
+Many L.A. residents love being near nature and the chaparral, but they don’t understand the risk. Every so often, the region will burn in a hot blaze. This isn’t a failure of policy or prevention. It’s the fundamental nature of this ecosystem. Living in the chaparral means accepting its cycles: long periods of beautiful, rugged wilderness punctuated by devastating fires that can’t be tamed. The question isn’t how to prevent these fires entirely, but how to build and live with the knowledge that they will inevitably return.

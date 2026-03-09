@@ -1,0 +1,24 @@
+PAGE_TITLE: 
+	The Future of Work: Augmented, not Automated | American Enterprise Institute - AEI
+
+In my first AEI
+report
+, “STEM Without Fruit,” I argued the case for the pre-eminence of noncognitive skills in a world of rapidly advancing technology. As part of that report, I cited evidence drawn from employer surveys, as well as wage and labor-share data, showing that across the economy the highest demand from employers and highest wage returns to workers were linked to
+noncognitive skills
+even in the absence of strong technical acumen.
+The sudden arrival of artificial intelligence (AI) platforms raises the question of how these technologies may alter the equation when it comes to the balance between technical and noncognitive skills in the marketplace. A new
+report
+from the IBM Institute for Business Value, surveying over 24,000 executives and employees around the world, reaffirms the importance of noncognitive skills and charts a path toward an “era of the augmented workforce,” in which work is built around symbiotic human-machine partnerships.
+The AI transition will likely impose significant transition costs on employers and workers. According to IBM, surveyed executives project that within the next three years alone, some 40 percent of their workforce will need to be reskilled. AI and affiliated technologies will impact many but displace far fewer: On average, 87 percent of executives expect job roles to be
+augmented
+, rather than replaced, by generative AI. In marketing and customer service, that figure is 75 percent; in procurement, risk and compliance, and finance, it is at least 90 percent.
+However, successful organizations are already transforming their business processes to foster collaboration between workers and AI platforms. Having identified where humans and machines each have comparative advantages, organizations are moving toward partnerships that generate more value than either human labor or machines alone can produce.
+Organizations that can manage this transition have a lot to gain. According to IBM, organizations that prioritize AI business transformation—and are willing to experiment and adapt along the way—outperform other organizations by wide margins on several dimensions, including profitability, innovation, and employee engagement. Reskilling for technological adaptation boosts revenue growth by 15 percent compared to firms that do not invest in reskilling. The premium is even greater for businesses that reskill workers for AI in particular: these firms see revenue growth accelerate by 36 percent.
+How can this transition benefit workers? With the help of increasingly user-friendly technology, workers are now capable of achieving more with
+less
+technical proficiency. For instance, the emergence of no-code software development platforms enables individuals without programming backgrounds to build prototypes and applications for businesses. With AI taking on many routine technical tasks, IBM documents that STEM skills have dropped in importance, from the top spot in 2016 to 12th place in 2023. Consistent with other surveys on corporate hiring priorities, IBM’s study finds that noncognitive and “people skills” like communication, collaboration, and time management have jumped from the middle of the pack to dominate the most highly sought-after skills.
+IBM Institute for Business Value, 2023
+As more mundane and repetitive tasks are delegated to machines, individuals can dedicate their time to more abstract and collaborative endeavors such as planning and problem-solving, which are often more engaging and more reliant on noncognitive capacities. This holds the potential to substantially
+improve
+worker satisfaction as well as mental health: According to IBM, nearly half of employees believe the work they do is among the most important aspects of their jobs.
+IBM’s insights help clarify what the AI transition is—and isn’t. Fundamentally, AI offers an opportunity to expand human potential and activity rather than serving as a scheme to cut costs and deprive people of meaningful work. Most importantly, these findings are also helpful in reminding us that even in an AI-enriched world, it is the uniquely human qualities and capacities that are likely to remain in highest demand.

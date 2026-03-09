@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Why Utah’s ‘Simple’ Social Media Reform Could Set a Dangerous Privacy Precedent | American Enterprise Institute - AEI
+
+The way that it is framed, you’d think that Utah’s
+HB418
+is just a simple change to Utah’s privacy law. They are just “Data Sharing Amendments,” after all. But beneath that innocuous label lies a sweeping proposal that would make Utah the first state in the nation to require the most technically demanding and privacy invasive form of interoperability.
+Until last year, I worked at an economic research group located at Utah State University, focusing on data regulation. While I am not a native Utahn, it has become like a second home to me. In my professional capacity, I have testified before the Senate on
+data ownership
+, have
+written extensively on platform competition
+and
+explored the technical problems
+in trying to change social media technology through regulation. Utah has a commonsense privacy bill, one of the best in the United States. These amendments would severely undermine all of that good work.
+Interoperability is a slippery term. Most of the time, it refers to something relatively straightforward like data portability. Data portability is the ability to download your key demographic data, posts and messages so you can move them elsewhere. Utah already has this codified in law.
+But HB418 goes far beyond that and would force social media companies to “open the gates,” giving outsiders access to personal user data as well as social graph data. As the bill defines it, social graph data comprises all the interactions with other users, including how they responded, reacted or shared content, as well as all of the metadata about the interactions.
+In other words, if you and I were friends, and I decided to exit Facebook, all of your comments would be included in the data stream as well. Implementing interoperability for social graph data would violate the privacy of users who never consented to such data transfers in the first place.
+Not even the European Union, famous for its far-reaching digital regulations, has taken this step for social networks, even though it has imposed interoperability rules on messaging apps like WhatsApp. In fact, when the EU debated similar rules for social media platforms, they ultimately decided it
+was too big a leap
+because of privacy concerns.
+Privacy has always been the crux of interoperability. It is also worth remembering that Facebook originally got into trouble over Cambridge Analytica because they allowed users to share exactly the data that this new bill would mandate. Given that they are obligated to not share this information under their settlement, it is not even clear how they could comply with this bill.
+Just as important, research on interoperability has found it is not a panacea for competition.
+In one of
+the few research papers
+that actually asked platform engineers what they thought of ported data, it was found that “interviewees struggled to come up with new, competitive products they could build from, or meaningfully grow with, ported Facebook data.”
+There is
+a lot
+of research
+that suggests mandated interoperability tends to favor the incumbent,
+leading one business professor
+to dryly admit that interoperability is “not always beneficial to the competition or customers.”
+Indeed, data is not as transformative as some assume.
+A paper published
+just last month concluded that “sharing Google’s click-and-query data with Microsoft may have a limited effect on market shares.” What matters more is being exposed to alternatives.
+In the end, Utah’s HB418 isn’t a modest tweak to privacy laws. It’s an untested experiment that exposes users to unprecedented privacy risks while offering questionable benefits to competition or innovation.
+By mandating the sharing of intimate social graph data, the bill undermines established privacy protections, hands power back to entrenched incumbents, and paves the way for potential abuses that no modern regulation should tolerate. Instead of liberating consumers, this form of forced interoperability threatens to turn our digital lives into an open book, proving that when it comes to our personal data, interoperability is just not all it’s cracked up to be.

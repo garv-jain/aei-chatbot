@@ -1,0 +1,93 @@
+PAGE_TITLE: 
+	Generative AI and Child Sexual Abuse Material: An Early Cautionary Lesson and a Pledge from Tech Companies | American Enterprise Institute - AEI
+
+It’s
+almost a truism
+that all technological innovations, generative artificial intelligence (Gen AI) tools included, can be put to both good and evil uses. This post addresses a decidedly disturbing deployment of Gen AI that falls squarely into the latter category––using it to create sexually explicit images of minors. Indeed, the charges
+announced last month
+by the US Department of Justice in
+United States v. Anderegg
+bring into high relief the sordid reality and “
+frightening concern
+” that my AEI colleague
+Daniel Lyons
+correctly predicted 14 months ago.
+Anderegg
+, if the facts bear out as the federal government alleges, provides an early cautionary tale. It highlights not only the necessity of criminal prosecutions
+after
+the misuse and abuse of Gen AI occurs, but also suggests that tech companies must proactively take steps
+before
+it arises to reduce its likelihood while simultaneously not compromising the emerging technology’s vast benefits. As AEI’s
+John Bailey
+aptly
+wrote
+in synthesizing a May
+report
+by a bipartisan US Senate working group addressing Gen AI’s future in the United States, there must be “an environment where AI innovation can flourish while still ensuring safety and accountability.”
+Via Adobe stock
+Last month, the Justice Department’s
+Child Exploitation and Obscenity Section
+unsealed
+a four-count indictment
+delivered by a federal grand jury against Steven Anderegg, a 42-year-old man from
+Holmen, Wisconsin
+. As encapsulated by a Justice Department
+press release
+, Anderegg faces “criminal charges related to his alleged production, distribution, and possession of AI-generated images of minors engaged in sexually explicit conduct and his transfer of similar sexually explicit AI-generated images to a minor.”
+A
+government brief
+describes “hundreds—if not thousands—of these images” as “hyper-realistic” and allegedly created by Anderegg “using a GenAI model called Stable Diffusion (produced by Stability AI).” Specifically, he purportedly “used extremely specific and explicit prompts to create these images. He likewise used specific ‘negative’ prompts—that is, prompts that direct the GenAI model on what not to include in generated content—to avoid creating images that depict adults.”
+Although the First Amendment generally safeguards speech from government censorship, the
+US Supreme Court
+has made it clear that the
+production, distribution
+, and
+possession
+of child pornography are not protected by the US Constitution. In terms of nomenclature, the Justice Department
+notes
+that while “child pornography” represents a legal concept, the term “‘child sexual abuse material’ (CSAM) is preferred, as it better reflects the abuse that is depicted in the images and videos and the resulting trauma to the child.”
+The case against Anderegg is, as the
+Washington Post
+reported
+, “potentially the first federal charge of creating child sexual abuse material applied to images produced entirely through AI.” The indictment makes it clear, however, that those who create Gen AI CSAM will rightly be prosecuted the same as other CSAM producers.
+A federal child pornography
+statute
+cited in Anderegg’s
+indictment
+specifies that “[i]t is
+not
+a required element of any offense under this section that the minor depicted actually exist.” (emphasis added). Furthermore, the statute allows for the prosecution of “a visual depiction of
+any kind
+” (emphasis added), including images like cartoons, in which a minor is depicted “engaging in
+sexually explicit conduct
+.”
+Given this statutory authority, it’s not surprising that the Federal Bureau of Investigation
+asserts
+that CSAM created with Gen AI tools is illegal. It’s a sentiment
+echoed
+by the Department of Homeland Security. Indeed, in announcing Anderegg’s arrest,
+Nicole M. Argentieri
+, head of the Justice Department’s Criminal Division,
+stated
+that “using AI to produce sexually explicit depictions of children is illegal, and the Justice Department will not hesitate to hold accountable those who possess, produce, or distribute AI-generated child sexual abuse material.”
+Sadly, the abuse of Gen AI tools to produce CSAM like that at issue in
+Anderegg
+is unsurprising. A
+study
+published in December by the
+Stanford Internet Observatory
+(SIO) found the “presence of repeated identical instances of CSAM” in an open training dataset for text-to-image models known as LAION-5B. An SIO blog report summarizing the study’s findings
+notes
+that the “dataset included known CSAM scraped from a wide array of sources, including mainstream social media websites and popular adult video sites.” The dataset
+is
+“used to train popular AI text-to-image generation models, such as Stable Diffusion.” Anderegg,
+according
+to the government, claimed to input text prompts on Stable Diffusion to generate “images based on his parameters.”
+This is where Gen AI companies carry both an ethical and legal responsibility––to closely monitor and scrutinize for the presence of CSAM in the training sets they use and, when they locate CSAM, to immediately eradicate it. In April,
+Forbes
+reported
+that the leaders in the Gen AI field
+pledged
+to do just that by adding
+safety-by-design features
+to their tools. It’s a vitally laudable step forward against such contemptible content.

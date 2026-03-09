@@ -1,0 +1,8 @@
+PAGE_TITLE: 
+	Protecting Youth Online: A Guide to Parental Controls and Safety Tools | American Enterprise Institute - AEI
+
+The digital age has brought unprecedented opportunities for learning and connection, but it also presents new challenges for parents and guardians.
+Social media platforms and operating systems offer a range of tools and resources to help protect young people online, but navigating these options can be overwhelming. This comprehensive guide provides step-by-step instructions on using parental controls and safety tools on popular platforms and operating systems, empowering you to create a safer online experience for your children.
+While digital platforms and operating systems provide various parental controls and safety features, the key to protecting children online lies in active parental involvement and oversight. Parents must not only understand and implement these technical safeguards but also maintain open communication with their children about digital safety, monitor their online activities, and stay informed about emerging online risks.
+Simply enabling controls is not enough—meaningful parental engagement in children’s digital lives is essential for creating a safer online environment and helping young people develop healthy technology habits.
+Read the full guide here.

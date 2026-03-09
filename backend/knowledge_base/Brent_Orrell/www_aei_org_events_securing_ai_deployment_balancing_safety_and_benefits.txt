@@ -1,0 +1,39 @@
+PAGE_TITLE: 
+	Securing AI Deployment: Balancing Safety and Benefits | American Enterprise Institute - AEI
+
+3:15 p.m.
+Registration
+3:30 p.m.
+Introduction:
+Shane Tews
+, Nonresident Senior Fellow, American Enterprise Institute
+3:35 p.m.
+Panel I: AI Basics and the Necessary Safeguards for Development
+Panelists:
+Pablo Chavez
+, Adjunct Senior Fellow, Technology and National Security Program, Center for New American Security
+Chris Meserole
+, Executive Director, Frontier Model Forum
+Moderator:
+Shane Tews
+, Nonresident Senior Fellow, American Enterprise Institute
+4:20 p.m.
+Q&A
+4:30 p.m.
+Panel II: How AI Applications Are Improving Our World
+Panelists:
+Mark Johnson
+, Cofounder, Michigan Software Labs
+Michael Richards
+, Director of Policy, US Chamber of Commerce Technology Engagement Center
+Leslie Sizemore
+, Associate Vice President, Kentucky Council on Postsecondary Education
+Bojan Tunguz
+, Former Senior Systems Software Engineer, NVIDIA
+Moderator:
+Brent Orrell
+, Senior Fellow, American Enterprise Institute
+5:05 p.m.
+Q&A
+5:15 p.m.
+Adjournment

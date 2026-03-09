@@ -1,0 +1,27 @@
+PAGE_TITLE: 
+	The Open App Markets Act: How “Competition” Reform Would Open America’s Digital Doors to Hackers and Foreign Adversaries | American Enterprise Institute - AEI
+
+The
+Open App Markets Act
+(OAMA) has reemerged in Congress with renewed momentum, aiming to break up what some lawmakers perceive as monopolistic control over mobile app distribution. Supporters frame this legislation as a victory for competition and consumer choice, claiming it will free users from the restrictive hold of Apple’s App Store and Google Play. However, as I’ve
+noted
+before, beneath this appealing rhetoric lies a more troubling truth: OAMA masquerades as competition reform while undermining privacy protections, security measures, and consumer interests in favor of a Washington-controlled tech landscape.
+The concerns raised by technology policy experts deserve serious consideration. What lawmakers present as a simple matter of increasing competition more accurately represents a fundamental restructuring of how Americans interact with technology, one that could leave consumers more vulnerable, not more empowered.
+Via Reuters.
+The most alarming aspect of OAMA is how it undermines the foundational security architecture that has made smartphones relatively safe computing devices. The legislation would force Apple and Google to abandon their carefully constructed app vetting processes, as Wayne Brough at R Street has previously
+pointed out,
+requiring them to allow “sideloading”—the installation of apps from untrusted sources outside official app stores may open consumers to operational and security risks.
+Consider the practical implications. Under OAMA, the security protocols that currently protect Americans from fraudulent apps, data-harvesting schemes, and foreign surveillance tools would be stripped away to open the market to anyone. Malicious actors—including state-sponsored hackers from adversarial nations—could gain unprecedented access to American devices and data through unvetted applications.
+The current system, where apps must pass through rigorous security screening before reaching consumers, has successfully kept the vast majority of malware out of mainstream mobile ecosystems. OAMA would force platforms to lower these protective barriers, creating what some security experts describe as backdoors for foreign and malicious apps. As Patrick Hedger from NetChoice aptly
+warns
+, “This bill opens a Pandora’s box of privacy violations, foreign interference, and government micromanagement of software design.”
+Ironically, while OAMA claims to promote competition, it may restrict meaningful consumer choice. Many users specifically choose Apple devices because of their integrated, secure ecosystem. Others prefer Android’s more open approach. This creates real market competition, with different companies offering various value propositions to meet different consumer preferences.
+OAMA would eliminate this choice by forcing all platforms to operate under the same government-mandated rules. Rather than letting market forces determine the optimal balance between security and openness, Washington bureaucrats would instead make these decisions on behalf of American families. This isn’t competition; it’s central planning of technology by bureaucrats rather than engineers.
+The broader economic implications of OAMA extend far beyond app stores. By targeting successful American technology companies with punitive regulations, the legislation risks undermining the innovation ecosystem that has made the United States the global leader in digital technology.
+The legislation assigns federal regulators the task of micromanaging complex technical decisions regarding cybersecurity, interoperability, and platform design—areas where government agencies often lack the necessary expertise and agility for effective oversight.
+When platforms can no longer maintain quality control over their ecosystems, developers may lose incentives to create high-quality applications. Why invest in polished, secure software when unvetted and potentially malicious alternatives can compete on equal footing? The result could be a race to the bottom that diminishes the overall quality of the mobile app experience.
+The bill’s
+vague language
+regarding “legitimate” security risks and “necessary” safety measures creates significant uncertainty for companies attempting to comply. Without clear guidance on what security measures they can maintain, platforms may err on the side of extreme permissiveness, further compromising user safety.
+We need not speculate about OAMA’s potential consequences; similar legislation in the European Union offers a cautionary tale. The Digital Markets Act has created compliance burdens that disproportionately benefit non-US competitors while weakening the security and user experience of European consumers. Rather than spurring innovation, such regulations often cement the positions of incumbent players who can best navigate complex regulatory requirements.
+Americans deserve technology that keeps them safe while offering genuine choice in the marketplace. OAMA would do neither; instead, it would create a government-controlled tech system that favors foreign competitors and malicious actors at the expense of American consumers and businesses. Congress should reject this misguided legislation and pursue market-based solutions that genuinely serve the public good. OAMA’s approach risks sacrificing security, privacy, and innovation through regulatory overreach.

@@ -1,0 +1,41 @@
+PAGE_TITLE: 
+	Why Are We Trying to Regulate Our Way to Innovation? | American Enterprise Institute - AEI
+
+US government officials are following in the European Union’s footsteps by attempting to set the rules for how American technology companies operate. In the EU, the Digital Markets Act (DMA) plans to usher in a new era of tech regulation worldwide,
+according
+to Andreas Schwab, the European Parliament’s rapporteur. Schwab wants to
+harmonize
+the EU and US regulatory systems and sees the five biggest US firms as the unquestionable targets for the DMA’s efforts.
+The DMA
+mandates
+how US technology companies that provide “core platform services” can and cannot operate within the EU. Likewise, members of the US Senate are pushing legislation down a similar path—namely with Sen. Amy Klobuchar’s (D-MN) American Innovation and Choice Online Act (
+AICOA
+) and Sen. Richard Blumenthal’s (D-CT) Open App Markets Act (
+OAMA
+). By mandating platform shifts through regulation rather than the free market, both the EU’s DMA and US legislative efforts are looking to rewire the underlying computing infrastructure and software design through regulatory policy, not true innovation.
+via Adobe Creative Commons
+This brings a level of friction into the software application process that has been part of the code-design-review practice, which helps improve the quality and security of any software design.  Unlike their Senate colleagues, Reps. Anna Eshoo (D-CA) and Kat Cammack (R-FL) recognize that legislation affecting consumer security measures needs to be a collaborative effort and thus have introduced the
+Understanding Cybersecurity of Mobile Networks Act
+to help protect consumer data and cybersecurity concerns. Their bill would require the Department of Homeland Security (DHS) and the Department of Commerce to report to Congress on the cybersecurity status and vulnerabilities of mobile services and consumer devices, with a focus on how to best inform consumers about the cybersecurity threats they may encounter.
+However, legislation such as the Senate’s AICOA and OAMA, along with the DMA, would do the opposite of what has been recommended by cybersecurity experts. These bills want to mandate that current app-store-review practices—such as privacy tools and processes put in place to mitigate security risks like malware applications or dark web cyber tools—be dismantled in the name of competition.
+New York University Law Professor Daniel Francis noted in his
+testimony
+before the Senate Judiciary Committee on March 7 that he believes there is cause for concern if AICOA and OAMA were to pass, as the cost is too high for consumers. Francis explains:
+There are plenty of hostile and malicious actors in the world today searching constantly for new ways to access consumers’ devices, data, and homes. And it seems a particularly bad time to make our critical digital infrastructure more vulnerable by deterring our most important platforms from protecting their own systems and users. Platform decision-makers should not be given a choice of
+either
+letting suspicious third-party apps and entities into their ecosystems
+or
+facing the threat of complaints, investigations, litigations, injunctions, and penalties. (emphasis in original)
+The DHS’s Cybersecurity and Infrastructure Security Agency has issued
+advisories
+to help businesses and consumers avoid the most popular ways criminals infiltrate devices in the hope of improving consumers’ understanding of the risks associated with cyberattacks from pirated software and ransomware attacks that facilitate data theft. These security steps cannot continue if the current legislative efforts insist on separating hardware and software security, both of which are part of an interrelated process.
+Regarding the software security problem, the Biden administration called out this challenge in their recently released
+National Cybersecurity Strategy
+, seeking to shift the responsibility for maintaining security standards away from consumers and onto software makers. This guidance from the administration is the exact
+opposite
+of what would happen to the mobile software application market if OAMA were to pass.
+The National Security Council
+spoke out
+before President Joe Biden’s first trip to the EU, warning against European regulatory policy toward American technology companies. But the administration continues to be internally divided between those who want a change in competition laws and those who understand the security concerns these regulatory changes bring to the technology industry. As my AEI colleague Klon Kitchen noted in his recent
+opinion piece
+, we are in an era of “regulate first and ask questions later” strategic planning.

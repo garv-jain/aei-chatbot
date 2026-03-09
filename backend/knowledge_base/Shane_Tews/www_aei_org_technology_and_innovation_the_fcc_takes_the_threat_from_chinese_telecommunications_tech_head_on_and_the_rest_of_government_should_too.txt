@@ -1,0 +1,36 @@
+PAGE_TITLE: 
+	The FCC Takes the Threat from Chinese Telecommunications Tech Head-on (and the Rest of the Government Should Too) | American Enterprise Institute - AEI
+
+At the Federal Communications Commission’s (FCC) November 19
+open meeting
+, a top agenda item will be ensuring “that Universal Service Fund [USF] support is not used to purchase equipment or services from companies posing a national security threat to the integrity of communications networks or the communications supply chain.” FCC Chairman Ajit Pai is highlighting the threat posed by the presence of Chinese telecommunications technology in American networks, an important consideration as US companies seek investment to build out next-generation 5G wireless networks.
+American consumers pay USF fees on their telecom bills to support the build-out of information services around the United States. In administering the USF system, the FCC has a responsibility to ensure that national security isn’t threatened by suspect equipment as part of efforts to increase access to communications services in remote areas.
+The FCC is right to scrutinize low-cost Chinese network equipment that is subsidized by the Chinese government and developed using intellectual property of dubious origin. Congress is currently focused on national security concerns surrounding foreign mobile apps (e.g., TikTok) and internet platforms that sell US citizens’ data abroad. But the transfer of information and potential degradation of network operations that could occur if the US 5G network is built using suspect equipment is an issue that deserves congressional and executive branch attention.
+These concerns are not new, and evidence to support them has come from across the US government. A 2017
+letter
+to the FCC from a bipartisan group of members of the House and Senate Intelligence Committees notes concerns about Huawei’s ties to Chinese intelligence and security services and requests that FCC commissioners engage the FBI, CIA, and National Security Agency on the Huawei security threat. The letter is attached to a 2012 investigative report by the House Intelligence Committee that recommended — even then — that “the United States should view with suspicion the continued penetration of the U.S. telecommunications market by Chinese telecommunications companies . . . [and U.S. government systems] should not include Huawei or ZTE equipment.”
+Chris Ford, assistant secretary of the Bureau of International Security and Nonproliferation at the State Department, noted in a recent
+speech
+that “across the malignant ecosystem of China’s technologized authoritarianism there is a deep record of cooperation and collaboration between companies such as Huawei, ZTE, Alibaba, Tencent, and Baidu and the state security bureaucracy.” Dr. Ford elaborated on his concerns about Huawei’s practices as a whole, pointing out that the company has lied about its ties to the Chinese military and intelligence in the past. He described the factors that prompted the Department of Commerce to place the company on its “
+Entity List
+,” which imposes restrictions on US commercial engagement:
+It was indicted by the U.S. Justice Department in January 2019 for
+theft of trade secrets, attempted theft of trade secrets, conspiracy wire fraud, and obstruction of justice
+, as well as for
+bank fraud and conspiracy to commit bank fraud, wire fraud and conspiracy to commit wire fraud, conspiracy to commit money laundering, and violations of the International Emergency Economic Powers Act (IEEPA) in illegally assisting Iran with sanctions evasion
+.
+Dr. Ford also discussed Chinese laws that require Chinese entities (both private companies and state-owned enterprises) to cooperate with the government and intelligence agencies when compelled, something my AEI colleague Claude Barfield has written about
+several
+times
+.
+The Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency 2019
+assessment
+of 5G networks highlights apprehension over supply chain vulnerabilities and network security concerns that accompany the introduction of network hardware manufactured by non-trusted entities. The report states that “even if the U.S. network were completely secure, data traveling overseas may pass through untrusted telecommunication networks and potentially be vulnerable to interception, manipulation, disruption, or destruction.”
+A National Security Telecommunications Advisory Committee report from September 2019
+notes
+the importance of a safe internet for the economy, saying that “trusted and untrusted technology, as well as people, are all interconnected as society becomes increasingly dependent on communications networks for daily activities.”
+Given the concerns raised by the intelligence community, Congress, government agencies, and the US telecommunications industry, it’s logical that the FCC consider US national security as it oversees the spending of USF funds. In 2018, Chairman Pai and Sen. Tom Cotton (R-AR) noted in a joint
+op-ed
+that:
+Given the national security risks, we believe it’s time for more concerted federal action. Among other things, that means making sure that our government doesn’t make the problem worse by spending the American people’s money on products and services from any company that poses a national security threat to our communications networks.
+The FCC should be commended for taking action to help secure US communications networks, a goal that all government should be working to achieve.

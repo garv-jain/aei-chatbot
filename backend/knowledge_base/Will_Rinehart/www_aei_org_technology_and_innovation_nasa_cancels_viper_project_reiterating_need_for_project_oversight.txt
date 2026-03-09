@@ -1,0 +1,57 @@
+PAGE_TITLE: 
+	NASA Cancels the VIPER Project, Reiterating the Need for Project Oversight | American Enterprise Institute - AEI
+
+By early 2024, NASA had made significant progress on its ambitious lunar exploration project, the Volatiles Investigating Polar Exploration Rover (VIPER). NASA had unveiled VIPER in 2019 as a solution to a costly space exploration
+challenge
+: the expense of launching heavy materials, particularly water, into space. But on July 17th of this year, following a comprehensive internal review, NASA
+abruptly announced
+the project’s cancellation.
+Within two weeks, NASA
+also terminated
+the Chandra X-Ray Observatory program. These program cuts are symptomatic of NASA’s broader pattern of budgetary challenges and planning issues as it faces a billion-dollar shortfall in science funding.
+VIPER was tasked with an exceptionally challenge: to explore the lunar south pole—a
+perpetually dark
+region of the moon, with unstable terrain and temperatures that fluctuate 500 degrees Fahrenheit—to find ice and hydrogen deposits, and to create a map of the lunar surface. Partially repurposed from the Resource Prospector rover, which was scrapped in 2018, VIPER was intended as a platform for a drill and three instruments that would determine if water and other materials were present.
+Via NASA
+VIPER was part of a new program for NASA, the
+Commercial Lunar Payload Services
+(CLPS) initiative. In CLPS, commercial companies construct robotic lunar landers and secure launch services to transport payloads. NASA’s role is limited to supplying payloads, like VIPER, and then buying the delivery services. Importantly, VIPER was to be the
+largest and heaviest
+payload delivered by a commercial partner. NASA
+selected
+Astrobotic to deliver VIPER to the moon’s surface via its lunar lander Griffin, expecting it to be more cost-effective than a NASA-built lander.
+VIPER
+was announced
+in 2019 at a cost of $250 million, which meant it was designated a major project, requiring congressional oversight. Once the project reached the
+final design and fabrication stage
+, the project’s formal cost commitment was set at $433.5 million. In 2023,
+costs rose
+to $505.4 million. All the while, launch dates kept being pushed back from 2023 to 2024 and finally to 2025. By the time of its cancellation, total project costs were
+estimated
+at around $609.6 million.
+NASA has been tight-lipped about what happened, an all-too-common tendency of the agency. The best information comes from NASA’s inspector general (IG), including an April 2022
+report
+about VIPER and a June 2024
+report
+about CLPS.
+These reports show that VIPER was just too big a project for CLPS. The CLPS program was designed to support the Artemis moon mission through incremental progress, focusing on quickly demonstrating success for small payloads of 10-15 kilograms. VIPER, at approximately 500 kilograms, was a massive leap in payload size. This necessitated considerable design changes, adding costs and risks to the project. Since VIPER was also a major project, NASA added more testing, again raising costs. In comparison, the tally for the other 52 payloads in CLPS
+is $245.5 million
+.
+On top of this, NASA selected a lander before finalizing VIPER’s design. In October 2021, VIPER’s critical design review identified
+several issues
+that necessitated modifications to the Astrobotic CLPS task order, increasing costs further.
+Most importantly, CLPS was a new approach from NASA, which meant the risk of the lunar lander being delayed was bigger. NASA failed to incorporate these risks in the 2021 cost estimate of $433.5 million, which, as the IG report
+explained
+, “included development of the rover, science instruments, lunar operations, and applicable cost reserves but not costs for Astrobotic’s launch and delivery services.”
+By July 2022
+, delays in the lander development had “caused a mission delay of a year and an additional $64 million in VIPER development costs, as well as adding $67.8 million to the cost of the CLPS task order.”
+Because lunar landers are a new market, there have been supply constraints and technological development challenges. Astrobotic’s Peregrine Lander, which shares multiple systems with Griffin,
+failed its test
+, raising concerns about Griffin’s reliability and pushing NASA to require more assurances. The IG estimates that these NASA-led changes added
+at least $171.4 million
+to the final bill.
+In the end, NASA worried that VIPER’s additional costs
+would threaten
+“cancellation or disruption to other CLPS missions” and so VIPER was shelved. But all is not lost. The agency has solicited proposals from private firms, so it might still launch. Astrobotic will still fly the delayed Griffin mission even though VIPER was canceled. And NASA is pursuing alternative methods to accomplish many of VIPER’s goals, including the launch of the
+Polar Resources Ice Mining Experiment-1 (PRIME-1)
+later this year. Still, VIPER is emblematic of NASA’s struggles with cost overruns and schedule delays. The future of US space leadership depends on overcoming these persistent obstacles.

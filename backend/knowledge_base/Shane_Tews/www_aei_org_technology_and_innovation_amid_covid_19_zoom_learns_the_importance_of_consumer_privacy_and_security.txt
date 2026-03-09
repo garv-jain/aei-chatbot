@@ -1,0 +1,60 @@
+PAGE_TITLE: 
+	Amid COVID-19, Zoom Learns the Importance of Consumer Privacy and Security | American Enterprise Institute - AEI
+
+The COVID-19 pandemic has caused a surge in the popularity of videoconferencing app Zoom, with daily users of the service increasing to more than
+200 million in March
+, up from 10 million in December. Zoom has
+become
+“the most popular Apple download and second most popular Android download in the world.” The UK government has even used Zoom for
+cabinet video conferences
+.
+A student takes classes online using the Zoom APP at home in Spain April 2, 2020 – via REUTERS
+But internet trolls are exploiting the app’s ease of use by “
+Zoombombing
+” — “disrupting Zoom meetings uninvited and sharing shocking or even pornographic content.” The company is also facing a class-action
+lawsuit
+claiming Zoom improperly shared user data from its iOS app with Facebook. Zoom’s CEO has
+apologized
+for having “fallen short” on privacy and security, and the company has paused updating the app’s features to focus on privacy and security. Just like that, digital privacy concerns and issues surrounding the use of consumer data are back in the headlines.
+Who is collecting and using consumer data — and how data are protected
+— is a hotly debated topic. However, data protection is often conflated with
+“privacy rights.” The passage of the EU’s General Data Protection Regulation
+(GDPR) and the California Consumer Privacy Act (CCPA) have created definitions
+around the collection of consumer data and raised awareness in the media and
+among consumers about data collected by digital services and apps.
+I have been a strong proponent of transparency and accountability in privacy policies to help consumers make educated choices. Businesses should disclose and demonstrate that they are adhering to their privacy rules. In Zoom’s April 1
+letter
+announcing its feature freeze to focus on security and privacy, the company also said it is preparing a transparency report “that details information related to requests for data, records, or content.” Furthermore, the company’s chief legal officer published a blog
+post clarifying its privacy policies
+, stating that Zoom does not sell its users’ data, has never sold user data in the past and has no intention of selling users’ data going forward, and does not monitor its customers’ meetings.
+This is a good example to use to unbraid a few key phrases from the
+privacy policy world. While Zoom says that it doesn’t monitor customer meetings
+or their contents, the meeting organizer can obviously do that. Many Zoom
+meetings are recorded by their conveners for viewing at a later date. Zoom
+notes that it’s the host’s choice to record a meeting, and participants can
+choose not to participate.
+Zoom also does participate in third-party app sharing. They note that this simplifies workflows with other vendors on the Zoom web portal, and it’s stated in their
+cookie
+preferences. While the “Login with Facebook” feature on Zoom’s iOS client initially used Facebook’s Software Development Kit (SDK) — which collected device information on users — Zoom has
+reconfigured
+the feature to remove the SDK. In the past year, Facebook has allowed users to manage which third-party apps have access to their data. Amazon and Google have also aggressively policed third-party apps that violate their privacy rules after the passage of GDPR and CCPA.
+Consumers should
+assume
+that companies they interact with online are collecting information to connect with them. Companies track customers to more accurately respond to customer preferences and improve the designs of their products and websites. However, consumers are now increasingly aware and savvy about the use of their data, so companies must balance the importance of their customer relationships, as Zoom recently did, with the return it can get from selling customer data to third-parties.
+Consumer information is often exchanged between two business
+entities through a selling or a leasing agreement. The CCPA specifically defines
+a “sale” of data as an exchange that directly results in a financial
+transaction or a similar valuable consideration that is a monetary equivalent. But
+the legal language can get murky, because this means that cross-context
+behavioral advertising that is done when two apps share consumer information may
+not constitute a “sale” but rather a “transfer” of personal information.
+Clear language is the key to consumer trust. If information
+exchange is designed to enhance the performance of a service, the company
+collecting the data should be clear about its intent in its privacy policy. If
+the company later sees value in sharing its customer data with another company
+or in selling the data outright to a third-party vendor, then its privacy
+policy needs to be updated and consumers should be given an option to re-verify
+their consent with the change in policy.
+Zoom is helping us stay connected while social distancing during the COVID-19 pandemic. It’s good news that the company is being responsive to the market’s security concerns. As I’ve noted
+previously
+, security on the internet requires planning and awareness. Hopefully, companies that value data protection and security get recognition from consumers over those that don’t.

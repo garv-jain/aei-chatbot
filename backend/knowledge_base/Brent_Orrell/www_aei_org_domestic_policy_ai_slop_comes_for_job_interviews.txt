@@ -1,0 +1,16 @@
+PAGE_TITLE: 
+	AI “Slop” Comes for Job Interviews | American Enterprise Institute - AEI
+
+We have all gotten used to the idea that generative AI can help bad writers become better (or at least appear to be better) than they are when left to their own skills. This has resulted in some challenges for hiring managers struggling to cope with the tsunami of applications and cover letters that make candidates appear stronger than they really are. Now, AI is making itself felt in job interviews.
+New tools, including
+this one
+, are on the market to help interviewees perform better in remote interview settings. The basic idea is that the AI is listening to the conversation and proposing responses to the questions being asked. I recently had an informational interview with a well-educated jobseeker. The conversation was stilted—one of the key signs that an AI interview tool may be in use. Awkward pauses in answering questions as well as repetitive, not-very-interesting responses and follow-up questions ensued. AI can be a huge help in preparing for job interviews but it can’t (yet) plausibly substitute for the applicant’s own research and preparation and may lead to professional disasters.
+These disasters have been particularly noticeable in the
+IT sector
+. Unemployed “front-end” coders are trying to wedge themselves into more senior “back-end” management and leadership positions for which they lack qualifications and experience. They use AI to spoof coding tests and to answer technical questions in interviews. “Fake it till you make it” is fine until workers are completely over their heads. The end result is often the discovery of the personal misrepresentation and a humiliating dismissal. The problem has become severe enough that companies are reverting to in-person interviews which adds significantly to hiring costs.
+AI holds tremendous potential as a teacher and skill repository. It may, one day, completely rewire our educational systems and democratize knowledge and ability. At the moment, however, some job candidates are using it to try to get positions for which they are fundamentally unqualified. What worked for Harold Hill in the
+Music Man
+will not yield the same results in a world that requires attention, preparation, and effort as ingredients for success.
+What happens in tech rarely stays there. Until HR systems are hardened against AI abuse, we can expect this problem to proliferate across the economy. For now,
+caveat emptor
+is the best and only defense against AI fakery in hiring.

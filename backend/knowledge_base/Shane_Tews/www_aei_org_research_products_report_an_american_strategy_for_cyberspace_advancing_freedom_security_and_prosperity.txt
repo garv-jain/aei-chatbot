@@ -1,0 +1,65 @@
+PAGE_TITLE: 
+	An American Strategy for Cyberspace: Advancing Freedom, Security, and Prosperity | American Enterprise Institute - AEI
+
+Editor’s note:
+The next president is in for a rough welcome to the Oval Office given the list of immediate crises and slow-burning policy challenges, both foreign and domestic. What should Washington do? Why should the average American care? We’ve set out to clearly define US strategic interests and provide actionable policy solutions to help the new administration build a 2017 agenda that strengthens American leadership abroad while bolstering prosperity at home.
+What to Do: Policy Recommendations for 2017
+is an ongoing project from AEI.
+Click here for access
+to the complete series, which addresses a wide range of issues from rebuilding America’s military to higher education reform to helping people find work.
+Key Points
+The Internet is an American success story, generating tremendous benefits at home and globally, and helping to advance American values of freedom, security, and prosperity.
+It has also created challenges, among them its use by authoritarian states to repress political freedoms, by criminals to steal property and commit extortion, and by America’s adversaries and potential adversaries to use malicious code and cyber-warfare to threaten our economic and national security.
+The US needs a coherent and comprehensive strategy to address these and other challenges in order to defend and promote America’s national interests in an increasingly digital world.
+This report is premised on the belief that, while our present policies are well intended, they have not been sufficiently effective in achieving our key national objectives.
+This report puts forward the beginnings of such a strategy in the areas of Internet freedom and human rights, international trade and digital commerce, cybercrime and law enforcement, and critical infrastructure and cyber defense.
+Read the PDF.
+Executive Summary
+Success in cyberspace is essential to advancing America’s national interests. Digital technologies determine how many of the processes that define modern societies operate, from communications to finance, electricity to transportation, espionage to national defense. The ability to control how these technologies are used in the present—and to influence the course of their development in the future—is a vital element of national power. This report puts forward a comprehensive strategy for ensuring that the Internet continues to promote America’s national interests by advancing its ideals—freedom, security, and prosperity.
+The report begins from a recognition that, while the US invented and pioneered the Internet, today’s cyberspace is truly global. Fewer than 1 out of 10 of the world’s three billion Internet users live in the US, while nearly a quarter live in China. The global nature of cyberspace means that America cannot isolate itself from the global Internet nor expect to dictate unilaterally the policies and practices that govern its use and future development. However, it can and must use its influence and power to ensure the Internet remains a force for good in the world. To be successful, it needs to a comprehensive strategy.
+The task of devising such a strategy is complicated by the all-encompassing nature of cyberspace, which permeates every element of modern societies. This report deals with this challenge by focusing on four broad sets of policy objectives: (1) Internet freedom and human rights, (2) international trade and digital commerce, (3) cybercrime and law enforcement, and (4) critical infrastructure and cyber defense.
+We begin by assessing the state of affairs in each area, and our findings are not encouraging. For example:
+Online freedom, as measured by Freedom House, has declined for five years running. More than half of the world’s online population now lives in countries that significantly constrain online freedom; more than a third live in authoritarian states such as China, Iran, and Russia, where Internet technologies increasingly are used as a tool of oppression and control.
+Digital commerce is threatened by the failure to agree on and enforce international norms for intellectual property, digital trade, and international data flows. Chinese digital mercantilism—including the theft of intellectual property and aggressive discrimination against US firms—seems aimed at creating a separate, and very large, Internet ecosystem.
+Cybercrime and malicious conduct continues to rise as cyber criminals devise new technologies and techniques (e.g., “ransomware”); the overall costs are projected to reach $2 trillion by 2019. Efforts to reduce cybercrime are hampered by the global nature of cyberspace and the absence of adequate mechanisms and institutions for global cooperation by law enforcement.
+America’s critical infrastructure is currently vulnerable to potentially devastating attacks by both nation-state and nonstate actors. Indeed, cyberattacks have already been used to severely harm major companies, such as Aramco and Sony, and critical infrastructure and communications in Estonia, Ukraine, and elsewhere. The US agencies charged with defending critical infrastructure do not have sufficient capacity to do so, and the agencies that have the capacity do not have the authority.
+To address these challenges, the report puts forward a strategic plan grounded in the realities of cyberspace itself, including the rapid pace of change; the importance of economies of scale and scope; the extent to which it is integrated into modern economies, cultures, and political structures; and its inherently global nature. Like our analysis, our recommendations are organized into four areas:
+Internet Freedom and Human Rights
+. Acknowledge the real and immediate threat that authoritarian states’ use of cyber technologies poses to human freedom. Take strong and effective actions to promote the values of liberal democracy in cyberspace.
+Use all elements of US diplomatic and economic policy to discourage autocratic states from censorship and oppression.
+Significantly expand US social media and other digital communication efforts to effectively communicate and promote fundamental online freedoms.
+Formalize, expand, and strengthen the Freedom Online Coalition.
+Promote increased Internet access through market-oriented policies.
+Strengthen civil-society groups’ role in studying and promoting online freedom.
+Expand, intensify, and support both public and private participation in international forums where Internet policies are set.
+Vigorously promote and defend the multistakeholder model of Internet governance
+.
+International Trade and Digital Commerce.
+Recognize that America’s commercial success in the Internet ecosystem has been a source of tremendous strategic advantage and that preserving a level playing field for digital trade—one that fosters competition—is a vital American national interest.
+Develop and execute a comprehensive, “full-court press” strategy designed to change China’s conduct regarding digital trade and IP theft.
+Take effective concrete actions against cyber theft.
+Make clear that the US would retaliate against overly aggressive implementation of the Chinese National Security Law.
+Prosecute Chinese censorship through the WTO.
+Aggressively seek to negotiate a multilateral agreement (i.e., the TTIP) with the European Union that embodies the principles of the TPP and resolves current sources of friction, including data shield and the right to be forgotten.
+Incorporate protections against state participation in cyber theft in multilateral agreements.
+Promote reduced regulation of Internet firms and of the Internet.
+Continue developing and aggressively promoting a digital-trade policy.
+Do not require US firms to create backdoors in encrypted software and communications.
+Strengthen digital-trade priorities in multilateral trade agreements.
+Ensure that export controls under US law and under the multilateral Wassenaar Arrangement do not unnecessarily place US companies at a competitive disadvantage.
+Cybercrime and Law Enforcement
+. Create the private incentives and public capabilities needed to effectively fight cybercrime and commercial hacking, including the capacity to engage in enforcement actions throughout cyberspace—that is, globally.
+Ensure that the private sector has the right incentives to protect itself.
+Empower the private sector to more effectively defend itself.
+More actively use government capabilities to defend the private sector.
+Strengthen international law enforcement cooperation against cybercrime.
+Create an enduring framework for public-private partnership.
+Critical Infrastructure and Cyber Defense.
+Embrace the concept of cyber as a new domain for the projection of power and put in place the doctrines, capabilities, and resources necessary to protect our military, governmental, and critical civilian infrastructure assets.
+Develop and implement a coherent doctrine on the use of military force to deter, preempt, prevent, and retaliate against malicious activity by sovereign and non-sovereign actors.
+Deploy existing US cyber-defense capabilities to proactively defend civilian government agencies and critical infrastructure. Consider creating a Federal Cybersecurity Service to engage in real-time defensive operations.
+Increase the capacity and give greater priority to US intelligence agencies’ efforts to gather actionable tactical and strategic intelligence on cyber threats to government and crucial private assets.
+Strengthen existing institutions and norms—and where necessary develop new institutions—to empower law-abiding governments to act against cyber threats.
+Prioritize maintaining the preeminent position of American and Western companies in the Internet ecosystem.
+While we believe the challenges facing America in cyberspace are significant and demand a far more proactive and strategic response than is embodied in current policies, we are also optimistic about the future of digital technologies and their potential to improve the human condition. The challenge is to ensure that the digital revolution continues to develop in a way that respects and promotes American—and universal—ideals of human liberty and human rights.
+Read the full report.

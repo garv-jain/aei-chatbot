@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	The AI Paradox: High Adoption, Hype, and Lingering Productivity Questions | American Enterprise Institute - AEI
+
+In the past year and a half, AI technologies, particularly generative AI models like ChatGPT, have taken the world by storm. A recent McKinsey Global Institute
+survey
+reveals that 65 percent of respondents report their organizations are regularly using generative AI, nearly double the percentage from just ten months ago. AI adoption overall—which includes all forms of AI—jumped to 72 percent in 2024, up from 55 percent last year.
+This surge in adoption is seen across industries and regions, most commonly in marketing and sales, product/service development, and IT. According to the survey, companies are using AI in more parts of their business, with half of the respondents indicating their organizations have adopted AI in two or more business functions, up from less than a third in 2023.
+Respondent expectations for gen AI’s impact in particular remain as high as they were last year, with three-quarters predicting that gen AI will lead to significant or disruptive change in their industries. In deploying generative AI capabilities, about half of organizations are primarily using off-the-shelf models with little customization. Others are customizing models or developing their own proprietary ones, especially in industries like energy, technology, and media.
+McKinsey’s survey also sheds light on the concrete benefits organizations are seeing from AI adoption. Respondents report both reduced costs and higher revenues in the business units deploying generative AI technology concentrated in human resources and supply chain and inventory management. For other kinds of AI, businesses most often report savings in service operations and revenue increases in marketing and sales. These benefits may be one reason why 67 percent of respondents expect their organizations to invest more in AI over the next three years.
+These findings contrast somewhat with recent
+reporting
+in the
+Wall Street Journal
+that AI adoption has slowed and that there’s a gap between workers using AI to boost productivity and those using it intermittently. Even if McKinsey is more correct about adoption rates and early productivity gains, however, questions about AI’s broader impact on productivity remain. In a recent
+paper
+, economist Daron Acemoglu suggests that even with optimistic assumptions, the total factor productivity gains from AI over the next decade will be modest, ranging from 0.55 to 0.71 percent. Stanford professor Erik Brynjolfsson and others
+believe
+otherwise
+, saying that the compounding effects of AI-induced productivity growth is likely to yield much greater returns.
+Acemoglu’s underwhelming projection accords with some recent skepticism about AI’s potential. AI experts such as Gary Marcus have suggested that LLMs may
+plateau
+due to inherent limitations in the technology. Google’s recent struggles to iron out the kinks in its “AI Overviews” have lent some support to these skeptics. These perspectives force us to consider whether the current AI hype is justified.
+One reason for the disconnect between AI adoption and productivity gains may lie in the nature of the tasks AI is currently capable of performing. According to Acemoglu, AI will likely achieve significant productivity gains in tasks with straightforward, low-dimensional mappings between actions and outcomes, and clear metrics for success, such as boiling an egg or writing simple code. These “easy” tasks allow AI to perform at or above human expert levels at lower costs. In contrast, “hard” tasks, like diagnosing a persistent cough, involve complex, context-dependent actions with unclear success metrics, limiting AI’s productivity improvements and keeping its performance closer to the average human level. Gains in these latter tasks, Acemoglu suggests, will be slower and more challenging, tempering expectations for AI’s broader economic impact.
+It’s still early. The evolution of AI is perplexingly fast and unpredictable. Ask the engineers at
+Google
+; they will be happy to explain. As businesses continue to invest in AI, overcome barriers to adoption, and discover new use cases, AI-driven productivity gains may yet be realized.

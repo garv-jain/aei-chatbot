@@ -1,0 +1,40 @@
+PAGE_TITLE: 
+	Reasonable Panic | American Enterprise Institute - AEI
+
+Uber co-founder Travis Kalanick is quietly
+launching the next wave of food automation
+through his new venture,
+CloudKitchens
+. He recently revealed a 60-square-foot machine that assembles 300 custom bowls per hour, cutting labor costs by as much as 60 percent. The system handles everything from ingredient dispensing to delivery handoff.
+And this is just the beginning. Kalanick envisions pairing robotic kitchens with self-driving cars and automating the preparation of ingredients, not just their assembly. He predicts that robot-made and delivered meals will someday become
+cheaper than groceries
+.
+For food service workers who just read that paragraph, panic might not be an unreasonable reaction. But we need to keep the panic within reason. Reasonable panic looks like worrying less and preparing more to adapt to AI technology.
+Viewing AI as your enemy only makes sense if you believe automation is a zero-sum game where machines (and the employers who deploy them) win and workers lose. Economists call this the
+“lump of labor” fallacy
+: the belief that there’s a fixed amount of work to go around. This isn’t how automation has historically worked. Technology induced productivity rises tend to expand economic activity, creating demand for new goods, services, and employment opportunities in jobs and industries that don’t yet exist. Applying this pattern to the AI future and combining it with factors like an
+aging population
+and
+persistent labor shortages
+, makes broad-scale unemployment seem even less likely.
+So what should we do? Again: approach the future with curiosity rather than paralyzing feelings of doom.
+Start by asking:
+How is AI affecting my industry? What are the trends and projections in my field? How can I improve my AI literacy so I don’t get left behind?
+A
+PwC report
+from last month found that AI-exposed sectors saw a 38 percent growth in job availability—and AI-skilled workers earned a 56 percent wage premium. AI is good for workers who can and want to work with it.
+Even food service workers have reason to be optimistic.
+Restaurants are already using AI-powered training tools
+to dramatically accelerate training, helping low-skill workers to move up the ladder. AI might reshape or even eliminate your current job, but it could also make you a better candidate for your next one.
+Still not sure how to get started? Ask an AI.
+Grok mishaps
+notwithstanding, AIs are programmed to serve. They never get tired or grouchy and they will gladly advise you on any topic. AI is a kind of “meta-counselor” in the sense that it engages users even about itself.
+Beyond individual adaptation, American society must be prepared to support dislocated workers too. While it’s unclear if or when AI might lead to mass displacement, it’s not too early to think through policy options for providing transition support. India is ahead of the curve, offering
+free online AI courses
+to 1.3 million government workers and launching
+soft-skills training for its police force
+.
+Here in the US, we could take a small step forward with some kind of national commission made up of workers, employers, economists, workforce development specialists and technologists to weigh potential policy options for expanded
+job transition support
+. Historically, the US has spent relatively little on such programs, and in the case of automation in the manufacturing sector, has suffered the consequences. New AI adjustment programs aren’t called for at the moment but scenario planning is. This might take the form of a commission report offering policy responses tailored to low, medium, and high AI impact to build consensus for action if it becomes necessary.
+The future of AI should inspire optimism, but not complacency, adaptation, not enmity. Panicking productively requires us to overcome our fight or flight response, and build a reasonable plan for dealing with an uncertain future.

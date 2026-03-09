@@ -1,0 +1,67 @@
+PAGE_TITLE: 
+	How the Supreme Court’s Increasing Focus on the Past May Impact Technology Regulation, Part II | American Enterprise Institute - AEI
+
+The first
+post
+in this series described the Supreme Court’s increasing use of text, history, and tradition when evaluating constitutional questions. It explained that there’s reason to believe this methodology may affect First Amendment speech cases like
+NetChoice v. Moody
+, which involves Florida statutes dictating the form and substance of the content large social media platforms can host. This post examines­––from a worst-case perspective for private businesses––how the Court’s analysis might unfold in such a case.
+But first, a quick recap from the initial post. The text, history, and tradition test, as articulated in the Court’s 2022
+Second Amendment
+decision in
+New York State Rifle & Pistol Association v. Bruen
+, initially asks whether an amendment’s “plain text covers an individual’s conduct.” If it does, then the conduct is presumptively protected. In turn, a government regulation imposed on it is constitutional only if it “is consistent with the Nation’s historical tradition” of regulating the right in question. Means-end review––evaluating the strength of the government’s interest (is it substantial or compelling?) in regulating conduct and how carefully drafted a law is in serving that interest––is completely irrelevant, as described in the first post.
+Photo by Mike Renlund
+So, how might a text-and-history analysis go in
+NetChoice v. Moody
+? The case pivots on several Florida statutes
+targeting
+large social media platforms––those with “gross revenues in excess of $100 million” or “at least 100 million monthly” users. The statutes: 1) compel them to host users and content they otherwise would not, and 2) dictate how they must moderate and display content. For instance, one
+statute
+bars deplatforming
+legally qualified candidates
+running for public office in Florida, regardless of whether they repeatedly violate a platform’s terms of service regarding acceptable content. Another
+statute
+prohibits platforms from prioritizing posts––choosing where and in what order posts by or about candidates are displayed in users’ feeds and search results. Platforms also cannot limit users’ exposure to posts (so-called
+shadow banning
+).
+The
+US Court of Appeals for the 11th Circuit
+in May 2022 used a traditional means-end analysis (
+not
+text, history, and tradition) to analyze the constitutionality of these measures. It
+concluded
+there was substantial likelihood they violated the platforms’ First Amendment right to exercise––as private entities––their own editorial control and judgment when making content-moderation decisions. It reasoned that Florida’s content-moderation statutes likely wouldn’t pass
+intermediate scrutiny
+(let alone the more rigorous means-end test,
+strict scrutiny
+) because they did not further any substantial government interest. The 11th Circuit thus affirmed a trial court’s injunction blocking their enforcement, delivering a victory to private, speech-based enterprises over government intrusion. That teed up the case for possible review by the Supreme Court.
+Unfortunately, things may not go so smoothly for the platforms if the Supreme Court embraces a text, history, and tradition analysis. Here’s why in a worst-outcome scenario for the platforms. First, the Court might conclude that the First Amendment’s “plain text” says nothing about making content-moderation decisions. It states only that “Congress shall make no law . . . abridging the freedom of speech.” In short, a narrow textualist reading of “speech” might hold that it safeguards only the right to speak for oneself,
+not
+the right to make decisions about others’ speech or, as Justice Clarence Thomas
+wrote
+in 2021, “the right to cut off speech.” That interpretation would end protection for the platforms under the
+Speech Clause
+.
+Unfortunately, this logic tracks part of the
+5th Circuit’s
+analysis in the other NetChoice case––
+NetChoice v. Paxton
+. The 5th Circuit selectively used text and history to uphold Texas’ statutes imposing similar content-moderation restrictions on large platforms. Specifically, the court lambasted the platforms for relying on “a corporation’s
+unenumerated
+right to
+muzzle
+speech.” (Emphasis in original.) Unenumerated, of course, means implicit, rather than explicit in the “plain text.”
+Second, the Supreme Court might eliminate the relevance of the First Amendment’s
+Press Clause
+(not just the Speech Clause), either because social media platforms are not traditional printing presses or because they don’t primarily function like the press (news organizations) in playing a
+watchdog role
+on the government, but instead simply host others’ content.
+Third, if the platforms rely on the First Amendment
+right-not-to-speak
+––a right not to be compelled by Florida to host the speech of candidates who violate their terms of use––this too is an unenumerated right the Court
+recognizes
+but is not found in the First Amendment’s plain text. As I
+wrote
+elsewhere, “a text-first approach might require the Court to overrule cases that recognize rights that are not expressly covered by the First Amendment’s text.”
+In sum, the road through text, history, and tradition may prove rough for private businesses.

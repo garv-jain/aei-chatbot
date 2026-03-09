@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	Judge McFadden’s First Amendment Ruling Against the White House: Infusing Modern Speech Doctrines with History and Tradition | American Enterprise Institute - AEI
+
+I recently
+addressed
+today’s debate over the Press Clause’s meaning 234 years after the First Amendment’s ratification. The rift involves whether the clause is “a technology-specific provision” that safeguards “everyone’s right to use a particular type of mass communication technology and its modern analogs,” or whether it protects the press as an institution that receives special protection against government censorship when journalists are “gathering newsworthy information for the public consumption or exposing government abuses of power.”
+I pondered how this might affect the Associated Press’s (AP’s)
+lawsuit
+against multiple White House officials seeking an order restoring “the AP’s access to the Oval Office, Air Force One, and other limited spaces when such spaces are made open to other White House press pool members.” The Trump administration revoked the AP’s longstanding access to those spaces and ones like the East Room because the AP chose to use “Gulf of Mexico” in its articles and influential
+AP Stylebook
+after President Trump
+renamed
+the water body the “Gulf of America.” Would the Press Clause provide special aid to AP journalists because they act as proxies for citizens who can’t be physically present in small venues where newsworthy political topics are discussed?
+Via Shutterstock.
+On April 8, Judge Trevor McFadden in
+Associated Press v. Budowich
+ruled in the AP’s favor. He granted a preliminary injunction banning the government from excluding AP journalists––due to the AP’s editorial decision about what to call the Gulf of Mexico––from areas the Trump administration makes open to other journalists. McFadden reasoned:
+that under the First Amendment, if the Government opens its doors to some journalists—be it to the Oval Office, the East Room, or elsewhere—it cannot then shut those doors to other journalists because of their viewpoints. The Constitution requires no less.
+McFadden also
+deemed
+the AP likely to win its retaliation claim––that the White House unconstitutionally punished it, via press-pool and limited-space access denials, for exercising its First Amendment editorial right to use the Gulf of Mexico designation.
+Did the Press Clause influence these pro-AP rulings? Yes, but only indirectly and implicitly. McFadden never invoked the term “Press Clause,” instead relying on a more general First Amendment “forum analysis [that] controls the extent to which the government may restrict access to public property for First Amendment activities.” He
+wrote
+that under a forum analysis, “the public and the press enjoy coextensive access.” In short, the Press Clause does
+not
+give special forum rights to journalists beyond those held by everyone under the First Amendment.
+The AP nonetheless prevailed under the forum analysis, with McFadden reasoning that when the government opens a nonpublic forum like the Oval Office for some groups (here, press-pool journalists), access restrictions to that venue “must be reasonable and not viewpoint based.” The White House violated that rule’s latter part by restricting the AP’s access due to its viewpoint about how to identify the Gulf of Mexico.
+Although not mentioning the Press Clause by name, McFadden devoted a significant part of
+his opinion
+––a part
+before
+his detailed forum and retaliation analyses––to First Amendment history, including conceptions of the amendment “at the founding” and “in the early centuries.” McFadden’s history-and-tradition observations may have implicitly influenced his modern-day forum and retaliation examinations by instilling in his mind the historically important tradition of protecting the press from government censorship like the kind meted out against the AP.
+Citing multiple sources, McFadden stressed that “the free press” was originally seen as a bulwark against tyrants and oppressors, and that this “precious right was ultimately protected in parchment.” He contended that “immediate and forceful backlashes to attacks on the press underscore how Americans understood the First Amendment in the early centuries.” McFadden asserted that “[t]he founding generation likely saw more pronounced distinctions between the freedom of speech and the freedom of the press than modern doctrine allows.” The Press Clause thus may indeed provide special rights to the institutional press beyond those found in what McFadden called the “contemporary speech doctrine” and “[m]odern First Amendment caselaw” that he deemed “binding.”
+Deeper in his
+decision
+, McFadden determined that:
+The AP provided abundant evidence that its
+First Amendment right to gather and quickly disseminate news
+about the President has been severely hampered by—and continues to be hampered by—the ban on press-pool admission and the highly circumscribed access to limited-access events. (Emphasis added).
+Ultimately, while McFadden deployed modern “speech” doctrines about government-owned forums and retaliation claims as analytical frameworks, he was explicit that “[h]istory and tradition guide[d] the Court’s understanding of the First Amendment.” That understanding importantly suggests the Press Clause protects an institutional, journalistic right to gather and swiftly convey news––not just a right to use a technology. An appellate court today will
+consider
+the White House’s bid to delay enforcement of McFadden’s order.

@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	More Than Networks, America Needs Better Cybersecurity | American Enterprise Institute - AEI
+
+Foreign actors are waging a digital war on the backbone of the U.S. economy. The
+SolarWinds cyberattack
+, perpetrated by Russian hackers and undiscovered until nine months after it occurred, was a digital intrusion that had no precedent in our nation’s history. The hackers wormed their way into key federal agencies including the departments of State, Energy, Defense, Treasury and Justice.
+The federal government was far from the only victim of SolarWinds. In Arizona, Ohio, California and Texas, the hackers targeted everything from state hospitals to prominent universities. The intruders were inside these computer systems for months — and we didn’t know the scale of the damage until long after the intrusion. With a different backdrop, cyber espionage of this magnitude would merit around-the-clock coverage.
+But this attack was discovered amid social upheaval around a fraught presidential election and a raging pandemic. A computer breach of the nation’s most sensitive agencies in that crowded context took a backseat.
+Cyber threats are not aimed solely at large companies; smaller operations face danger, too. Recently,
+Brandon Wales,
+executive director of the Cybersecurity and Infrastructure Security Agency (CISA),
+voiced
+concern about potential vulnerabilities: “[Smaller communications entities] should not assume that they’re … not in the crosshairs of a more sophisticated nation state.” Wales noted that smaller companies could give malicious cyber actors a foothold in the nation’s larger critical service operations.
+An
+influx
+of federal funding for new broadband networks across the country is headed toward local governments, but this won’t significantly decrease the risk for community networks — municipalities are unlikely to spend the funds to prevent a modest community network from becoming a weak link that invites cybercrime.
+Local governments are good at many things, but asking them to understand how to keep local networks safe and protect connections to the nation’s internet infrastructure is a stretch. Cybersecurity plans deserve more scrutiny at every level — especially given the possibility of local weaknesses in our network fabrics via government-owned and -operated broadband networks that often lack the tools to detect cyber intrusions.
+Government-owned networks (GONs) were not a sound plan even before SolarWinds or the ransomware attacks that took down
+Colonial Pipeline and JBS Foods
+. For decades, municipal governments have
+tried and failed
+to build local broadband networks that provide community internet access. In
+nearly every case
+, the GONs failed to draw enough subscribers and taxpayers were left with a steep bill. The only winners were expensive broadband consultants who saw an opportunity to collect federal grant dollars for network buildout by persuading local leaders that their proposals would bring cheaper, faster internet. It’s hardly feasible for a municipality to build a local network; it’s even less likely they’ll spend the funds to maintain and secure it.
+GONs’ poor economic track record, along with the need for improved cyber awareness, should have convinced the Biden administration that spending billions of dollars on municipal broadband operations would create numerous weak points in our network backbone. SolarWinds proved that federal agencies, with their massively funded cybersecurity programs, are still challenged with the remit to protect themselves from digital breaches.
+What confidence can citizens have that a town, city or state, with a locally built and run internet network, isn’t equally or more vulnerable?
+Consider also how hackers
+fooled
+a top-tier Department of Homeland Security (DHS) system into believing their hacks were ordinary computer activity in 2015. What hope is there, then, for a GON in a city like Knoxville, Tenn., which
+already suffered
+a ransomware attack and whose entire
+budget
+is less than 0.9 percent of that of the DHS? And yet, egged on by the Biden administration and consultants, Knoxville is flirting with
+running its own
+broadband system. Estimates
+suggest the network
+will take seven years to build — hardly the faster, cheaper internet option citizens have been promised by their city officials.
+Commercial broadband providers, on the other hand, spend tens of billions of dollars annually to keep things running safely. They invest heavily in network security, pay hundreds of professionals to guard their network operations, and endlessly brainstorm ways to protect customers’ information.
+We should build on what the COVID-19 work-from-home period has taught us: that our networks work
+extraordinarily
+well
+. Rather than overbuilding duplicative networks in areas that already have good broadband coverage, the state should partner with the private sector to close coverage gaps and build secure networks that give new internet users safe access. There is almost no question that the size and nature of these cyber threats will continue to escalate. We need to strengthen our network defenses — not build new, defenseless networks.

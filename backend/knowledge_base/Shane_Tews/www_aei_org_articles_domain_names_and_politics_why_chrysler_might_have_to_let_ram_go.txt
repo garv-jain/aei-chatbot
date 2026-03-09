@@ -1,0 +1,13 @@
+PAGE_TITLE: 
+	Domain Names and Politics: Why Chrysler Might Have to Let .ram Go | American Enterprise Institute - AEI
+
+Today marks the beginning of
+the Year of the Ram
+in the Chinese Lunar calendar. ICANN met in Singapore this past week and had some issues of their own concerning a different ram: .ram. As part of the new Top Level Domain (TLD) program, Chrysler participated in the application process and paid a $185,000 application fee to use the new TLD .ram as a brand enhancement. The company was awarded the rights to the .ram domain name through the regular ICANN process.
+However, this was far from the end of the story, as the government of India voiced concerns that .ram may be an insult to their Hindu God Rama. The Indian government filed a procedural “early warning” concern, urging ICANN to disallow .ram from becoming a new TLD. Chrysler has since entered negotiations with the Indian government in an attempt to resolve the concern and has offered to change the TLD application to .ramtruck.
+Another example of governments inserting themselves heavily in the multi-stakeholder process is last week’s attempt by the Government Advisory Committee (GAC) to undo an ICANN board agreement on two country code TLD’s. These governments’ attempts to trump the regular decision-making process at ICANN clearly shows how national lawmakers are testing the boundaries of the bottom-up multi-stakeholder process of Internet governance.
+These recent examples highlight some of the upcoming policy issues concerning digital diplomacy and government control over the Internet. Chief among these issues is the proposed stewardship transition of the Internet Assigned Numbers Authority (IANA) function. The IANA function is simply the process by which new domain names are approved and added to the domain name system. For example, for .ram to be added to the current list of names like .com, .net, and .us, it must be approved via the IANA function. Until now, this task has been performed by the
+National Telecommunications & Information Administration
+, a part of the US Department of Commerce.
+The major concern with the IANA transfer is that we will see an individual government or a group of governments try to impose their will on the diverse group of Internet governance stakeholders, thereby making IANA a proxy-fight for government control of the network. Given examples like the two above, it is reasonable to expect that states may take this opportunity to push for an expansion of their authority.
+Getting this right is important. IANA is a technical function that needs to be free of political pressures. Transparency is, and will continue to be, key to ensuring that the Internet continues to be an unmatched force for economic and societal good.

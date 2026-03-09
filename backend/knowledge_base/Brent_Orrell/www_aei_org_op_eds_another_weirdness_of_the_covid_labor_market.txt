@@ -1,0 +1,36 @@
+PAGE_TITLE: 
+	Another Weirdness of the COVID Labor Market | American Enterprise Institute - AEI
+
+Our labor market feels like it is lit by lightning. Just when you think you have the narrative down about what’s happening and what it means, new data emerges that makes the picture look very different.
+A new
+study from the National Bureau of Economic Research
+finds that as of a couple months ago, the U.S. labor market was, for the most part,
+back
+to its pre-pandemic levels with two key exceptions: a lagging employment ratio (the number of people in the labor force divided by the number of working-age individuals) driven almost entirely by early retirements, and a slightly diminished number of low-skilled workers. As it turns out, these two things may be related.
+We all understand the basic story: When COVID-19 hit in February 2020, U.S. consumers shut down the economy. (Government edicts to close businesses actually
+followed
+public attitudes rather than leading them.) There was a rapid shift to telework and unprecedented furloughs and layoffs. According to the NBER study, 8 percent of the working-age population was out of a job and
+not
+looking for work by April 2020. Some relied on emergency,
+enhanced unemployment benefits
+while others continued to receive their wages through their employers under the
+Paycheck Protection Program
+. Without other options for controlling the spread of COVID-19, these measures made it possible for individuals and families to isolate while also keeping their refrigerators stocked until vaccines started arriving in early 2021.
+The early retirements problem came into view as pandemic unemployment “
+cleared
+” and the labor market returned to status quo ante. The 65-plus group accounts for
+between 50 percent and 100 percent
+of the decline in the population-to-employment ratio, amounting to .7 percent of the entire workforce, perhaps a million or so workers, and about half that number were among those who chose to hang up their cleats ahead of time.
+These early retirements are interacting with the overall market in some unique ways. In a normal recession, businesses tend to cut labor costs through automation. As the old jobs are eliminated, workers are “reallocated,” meaning they move into new occupations. The NBER study finds that the COVID-19 recession saw almost no reallocation except in low-skill leisure and hospitality occupations. In the meantime, the number of workers in professional occupations grew as a share of the labor market. This relative expansion of professional jobs was also accompanied by “downskilling” (i.e., the relaxation of educational and experience requirements reflected in help-wanted ads) as firms responded to the tight labor market by making it easier for less credentialed workers to qualify for openings further up the value chain.
+The combination of early labor market exits and downskilling seems to be something of a boon for unemployed, lower-wage, and lower-skill workers. The study’s authors find that “all groups, including the non-employed [were] significantly more likely to transition into professional occupations in the second COVID year than pre-COVID.” In other words, the post-shutdown labor market has created a kind of hydraulic effect: as older, more credentialed, more experienced workers departed the workforce, new opportunities opened up between job categories (e.g., low-skilled service to blue-collar to sales/administration to professional roles).
+The requirements for education and experience in a sample of job listings dropped markedly during the pandemic. (From Eliza Forsythe
+et al.
+, “
+Where Have All the Jobs Gone
+,” NBER Working Paper 30387, August 2022.)
+Tight labor markets drive wages up, but a labor market reshaped by pandemic illness is changing workforce demographics in other ways that favor lower-wage, lower-skilled workers. These conditions are forcing businesses to re-examine their human capital policies, strip away unnecessary credentialing requirements, and scour their
+entire workforce
+for “hidden” skills and abilities to the
+benefit
+of workers and employers.
+Our weird economy just keeps surprising. When someone tells you they can predict what’s next, don’t believe them.

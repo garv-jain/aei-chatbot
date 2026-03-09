@@ -1,0 +1,42 @@
+PAGE_TITLE: 
+	Securing Critical Infrastructure in the Age of AI | American Enterprise Institute - AEI
+
+The Trump administration’s
+America’s AI Action Plan
+—released in July—takes a significant step toward positioning artificial intelligence as both a national asset and a defense tool. One of its most
+notable provisions
+calls for the strategic use of AI to protect America’s critical infrastructure, from pipelines and power grids to financial systems and public services.
+As digital threats outpace traditional defenses, the White House emphasizes that AI should be a key component of the nation’s cyber resilience strategy. However, the plan also
+recognizes
+that AI can become a risk if not properly secured.
+Via Associated Press.
+The logic is straightforward and urgent. AI tools are becoming increasingly vital for monitoring, defending, and responding to cyber threats in real time—especially for infrastructure operators with limited staff or budget. The administration’s plan recommends that these operators use AI not just to automate threat detection, but to actively reduce system vulnerabilities, manage complex IT and OT (operational technology) environments, and respond swiftly to malicious activity.
+The Action Plan also
+notes
+that AI systems are vulnerable to attacks. From adversarial inputs and corrupted training data to backdoors in supply chains and opaque decision-making, AI technologies create new systemic vulnerabilities, some of which are still not well understood.
+This duality—AI as both solution and risk
+—
+calls for
+a more innovative and secure approach to design and implementation. To address this, the plan
+promotes
+the concept of “secure-by-design” AI systems, which are technologies built with embedded safeguards, resilience standards, and minimal attack surfaces. This principle is especially vital for safety-critical and homeland security applications, where AI failure or manipulation could result in public harm or national disruption.
+The Action Plan proposes refining the Department of Defense’s
+frameworks
+for Responsible AI and Generative AI, along with establishing new guidance for private-sector partners. It also encourages the publication of an intelligence community standard on AI assurance, aimed at setting government-wide baselines for evaluating system integrity, reliability, and robustness.
+Equally important, it
+suggests
+creating an AI Information Sharing and Analysis Center (AI-ISAC).Inspired by existing ISACs in energy, finance, and transportation, this new organization would exchange threat intelligence, vulnerability alerts, and mitigation guidance between government and industry—providing a united front against AI-specific cyber threats.
+Preparing for AI incidents in advance acknowledges that even the most reliable systems can fail. The plan emphasizes the importance of risk mitigation for AI-related cyber events; it advises that federal agencies and infrastructure operators include AI scenarios in their existing response playbooks and that the Cybersecurity and Infrastructure Security Agency updates its Cybersecurity Incident & Vulnerability Response Playbooks accordingly.
+This approach isn’t just about firefighting; it’s about proactively developing an action plan. Both companies and governments
+lack
+effective tools to handle the risks posed by today’s evolving AI systems. Proactive planning helps ensure the continuity of critical services when AI systems are degraded, misused, or manipulated—an increasingly likely scenario as AI becomes more integral to system operations.
+The strategy also encourages private-public partnerships to create scalable incident response models and to incorporate AI threat planning into national security and emergency preparedness frameworks.
+Beyond domestic networks,
+America’s AI Action Plan
+aims to develop a broader understanding that AI and national security are part of a global chessboard; under Pillar III, the plan
+encourages
+the US to take the lead in evaluating national security risks from frontier AI models. These powerful systems—developed both domestically and internationally—could create new opportunities for state-sponsored cyberattacks, influence campaigns, or other asymmetric threats.
+To stay ahead, the administration
+advises
+assessing foreign AI systems for hidden vulnerabilities, potential malicious influence, and cross-border risks while working with developers, allies, and international organizations. The administration’s AI plan moves from broad goals to targeted actions. This is a smart step toward resilience, acknowledging that the future of national security heavily depends on data and models. As critical infrastructure becomes more dependent on digital systems, the stakes are higher than ever.
+By promoting AI deployment that is secure, resilient, and responsive to emerging cyber threats, the plan positions the United States not only as a technology leader but as a model for responsible, pragmatic innovation.

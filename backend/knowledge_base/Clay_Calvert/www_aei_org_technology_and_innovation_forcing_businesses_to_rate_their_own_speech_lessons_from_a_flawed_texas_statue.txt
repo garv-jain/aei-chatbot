@@ -1,0 +1,90 @@
+PAGE_TITLE: 
+	Forcing Businesses to Rate Their Own Speech: Lessons from a Flawed Texas Statute | American Enterprise Institute - AEI
+
+If lawmakers spent as much time thinking through the
+First Amendment
+implications of their bills as they do devising acronyms, judges might labor less and states wouldn’t pay the
+attorney fees
+of plaintiffs who successfully challenge them.
+Consider Texas’s
+Restricting Explicit and Adult-Designated Educational Resources Act
+. That distills to READER Act and, yes, it’s about books and other statutorily undefined public-school “
+library material
+.” As the
+US Court of Appeals for the Fifth Circuit
+encapsulated it
+, the law
+requires school book vendors who want to do business with Texas public schools to issue sexual-content ratings for all library materials they have ever sold (or will sell), flagging any materials deemed to be “sexually explicit” or “sexually relevant” based on the materials’ depictions of or references to sex.
+Via Shutterstock
+Vendors that (1) fail to spend time and money performing the statutorily mandated “
+contextual analysis
+,” (2) don’t “
+weigh and balance
+” three state-specified factors in a “
+necessarily highly fact-specific
+” determination, or (3) simply refuse to issue state-reviewed “
+appropriate ratings
+” regarding sexual content are barred from “sell[ing] library materials to a school district or open-enrollment charter school.” In brief, vendors must comply with a complicated, nebulous scheme that forces them to speak––by burdensomely rating their content––or else they can’t do business. Furthermore, if they rate their content “sexually explicit,” schools can’t purchase it.
+Last August, a coalition of booksellers, publishers, and authors filed a
+federal civil rights
+complaint
+to block enforcement of the textbook-rating mandate. The heart of the plaintiffs’
+argument
+in
+Book People v. Wong
+is that the law “compels [them] to express the government’s views, even if they do not agree, and operates as a
+prior restraint
+, two of the most egregious constitutional infringements.” The plaintiffs assert in their
+motion for an injunction
+that the law “coerces [them] to express that a book is ‘sexually explicit’ or ‘sexually relevant’ based on the government’s standards with which they disagree.” Additionally, the plaintiffs contend the law’s definitions of “
+sexually explicit
+” and “
+sexually relevant
+” material, along with its mandated “contextual analysis,” are
+unconstitutionally vague
+.
+Safeguarding minors commonly justifies censorship efforts, and it does here.
+Rep. Jared Patterson
+called
+“the innocence and safety of our children . . . paramount” when filing Texas
+House Bill 900
+in March 2023. He ironically
+deemed
+his now-enjoined handiwork “model legislation for the rest of the nation.” Turning a more sensational sound bite when signing the measure last June, Texas Gov. Greg Abbott
+vowed
+it would get “trash out of our schools.”
+Last month, however, a three-judge panel of the Fifth Circuit unanimously
+concluded
+the plaintiffs were “likely to succeed on their compelled speech claim” and preliminarily blocked the statute’s enforcement. The panel didn’t need to examine the prior restraint and vagueness arguments.
+Lest one think this was some liberal-leaning, pornography-loving bench, the opinion was penned by
+Judge Don Willett
+, a nominee of Donald Trump and a
+native Texan
+who was––irony approaching––Abbott’s chief legal adviser when Abbott was Texas’s attorney general. Willett was joined by
+Judge Dana Douglas
+, a nominee of Joe Biden, and
+Judge Jacques Wiener
+, a George H. W. Bush nominee.
+There are cautionary lessons here for lawmakers who might impose similar self-rating obligations on businesses selling minors video games or companies running minor-frequented social media platforms. Initially, the First Amendment protects sexually explicit content that is neither
+obscene
+nor
+child pornographic
+. The READER Act entails rating content that doesn’t rise to the level of those unprotected categories of expression.
+Second, the right to not be compelled by the government to express disagreeable viewpoints is powerful. As Justice Samuel Alito wrote for the Supreme Court in
+a 2018 opinion
+, “measures compelling speech are at least as threatening” as those prohibiting it. Compelled-speech mandates thus are
+generally subject to
+the rigorous
+strict-scrutiny
+standard of judicial review.
+Third, the work-around from strict scrutiny in compelled-speech cases that the Supreme Court created in
+Zauderer v. Office of Disciplinary Counsel
+doesn’t apply in cases like
+Book People
+, despite Texas’s argument to the contrary. That’s because
+Zauderer
+involved compelling purely factual, noncontroversial information in advertisements to prevent consumer deception. Even if one assumes the ratings are commercial speech, the Fifth Circuit
+reasoned
+that they
+are neither factual nor uncontroversial. The statute requires vendors to undertake contextual analyses, weighing and balancing many factors to determine a rating for each book. Balancing a myriad of factors that depend on community standards is anything but the mere disclosure of factual information.
+The court deemed the ratings controversial because “a state representative testified that READER might require vendors to ban a Pulitzer Prize winning novel” and because “the availability of certain books in public-school libraries has been a controversial topic of debate throughout the country.” Even a clever acronym can’t save a backdoor effort at book banning and a red state from becoming a regulatory one.

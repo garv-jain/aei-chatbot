@@ -1,0 +1,67 @@
+PAGE_TITLE: 
+	The Supreme Court Misses a Chance to Clarify Press Freedom for Gathering News via New Technologies | American Enterprise Institute - AEI
+
+The US Supreme Court declined last month in
+National Press Photographers Association v. Higgins
+to hear a First Amendment challenge to a
+Texas law
+that restricts journalists’ newsgathering abilities by criminalizing using drones to take and display images “of an individual or privately owned real property.” Property owners and tenants also may file civil actions under the statute.
+As I
+explained
+shortly after the US Court of Appeals for the Fifth Circuit
+ruled
+against the
+National Press Photographers Association (NPPA)
+in October 2023, the statute “pit[s] public policy concerns about protecting personal privacy . . . against safeguarding the press’s interest in gathering news and the public’s right to know via visual imagery.” The Fifth Circuit in early 2024 issued a
+new opinion
+, once again rejecting the NPPA’s First Amendment claim.
+Shutterstock.
+In short, the law remains in effect despite the NPPA’s argument that it chills speech. To wit, the organization
+contended
+in seeking Supreme Court review that:
+Drones are cost-effective newsgathering tools that have become vital for 21st-Century journalism, but Texas journalists were forced to stop creating and publishing drone images out of fear of prosecution under the ambiguous law and suffered economic harm as a result.
+As is common when petitions for a
+writ of certiorari
+are denied, the Supreme Court’s
+decision
+not to review
+Higgins
+came without a formal written opinion or dissents. In short, we don’t know why the justices passed on taking it. The Court should have heard the case to reverse the Fifth Circuit’s decision and, in doing so, flesh out the proper balance between personal privacy interests and newsgathering rights via new technologies under the
+free press clause
+. Additionally, the justices missed an opportunity to clarify that laws like Texas’s are subject to the rigorous
+strict scrutiny
+standard of judicial review rather than the more relaxed intermediate scrutiny test applied by the Fifth Circuit.
+In ruling against the NPPA in January 2024, the Fifth Circuit
+acknowledged
+that the Texas law’s anti-surveillance provisions (those generally banning journalists from using drones flying above eight-feet high to capture and display images “of an individual or privately owned real property”) “call for us to balance First Amendment values against third parties’ right to privacy.” Those constitutional values affect the press’s right to gather information about matters of public concern and, in turn, the public’s right to receive newsworthy information.
+Unfortunately, the Supreme Court has done
+a poor job
+in fleshing out the press’s right to gather news, sporadically issuing
+nebulous statements
+such as “without some protection for seeking out the news, freedom of the press could be eviscerated.” The Court again missed an opportunity to bolster newsgathering rights in
+Higgins
+, given the NPPA’s
+assertion
+that “drones are an invaluable tool for which no adequate alternative exists for reporting on many of the most important public health and safety stories.”
+Furthermore, if privacy interests justified the law’s anti-surveillance provisions, why would lawmakers carve out multiple exceptions? As the NPPA
+told
+the Supreme Court, the measure “exempts from its content-based restrictions twenty-one favored speakers and uses, but does not exempt journalists.” For example,
+the law
+protects certain images “captured by a Texas licensed real estate broker” and by professors and students at higher education institutions for “scholarly research and development.” These exemptions suggest the law is
+underinclusive
+, doing too little to advance its ostensible goals while simultaneously discriminating against a class of speakers––the press––explicitly protected by the First Amendment.
+Additionally, the NPPA
+argued
+that the Fifth Circuit wrongly examined the law under the intermediate scrutiny test when it rejected the organization’s challenge. The NPPA contended that “a law that directly restricts gathering and publishing information and then exempts others but not those performing press functions should necessarily trigger strict scrutiny given the First Amendment’s express protection of ‘the press.’”
+Tom Leatherbury
+, who directs SMU’s
+First Amendment Clinic
+, filed a friend-of-the-court
+brief
+with the Supreme Court in
+Higgins
+on behalf the
+Texas Association of Broadcasters
+and 17 other media organizations. When asked about the implications of the Court’s decision not to hear the case, Leatherbury responded that “the Fifth Circuit’s lack of understanding of drones’ importance to modern newsgathering will continue to chill journalists throughout Texas with the threat of civil lawsuits and criminal charges and to deprive the public of vitally important news stories.”
+With judicial possibilities now exhausted, Leatherbury seeks a legislative solution. He reasons that Texas news organizations “need to work for an exception for journalists who use drones to report on stories in the public interest and to leave any remedies for alleged invasion of privacy to the common law tort of intrusion and to any constitutional anti-stalking laws on the books.”
+In sum, legal relief already exists for aggrieved individuals. The statute constitutes legislative overkill while thwarting press freedom.

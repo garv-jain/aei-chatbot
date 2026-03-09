@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Should NEPA Apply to BEAD’s Broadband Grants? | American Enterprise Institute - AEI
+
+A pivotal decision
+made by the Biden administration last year requires that broadband grants supported by the $42.45 billion Broadband Equity, Access, and Deployment (BEAD) program be reviewed under the National Environmental Policy Act (NEPA). However, this decision lies in a murky area of the law that has since been overturned—calling into question the necessity of these reviews.
+In April 2024, the National Telecommunications and Information Administration (NTIA), which oversees BEAD,
+published a notice
+explaining that BEAD projects will need to follow NEPA procedures established for
+FirstNet
+—an interoperable public safety broadband network established by the federal government. However, the NTIA made modifications to help bypass some of these reviews by establishing 30 new categorical exclusions (CEs). CEs automatically exempt certain kinds of actions from comprehensive environmental reviews on the premise that they are predetermined to have minimal environmental impact.
+Via Adobe Stock.
+The rationale for the NEPA review requirement is
+grounded
+in NEPA’s definition of a “major Federal action.” The NTIA determined that disbursing federal broadband grants through states and local institutions constitutes such an action.
+But pass-through grants lie in a legal gray area. These grants involve funds provided by a federal agency to a state, local, or other entity which then carries out a project, which is the case for BEAD. Courts have settled on a test to determine when federal involvement requires NEPA review. If the federal role is minimal or ministerial, NEPA may not apply; but if the federal government retains substantial control or discretion, NEPA’s procedures must be followed.
+The
+Macht v. Skinner
+case, which helped establish this precedent, is a telling story. The case originated when Maryland officials sought federal funding for the 27-mile Central Baltimore Light Rail Line in 1987. The original plan estimated costs at $290 million, with the Urban Mass Transportation Administration (UMTA) within the Federal Transit Administration contributing $40 million and state and local governments financing the remaining $250 million.
+However, when Maryland officials realized that accepting federal funds would require them to comply with NEPA and Section 4(f) of the Transportation Act, potentially causing significant construction delays, they pivoted their strategy. So, they withdrew their request for UMTA funding and decided to build a smaller 22.5-mile light rail line entirely with state and local funds.
+The plaintiffs challenged this approach, arguing that Maryland had illegally segmented the project to circumvent environmental requirements. The court held that federal input was insufficient to transform the state-funded project into a federal action requiring NEPA review. Following
+Macht
+and
+similar
+cases
+, courts typically apply a federal control and responsibility test: If the federal contribution is minor and the agency lacks decision-making control, NEPA review is usually unnecessary. In the case of BEAD, the NTIA’s role is substantial and likely necessitates NEPA review.
+Barring a more extensive reform of NEPA, NTIA should take the more practical approach of expanding categorical exclusions. At a minimum it should adopt the CEs of the Federal Communications Commission, as well as a couple of others, as outlined below:
+A-14: Cloud-Based and Virtual Network Management Operations. Cloud-based software systems, virtual network functions, or distributed AI management platforms that do not result in physical infrastructure deployment or alteration.
+A-15: Issuance of Experimental Authorizations or Waivers for Spectrum or Service Testing. Temporary authorizations for pilot projects, research and development, or experimental licenses where no new construction occurs or equipment is mounted on existing infrastructure.
+B-10: Installation of Telecommunications Equipment Within or on Existing Buildings. Placement of routers, base stations, small-cell radios, or interior antennas entirely within existing facilities, without ground disturbance or exterior visual/aesthetic change.
+B-11. Replacement-in-Kind of Telecommunications Equipment. Like-for-like substitution of existing equipment with newer models maintaining similar form factors and operational characteristics.
+B-12: Maintenance and Upgrade of Fiber and Wireline Infrastructure in Paved or Conduit Corridors. Work within existing utility vaults, ducts, or underground conduits in paved rights-of-way with no expansion outside footprint.
+C-9: Deployment of Small Wireless Facilities on Existing Utility Infrastructure in Urban or Previously Disturbed Areas. Mounting of antennas and associated equipment (e.g., 5G small cells) on preexisting poles or structures in public rights-of-way, provided no excavation or major new structural support is required.
+C-10: Temporary Communications Deployments for Emergency Response or Large Public Events. Use of mobile units for events or disaster recovery, deployed for less than 30 days and without permanent site changes.
+C-11: Energy Efficiency Retrofits and Renewable Integration into Telecom Operations. Adding solar panels, battery storage, or low-emission generators to existing telecom infrastructure where no new ground disturbance occurs.
+While Congress should look to reform how federal grants interact with NEPA, in the meantime, the strategic expansion of categorical exclusions represents the most pragmatic path forward to ensure broadband deployment.

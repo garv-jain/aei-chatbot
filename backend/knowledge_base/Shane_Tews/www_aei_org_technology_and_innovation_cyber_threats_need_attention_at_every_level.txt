@@ -1,0 +1,41 @@
+PAGE_TITLE: 
+	Cyber Threats Need Attention at Every Level | American Enterprise Institute - AEI
+
+Recent events have shown that corporations remain the prime target for cybercriminals executing
+ransomware
+attacks on a global scale. Companies are working to protect their systems and increasingly working with the government to confront cybercrime, but individual users also need improved protection.
+Securing technology starts with a basic understanding of how internet
+transactions are executed. Internet access is comprised of three major elements,
+simplified here for average users:
+Initial network access through a device via software, or an application (app) via a computer or mobile device;
+A transport layer from one machine to another via broadband access to the internet through an internet service provider or mobile operator; and
+Access to a server or machine that holds the information of interest.
+Encryption is important, but it is only one of many valuable tools that can protect our information, machines, and digital assets. Security should be applied at every level of access to the internet, including to how we connect to each other and to machine-to-machine interactions.
+Via Twenty20
+A common deceptive practice that makes a system or individual user vulnerable is a software program called a “
+Trojan
+” application or download. When a user downloads malicious software on a device, the software’s creator can access every machine with access to that computer or mobile device. Both are profitable targets.
+Cybercrime is exploding due to hackers’ ability to quickly exploit the limitless victims the digital world offers. Criminals various points of entry to countless network systems without much effort. They go wherever they can gain access, and easily compromised systems with lax security programs and protocols are akin to an open vault filled with cash. Recent attacks resembled transnational organized crime operations; others are perpetrated by coders who find opportunities to seed the digital information flow with malware through exploit kits that are easily available on the dark web. These criminals then profit by targeting corporate and personal data, including financial accounts and records.
+All of
+this data is valuable and easy to resell on the dark web. This makes it more
+difficult — if not impossible — for individual users to understand how to
+protect their computers and mobile devices without the help of experts who run
+the three layers of the internet outlined above.
+Securing the valued technologies that operate the digital economy from humans downloading malware is a constant struggle. So how can humans safely use machines that use other machines? The answer is more security at every entry point on every device. It takes a village — or army — of engineers to tackle the numerous openings criminals can use to infiltrate our digital economy via networks and personal devices. A layered defense that protects all three areas outlined above is vital to protecting both consumers’ ability to access the digital economy and corporations’ ability to provide digital goods and services in a safe way while protecting the valued asset known as the internet.
+Unfortunately, the House Judiciary Committee’s recent antitrust proposals may give criminal networks more opportunities to
+further exploit the digital economy
+. One proposal would force companies to let “
+sideloaded
+,” unapproved apps bypass secure mobile app marketplaces, which would remove a major layer of protection from mobile applications in the name of “competition.” But such mandates would only ensure an open market for malware — a boon to the digital criminal syndicate. Insisting anything and everything must be available to end users in the name of “competition” demonstrates a naive understanding of how criminals exploit end users and how the networks that drive the economy operate.
+Untrusted sources of equipment and software also pose dangerous challenges to crucial networks. On 5G wireless, the government
+supports
+a vetted supply chain process with
+Open Radio Access Networks
+, which would enable a network of tested equipment that ensures deployment and integration of network components are vetted for security. So why would it then insist on exposing end users to untrusted application sources — and the chance to potentially download malicious software — on their personal devices?
+There seems
+to be a lack of understanding about the importance of supply chain management
+in all technologies. Vendors and third-party suppliers are carefully vetted and
+approved in the government procurement process, and those without approval
+cannot participate. Why stop individual users from having the same level of
+security?
+For corporate information technology departments, “authorized parties only” should be the security mandate. No untrusted computers can access networks with a “zero trust” architecture that vets all incoming parties. So why do we not applaud companies that build the same level of security for individual users? We should be encouraging strong protections for every device that touches the internet instead of finding ways to strip those defenses away.

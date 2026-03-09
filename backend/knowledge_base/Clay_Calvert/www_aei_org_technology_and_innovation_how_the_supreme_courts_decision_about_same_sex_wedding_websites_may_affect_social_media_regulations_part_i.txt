@@ -1,0 +1,60 @@
+PAGE_TITLE: 
+	How the Supreme Court’s Decision About Same-Sex Wedding Websites May Affect Social Media Regulations, Part I | American Enterprise Institute - AEI
+
+The
+US Supreme Court
+ruled on June 30 in
+303 Creative LLC v. Elenis
+that Colorado cannot compel Lorie Smith, in her business capacity as the owner of
+303 Creative LLC
+, to create wedding websites for same-sex couples. The six-Justice conservative majority held that Smith’s
+First Amendment
+right not to speak––an unenumerated
+right not to be compelled
+by the government to express a personally disagreeable message––trumped a state’s ability to enforce anti-discrimination, public accommodations laws barring businesses from refusing to serve customers based on their sexual orientation. In short, Smith’s belief “that marriage should be reserved to unions between one man and one woman” now exempts her from being compelled by Colorado to create speech products (wedding websites) celebrating same-sex marriages.
+Web designer Lorie Smith poses for a portrait at her office in Littleton, Colorado, U.S., Source: Reuters
+Penning the majority opinion, Justice Neil Gorsuch reasoned that Colorado was trying to “force [Smith] to speak in ways that align with its views but defy her conscience about a matter of major significance.” This “coercion” violated Smith’s First Amendment right not to speak.
+Although seemingly factually far afield,
+303 Creative
+carries important ramifications for social media platforms now battling laws imposed by Florida and Texas that compel them to host certain speakers/content and dictate where content must appear in users’ feeds.
+303 Creative
+will likely affect two cases challenging those measures––
+NetChoice v. Moody
+(Florida statutes) and
+NetChoice v. Paxton
+(Texas statutes)––that the Supreme Court almost certainly will agree to hear this fall.
+This post, the first in a two-part series, reviews the evolution of the implied First Amendment right not to speak prior to
+303 Creative
+. The second post then will address in greater depth the ruling in
+303 Creative
+, exploring its impact on the NetChoice cases.
+While the First Amendment
+explicitly
+protects “freedom of speech” from government censorship, it also
+implicitly
+shields people from being forced to speak in certain situations. Indeed, the Supreme Court
+asserted
+in 2018 that government “measures compelling speech are at least as threatening” as those restricting it. In brief, the flipside of the right to speak is the right not to speak.
+This right-not-to-speak jurisprudence began 80 years ago in
+West Virginia State Board of Education v. Barnette
+. The Court held there that Jehovah’s Witnesses children could not be forced by public schools to salute the American flag while reciting the pledge of allegiance. In delivering the Court’s opinion, Justice Robert Jackson stressed that West Virginia impermissibly compelled students to accept “political ideas” and affirm “a belief and an attitude of mind”––namely, a “credo of nationalism.” In a memorable line, Jackson proclaimed that “if there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein.”
+After
+Barnette
+, the Court extended the right not to speak. It held in
+Wooley v. Maynard
+that a Jehovah’s Witnesses couple could not be compelled by New Hampshire to display the state’s motto––“Live Free or Die”––on their vehicles’ license plates. The Court observed that the First Amendment protects “both the right to speak freely and the right to refrain from speaking at all.”
+The Court also determined in
+Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston
+––a 1995 opinion cited favorably several times by Justice Gorsuch in
+303 Creative
+––that the private organizers of a St. Patrick’s Day parade could not be compelled, despite a public accommodations law banning discrimination based on sexual orientation, to host marchers displaying LGBTQ-pride messages. The Court reasoned that: 1) a parade is “a form of expression, not just motion;” 2) the parade’s organizers, in turn, were speakers; and 3) compelling them to host messages they disagreed with violated a “fundamental rule of protection under the First Amendment, [namely] that a speaker has the autonomy to choose the content of his own message.”
+Especially relevant for the NetChoice cases noted above is the Court’s conclusion nearly fifty years ago in
+Miami Herald Publishing Co. v. Tornillo
+that print newspapers cannot be forced to publish the replies of political candidates’ whose personal character or public record they have criticized. In declaring Florida’s right-of-reply statute unconstitutional as an impermissible “government-enforced right of access” mandate, the Court reasoned that “the choice of material to go into a newspaper, and the decisions made as to limitations on the size and content of the paper, and treatment of public issues and public officials––whether fair or unfair––constitute the exercise of editorial control and judgment.” In short, editing is for editors, not the government. Justice Gorsuch favorably cited
+Tornillo
+once in
+303 Creative
+.
+The next post will delve deeper into
+303 Creative
+, exploring the ruling’s possible effect on the NetChoice cases.

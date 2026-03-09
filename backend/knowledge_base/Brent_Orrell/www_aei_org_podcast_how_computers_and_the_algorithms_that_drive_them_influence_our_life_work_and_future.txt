@@ -1,0 +1,10 @@
+PAGE_TITLE: 
+	How Computers and the Algorithms That Drive Them Influence Our Life, Work, and Future | American Enterprise Institute - AEI
+
+Technology has been rapidly advancing, and along with it has come an increased reliance on artificial intelligence, algorithms, and other forms of computer programming. Can we trust these programs to uphold our values of inclusion, diversity, and fairness?
+Brent
+talks to
+Robert Elliot Smith
+, an artificial intelligence expert and author of “
+Rage Inside the Machine: The Prejudice of Algorithms, and How to Stop the Internet Making Bigots of Us All
+”, about the flaws of, and history behind, these complex and increasingly influential tools.

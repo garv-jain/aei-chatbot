@@ -1,0 +1,84 @@
+PAGE_TITLE: 
+	Nuisance Nonsense: Dubious Theory Underlies Lawsuits Targeting Social Media Platforms | American Enterprise Institute - AEI
+
+When teaching media law, I encapsulate a “nuisance” as the “
+right thing in the wrong place
+” or at the wrong time. The topic arises when analyzing the
+US Supreme Court’s
+Federal Communications Commission v. Pacifica Foundation
+opinion involving a terrestrial radio station’s afternoon broadcast of
+George Carlin’s
+“
+Filthy Words
+” monologue about language “
+you can’t say on television
+.” The Court addressed whether the
+Federal Communications Commission
+(FCC) could regulate
+non-obscene
+yet nonetheless
+indecent speech
+on the public airwaves without violating the
+First Amendment
+.
+The Court
+concluded
+the FCC could punish broadcasters for airing indecent speech––Carlin’s routine included––when children are more likely to be listening (between 6:00 am and 10:00 pm). The overnight hours (10:00 pm to 6:00 am), however, provide a “
+safe harbor
+” when indecency is acceptable. This context-driven outcome pivoted on what the Court
+called
+“a nuisance rationale”––there’s a right and wrong time for broadcasting indecency. When a Pacifica Foundation station aired Carlin’s monologue around 2:00 pm when kids might hear it, it was the wrong time and a nuisance. The Court deemed it
+akin to letting
+“a pig in the parlor instead of the barnyard.”
+via Reuters
+Today, companies providing newer communications technologies––social media platforms––are being sued for allegedly causing another kind of nuisance––a
+public nuisance
+. A public nuisance
+involves
+“an unreasonable interference with a right common to the general public,” including a “significant interference with the public health, the public safety, the public peace, the public comfort or the public convenience.” AEI’s
+Sally Satel
+writes
+that “[u]sually, public-nuisance actions are brought against alleged environmental wrongs such as noxious smells, loud noises, and pollution.” That’s changed over time, with increasingly expansive efforts to use public nuisance principles to remedy supposed wrongs where the regulatory state hasn’t act.
+Leslie Kendrick
+,
+dean
+at the
+University of Virginia School of Law
+,
+explains
+that public nuisance law was “the backbone for more than three thousand opioid lawsuits across the country,” producing “billions of dollars in settlements.” She notes, however, that the opioid cases that actually went to trial “met with mixed results,” reflecting, “at best, a checkered record in the courtroom” overall for public nuisance lawsuits. About a quarter-century ago, public nuisance theory similarly “provided the architecture for the lawsuits that impelled the tobacco industry to
+historic settlements
+of $246 billion with all fifty states.” That success, Kendrick observes, “spurred hundreds of mostly unsuccessful actions across the nation involving, among other things, handguns, lead contamination, water pollution, and predatory lending.”
+One problem with today’s public nuisance lawsuits, Professor
+Thomas W. Merrill
+writes
+, is that “they rest on the idea that courts have inherent authority to determine that something is a public nuisance based on the court’s understanding of the public interest.” This causes “expansion of judicial authority” into the realm of lawmaking. Merrill also highlights “vagueness” difficulties judges confront in determining whether an interference is “
+unreasonable
+” or “
+significant
+.” In a scathing
+critique
+, the
+American Tort Reform Association
+alleges that today’s public nuisance cases “share a common theme: they all seek to generate massive liability over a complex crisis despite the lack of legal or factual grounding for targeting the companies sued.”
+How does this affect social media platforms? Dozens of plaintiffs––specifically, public school districts and local governments––claim they’re owed damages for dealing with a public nuisance the platforms created. Consider the
+First Amended Master Complaint
+filed this March in Northern California in
+In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation
+, a federal Multi-District Litigation proceeding.
+Lodged against the entities behind Facebook, Instagram, Snapchat, TikTok, and YouTube, the complaint
+claims
+they caused a “youth mental health crisis” by designing “their social media platforms to attract and
+addict minors
+.” This supposedly created a public nuisance for schools and local governments on the crisis’s “front lines,” grappling with alleged harms stretching from “suicidal ideation, depression, [and] anxiety” to “increased behavioral disruptions and crimes committed by young people because of Defendants’ action.” The schools argue the “platforms have caused a massive disruption to” and “an unreasonable interference with the educational process,” diverting fiscal resources and personnel away from normal instruction. They assert an amorphous public right on behalf of themselves, their students, and communities “to be free from conduct that undermines their health, safety, peace, comfort, and convenience, and/or right to public education.”
+The plaintiffs “
+have tough hills to climb
+”: The First Amendment and
+Section 230
+of the Communications Decency Act
+may
+shield the platforms from liability. Additionally, questions exist about what’s actually harming minors and whether any “right” harmed is one personal to students, not a public one of schools and local governments. Last month, a
+state court judge
+in Southern California
+rejected
+a public nuisance claim asserted by four school districts. Whether that happens in federal court in Northern California remains to be seen.

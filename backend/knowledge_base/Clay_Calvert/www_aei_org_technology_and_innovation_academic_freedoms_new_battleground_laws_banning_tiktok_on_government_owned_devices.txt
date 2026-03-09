@@ -1,0 +1,68 @@
+PAGE_TITLE: 
+	Academic Freedom’s New Battleground: Laws Banning TikTok on Government-Owned Devices | American Enterprise Institute - AEI
+
+In 2021,
+academic freedom
+underpinned a federal appellate court
+ruling
+in favor of a public university professor’s right not to address his students by their preferred pronouns. A year later, it played a crucial role in US District Court Judge
+Mark E. Walker’s
+decision
+(now on appeal) to
+block enforcement
+of
+a Florida statute
+restricting what public university professors can say about eight supposed tenets of critical race theory.
+Last week, however, academic freedom took on a very different, tech-centric role in a new federal lawsuit––as a policy interest ostensibly justifying an exemption for public university professors from Texas’s
+ban
+of
+TikTok
+on state-owned devices and personal devices used for work. The ban stems from a December 2022
+directive
+by Gov. Greg Abbott citing “the threat of the Chinese Communist Party gaining access to critical U.S. information and infrastructure.” It affects public university professors because they are government employees.
+Via Adobe Stock
+Coalition for Independent Technology Research v. Abbott
+centers on a
+complaint
+filed July 13 in federal district court in Austin by the
+Knight First Amendment Institute
+and Southern Methodist University’s
+First Amendment Clinic
+on behalf of the
+Coalition for Independent Technology Research
+. The Coalition seeks an order “declar[ing] that Texas’s TikTok ban violates the
+First Amendment
+as applied to public university faculty who seek to access TikTok for research or teaching purposes.” In brief, the plaintiff is not challenging the ban in its entirety, but rather its application to a subset of government employees. The complaint asserts that the prohibition impedes
+faculty from pursuing research that relates to TikTok—including research that would illuminate or counter the data-collection and disinformation-related practices that the ban is ostensibly meant to address. It has also made it almost impossible for faculty to use TikTok in their classrooms—whether to teach about TikTok or to use content from TikTok to teach about other subjects.
+The complaint cites the ban’s disruption of the research and teaching of
+Jacqueline Vickery
+, a professor at the University of North Texas and a Coalition for Independent Technology member. Vickery
+studies
+“how young people use digital and social media for informal learning, self-expression, and activism,” including by “collect[ing] and analyz[ing] large numbers of TikTok videos, as well as the comments, metadata, and statistics that accompany” them. Texas’s ban, the complaint alleges, has “forced her to suspend research projects and change her research agenda, alter her teaching methodology, and eliminate course materials.”
+To be clear, the
+complaint
+never uses the term “academic freedom.” But as
+Ramya Krishnan
+, an attorney at the Knight First Amendment Institute,
+stated
+last week, “Texas’s TikTok ban is an assault on academic freedom, which is the lifeblood of every university and a central concern of the First Amendment.” Indeed, the complaint
+avers
+that “while faculty are public employees, the government’s authority to control their research and teaching is limited by the First Amendment—and the ban cannot survive First Amendment scrutiny.”
+The legal doctrine of academic freedom, as I observed
+elsewhere
+, “is both weak and muddled.” Nonetheless, the
+US Supreme Court
+more than a half-century ago
+identified
+academic freedom as “a special concern of the First Amendment” that “our Nation is deeply committed to safeguarding.” In 2006, the Court
+referred to
+academic freedom as a “constitutional value.” In short, while academic freedom is not a stand-alone First Amendment right, it represents a special value and concern nestled within that amendment’s free-speech guarantee, giving it added heft.
+Academic freedom thus should powerfully bolster the Coalition for Independent Technology’s argument that Texas’s TikTok ban violates the public university faculty’s First Amendment rights. The prohibition’s scope is simply too broad, sweeping up legitimate research and teaching activities. From a public policy perspective, creating a carve-out for public university professors who study social media makes sense: The more we know about any social media platform—how it is used, who uses it, and any harms or dangers related thereto—the better for making informed regulatory decisions. As AEI’s
+Daniel Lyons
+recently
+wrote
+, “Before deciding what should be done, legislators must discern what precisely are the unique policy challenges that TikTok presents.”
+So, if the lawsuit is successful, will lawmakers intent on regulating TikTok revise existing laws (by early April, more than 30 states
+reportedly
+had banned TikTok on all state-owned devices) or more narrowly draft new ones that include scholarly-use exemptions for public university professors? Narrow tailoring is a must, after all, for statutes to survive First Amendment challenges.
+However, there’s an optical downside to embracing professorial carveouts from otherwise generally applicable statutes. These exemptions may appear elitist, both to voters and to the other government employees who must comply with TikTok bans. Ivory-tower academics getting a privileged pass may not sit well with everyone. That fret, however, is outweighed by the informative fruits of scholarly research the exemptions may yield.

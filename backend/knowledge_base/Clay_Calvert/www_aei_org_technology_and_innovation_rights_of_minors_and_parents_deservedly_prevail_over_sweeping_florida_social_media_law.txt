@@ -1,0 +1,50 @@
+PAGE_TITLE: 
+	Rights of Minors and Parents Deservedly Prevail Over “Sweeping” Florida Social Media Law | American Enterprise Institute - AEI
+
+Chief US District Judge Mark Walker’s
+decision
+last month blocking enforcement of key parts of
+a Florida statute
+, which bars anyone under age 14 from having an account on popular social media platforms with ostensibly “addictive features,” was thoroughly predictable. That’s because, as I
+explained
+shortly after the First Amendment lawsuit challenging the measure was filed, the statute wasn’t “narrowly tailored—carefully drafted in its scope—to serve lawmakers’ interest in safeguarding minors” from social media addiction, given that “many alternative ways exist to protect minors without imposing a blanket ban for those under age 14.” My colleague Shane Tews has carefully
+cataloged
+many mechanisms parents can deploy, as I recently
+highlighted
+.
+Florida’s failure to embrace those self-help measures is partly why Walker concluded in
+Computer & Communications Industry Association v. Uthmeier
+that the
+statute
+was far too “sweeping.” Assuming for argument’s sake that Florida possessed a significant “interest in limiting the exposure of youth to websites with ‘addictive features,’” Walker nonetheless
+deemed
+the “law’s restrictions . . . an extraordinarily blunt instrument for furthering it.” He reasoned that “the law likely bans all youth under 14 from holding accounts on, at a minimum, four websites that provide forums for all manner of protected speech: Facebook, Instagram, YouTube, and Snapchat.” Walker explained that these platforms not only allow minors to connect with friends and family but to express themselves “artistically and creatively, stay informed about current events and engage in speech on important political and social issues, and learn from others.”
+Via Reuters
+Additionally, the Florida statute requires minors ages 14 and 15 to obtain parental permission before they can hold accounts on those platforms. This government-imposed burden on accessing lawful speech, Walker wrote, violates a fundamental First Amendment principle articulated by the US Supreme Court in
+Brown v. Entertainment Merchants Association
+: A state cannot prevent minors from speaking or receiving speech without their parents’ consent.
+Lawmakers considering bills to protect minors from social media platforms’ alleged harms should consider three points that Walker
+stressed
+: (1) the importance of safeguarding minors’ First Amendment speech rights; (2) the rights of parents—not the government—to determine the lawful content their children read, watch, and view; and (3) the value of educational programs in promoting alternative, nongovernmental means to help minors online.
+Minors’ Rights
+. Walker
+emphasized
+that “youth have First Amendment rights.” In doing so, he explained the value of protecting those rights against heavy-handed, paternalistic government censorship:
+Youth are people, not mere people-in-waiting or extensions of their parents. They have their own interests, ideas, and minds. Not only that, but they are citizens in training. The responsibilities and privileges of citizenship are significant, and our constitutional system is better served when its citizens build those muscles over time, beginning when they are young, rather than all at once the day they come of age.
+In short, minors shouldn’t be kept in a hermetically sealed, protective bubble until they reach a certain age when, suddenly, they must think, speak, and cope for themselves. Citing Supreme Court rulings, Walker
+added
+that:
+the First Amendment recognizes the rights of youth to learn, to refuse to salute the flag, to protest war, to view films, to play video games, to attend political rallies or religious services even without the authorization of their parents, and more.
+Lawmakers thus shouldn’t ignore the minors’ First Amendment speech rights when considering whether to shield them from expression that doesn’t fall into an unprotected category of speech such as obscenity, true threats, and incitement.
+Parental Rights
+. Lawmakers like those in Florida and many other states often believe they know what’s best for minors when it comes to online speech, but Walker
+stressed
+that this is neither their rightful realm nor their prerogative. He wrote that “parents are best positioned to make the appropriately individualized determinations about whether or when their children should use social media platforms, and if so, which platforms and under what conditions.” In short, let parents decide whether their children under age 14 should have access to social media platforms based on their personal, in-depth knowledge of what their children want, need, and can handle.
+Educational Campaigns
+. Florida
+argued
+“that the parental supervision and control tools that are available at the device, network, and platform level” to help parents protect their minors online (the same types of mechanisms that Shane Tews has
+described
+, as noted earlier) don’t work either because they are too difficult to implement or because too few parents use them. Walker bluntly rejected this argument,
+reasoning
+that “the appropriate response from [Florida] is a public education campaign, either to inform parents about the risks of social media or to equip them with the knowledge they need to employ the tools they have available.”

@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	Examine the FCC’s Proposal on Bulk Billing: A Call to Protect Consumer Interests | American Enterprise Institute - AEI
+
+Jessica Rosenworcel, Chairwoman of the Federal Communications Commission (FCC), recently shared with her fellow commissioners a Notice of Proposed Rulemaking (NPRM) aimed at eliminating bulk billing arrangements for broadband and video services in multi-tenant environments (MTEs), such as apartments and condos. If approved, the NPRM will be released to the public and open for comment. The FCC’s
+press release
+on the proposal suggests it is ostensibly designed to lower costs and increase competition for broadband. However, a closer examination of the facts and historical data suggests that this move would likely have the opposite outcome, harming those it intends to help.
+Via Reuters
+Bulk billing arrangements allow building owners or homeowners’ associations (HOAs) to negotiate with internet service providers (ISPs) to provide broadband services to all units within a property at a reduced, collective rate. This method often results in significantly lower costs for residents. It guarantees a steady customer base and return on investment for providers—a win-win situation fostering broadband deployment, especially in rural and low-income areas.
+There are other benefits of bulk billing that reflect market forces that the FCC should consider:
+Lower Costs for Consumers
+—Bulk billing has historically reduced consumer rates.
+A 2010 FCC Report and Order
+found that such arrangements “predominantly benefit consumers through reduced rates and operational efficiencies.” Providers like
+Hotwire
+Communications highlight that residents in bulk billing arrangements enjoy about 50 percent lower rates compared to individual retail plans. These lower costs are crucial for seniors, students, and low-income families who might otherwise struggle to afford necessary broadband services.
+Increased Broadband Deployment
+– Bulk billing incentivizes ISPs to invest in infrastructure, particularly in underserved areas. With a guaranteed return on investment through bulk contracts, providers are more likely to expand services into rural and low-income neighborhoods, aligning with Biden’s “Internet for All” initiative. The National Multifamily Housing Council and others
+warn
+that the FCC proposal would disincentivize investment in “smaller and more affordable rental communities who struggle the most to get connected,” stalling progress toward closing the digital divide.
+Competition and Consumer Choice
+—Contrary to the belief that bulk billing stifles competition, the arrangement can spur a highly competitive bidding process. Associations leverage collective bargaining power, often through an RFP (Request for Proposal) process, which attracts multiple providers eager to offer the best package and price. This fosters competition and often leads to better service and pricing outcomes for residents.
+The FCC’s proposal might lead to dramatic price increases for individual consumers, as ISPs would no longer be able to spread infrastructure and service costs across a guaranteed group of users. Furthermore, providers specializing in bulk billing often need the infrastructure for billing and servicing individual consumers. If the FCC unwinds existing contracts, it could lead to higher administrative costs for providers, likely passed on to consumers.
+The proposal is a reaction to a tiny number of consumer complaints—seven, to be exact—and underestimating the benefits of bulk billing. In 2010, the FCC
+understood
+that it would be a “disservice to the public interest if, to benefit a few residents, we prohibited bulk billing, because so doing would result in higher [broadband and television] service charges for the vast majority of MDU residents who are content with such arrangements.”  If the agency acts against the overwhelming facts in the record, it could represent regulatory overreach subject to legal challenge. Instead of a blanket ban on bulk billing, a more nuanced approach targeting specific anti-competitive practices would be more effective. This could involve regulations that prevent exploitative practices without eliminating the model that has worked well for so many consumers.
+Given the evident benefits of bulk billing, and the potential risks of banning the practice, the FCC should reconsider its stance. The FCC’s intention to increase competition and reduce broadband prices is commendable. Still, the agency’s record shows that the method proposed via the NPRM would backfire, leading to higher prices and less broadband deployment. As stakeholders, consumers, and providers make their voices heard, hopefully the FCC will reevaluate its approach to ensure that any new regulations on broadband billing practices genuinely benefit the public interest. The goal should be to target real harms—not dismantle systems that have proven their value over time.

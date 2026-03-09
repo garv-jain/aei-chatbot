@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Distributed Ledger Technology, Supply Chains, and the Romaine Recalls of the Future | American Enterprise Institute - AEI
+
+This past week’s romaine lettuce recall is a useful reminder of technology’s potential for improving not just food-origin labeling, but also the quality of information consumers have about supply chains in general. After 43 people across 12 states became sick from what was believed to be romaine lettuce contaminated with E. coli, the Food and Drug Administration (FDA) and Centers for Disease Control and Prevention
+warned consumers
+not to eat any romaine lettuce at all.
+However,
+“It wasn’t because all the romaine lettuce in the country was contaminated. It was because there was no good way to figure out quickly where the contaminated lettuce was coming from.” If improved capabilities for identifying the origin of the foodborne illness had been deployed, unused crops that were destroyed and
+potentially
+millions of dollars could have been saved through two such recalls this year.
+Romaine lettuce is displayed on a grocery store shelf in Canada, November 21, 2018 – via REUTERS
+The FDA is working with industry partners to create a new labeling standard that would require companies to track and manage data related to agricultural harvests that would improve the quality of information on the chain of custody for produce. In this case, using tools such as distributed ledgers or blockchain technology to track the origin of romaine lettuce could have allowed producers and consumers to discard just the food that was at risk, rather than all of it.
+Transparent supply chains
+Distributed ledger technology is often used as part of a knowledge-based supply chain system (or a “blockchain”) — a string of connected computers that verify date, time stamps, and other information. For a transaction to be approved as an addition or exchange of data, it must be verified through a unique identifier (a hash) and recorded as an entry as part of the transaction records. Distributed ledgers can be part of blockchain technology, but not all distributed ledgers are “blockchains,” and they’re not all in the public domain. Many ledgers are decentralized database networks that are kept in internal ecosystems in which the digital ledger and date and time stamp verification are used to build trust in the set of transaction records.
+All these technologies are similar in that they are digital account ledgers used to secure and update information on a large scale. The technical design of a distributed ledger is well suited to contain a sanctioned record system that can be audited by a government regulator or industry best practice organization. Unlike banking transactions that are more linear and subject to tight regulation, not all commerce involves a direct path from production to market, so a system capable of tracking a product from its creation to its final destination is valuable.
+Transparent supply chains have several benefits. Consumers who care about the origin of the products they buy can see where their purchases originated. Their willingness to pay more for products of a certain origin or nature (e.g., organic food) could offset the producer’s investment in tracking technology. A Johns Hopkins University
+study
+published in April notes that a foodborne illness incident can cost a fast food restaurant up to $1.9 million in lost revenue, fines, legal fees, and higher insurance premiums. Restaurants could provide better information about the origin of their products as that becomes an increasingly important part of purchasing decisions.
+Real-world examples
+Among the examples of companies already using this technology is Europe’s largest retailer, Carrefour SA, which recently
+announced
+it would use blockchain ledger technology to “track and trace chicken, eggs, and tomatoes as they travel from farms to stores, and will deploy it across all of its fresh product lines in coming years.” A QR code provides details on poultry’s date of birth, type of nutrition, packing date, and potentially more information in the future.
+In the US, Walmart and its Sam’s Club division are using a farm-to-store distributed ledger technology tracking system for some produce and expect to require their suppliers of leafy green vegetables to use blockchain tracking technology by September 2019. The technology has
+reduced
+the amount of the time it takes to trace the source of food from seven days to 2.2 seconds. Unlike a public blockchain, Walmart’s ledger system is designed for its supply chain partners only and is not yet a fully public database. Each entity that handles food along the chain of custody is represented by a section of the blockchain node; this makes for a much more efficient discovery process if there is contaminated produce in the supply.
+Walmart has also applied for a patent on systems for deliveries that will process and record data using a secure authentication process to protect business records from tampering. This is important as distributed ledgers do not have a central authority in charge of updating records since this is done by the partners in the supply chain.
+Everyone is talking about blockchain
+PwC’s 2018 Global Blockchain Survey, which included 600 executives from 15 territories,
+reported
+that “84 percent of executives surveyed said their companies are actively involved with the technology.” Gartner
+forecasts
+the business value-add of blockchain technologies to be $176 billion by 2025 and to exceed $3.1 trillion by 2030. When asked in a recent
+Wall Street Journal
+interview “What technology, not from your company, are you most excited about ‘hitting’ the next couple of years,” AT&T CEO Randall Stephenson answered: “I think definitely blockchain technology. The idea that we could have really, really, great security in everything that we are doing online. It’s a game changer.”
+All this activity is good news for improving consumer protection, as better tracking capabilities will mean faster reaction times to address potentially contaminated produce or other risks. Distributed ledger and blockchain technology will be a major step forward in the world of consumer safety.

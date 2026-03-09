@@ -1,0 +1,87 @@
+PAGE_TITLE: 
+	California’s SB 1047 Moves Closer to Changing the AI Landscape | American Enterprise Institute - AEI
+
+Last week, the California State Assembly passed
+SB 1047
+, a controversial AI safety bill that supporters contend would regulate advanced AI models to reduce the possibility of AI going haywire and posing a serious threat to people. Formally titled the Safe and Secure Innovation for Frontier Artificial Intelligence Models Act, SB 1047 now heads to Gov. Gavin Newsom’s desk, where it faces an uncertain future.
+I first wrote about SB 1047
+back in May, when the legislative debate was heating up. Then in August, I wrote about the
+four fault lines in AI policy
+, based on my discussions with people who were actively campaigning for the bill. Since then, I have only become more convinced of the first fault line:
+AI policy often echoes the
+misunderstood Kipling line
+: “Oh, East is East, and West is West, and never the twain shall meet.” In the East—in Washington, D.C., statehouses, and other centers of political power—AI is driven by questions of regulatory scope, legislative action, law, and litigation. And in the West—in Silicon Valley, Palo Alto, and other tech hubs—AI is driven by questions of safety, risk, and alignment. D.C. and San Francisco inhabit
+two different AI cultures
+.
+I stand by what I said then. In fact, I am even more convinced that,
+There is a common trope that policymakers don’t understand tech. But the obverse is even more true: Those in tech aren’t often legally conversant. Only once in those dozen or so conversations did the other person know about, for example, the First Amendment problems with all AI regulation, and that’s because he read my work on the topic.
+To understand the problems with SB 1047, it needs to be viewed through a legal lens: from the viewpoint of an overly compliant legal counsel for a company, of a judge that has to rule on its legality, and of an administrator who wants to push the bounds of the law.
+But from a more philosophical position, I’m just not a huge fan of the approach taken by SB 1047. The bill regulates a class of advanced AI models, called frontier models, that are only just now being developed, and imposes a series of safety protocols that lack consensus among experts and haven’t been fully fleshed out yet. The entire framework is built on the premise that these advanced models will pose a threat, which is an assumption
+that remains highly contested
+. And to top it off, if these AI models are truly dangerous in the way that some claim, then California shouldn’t be regulating them anyway—it should be the purview of the federal government.
+Oh, and SB 1047 likely runs afoul of the First Amendment and the Stored Communications Act. It’s deeply concerning that the bill’s supporters are just glossing over these significant legal issues but that seems to be the state of the discourse.
+The bill’s provisions.
+SB 1047 went through 10 major revisions, but the core of the bill remains the same. A class of the most advanced AI models will be designated as “covered AI models” in California and then compelled to adhere to a range of requirements, including safety assessments, testing, shutdown mechanisms, certification, and safety incident reporting.
+The “covered” designation comes from a technical definition, as I explained in a
+previous edition of
+Techne
+:
+Covered AI models under SB 1047 are partially defined by the amount of computing power needed to train the model. The industry typically couches AI models in petaFLOPS, which are 10^15 floating-point operations. OpenAI’s GPT-4 is estimated to have taken
+21 billion petaFLOPS
+to train, while Google’s Gemini Ultra probably took 50 billion petaFLOPs. Similar to the standard set by President Joe Biden’s
+executive order on AI
+, SB 1047 would apply to models with greater than 10^26 floating-point operations, which amounts to 100 billion petaFLOPS. So the current frontier models are just below the covered AI model threshold, but the next generation of models—including GPT-5—should probably hit that regulation mark.
+Stripped from the bill was a provision that regulated any models that could achieve similar benchmarks to those of 10^26 floating-point operations. In its place is the requirement that the model must also cost $100 million to train to be covered. There was also a provision added that gives California’s Government Operations Agency the ability to designate any model that cost $100 million as being covered by the law as well.
+What hasn’t substantially changed are the requirements for covered AI models. Among others, covered models will have to:
+“Implement reasonable administrative, technical, and physical cybersecurity protections”;
+Build in a killswitch;
+Implement a detailed safety and security protocol that is certified by the company;
+Conduct annual reviews of the safety procedures; and
+“Take reasonable care to implement other appropriate measures to prevent covered models and covered model derivatives from posing unreasonable risks of causing or materially enabling critical harms.”
+SB 1047 is built on reasonableness standards, which are
+notoriously tricky to define in the law
+. Indeed, an astute commenter on the blog
+Astral Codex Ten
+explained what it might mean if developers were to take seriously the reasonableness requirements:
+Under the traditional Learned Hand formula, you are obligated to take a precaution if the burden of the precaution (B) is less than the probability of the accident it would prevent (P) multiplied by the magnitude of the loss resulting from the accident (L). B < P*L. Given that the “loss” threatened by advanced AI is complete and total destruction of all value on earth, the right side of the equation is infinite, and reasonableness requires spending an unlimited amount on precautions and taking every single one within your power. Even if we just cap the L at $100T, the estimated value of the global economy, a p(doom) of even 10% would mean that any precaution up to $10T was justified. Now presumably there are smaller-scale cyber attacks and things of that nature that would be what actually happens and prompts a negligence suit, if DOOM happens nobody’s around to sue, so this isn’t gonna come up in court this way, but as a way to think about legal “reasonableness” that’s what seems to be required.
+Yes, it is absurd, but that’s what happens when you start trying to mandate these ideas into law.
+While I’m skeptical of the bill, it has garnered the support of influential online writers like
+Zvi Mowshowitz
+and
+Scott Alexander
+. I hold both in high regard and have learned much from them. Still, I see their analysis as being fundamentally flawed because they are grounded in
+rationalism
+rather than
+legality
+. Alexander previously ran the Slate Star Codex blog, which helped to foster
+the rationalist community
+. Mowshowitz recently discussed regulating frontier AI models in
+a spate
+of articles
+. What they evince, to me, is a naivete about legal processes and history.
+For example,
+when Mowshowitz wrote
+about Section 22605, which eventually was removed from the bill, he pointed out that this part of the bill “requires sellers of inference or a computing cluster to provide a transparent, uniform, publicly available price schedule, banning price discrimination, and bans ‘unlawful discrimination or noncompetitive activity in determining price or access.’” He continues, “I always wonder about laws that say ‘you cannot do things that are already illegal,’ I mean I thought that was the whole point of them already being illegal.” But the entire point of Section 22605 was to create rate regulation. When I read this part of the bill, I thought about the decades-long fight in telecom over
+total element long-run incremental cost
+.
+Similarly, Alexander seems to underweight legal review and administrative process
+when he wrote
+:
+Finally – last week discussed Richard Hanania’s
+The Origin Of Woke
+, which claimed that although the original Civil Rights Act was good and well-bounded and included nothing objectionable, courts gradually re-interpreted it to mean various things much stronger than anyone wanted at the time. … But Hanania’s book, and the process of reading this bill, highlight how vague and complicated all laws can be. The same bill could be excellent or terrible, depending on whether it’s interpreted effectively by well-intentioned people, or poorly by idiots. That’s true here too.
+Administrative law doesn’t simply depend “on whether it’s interpreted effectively by well-intentioned people, or poorly by idiots.” An aggressive, well-intentioned agency can push the bounds of its authority. The Federal Communications Commission has been in and of court for two decades because of how it interprets its authority. The Food and Drug Administration was challenged for its regulation of tobacco using statutory authority for “drugs” and “devices.” The list of agencies using their authority in one arena for a way that it wasn’t intended is extensive. Admittedly, some of this has been curtailed by recent
+Supreme Court decisions
+, but SB 1047 gives a state government a lot of power to determine what is considered safe.
+But more importantly, mandating a killswitch inherently involves the First Amendment. I’ve
+touched on this point before
+, building on a commentary by
+John Villasenor of the Brookings Institution
+. But SB 1047’s backers don’t appear to have given these legal concerns the attention they deserve.
+Newsom has until September 30 to sign the bill or veto it. Since the governor has been largely silent about which way he’ll go, both supporters and detractors of the legislation
+have been inundating his office
+with letters meant to persuade him.
+Whatever happens, it is hard not to read SB 1047’s passage as part of a larger normalization of relations between AI developers and the government. Only just last week, the U.S. Artificial Intelligence Safety Institute announced
+agreements
+that enable the agency to access major new models from OpenAI and Anthropic before they go public. While this route has its own problems, it is far better than SB 1047.
+A lot changed this summer. AI developers, once largely independent of governmental influence, are now establishing deeper institutional ties to navigate regulatory challenges. I can’t imagine this latest development is a good thing.

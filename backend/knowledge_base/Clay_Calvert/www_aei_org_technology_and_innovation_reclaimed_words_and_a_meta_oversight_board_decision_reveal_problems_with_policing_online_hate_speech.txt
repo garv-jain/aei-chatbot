@@ -1,0 +1,66 @@
+PAGE_TITLE: 
+	Reclaimed Words and a Meta Oversight Board Decision Reveal Problems with Policing Online Hate Speech | American Enterprise Institute - AEI
+
+To appreciate the complexities of policing online hate speech that underlie an April
+summary decision
+by Meta’s Oversight Board, let’s start with a
+musical detour
+through a 2017 US Supreme Court opinion called
+Matal v. Tam
+. The Court faced the First Amendment question in
+Matal
+of whether the US Patent and Trademark Office (PTO) could lawfully deny a band’s request to register its name––The Slants––as a trademark. The PTO claimed denial was okay because “slants” disparages Asians.
+The wrinkle was that the band’s members are Asian and their frontman, Simon Tam, wanted “to ‘reclaim’ and ‘take ownership’ of stereotypes about people of Asian ethnicity.” As Tam
+explained
+:
+We grew up and the notion of having slanted eyes was always considered a negative thing. Kids would pull their eyes back in a slant-eyed gesture to make fun of us . . .  I wanted to change it to something that was powerful, something that was considered beautiful or a point of pride instead.
+Via Shutterstock.
+This relates
+to
+“reappropriation by self-labeling”
+or
+“reclamation.” It involves marginalized groups seeking “to redefine the negative connotations” of a label and reclaiming “social power, as they become in charge of the word’s meaning.”
+The Supreme Court sided with Tam,
+reasoning
+that the PTO’s denial of registration for The Slants because it disparages Asians “offends a bedrock First Amendment principle: Speech may not be banned on the ground that it expresses ideas that offend.” Rejecting the stance that speech isn’t constitutionally protected simply because it’s hateful, the Court asserted that:
+Speech that demeans on the basis of race, ethnicity, gender, religion, age, disability, or any other similar ground is hateful; but the proudest boast of our free speech jurisprudence is that we protect the freedom to express “the thought that we hate.”
+Matal
+reinforces the principle that the government cannot ban hateful words unless, as I’ve
+explained
+, they’re uttered in the “context of a category of expression the Court already has carved out from constitutional shelter, such as fighting words, true threats and incitement to unlawful action or violence.”
+Social media platforms, however, are free to ban hate speech because they are private entities. As Justice Brett Kavanaugh
+explained
+in 2019, “the Free Speech Clause prohibits only
+governmental
+abridgment of speech. The Free Speech Clause does not prohibit
+private
+abridgment of speech.” (emphasis in original).
+Meta, which owns Facebook and Instagram, enforces a
+policy
+against “hateful conduct,” defined “as direct attacks against people—rather than concepts or institutions—on the basis” of 10 “protected characteristics,” including sexual orientation. Meta administers this rule despite significantly loosening its content-moderation policies in early January, as I previously
+addressed
+. Meta CEO Mark Zuckerberg
+explained
+that “too many mistakes” arose under its old system.
+The Oversight Board’s “Reclaimed Term in Drag Performance”
+decision
+illustrates that mistakes––especially regarding reclaimed words––are sometimes still made despite a hate speech policy’s good intentions. The Board
+describes
+the controversy as involving a person who:
+posted a video of themselves to Instagram wearing a red, glittery outfit and performing in a drag show. The caption underneath the video mentioned other Instagram users, acknowledging them for their support and participation. . . . In the post, the user refers to themselves as a “faggy martyr.”
+That final term caused Meta to remove the post
+because
+“the ‘f-slur’ remains on Meta’s list” of words that historically create an “atmosphere of exclusion and intimidation against people on the basis of a protected characteristic” (sexual orientation). Meta’s hateful conduct
+policy
+includes a reclamation exception that permits slurs when “used self-referentially or in an empowering way” so long as “the speaker’s intention is clear.”
+Therein lies a thorny problem with enforcing a policy that allows a word’s use in some instances but not others: How can a content moderator––human or algorithmic––always accurately determine a speaker’s intent? The speaker/poster here told the Board “they included the word ‘faggy’ . . . because it is a ‘reclaimed colloquial term that the queer community . . . uses all the time’” and “a joyous self-descriptor of which they are proud.”
+Meta acknowledged its mistake and restored the post after the Board called it to Meta’s attention. The Board nonetheless
+wrote
+that “[t]he potential for disproportionate errors in the moderation of reappropriated speech by queer communities and the subsequent impact of mistaken removals is a serious issue.” It decried “the impact of wrongful removals on the visibility and the livelihoods of queer performers.”
+If Meta didn’t enforce
+any
+hate speech policy, then such errors would
+never
+occur. It’s a damned-if-you-do, damned-if-you-don’t situation. The only foolproof solution is for platforms to fully embrace the First Amendment principle articulated in
+Matal
+and safeguard hate speech unless it’s used within the context of a constitutionally unprotected category of expression. Meta should consider that option.

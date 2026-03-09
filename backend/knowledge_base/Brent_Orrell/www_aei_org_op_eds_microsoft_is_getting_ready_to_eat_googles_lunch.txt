@@ -1,0 +1,54 @@
+PAGE_TITLE: 
+	Microsoft Is Getting Ready to Eat Google’s Lunch | American Enterprise Institute - AEI
+
+The new Bing Chat appears to be an existential threat to Google’s search dominance.
+You’ve heard, endlessly, about
+ChatGPT
+, but you may not have had a chance to look at its “child” Bing Chat, a Microsoft product in its testing phase that I got access to around midnight the night before last. Think of ChatGPT as a Ford Model T:
+1927 Ford Model T (Photo:
+Lglswe
+via Wikimedia Commons,
+CC BY-SA 3.0
+)
+Bing Chat is like a 1968 Lincoln Continental. You know, the one with the boss V-8 and suicide doors? One can only assume future models will see comparable leaps in performance and be even more luxurious and cool.
+1968 Lincoln Continental (Photo:
+Greg Gjerdingen
+via Wikimedia Commons,
+CC BY 2.0
+)
+Frankly, the improvement makes my hands shake.
+ChatGPT is a lot like early Wikipedia. For its first few years, Wikipedia was interesting, but only intermittently helpful. There was a reason that teachers in those days told kids not to rely on it for research projects. The information was thin and subject to the worst kinds of human biases. As we know, those problems were fixed over time, partly thanks to improvements in Wikipedia’s rules and partly because of the vast expansion of its crowdsourcing contributor base—and now Wikipedia is, for the most part, as good or better than any other encyclopedia, a solid foundation for finding deeper resource materials and subject to constant checking by competing perspectives.
+ChatGPT has some of the same limitations as early Wikipedia. The information feels thin, not much more than a sketch of a response to many questions it fields. Also, since it gives no footnotes or citations to support its assertions, some critics have labeled it a “
+bullshit generator
+” at least as it relates to natural language applications. But even with those limitations one could see this was a big leap from standard search engines and trust that in the coming months and years the underlying technology would become stronger and more supple and reliable and the database backing it more expansive.
+Well, we didn’t have to wait years or even many months. Bing Chat has already fixed several of the big weaknesses in ChatGPT. It delivers astonishingly detailed and nuanced responses to questions. Yesterday morning, I asked Bing Chat to explain to me the social and political impact of the introduction of telegraph technology on nineteenth-century America. Here’s some of what I got back:
+This isn’t just okay; it’s excellent both in terms of content and style. It has extensive footnoting for further investigation. And it generates additional questions so the user can explore related issues. Functionally, it is doing a kind of “thinking” and “researching” for the user and offering new lines of inquiry.
+Using Bing Chat, I learned more about something called the “industrial metaverse” in about five minutes than I had in twenty minutes of traditional searching. From the standpoint of knowledge work, Bing Chat is not just
+not
+a “bullshit generator,” it’s a productivity multiplier. Among many other fields that will be affected, the opinion-publishing business is about to go crazy as writers become able to churn out vastly more text, and potentially more interesting text, in shorter periods of time.
+Bing Chat excels not just in the arcane but in the mundane as well. Yesterday, my son woke up with a sore throat and we decided he should stay home from school. Problem: It’s a new school and I didn’t have the attendance line number for reporting his absence. With no confidence that Bing could answer that question, I asked anyway. Not only did I get the number but Bing helpfully suggested that I could report the absence by email and provided the address. This avoided a call, a phone tree, and an interminable voicemail box message asking for the specifics of the illness (“nausea, fever, pink eye”), saving both time and annoyance and allowing me to deliver the precise information to its intended audience, done and dusted, in about thirty seconds. In other words,Bing’s
+response
+was better than my question merited and vastly more efficient.
+And again: This is a 1968 Lincoln. Just wait until the latest-model Tesla shows up.
+Last week, I asked Microsoft president Brad Smith about Bing Chat in a small group meeting. He talked for a few minutes about how Microsoft’s underlying partnership with ChatGPT’s creators at OpenAI has developed over the past few years and how Bing Chat and ChatGPT are related behind the scenes.
+Smith pointed out that when the media reports a $10 billion Microsoft investment in OpenAI, that doesn’t mean the company is just sending checks to its partner. Rather, these investments are in the high-end servers that process user queries, the buildings that house them, and the very expensive (everyone seems reluctant to talk about
+how
+expensive) “compute-time” required to generate responses. The same morning,
+Business Insider
+ran an
+article
+comparing the results of ChatGPT and Bing Chat. I asked Smith if Bing was based on GPT3 tech, why the answers were so different. Smith replied that Bing uses “Prometheus.”
+So what is Prometheus? Let’s ask Bing Chat, shall we?
+The second part of Smith’s answer was more prosaic. OpenAI’s model only incorporates knowledge up to 2019 while the corpus that informs Bing Chat includes the past three or so years. Expanded knowledge, plus accelerating technology in the form of the fastest microchips and servers, plus the Prometheus software equals a substantial leap between “parent” and “child.” Smith used the example of asking whether a new TV in its box would fit into the back of a particular model of car. Bing answered that it would but specified the buyer would need to fold down the back seat.
+The opening of Bing Chat to the public, which will occur gradually in the coming weeks as Microsoft builds out capacity, played out against Google’s frantic catch-up effort to get back into a game it has dominated since the advent of internet search. In response to the Microsoft-OpenAI combine, Google has declared a “
+code red
+” (insert Jack Nicholson voice: “You can’t handle the search!”) and promised it is rolling out a whole bunch of new AI-infused tools for search and other activities. So far, this has been mostly talk and rehashing of previously announced technology. In one particularly unfortunate moment in its
+Paris announcement
+last week, a demonstration short-circuited when the phone needed to show a new product
+couldn’t be located
+. That was in addition to Google’s new “Bard” embarrassingly giving the
+wrong answer
+to a query at a demonstration.
+Never count Google out, of course. Search has been its bread and butter—hell, it’s been its five course dinner—and the company has more data than God to train AI models on. It could dispatch Microsoft as it has in
+previous
+skirmishes. Nonetheless, Google search has gotten stale. The results feel less useful now than a decade ago, thanks to fake pages cluttering up the results—and the advertisements, which provide most of the company’s revenue, have increasingly made Google Search more cumbersome to use. Assuming Microsoft can continue to maintain and improve its Bing Chat, I would gladly fork over a substantial subscription fee to be freed from Google’s monopoly. If Google doesn’t have something truly amazing up its sleeve, and deliver it soon, Microsoft is going to be feasting on its lunch.

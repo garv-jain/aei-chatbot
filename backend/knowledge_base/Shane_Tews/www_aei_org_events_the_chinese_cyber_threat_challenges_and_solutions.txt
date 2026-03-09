@@ -1,0 +1,15 @@
+PAGE_TITLE: 
+	The Chinese Cyberthreat: Challenges and Solutions | American Enterprise Institute - AEI
+
+Full Event Transcript
+Event Summary
+Recent intrusions, such as the Office of Personnel Management’s data breach, have highlighted the importance of US cyber policy. On July 22, Sen. Cory Gardner (R-CO) joined AEI’s Mackenzie Eaglen to discuss how the United States can defend against China’s growing cyber capabilities.
+Sen. Gardner articulated the need for the US to hold those responsible for the attack accountable. He argued that the United States needs a whole-of-government cyber strategy, which would clarify punitive measures for future attacks.
+During the expert panel that followed, FireEye’s Richard Bejtlich explained how cybersecurity companies are overcoming the problem of attribution, noting how Mandiant publicly identified the unit of the People’s Liberation Army responsible for cyberattacks. He emphasized the importance of tracking and expelling threats once they are inside to prevent network intrusions from becoming harmful breaches.
+Hunton & Williams LLP’s Paul Tiao discussed how businesses are protecting themselves from intrusions, including reorganizing to accommodate informational security policy. He concluded, however, that companies can do little if a foreign government is determined, demonstrating the need for US government intervention. Both panelists agreed that the US government needs to develop deterrent strategies against cyber intrusions from nation-state actors.
+–Peter Liu
+Event Description
+US investigators are blaming China for the Office of Personnel Management cyberattack that stole more than 21.5 million US federal employees’ personal information. The attackers appear to be the same Chinese hackers who targeted Anthem this past February, stealing the data of as many as 80 million customers. Yet China’s cyber victims are not limited to government workers and consumers, as Chinese actors are probing American firms, military, and critical infrastructure.
+In the absence of international norms guiding the use and deterrence of cyberattacks, what can the United States do to counter Chinese cyberespionage? Join AEI for a conversation with Chairman Cory Gardner (R-CO), followed by an expert panel on how to defend US economic and security interests from China’s growing cyber capabilities.
+If you are unable to attend, we welcome you to watch the event live on this page. Full video will be posted within 24 hours.
+VIDEO

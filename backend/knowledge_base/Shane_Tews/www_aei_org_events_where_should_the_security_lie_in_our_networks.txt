@@ -1,0 +1,18 @@
+PAGE_TITLE: 
+	Where Should the Security Lie in Our Networks? | American Enterprise Institute - AEI
+
+VIDEO
+Event Summary
+On November 8, AEI’s Shane Tews hosted an event to discuss the state of cybersecurity for the Internet of Things (IoT)—the network of online-enabled devices that autonomously communicate with one another.
+Katerina Megas of the National Institute of Standards and Technology explained the institute’s recent IoT device security baseline. Ms. Megas argued that the transparency of device security should be provided to enhance informed consumer choice.
+Brian Scriber of CableLabs described how distributed denial-of-service attacks are a frequent tool for hijacking IoT networks and what security professionals can do to mitigate or prevent them. He also argued that it is not sufficient for networks to be secure, devices must be secure as well.
+Phil Englert of the Health Information Sharing and Analysis Center discussed the limits between software maintenance and IoT device hardware. Old hardware will make even the most up-to-date software impotent, so the industry should optimize for hardware longevity.
+Paul Eisler of USTelecom brought in the disparity between large corporations and small businesses in their capacity to mitigate cyberthreats to their IoT. While big corporations have the resources and protocols to ensure higher levels of security, small businesses don’t, thereby making them vulnerable to attack.
+—Jake Easter
+Event Description
+Continued technological innovation has expanded the Internet of Things (IoT) to encompass more connected devices, delivering convenience and efficiency to households and key economic sectors. However, more connected devices equals a larger attack surface for malicious actors. We need a baseline level of security to give consumers confidence that their IoT devices are secure.
+However, not all network providers agree on where to place security standards. Should security at the network level be the top priority, or do we also need standards at the device, end-user, and router levels?
+Join AEI’s Shane Tews for a panel discussion on what effective IoT security standards would look like and what government and industry leaders are doing to bring them about.
+If you are unable to attend, we welcome you to watch the event live on this page. After the event concludes, a full video will be posted within 24 hours.
+Event Materials
+Event Transcript

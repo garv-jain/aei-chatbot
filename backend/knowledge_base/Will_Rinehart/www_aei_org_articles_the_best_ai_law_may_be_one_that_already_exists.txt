@@ -1,0 +1,81 @@
+PAGE_TITLE: 
+	The Best AI Law May Be One That Already Exists | American Enterprise Institute - AEI
+
+I find myself increasingly sympathetic to William F. Buckley Jr. and his inclination to stand “athwart history, yelling Stop, at a time when no one is inclined to do so.” In AI regulation, we desperately need restraint.
+The amount of proposed legislation aimed at AI is staggering. Multistate.ai, a government relations company tracking AI legislation,
+identified 636 state bills in 2024
+. It’s not even February and there are already 444 state-level bills pending.
+Legislators are trying to get ahead of AI by passing bills. It’s an effort to right the wrong of supposedly taking a hands-off approach to social media regulation. Although I’ve always been skeptical of this simple narrative, the result has been a lot of ill-conceived AI bills.
+I’ve been paying close attention to bills in Texas and Virginia that would grant extensive new power to regulate AI. But
+instead of new laws, leaders could make sure that consumer protection and anti-discrimination laws apply to AI by plugging any gaps. The
+Massachusetts Attorney General
+made clear in an advisory that the state would extend its expansive policing power to AI systems.
+Meanwhile, the federal government alone has issued more than 500 advisories, notices, and other actions to extend regulatory power over AI. The Federal Trade Commission has opened an
+investigation into AI companies
+, and
+dozens of copyright cases are being adjudicated
+. But to legislators, none of that is as satisfying as a new statute.
+In our haste to regulate American innovation, we risk sacrificing the very technological preeminence that has defined our nation’s modern character. Early adoption of tech has
+traditionally resulted in higher incomes
+, more manufacturing jobs, and growth in related industries. In Texas and especially Virginia, data centers are being built, jobs are being created and tax bases are growing, so it is unclear why leaders would want to jeopardize that, just to be the first out of the gate.
+I feel, as my dad would often say, that
+we’re cruising for a bruising
+.
+The pacing problem.
+Here’s a common question I’m asked: Government runs slow and AI businesses are running fast, so is the government keeping up? While our technological capabilities sprint ahead, our social and legal frameworks merely power-walk behind.
+The pacing problem
+lies at the heart of AI regulation. Analyst
+Adam Thierer put together
+the graph below that captures the idea.
+Chart courtesy of Adam Thierer.
+But I think people are looking at the pacing delta wrong. Changing regulatory regimes for every new innovation could mean that you get governance wrong. There is value in waiting to see where problems arise. In nascent markets and with new technologies, oftentimes the best response to a widening pace gap is to wait and maintain regulatory options, rather than rushing to close the gap with potentially premature regulation.
+Finance has a concept that captures this flexibility.
+Real options
+are a kind of investment choice that a company can undertake to respond to changing economic, technological, or market conditions. To be specific, a real option gives a firm’s management the right, but not the obligation, to undertake certain business opportunities or investments. Real options create value beyond the immediate investment by assigning a value to flexibility in the face of uncertainty.
+As economists
+Bronwyn H. Hall and Beethika Khan explained
+,
+The most important thing to observe about this kind of [investment] decision is that at any point in time the choice being made is not a choice between adopting and not adopting but a choice between adopting now or deferring the decision until later.
+This same principle applies to regulation. Regulators can act now or hold back their authority in reserve for future use when there is new information. The total value of a new regulation, therefore, includes both its immediate net benefits and the value of preserving future regulatory flexibility. Just as businesses use real options to manage uncertainty in fast-changing markets, regulators should think strategically about their option to wait.
+Still, what I’ve presented is the best case for those worried about the pacing problem. AI regulation on the ground is different than the law books might suggest. There are
+more than 500 AI-relevant regulations, standards, and other governance documents
+at the federal level; countless algorithmic discrimination cases to rely upon; an open FTC investigation that’s looking into the dealings of Alphabet, Amazon, Anthropic, Microsoft, and OpenAI
+;
+consumer protection authority; product recall authority; as well as a raft of court cases, and on and on.
+An explicit statute is just one means of governance and it is often the least efficient in dynamic industries. Option theory suggests that regulators should wait to gather more evidence. That’s not what’s happening in Texas and Virginia.
+Texas and Virginia.
+I’ve been keeping a close watch on two state bills, one in Texas and another in Virginia, because I think they could be bellwethers for other states.
+The Texas Responsible AI Governance Act, or TRAIGA, is the more confusing of the two. You’d think red-state legislators would hesitate to
+model an AI bill
+after the European Union’s AI Act, the regulatory burden of which is known to add 17 percent to the total cost of AI deployment, and yet TRAIGA was filed.
+TRAIGA imposes a number of obligations for developers, distributors, and deployers of AI systems regardless of their size. Everyone along the pipeline is now subject to new restrictions, including model developers, cloud service providers, and deployers.
+Stargate
+—the AI venture backed by OpenAI, Oracle, and Japan’s SoftBank—is slated to be built in Texas and would be affected.
+In a first for state-level regulation, TRAIGA would require AI distributors to take reasonable care to prevent algorithmic discrimination, even though companies are already subject to anti-discrimination laws in finance, housing, education, and the like. It also bans AI systems deemed to pose unacceptable risks, particularly those that identify human emotions or capture biometric data without explicit consent. While enforcement would primarily rest with the state’s attorney general, private litigants could pursue legal action over banned AI systems.
+The bill would birth yet another regulatory body, the Texas Artificial Intelligence Council, armed with broad powers to issue binding rules on “ethical AI development and deployment.” If those vague terms make you nervous, they should. The legislation would give unelected officials
+carte blanche
+to define ethics in AI, all while cases about AI’s basic legal status are still working their way through the courts.
+Among other concerns, TRAIGA’s construction feels actively blind to the precedents set in algorithmic discrimination cases in the past couple years, including the Department of Justice’s win over Meta on bias in housing ads and the Federal Trade Commission’s
+settlement with Rite Aid on algorithmic unfairness
+. Both confirmed that AI systems would be subject to anti-discrimination law.
+Dean Ball of the Mercatus Center, who is great on AI policy, also points out that
+TRAIGA’s compliance requirements are particularly burdensome
+:
+On top of this, TRAIGA requires developers and deployers to write a variety of lengthy compliance documents—“High-Risk Reports” for developers, “Risk Identification and Management Policies” for developers and deployers, and “Impact Assessments” for deployers. These requirements apply to any AI system that is used, or could conceivably be used, as a “substantial factor” in making a “consequential decision.” … The Impact Assessments must be performed for every discrete use case, whereas the High-Risk Reports and Risk-Identification and Management Policies apply at the model and firm levels, respectively—meaning that they can cover multiple use cases. However, all of these documents must be updated regularly, including when a “substantial modification” is made to a model. In the case of a frontier language model, such modifications happen almost monthly, so both developers and deployers who use such systems can expect to be writing and updating these compliance documents constantly.
+Kafka would be proud.
+Virginia’s
+House Bill 2094
+, the High-Risk Artificial Intelligence Developer and Deployer Act, shares commonalities with the Texas bill. Like its Lone Star State cousin, HB 2094 borrows heavily from the EU’s regulatory playbook. The bill also has wobbly language that would need to be defined
+in court like  “consequential decisions,” “substantial factors,” and “high-risk” applications. And like the Texas law, the Virginia law seems blissfully unaware that we already have many tools to address their stated concerns, from consumer protection laws to civil rights statutes
+,
+and even state-level privacy laws. Why not start there?
+What should states be doing?
+So what type of regulation should states be pursuing instead? When it comes to Virginia,
+Thierer has the right idea
+:
+Rather than adopting HB 2094 and creating new, burdensome regulatory requirements, Virginia should instead look to modify existing laws as needed to ensure they cover algorithmic systems. For example, measures like HB 2411 would give the Department of Law a Division of Consumer Counsel the ability to “establish and administer programs to address artificial intelligence fraud and abuse.” Another proposal, HB 2554, would require new disclosure requirements for AI-generated content such that any generative artificial intelligence system produced content includes “a clear and conspicuous disclosure.” While these laws would add some new regulatory requirements and budgetary expenditures, these measures at least have the benefit of being somewhat more focused in scope and intent than the open-ended nature of HB 2094.
+In seeking appropriate AI regulation, legislators should follow three guiding principles.
+First, they should focus on actual harms rather than theoretical boogeymen. The courts and existing consumer protection frameworks are already handling algorithmic discrimination cases. The system is working, maybe not as fast as some would like, but it’s working. Adding another layer of state-specific rules doesn’t solve real problems if those problems don’t exist.
+Second, legislators should be leveraging existing legal frameworks. They don’t need to reinvent the legal wheel for every new technology. The beauty of common law is its adaptability. Courts have been handling new technologies for centuries without needing special AI councils or novel regulatory frameworks. Massachusetts showed the way by simply clarifying that existing consumer protection laws apply to AI. Sometimes the best solution is the one you already have.
+Third, state lawmakers shouldn’t outsource the hard work of legislating to a new agency, as TRAIGA does. When legislators punt their responsibilities to unelected bureaucrats, the result can be a regulatory mess, especially if an agency head comes along and tightens the screws on everyone.
+The ghost of social media regulation haunts our statehouses, driving legislators to action when patience might serve them better. In their rush to avoid past mistakes, they risk making entirely new ones. The bills in Texas and Virginia are just two such examples. But we don’t need new regulatory bodies or endless paperwork requirements to govern AI. We need the wisdom to recognize that our existing legal framework is more robust and adaptable than we give it credit for and the patience to let it work. Let’s hope our state legislators can learn that lesson before they regulate American innovation right into the ground.

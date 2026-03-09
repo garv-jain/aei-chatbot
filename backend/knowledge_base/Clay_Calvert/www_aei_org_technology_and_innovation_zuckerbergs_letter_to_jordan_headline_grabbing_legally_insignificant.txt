@@ -1,0 +1,62 @@
+PAGE_TITLE: 
+	Zuckerberg’s Letter to Jordan: Headline Grabbing, Legally Insignificant | American Enterprise Institute - AEI
+
+The dust is settling from this week’s
+headline-grabbing release
+of Mark Zuckerberg’s
+letter
+to House Judiciary Committee Chairman
+Jim Jordan
+in which Meta’s CEO called “wrong” repeated pressure by Biden administration officials to have Facebook “censor certain COVID-19 content.” Zuckerberg also expressed “regret that we were not more outspoken about it” and lamented making “some choices” that “we wouldn’t make today.”
+While some Republicans lawmakers are
+making political hay
+out of Zuckerberg’s letter, did he say anything that might have moved the legal needle in favor of the plaintiffs’
+First Amendment
+case against the government over such
+jawboning
+pressure in
+Murthy v. Missouri
+? The
+Wall Street Journal’s
+James Freeman
+suggested
+the answer might be yes, opining that Zuckerberg now could be just the right person to “mount a new court challenge against the Biden-Harris administration.”
+Via Reuters
+Zuckerberg’s statements, however, would not have helped the plaintiffs if he’d issued them prior to the
+US Supreme Court
+tossing out the case on June 24. In fact, when cynically viewed, Zuckerberg’s letter amounts to little more than a sop to appease Republicans as President Joe Biden and his team prepare to exit the Oval Office. Zuckerberg’s
+professed
+desire “to be neutral” in the presidential election arrives as X’s Elon Musk
+pulls harder
+for Republican nominee Donald Trump.
+So, why wouldn’t Zuckerberg’s letter have been a
+legal smoking gun
+or played a
+Perry Mason moment
+role had he published it before
+Murthy
+was argued and decided? Setting aside the obvious answer that a six-justice majority of the Court found the plaintiffs lacked
+standing
+to seek an injunction in the first place, the reality is that Zuckerberg didn’t mention any of the magic words like coercion or threats of retaliation that would make the government’s verbal pressure unlawful.
+The Supreme Court’s unanimous decision this May in
+National Rifle Association v. Vullo
+set forth the rule or test for separating permissible persuasion from unlawful expression: “Government officials cannot attempt to coerce private parties in order to punish or suppress views that the government disfavors.” In penning the Court’s opinion, Justice Sonia Sotomayor
+added
+that a statement must “reasonably [be] understood to be a coercive threat.”
+She quoted favorably the Court’s six-decade old decision in
+Bantam Books, Inc. v. Sullivan
+for the proposition that “a government entity’s ‘threat of invoking legal sanctions’” constitutes such coercion. Additionally, Sotomayor
+wrote
+that demonstrating there was “a threat of adverse gov­ernment action in order to punish or suppress the plaintiff’s speech” is essential for bringing a successful “claim that the government violated the First Amendment through coercion of a third party.” On the other hand, Sotomayor observed that
+[a] government official can share her views freely and criti­cize particular beliefs, and she can do so forcefully in the hopes of persuading others to follow her lead. In doing so, she can rely on the merits and force of her ideas, the strength of her convictions, and her ability to inspire others.
+Although distinguishing between the two may lie in the partisan eyes of the beholder, pressure is permissible but coercion is not. What did Zuckerberg
+say
+in his likely well-lawyered letter? That Biden administration officials “repeatedly pressured our teams for months” and “expressed a lot of frustration with our teams when we didn’t agree” with their views. Zuckerberg carefully uses variations of the word “pressure” four times in the five total sentences (and one paragraph) where he addresses censorship of COVID-19 content. That’s called pounding a point home.
+There is absolutely no mention in Zuckerberg’s letter of “coercion” and no reference to “threats” of adverse consequences if Meta failed to comply with the government’s pressure. In fact, Zuckerberg makes it clear Meta’s censorial decisions were
+not
+those of the government: “Ultimately, it was our decision whether or not to take content down, and we own our decisions, including COVID-19-related changes we made to our enforcement in the wake of this pressure.” Zuckerberg’s assertation that he personally believes “the government pressure was wrong” is legally meaningless.
+The bottom line is Zuckerberg now says he didn’t like what the government did, but that any determinations to remove content were Meta’s alone. He
+promises
+“to push back if something like this happens again.” This all may be smart politics and make good business sense during an election year with a close race for both president and control of Congress, but it would have failed to help the plaintiffs’ case in
+Murthy
+.

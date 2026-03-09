@@ -1,0 +1,130 @@
+PAGE_TITLE: 
+	The Four Fault Lines in AI Policy | American Enterprise Institute - AEI
+
+For a while in my life, I thought I wanted to be a communications professor. I even pursued a master’s in new media and communication studies for two years. That time resulted in some bittersweet memories—I never finished this graduate degree, opting instead to study economics later—but one of the best things it gave me was a proper liberal arts education.
+I read
+Foucault
+,
+Habermas
+,
+Bauman
+, and countless other scholars (and charlatans). I studied the history of media, and how democracy interacts with technology—the classics for tech policy. And especially relevant to today’s fights over artificial intelligence, I was also exposed to what was back then the latest technical methods: semantic analysis, early natural language processing,
+word count methods
+, and
+latent analysis
+, among others.
+So for the last decade, I have been following developments in AI from afar, reading a technical paper here and there, and writing about the issue when it intersects with public policy. Just a couple of years ago, as the AI conversation centered on predictions of massive job losses,
+I observed
+the following:
+The conflict over the competing methodologies points to a much deeper problem that policymakers should understand. Not only is there a lack of consensus on the best way to model AI-based labor changes, but more important, there is no consensus as to the best policy path to help us prepare for these changes.
+That world no longer exists. What’s changed since 2019 is that a new interest group that focuses on AI has cropped up. In a
+series
+of
+posts
+,
+Politico
+’s Brendan Bordelon has reported on how “a small army of adherents to ‘effective altruism’ has descended on the nation’s capital and is dominating how the White House, Congress and think tanks approach the technology.” Andrew Maranz called them “
+AI doomsayers
+” in
+The New Yorker.
+They are connected to tech, often have ties with the effective altruism (EA) movement or to the
+rationalist movement
+, are singularly focused on AI, and are relatively new to policy in general.
+In the past year, I’ve had probably a dozen meetings with people loosely affiliated with this group. Today’s edition of
+Techne
+is a high-level report of sorts from these conversations. Maybe it’s because I just picked up
+his new book
+, but I’m reminded of a phrase economist Glenn Loury sometimes repeats: “The sky isn’t falling, the tectonic plates are shifting.”
+Here are four fault lines in AI policy.
+The two cultures of D.C. and San Francisco.
+AI policy often echoes the
+misunderstood Kipling line
+: “Oh, East is East, and West is West, and never the twain shall meet.” In the East—in Washington, D.C., statehouses, and other centers of political power—AI is driven by questions of regulatory scope, legislative action, law, and litigation. And in the West—in Silicon Valley, Palo Alto, and other tech hubs—AI is driven by questions of safety, risk, and alignment. D.C. and San Francisco inhabit
+two different AI cultures
+.
+There is a common trope that policymakers don’t understand tech. But the obverse is even more true: Those in tech aren’t often legally conversant. Only once in those dozen or so conversations did the other person know about, for example, the First Amendment problems with all AI regulation, and that’s because he read my work on the topic. As I said in my piece, “
+Would It Even Be Constitutional to Pause AI?
+”
+Discussions surrounding the AI pause idea have similarly neglected the essential legal foundations. In September,
+the Effective Altruism Forum
+held a symposium on the AI pause. While there were many insightful arguments, underscoring the ethical, societal, and safety considerations inherent in the continued advancement of AI, there was no discussion on the legal underpinnings that would implement a ban. The Forum has been one of the primary outlets for the AI safety community,
+along with Less Wrong
+, and yet, when searching both sites for the key legal cases that might interact with an AI pause, nothing comes up.
+The problem is quite serious. California’s proposed SB 1047, which would regulate the most advanced AI models, likely violates the First Amendment and the Stored Communications Act at a minimum, as well as the dormant Commerce Clause. (
+The May 9 edition of
+Techne
+was all about SB 1047, by the way!) And yet, few seem to care that the bill will probably not survive the courts. A lack of legal understanding is a very odd blind spot to have when trying to enact federal and state policy.
+AI timelines and probabilities.
+What’s been most surprising about these conversations is that
+existential risk
+, or x-risk, is the prime motivator for nearly everyone.
+If you’re in the know, you know x-risk denotes an extreme risk. It is the worry that an AI agent might go rogue and cause astronomically large negative consequences for humanity such as human extinction or permanent global totalitarianism. Sometimes this is expressed as p(doom) or the probability of doom.
+And the p(doom) origin stories are all typically similar:
+I worked on AI tech or close to it, saw what it was capable of, I saw the growth in capability, learned about x-risk, and now I want guardrails.
+Most people I encountered had very concrete dates for when they thought artificial general intelligence (AGI) would be achieved. In practice, however, we tended to discuss whether or not prediction markets are correctly estimating this event. Metaculus, a popular prediction market,
+is currently predicting
+AGI will be achieved on May 24, 2033.
+Beyond AGI is the notion of an artificial superintelligence (ASI). Philosopher Nick Bostrom popularized the term, defining it in
+a 1997 paper
+as intelligence “much smarter than the best human brains in practically every field, including scientific creativity, general wisdom and social skills.” But writer Eliezer Yudkowsky (Yud for short) took this idea and ran with it. In what he dubbed the
+“hard takeoff” scenario
+, Yud explained that AI might reach a point where “recursive self-improvement” is possible with “an exactly right law of diminishing returns that lets the system fly through” progress. In this scenario, when “AI go FOOM,” there is a discontinuity, in the way that “
+the advent of human intelligence was a discontinuity with the past
+.” However, progress between AGI and ASI might not occur via a hard takeoff (or “FOOM”). ASI might take longer, from perhaps 2029 to 2045 in what is known as a “soft takeoff.” Or, it might not be possible to achieve at all.
+The construction of x-risk.
+Broadly speaking, all of the conversations tended to follow some common lines of questions:
+When will AGI occur? Is your prediction faster or slower than the markets and everyone else?
+Do you think ASI is possible? If so, when will that occur? Will we experience FOOM or a slow takeoff?
+What is the relationship between FOOM and x-risk? Does FOOM mean higher x-risk?
+Most everyone I talked with thought that prediction markets were underestimating how long it would take to get to AGI. But more importantly, they strongly disagreed about the relationship between all of these timelines and x-risk. There seems to be a common assumption that faster development times between AGI and ASI necessarily mean a high risk for doom.
+Color me skeptical. I tend to agree
+with economist Tyler Cowen
+, who wrote,
+When people predict a high degree of existential risk from AGI, I don’t actually think “arguing back” on their chosen terms is the correct response.  Radical agnosticism is the correct response, where
+all
+specific scenarios are pretty unlikely.
+He continued,
+Existential risk from AI is indeed a distant possibility,
+just like every other future you might be trying to imagine
+.
+All the possibilities are distant
+, I cannot stress that enough. The mere fact that AGI risk can be put on a par with those other also distant possibilities simply should not impress you very much.
+And there are a lot of possibilities. So I tend to take the advice of math professor Noah Giansiracusa, who warned that “so many people rush to state their p(AI doom) without defining what the heck this is. A probability estimate is meaningless if the event is not well defined.” Defining x-risk is critically important.
+“We’ve got to get ahead of it.”
+I was recently at an event at the Bipartisan Policy Center, a Washington think tank, listening to a talk from Sen. Amy Klobuchar about AI deep fakes. She offered a call for action that I have heard over and over in my discussions: “We’ve got to get ahead of it.”
+Nathan Calvin, senior policy counsel at the Center for AI Safety Action Fund and supporter of California’s SB 1047, which I discussed previously at
+Techne
+, framed the issue in a similar way,
+saying
+,
+AI is poised to fuel profound advancements that will improve our quality of life but the industry’s potential is hamstrung by a lack of public trust. The common sense safety standards for AI developers in this legislation will help ensure society gets the best AI has to offer while reducing risks that it will cause catastrophic harm.
+Generally, this notion is known as the “precautionary principle.” Economists Kenneth Arrow and Anthony Fisher formalized the idea in a
+1974 paper
+that showed risk-neutral societies should favor precaution since it allows for more flexibility in the decision space in the future. But there is one significant caveat to this line of logic that was
+critically added
+by Avinash Dixit and Robert Pindyck in 1994: Being risk-neutral in the decision space can come at the expense of potential returns, since not making a decision has a cost, after all. The same logic applies to innovation. There is a clear time value to innovation that often isn’t properly accounted for with treatments of the precautionary principle. There is an opportunity cost embedded in the precautionary principle.
+The assumption behind Arrow and Fisher’s research, the precautionary principle more generally, and most everything that follows is built on risk neutrality.
+I tend to think that we should be more culturally tolerant of risk. If, for example, advanced AI reduces mortality, then we should be willing to bear even large
+existential risks
+. I also tend to care a lot more about growth. By hesitating to adopt new technologies or approaches because of uncertainty about their long-term consequences, societies may forego potential gains in efficiency, productivity, and quality of life.
+Apple just recently rolled
+out its latest update to the iPhone operating system and didn’t include its AI product in Europe because of the strict regulations. Bad laws are a real threat.
+The challenge becomes striking a balance between prudence and progress. But for what it’s worth, we should be pressing the pedal on progress.
+And then there is everything else.
+Of course, there’s a lot more than just these four fault lines.
+For one, I tend to find that most overestimate just how easy it will be to implement an AI system. Again, I’m skeptical because it’s not easy to transition to new production methods,
+as I have explained in
+Techne
+before
+. One
+new report from UpWork
+found that, “Nearly half (47%) of workers using AI say they have no idea how to achieve the productivity gains their employers expect. Over three in four (77%) say AI tools have decreased their productivity and added to their workload in at least one way.” When I pressed this point in conversations, about half of the people I talked to said that AI would be frictionlessly adopted. That seems wrong.
+People also seem to be split on open source. Some thought it just exacerbated x-risk while others thought it could be a useful corrective. For my own part, I’m fairly pro-open source because I think it is part of the project of searching for safe AI systems. And in an odd alignment of interests,
+Sen. J.D. Vance
+, Federal Trade Commission Chair
+Lina Khan
+, and
+the National Telecommunications and Information Administration
+(NTIA) at the Department of Commerce have been supportive of open source for competitive reasons. For a fuller treatment of this idea, check out analyst Adam Thierer’s
+article explaining why
+regulators “are misguided in efforts to restrict open-source AI.”

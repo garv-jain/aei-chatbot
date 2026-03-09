@@ -1,0 +1,38 @@
+PAGE_TITLE: 
+	Adults, Minors, and Access to Online Pornography: SCOTUS Weighs the Interests | American Enterprise Institute - AEI
+
+When it comes to free speech rights, the United States has only one First Amendment, but it also has two classes of citizens who receive different levels of protection under it—minors and adults. In this age-based rights system, minors are second-class citizens. For example, they have scant constitutional protection to access sexually explicit content. In contrast, adults may freely purchase and view such material provided it doesn’t fall into one of two categorical carveouts from First Amendment coverage ––
+obscenity
+and child pornography (also known as
+child sexual abuse material
+or CSAM).
+Via Adobe
+This two-tier rights system is wholly logical. Almost no one wants children to be exposed to the content in an adult video, but consenting adults have a First Amendment right to view it. Indeed, the US Supreme Court ruled more than 55 years ago in
+Ginsberg v. New York
+that minors can be blocked at brick-and-mortar stores from buying “‘girlie’ picture magazines” that “are not obscene for adults.” The case fostered something called variable obscenity: The government may block minors’ access to sexual content deemed
+harmful to them
+but that does not constitute unlawful obscenity when adults see it. As
+a textbook
+I co-author explains, “variable obscenity laws allow
+Hustler
+to be sold to adults but not to minors.”
+In the physical world, shielding minors from non-obscene, sexually explicit content while simultaneously letting adults access it typically is accomplished by relatively primitive mechanisms. Consider blinder racks––the opaque covers placed on magazine racks that typically block people from seeing the bottom two-thirds of a print publication’s cover but still allow the viewing of the adult publication’s name at the top. Minors can’t see the adult content behind the blinders, but adults know the names of the magazines they can purchase.
+Or think about your favorite (and now likely long shuttered) neighborhood video rental store. It probably kept adult DVDs and VHS tapes (if it even carried them) in a small separate room or cordoned-off space only adults could access. That’s an old-school example of balancing the interests: protecting minors while respecting the First Amendment rights of adults. In contrast, if the government completely banned access for everyone––adults included––to shield minors from otherwise lawful pornography, that wouldn’t balance the interests. Instead, it would (as the Supreme Court memorably
+put it
+) “burn the house to roast the pig” and reduce the scope of First Amendment protection to safeguarding only expression that’s fit for children.
+The closely cabined First Amendment rights of minors are placed in significant tension with adults’ fully robust rights when the government adopts online age-verification laws to shield minors from viewing non-obscene, non-CSAM content. These laws entail much more than just requiring young looking adults to flash an ID to a clerk at a checkout counter to prove they’re at least 18 years old to buy an adult magazine. My AEI colleague Daniel Lyons cogently
+explained
+last year that:
+online age verification requires all users to submit identification—which . . . can have a significant chilling effect on protected speech. Adults who have the right to view such material may be interested in doing so anonymously but be deterred by having to provide identification, either because they do not wish to identify themselves in ways that reveal their sexual preferences, or because they fear identity theft.
+Thus, while almost everyone agrees that protecting minors from sexually explicit content like the kind found on adult websites constitutes a compelling government interest, the more difficult constitutional question is this: How much of a burden can a statute permissibly place on an adult’s right to view lawful pornography in order to stop minors from seeing it? When does a law aimed at safeguarding minors place excessive obstacles on, or so seriously chill, the First Amendment rights of consenting adults that it is unconstitutional?
+The US Supreme Court will resolve those questions late this spring after it heard
+oral arguments
+last week in
+Free Speech Coalition v. Paxton
+. The case centers on the constitutionality of a Texas online age-verification
+statute
+designed to protect minors from sexual content Texas that defines as “harmful to minors.” The
+Free Speech Coalition
+, an adult industry trade association, filed the lawsuit on behalf of adults. A central issue is whether the law must surmount the rigorous
+strict scrutiny
+standard of judicial review or a less demanding test that would allow Texas to impose greater burdens on adults’ rights while protecting minors. Another issue that arose during arguments was whether either content-filtering software or device-based blocking mechanisms provide an effective alternative means of safeguarding minors such that online age-verification requirements are unnecessary and, if strict scrutiny applies, are also unconstitutional. As they said in the pre-Internet era, stay tuned.

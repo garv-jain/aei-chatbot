@@ -1,0 +1,76 @@
+PAGE_TITLE: 
+	Taking Stock of the Supreme Court’s Upcoming NetChoice Cases, Part II | American Enterprise Institute - AEI
+
+The
+Supreme Court
+decided
+late this past September to examine the
+First Amendment
+speech rights of social media platforms in the face of recent state mandates compelling them to host content, interfering with how they moderate it, and preventing them from jettisoning political candidates who violate their standards about acceptable speech. The cases of
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+involving Florida and Texas statutes, respectively, provide the vehicles for addressing these constitutional concerns.
+The
+first post
+in this two-part series described the issues in the cases and summarized the statutes facing the Court. This post explains why the choice to hear the cases was unsurprising and addresses several matters the Court likely will confront when analyzing them.
+Via Adobe Stock
+The decision to review the cases was widely expected for several reasons. First, there was a clear disagreement—a
+split of authority
+—between the 11th and Fifth Circuits regarding the constitutionality of substantially similar content moderation and individualized explanation mandates. Such
+circuit splits
+up the odds of the Court taking cases. Second, three conservative-leaning justices indicated their willingness to consider the issues in a 2022
+opinion
+involving the Texas statutes, calling it “not at all obvious how our existing precedents, which predate the age of the internet, should apply to large social media companies.” Third, Justice Clarence Thomas predicted, in a 2021
+concurrence
+in a
+case
+about the constitutionality of Donald Trump blocking people from his personal Twitter account while president, that the Court would “soon have no choice but to address how our legal doctrines apply to highly concentrated, privately owned information infrastructure such as digital platforms.” Fourth, as I
+explained earlier
+, US Solicitor General
+Elizabeth Barchas Prelogar
+filed
+a brief
+in August urging the Court to take the cases to resolve the two issues it agreed to review. She weighed in after the Court in January telegraphed its interest in the cases by
+inviting
+her input.
+Now that the Court has accepted the cases, what are some issues it may address in resolving them? A few topics are highlighted below.
+Section 230
+. The Court agreed to hear only First Amendment questions about content moderation and individualized explanation requirements. It did
+not
+take any questions regarding
+Section 230
+of the Communications Decency Act. That
+statute
+generally shields platforms from liability for content that users post (third-party or user-generated content) while allowing platforms to remove, in good faith, “objectionable” content without facing liability.
+But this doesn’t mean Section 230 won’t be addressed. Indeed, Texas
+argues
+that platforms “cannot simultaneously demand First Amendment
+protection
+for [the] same conduct” for which they are given statutory protection under Section 230. (Emphasis in original.) Texas elaborates
+elsewhere
+that the statutory immunity from liability that platforms received under Section 230
+is grounded . . . on the factual premise that the Platforms—like telephone companies—are not responsible for the formation of their users’ speech. . . . It is . . . very difficult to square that factual premise with [NetChoice’s] insistence . . . that they have a First Amendment right to control what their users say.
+Texas
+contends
+that “for years, the Platforms have exploited Section 230 to avoid responsibility for user content because they supposedly operated as neutral ‘conduits’ when they host user speech.”
+Thus, while the Court didn’t accept a Section 230 question, Texas and Florida likely will inject that statute into the mix, making a “you can’t have your cake and eat it too” argument: that platforms are not simultaneously entitled to both First Amendment protection for their editorial decisions about content and federal statutory immunity from liability for others’ content.
+The Right Not to Speak
+. The First Amendment’s unenumerated right not to speak—the right not to be compelled by the government to convey disagreeable messages—will be pivotal to the Court’s analysis. That’s because the statutes collectively force platforms to: (1) convey messages that (and host speakers who) violate the platforms’ policies regarding acceptable expression, and (2) thoroughly explain to users why their content was removed. I addressed the right-not-to-speak issue
+earlier
+and
+discussed
+how the Court’s June decision in
+303 Creative v. Elenis
+may be crucial here.
+The Print-Newspaper Analogy
+. Closely related to the right-not-to-speak issue is whether platforms should possess the same First Amendment rights of editorial control and autonomy that the Court explicitly granted print newspapers in
+Miami Herald Publishing Co. v. Tornillo
+. The Court there held that Florida could not compel newspapers to print, free-of-charge, the replies of public-office candidates they had criticized. I’ve addressed
+Tornillo’s
+potential relevance
+elsewhere
+.
+Finally, the Court must decide the
+standard(s) of scrutiny
+it will use to evaluate the statutes’ constitutionality. It might adopt a more rigorous standard to evaluate the content-moderation requirements than it does the individual-explanation mandates, thereby rendering the former more likely to be declared unconstitutional.

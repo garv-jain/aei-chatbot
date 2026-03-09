@@ -1,0 +1,68 @@
+PAGE_TITLE: 
+	Minimalism Mingling with Maximalism: The Supreme Court on Social Media Regulation | American Enterprise Institute - AEI
+
+Examining the constitutionality of laws affecting speech on social media platforms, the
+US Supreme Court
+seems torn between issuing minimalistic decisions that sometimes even avoid a case’s substantive merits and making a combination of broad pronouncements and tangential observations that provide lower courts and lawmakers with guidance and guardrails.
+Consider the Court’s 2017 ruling in the
+First Amendment
+case of
+Packingham v. North Carolina
+. Delivering the Court’s opinion, Justice
+Anthony Kennedy
+cautioned that “[t]he forces and directions of the internet are so new, so protean, and so far reaching that courts must be conscious that what they say today might be obsolete tomorrow.” He wisely intimates that because jurists don’t know what lies ahead, they should tread gingerly—incrementally—when nurturing their emerging social media jurisprudence.
+Via Reuters
+Yet, in declaring invalid a statute that sweepingly banned registered sex offenders from accessing LinkedIn and “commonplace social media websites like Facebook and Twitter,” Kennedy went well beyond
+Packingham’s
+issues and facts. He
+proclaimed social media
+“the modern public square” and “the most important places . . . for the exchange of views,” supplanting geographic ones like streets and parks.
+Those maximal musings
+drew pushback
+from Justice Samuel Alito (joined by Chief Justice John Roberts and Justice Clarence Thomas) as “unnecessary rhetoric.” Although agreeing with Kennedy’s judgment declaring the law unconstitutional, Alito couldn’t “join the opinion of the Court . . . because of its undisciplined
+dicta
+. The Court is unable to resist musings that seem to equate the entirety of the internet with public streets and parks.” In short, Kennedy’s broad declaration wasn’t essential to resolve
+Packingham
+.
+Fast forward to 2024 and the Court’s decision in the content-moderation case of
+Moody v. NetChoice
+I
+addressed
+earlier. Florida, defending a statute that interferes with large social media platforms’ ability to host and arrange content as they see fit, opened its
+January 2024 high-court brief
+as follows: “The rise of internet platforms as ‘the modern public square,’
+Packingham v. North Carolina
+, . . . has brought with it new challenges.” That’s evidence, perhaps, supporting Alito’s frets about a dab of superfluous
+obiter dictum
+influencing internet regulation. Yet—ironically—Alito in
+Moody
+cited favorably Kennedy’s dicta he’d earlier criticized,
+writing
+that “[a]s the Court has recognized, social-media platforms have become the ‘modern public square.’”
+In
+Moody
+, dicta in Justice Elena Kagan’s majority opinion prompted Alito to pen a concurrence joined by Thomas and Neil Gorsuch. They “agree[d] with the bottom line of the majority’s central hold­ing,” but dubbed “everything else in the opinion of the Court . . . nonbinding dicta.” In brief, lower courts don’t need to follow “everything else” the Court said.
+The minimalistic “bottom line” Alito referred to was sending
+Moody
+and the companion case of
+NetChoice v. Paxton
+back to the lower courts to: (1) identify the scope and “full set of applications” covered by Florida and Texas laws that impinge on the editorial rights of platforms to independently moderate content, and (2) then decide whether the “unconstitu­tional applications are substantial compared to [their] constitu­tional ones.” Kagan elaborated that if a law’s “unconstitutional ap­plications substantially outweigh its constitutional ones,” then it’s facially unconstitutional.
+AEI’s
+Daniel Lyons
+recently
+explained
+facial challenges, noting that in
+Moody
+and
+Paxton
+, “the parties, and the lower courts, [had] confined their analysis largely” only to how the states’ laws apply to what Kagan called the “most paradigmatic social-media platforms”—namely, Facebook’s News Feed and YouTube’s home page.
+What was it about “everything else” Kagan wrote that irked Alito? Joined by five justices, Kagan articulated some pro-First Amendment principles about the expressive editorial rights of paradigmatic platforms. She made those statements to explain why the
+US Court of Appeals for the Fifth Circuit
+was wrong in thinking otherwise when it
+upheld
+Texas’s law. Instructing the lower courts, Kagan wrote that the facial challenge analysis now must “be done consistent with the First Amendment, which does not go on leave when social media are involved.” Consider it dicta as guardrails for the judges below.
+This triggered Alito. He
+wrote
+that Kagan’s “broader ambition of providing guidance on whether one part of the Texas law is unconstitutional as applied to two features of two of the many platforms that it reaches—namely, Facebook’s News Feed and YouTube’s home page—is unnecessary and unjustified.” Kagan’s words were, as Alito wrote, just “nonbinding dicta” that “inexplicably single[d] out a few provisions and a couple of platforms for special treatment.” Alito added that “when confronted with the application of a consti­tutional requirement to new technology, we should proceed with caution” and that “premature resolution” of questions about internet regulations “creates the risk of decisions that will quickly turn into em­barrassments.” That was precisely Kennedy’s prescient point in
+Packingham
+. . . before he waxed poetic about “the modern public square” that Alito now endorses.

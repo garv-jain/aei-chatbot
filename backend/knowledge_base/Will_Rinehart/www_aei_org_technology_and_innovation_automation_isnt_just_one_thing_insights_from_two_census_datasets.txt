@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	Automation Isn’t Just One Thing: Insights from Two Census Datasets | American Enterprise Institute - AEI
+
+Two recent datasets from the Census help to illuminate what’s occurring in robotics and in artificial intelligence adoption. While they have their limitations, both the Annual Capital Expenditures Survey (ACES) for robotic equipment and the Business Trends and Outlook Survey (BTOS) AI supplement offer valuable information on the progress of automation.
+Generated with AI
+Annual Capital Expenditures Survey (ACES) for robotic equipment.
+Beginning in 2018
+, the Census added a series of questions to their Annual Capital Expenditures Survey (ACES) to better understand how much companies are spending on robotic equipment.
+Data from 2022
+was published recently for a total of five years of spending data.
+The Census defines robot equipment
+broadly, as “automatically controlled and reprogrammable machines capable of performing a series of complex tasks autonomously or semi-autonomously.” Included in this spending data are robots used in cleaning, construction and demolition, inspection, machine tending, surgical assistance, and welding, among others. But it doesn’t include ATMs, computer numerical control (CNC) machine equipment, or self-service kiosks.
+To help researchers understand and better explore this data,
+we have compiled a Google Sheet
+with the ACES data in an easy to read table. It is embedded below. The full table is located
+here
+.
+A couple of major highlights from this data:
+Manufacturing ($7,289 million) and retail trade ($3,552 million) spent the most on robotic equipment. Combined, they are 84 percent of the total expenditures.
+For 2022, U.S. nonfarm employer businesses invested $12,960 million in robotic equipment, a small uptick from the 2021 total of $11,536 million.
+Robotic equipment expenditures accounted for 1.1 percent of total equipment expenditures in 2022 and 2021.
+Car and motor vehicle parts manufacturers are the single biggest ($1,990 million) spenders on robotics, followed by non-store retailers ($1,527 million), food manufacturing ($1,128 million), and semiconductor manufacturers ($1,032).
+People are often surprised to discover that the automotive industry leads the pack in spending on robotics.  However, the sector has consistently been at the forefront of integrating advanced robotic technologies to enhance precision, efficiency, and safety in production processes.
+Business Trends and Outlook Survey (BTOS) AI supplement.
+Additionally, the Business Trends and Outlook Survey (BTOS) now includes a number of AI-related questions under the AI supplement, which
+recently reported their first findings
+. The AI supplement was constructed to gather insights on the prevalence of AI use in businesses, the various types of AI being employed, the effects of AI on employment, and the ways AI is restructuring business organizations.
+The BTOS data is located here
+. Among other questions, the survey now asks “In the last two weeks, did this business use Artificial Intelligence (AI) in producing goods or services? (Examples of AI: machine learning, natural language processing, virtual agents, voice recognition, etc.)” The average for each sector is arranged in a table below, which includes data collected 12/04/2023 to 02/25/2024.
+Not surprisingly, information (18 percent) ranks at the top of industries for using AI, followed by professional, scientific and technical services (12 percent), educational services (9 percent) and management of companies and enterprises (8 percent).
+What’s striking to notice among these two datasets, ACES and BTOS, is that industries buying robotic equipment differ from the industries using AI. Manufacturing and retail trade spent the most on robotic equipment but they tend to use AI the least. To be fair, there is a year difference between the datasets, but the difference remains. Still, these trends underscore that automation is not just one thing.

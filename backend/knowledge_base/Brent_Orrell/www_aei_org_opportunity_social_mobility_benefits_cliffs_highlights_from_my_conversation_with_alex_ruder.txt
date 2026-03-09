@@ -1,0 +1,183 @@
+PAGE_TITLE: 
+	Benefits Cliffs: Highlights from My Conversation with Alex Ruder | American Enterprise Institute - AEI
+
+On September 6th, the expanded and extended
+COVID-19-related unemployment benefits ended abruptly, and the idea of a “benefits
+cliff” became clear for many Americans who had never experienced one before.
+Benefits cliffs are created when income rises above
+a legally imposed limit for continued receipt or, in the case of cash welfare
+benefits, when eligibility expires. In the case of pandemic unemployment
+insurance benefits, the cliff came for every recipient and very abruptly. Other
+programs like childcare, housing, and Medicaid benefits tend to “taper,” but at
+some point the beneficiary has to choose between earning more and maintaining
+what is often a vital subsidy. Income-tested benefit cliffs, no matter how
+gradual, tend to reduce work incentives at the margins.
+On October 21st, I spoke with Dr. Alex Ruder, a principal adviser on benefits cliffs to the Atlanta Federal Reserve’s Community and Economic Development team. He specializes in workforce development and developed a Career Ladder Identifier and Financial Forecasting tool. Highlights from our conversation are below. You can find the full transcript
+here
+and listen to the audio podcast on
+Hardly Working
+.
+The transcript below has been edited for length and
+clarity.
+Orrell:
+What’s the
+origin story for Alexander Ruder, economist, and how you got there? What things
+sort of drove your interest?
+Ruder: Technically, I would be categorized as a
+political scientist. If you categorize people by what their PhD is in. So,
+obviously, I’m not doing political science work in my current job. But
+nevertheless, political science, at least where I studied it, has significant
+overlap with public policy and the methodologies that you need to study public
+policy. So a good way to describe my work is as a public policy researcher.
+I
+had to go back to grad school at the University of Chicago. In the course of
+studying public policy, I became very interested in economic development, and
+specifically thinking about it from a regional perspective — what makes cities
+competitive in attracting businesses and supporting businesses — basically
+having a competitive infrastructure for business recruitment.
+I did some internships in economic development. That
+led me to look for a more advanced kind of graduate-level internship at the
+time at the Department of Commerce and Economic Opportunity in Illinois. And it
+turned out the division I got my graduate-level internship in was the Workforce
+Development Division at the Illinois Department of Commerce.
+But I also evaluated economic development and
+workforce programs. And when you do evaluation in workforce, it really opens up
+the hood, if you will, on issues that affect workforce development — local-versus-state
+issues, data quality issues, challenges that areas have in implementing
+workforce development programs. So I became very interested in just kind of how
+these programs were structured and implemented because obviously you need
+implementation success to have outcome success. My mentors from that job still
+guide me today, which I value greatly. That was my initial entry into the
+field.
+You’ve done a lot of work on
+benefits cliffs, and I’d like you to start off just defining for listeners what
+they are and why they matter.
+I
+like to think about it as an effective marginal tax rate on income. And the
+word
+effective
+means we’re not just looking at your payroll taxes and
+your income tax, we’re looking at potential losses in financial resources more
+broadly as your income goes up. That said, usually when we talk about benefits
+cliffs, we mean the marginal losses for families on means-tested public
+assistance when they reach an income threshold.
+Like?
+Like
+food assistance through the Supplemental Nutrition and Assistance Program,
+Children’s Health Insurance Program — Medicaid CHIP, Section 8 housing
+subsidies. And there’s a long list of programs that have some means testing — which,
+in other words, means that it has an income threshold.
+An Economic Impact Payment Card sent as a result of the COVID-related Tax Relief Act of 2020. Photo by Alex Milan Tracy/Sipa USA
+Workforce
+development programs are aimed at increasing income. As income goes up,
+families are likely to lose public assistance. The benefits cliffs specifically
+means that loss in public assistance makes you worse off economically than you
+were before your income increased.
+So you have developed
+something called a Career Ladder Identifier and Financial Forecasting, or
+CLIFF, tool. How does it work, and what do you know about its usefulness to
+people?
+So
+a key dimension of labor market research is labor supply. What are the
+incentives for people to move into employment, work more hours, or seek higher
+wages? The question we were starting to ask is, “How can we bring this kind of
+insight into the workforce development field to make it more useful to the
+communities, particularly in the Southeast that we interact with at the Atlanta
+Fed?” And that’s a lot of my job: taking research on benefits cliffs out into
+the field.
+So
+what we started to do is take common career pathways that are being used as
+models, and we saw that under certain conditions, not all conditions, the
+economic return to career pathways can be inverted when benefit losses due to
+higher incomes is taken into account.
+Like you started on a career
+pathway program, you end up making less? Is that what you mean?
+That’s
+right. Not every situation will have an extreme result. It’s building on a
+model that assumes some form of career advancement over time. So when we looked
+at this nursing career pathway over time and we contrasted the employment view
+to this benefits cliff view, which we call net financial resources — a family’s
+disposable income — you  could see that the
+payoff to moving up a career pathway is actually not there for these families. The
+implication is that these career pathways fundamentally may need to be
+rethought to some extent if we think the justification of these career pathways
+is increasing the standard of living as the worker moves up a career ladder.
+So
+that was the intellectual background. We’re just going around the Southeast and
+around the country just talking about this finding and how we’ve developed this
+methodology to look at benefits cliffs over time as a worker ages, because the
+benefits cliffs workers face are not static. They change over time. What we
+noticed was that employers, nonprofits that are doing the actual job coaching,
+community organizations wanted to have this data localized, and they wanted it
+in more of an actionable way. That is what gave rise to the CLIFF tool.
+Can you give us some
+examples of particularly good illustrations of how the tool is used?
+The
+tools are meant to facilitate three conversations. One is research for local
+areas. Two is programmatic and policy change that would make the progression to
+higher-paid jobs smoother for families. And then three is pilot program design.
+So I’ve seen changes along all dimensions, not all of which are attributable to
+our tool.
+I’ve
+seen some cases where people have looked at their internal policies and found
+barriers to people coming back to get additional training to move up a career
+path. You know, barriers such as needing to wait three years before you get
+additional training dollars to move up a career pathway. And people said, “You
+know what? I think we need to waive those because if people are wanting to
+upskill, we should give them that opportunity.”
+The
+second dimension I’ve seen is people are implementing pilot programs to smooth
+out the larger cliffs. The evidence of the effect of benefits cliffs on career
+advancement is complex. So, it’s not that everyone’s just turning down jobs
+because of their fear of losing benefits.
+So what would the different
+measure look like then?
+If
+a local organization wants to use this, there are two ways to use different
+measures for self-sufficiency. One, you can use a measure to determine if
+people meet eligibility requirements. Impact is the second way to measure. If
+you’re evaluating performance as a gain to self-sufficiency, you want to look not
+just at employment, not just wage gain, but whether recipients are moving
+closer towards a local self-sufficiency target. The measure used impacts how
+program performance is measured.
+One of the main challenges
+to smoothing benefit cliffs is that “extending the runway” inevitably means
+increased cost to the taxpayer. We don’t eliminate the cliff so much as delay
+it.
+Thinking
+about how to smooth out these programs, I mean, without a doubt, government
+finances are going to play a complex role here. For any kind of large-scale
+benefit mitigation strategy, you would probably have to look at — of course,
+you would
+have
+to look at — what is the cost and the long-term gain in
+terms of kind of a cost-benefit analysis.
+Other
+ways that you can think about doing it is to reverse the benefit pattern: make
+the program less generous early on when wages are low, and use the saving to smooth
+the cliff. That requires the policymaker to make a policy choice about where
+need is greatest.
+I wanted to get your
+reflections before we wrap this up on the mother of all benefits cliffs that we
+just passed through with the end-of-the-pandemic unemployment insurance
+emergency programming.
+I
+don’t like to make, personally, pronouncements for or against until I have the
+research I need to really make this decision. But I think you could safely say
+that there is some disincentive effect of extended unemployment insurance.
+There’s debate on how big it is.
+You
+can also take from that literature that extended unemployment benefits do
+provide a financial cushion to families that are unable to work. And it smooths
+consumption. So the questions I’m trying to answer right now in my own work
+are, “Are the conditions that justify extended unemployment still there, that justified
+it at the time?” So, clearly, that’s no longer an issue because it’s gone. So
+the questions we have to begin to ask and look at very carefully are what the
+data can tell us about why people are not working, why we have so many open
+jobs, and why the labor supply is not picking up the way it should.
+Where
+I’m still open — and I think a lot of people are — is, what’s going to happen
+with the subset of the population is that has the difficulties with childcare
+access? That’s going to be a drag on employment likely. The health concerns — that’s
+still going to play a role.
+Then there’s going to be some people who use this as a transition period while they consider upskilling options because the opportunities do not look appealing anymore. I know a lot of people are thinking about that as well. So I think until we get answers to at least those three questions, we’re at least not going to be able to make an assessment about the end of extended unemployment.

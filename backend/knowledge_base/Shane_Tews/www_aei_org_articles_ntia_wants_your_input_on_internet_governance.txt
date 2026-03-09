@@ -1,0 +1,23 @@
+PAGE_TITLE: 
+	NTIA Wants Your Input on Internet Governance | American Enterprise Institute - AEI
+
+In preparation for the World Telecommunications Standardization Assembly (WTSA-16), which is part of the International Telecommunications Union (ITU) global standards symposium in October, the National Telecommunications and Information Administration (NTIA) has
+posted
+a Notice and Request for Public Comment (RFC). The RFC is asking stakeholders of the Internet community to weigh in on what role the ITU — traditionally a telecom-oriented body — should take in Internet policy and what proposals the United States government should support or oppose at the October meeting. Asking the public to comment on these issues is unique in the Internet governance world, and we should seize the opportunity to voice our opinions.
+Why does the NTIA need our input?
+The first question pertains to what objectives and priorities the US delegation should take into the WTSA forum. Many interests are at stake here, including the Internet of Things, cybersecurity, basic Internet infrastructure, and how the ITU should participate in creating and managing these Internet policies. The question of objectives and priorities on these topics is key because, given WTSA’s government-first, multilateral approach, one of the main objectives may be to keep the WTSA forum from having these topics in their purview to begin with.
+The second question NTIA asks may be the most important: In an environment with a wide range of industry-led, multistakeholder standards development organizations, does the ITU add any unique value?
+To answer this question, let’s first clarify that most of the technical questions asked at the ITU have already been discussed and implemented through other engineering forums such as the Internet Engineering Task Force and the Internet Architecture Board. The individuals that drive these organizations live, eat, breathe, and sleep on the ideas that enhance and protect the Internet’s ability to stay open and available to all. Their goal is to maintain and improve upon the technical principles necessary to allow the Internet to function, and thus far they have been doing a stellar job.
+Given that the technical discussions have already taken place, the question of what issues should be discussed at WTSA is more about the
+who
+than the
+what
+. Can government representatives add something unique and valuable by discussing and making decisions on how the Internet should be governed? My answer is “probably not.”
+Why the ITU is a poor fit for Internet governance
+As pointed out by David Gross in his
+most recent blog
+, the latest ITU dialogues show a troubling pattern. Unlike forums that enjoin governments, civil society, academics, and the private sector on equal footing, the ITU format places government above all others.
+Expanding the role of the ITU into Internet governance, when its traditional job is to manage spectrum and telecommunications assets through territorial borders, moves us further away from the to-date very successful and stable multistakeholder model. We need to reiterate that the policies that govern the fundamental issues of access to the Internet, Internet content, and network security belong in a multistakeholder environment that is open for all to participate.
+Here’s our chance to weigh in — let’s take it
+In releasing this RFC, NTIA is doing something quite unique. Opportunities to give guidance to our government officials do not come along very often and should be embraced.
+The government agencies that participate in the management of digital assets and information policies have embraced the new era of inclusive policy creation and management. We need to recognize that this is in our best interest and declare it as our official position in the multiple global forums where we send our US government officials. In this specific RFC, encouraging our government representatives to continue to embrace the multistakeholder model is key to ensuring that the Internet remains open, secure, and available to all.

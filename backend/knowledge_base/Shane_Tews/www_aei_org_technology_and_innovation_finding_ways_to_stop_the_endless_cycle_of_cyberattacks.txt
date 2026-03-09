@@ -1,0 +1,66 @@
+PAGE_TITLE: 
+	Finding Ways to Stop the Endless Cycle of Cyberattacks | American Enterprise Institute - AEI
+
+By Shane Tews
+The Colonial Pipeline ransomware
+attack
+was
+disruptive in numerous ways. It shuttered a pipeline that “
+delivers
+nearly half
+of the jet fuel and gasoline used on the Atlantic Coast,” and this past
+weekend, many Americans faced long lines for gas and travel disruptions. But
+this is just the latest in a series of ransomware attacks — on
+hospitals
+,
+utilities
+,
+police
+departments
+,
+26 government agencies
+in 2021
+alone, and more — to the detriment of US institutions and the economy. Why does
+this keep happening, with no solutions seemingly on the horizon?
+via Twenty20
+It is difficult to gauge the prevalence of cyberattacks and ransomware attacks because many private-sector victims choose to keep quiet and pay up. Some in Congress have
+called
+for new rules requiring “critical companies to tell the government when they’ve been hacked.” Mandatory reporting may sound good at first glance, but there are layers of complexity.
+For decades, there have been calls for improving coordination and bolstering the physical and digital security of economically vital industries and critical infrastructure. The Joe Biden administration has issued an
+executive order on improving the nation’s cybersecurity
+, but it is mostly an outline of policies created around critical infrastructure in the past decade that need to be implemented. The real, unsolved challenge is a coordinated plan for information flow that executes quickly enough within specific economic sectors and to the government to significantly help mitigate a cyberattack. As a result, conversations about the role of government and collaboration with the private sector on cybersecurity continue without an integrated actionable outcome.
+Numerous industries have federal or state regulatory obligations
+that either mandate or pressure companies in the sector to coordinate response
+and recovery plans in case of cyber incidents. The catastrophic downsides of
+inefficient cybersecurity should motivate more investment in cybersecurity
+protection than regulations would. But how do we strengthen the public-private
+information flow when existing cybersecurity investments are not enough?
+The evolving threat landscape demands persistent reviews and renewals of the cybersecurity protection frameworks in every crucial industry. The government must recognize the dynamic nature of cyberattacks and understand that regulatory solutions tend to lean on outdated concepts that sophisticated attackers have moved beyond. On the consumer side, the Federal Trade Commission has taken a well-meaning approach, suggesting that consumers should have a “
+reasonable
+” expectation that their data will be protected by companies when personal information is involved in a consumer transaction. But the private sector still struggles with the reasonable standard for notifying the government — or anyone — about commercial cyberattacks. Mandatory cyberattack reporting for critical infrastructure operators will cause litigious battles around reporting language rather than limiting actual risks.
+To what extent can we expect companies to take reasonable measures
+to protect their networks and data? Who decides whether the measurement of risk
+mitigation is reasonable? Regulators need to find an approach for protecting
+digital assets that encourages evolution of cyber operations. If government is
+too prescriptive, regulations may benefit only cybersecurity enterprises that
+build to those specific government measurements and irrelevant reporting
+metrics. Once the regulatory bar is set, it will become the latest — and lowest
+— hurdle for cybercriminals to get over.
+Regulators should also understand that risk management decisions corporate leaders make affect how much and how often the private sector invests in cybersecurity. Buy-in from executives on the importance of cyber risk management is a vital part of the cybersecurity equation. Another is enforcing current industry best practices on the human side of the equation. Following protocols helps curtail harvesting of credentials and spear phishing to gain access to accounts. Risk-based standards that are flexible enough to encourage persistent innovation will help mitigate the constantly evolving threat landscape and cyber disruptions. As cyber expert Ciaran Martin has argued, cybersecurity must be “demystified” and
+treated
+“as an ordinary business risk.” Martin notes cybersecurity can be broken into three categories all leaders can understand: “Getting robbed for cash, intellectual property, or other data; getting weakened by espionage, political interference, or pre-positioning for a later attack; and getting hurt.” Former Cybersecurity and Infrastructure Security Agency Director Chris Krebs
+agrees
+, saying that “business executives have to stop looking at cybersecurity as a technical issue. It truly is a business risk.”
+Stopping the “rinse and repeat” cycle around cybersecurity
+discussions will require real performance goals, funding, training, and
+education. Government information sharing mandates need to create net positive
+opportunities for the victims of cyber incidents to report incidents — along
+with sharing the lessons for their industry or sector — to allow system
+operators to learn quickly and mitigate a cyberattack. And given our economic
+dependence on digital assets, cybersecurity should receive the same amount of
+attention paid to protecting physical assets.
+Achieving innovation and investment in cybersecurity will require
+shifting the focus to prosecuting cyber criminals instead of shaming victims of
+cyberattacks. It is long past time for the government and private sector to
+promote real cybersecurity solutions — ones that can protect corporations,
+citizens, and the overall economy from large-scale disruptions in the future.

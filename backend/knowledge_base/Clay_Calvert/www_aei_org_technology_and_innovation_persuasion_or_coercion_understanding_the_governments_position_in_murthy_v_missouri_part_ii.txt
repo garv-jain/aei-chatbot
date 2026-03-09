@@ -1,0 +1,70 @@
+PAGE_TITLE: 
+	Persuasion or Coercion? Understanding the Government’s Position in Murthy v. Missouri, Part II | American Enterprise Institute - AEI
+
+This two-part series examines the arguments in
+Murthy v. Missouri
+that Solicitor General
+Elizabeth Barchas Prelogar
+made on behalf of the federal government in her
+brief
+with the
+US Supreme Court
+. The
+first post
+provided background on
+Murthy
+(formerly
+Missouri v. Biden
+) and the question of whether numerous officials violated the
+First Amendment
+when they strenuously lobbied (
+jawboned
+) social media platforms to remove lawful content that didn’t fit the Biden administration’s narrative regarding issues like vaccines and election fraud. It also encapsulated Prelogar’s position on the types of messaging officials may freely use with platforms to persuade them to remove content and, conversely, the kinds triggering
+state action
+and raising First Amendment problems (for Prelogar, “coercive threats” for noncompliance with specific government requests or “equivalent significant encouragement” and “positive inducements” to comply). This post digs deeper into the brief before offering some concluding concerns.
+Routine “Back-and-Forth”
+: Prelogar contends no one crossed the line separating permissible persuasion from unlawful coercion. Officials with agencies like the Centers for Disease Control and Prevention (
+CDC
+) and
+FBI
+“largely provided the platforms with information, leaving it up to the platforms to decide what action to take, if any.” White House officials publicly and privately criticized platforms (sometimes in “strong terms”), “expressed frustration” with them, and made “fleeting and general statements” during “off-the-cuff” public remarks about accountability and legislative reforms affecting them, but none of those communications, Prelogar asserts, can “plausibly be characterized as coercive threats tied to specific content-moderation requests.”
+Via Reuters
+History and the Bully Pulpit
+: Cognizant that some conservative justices invoke
+history and tradition
+when examining constitutional questions, Prelogar asserts that “[t]hroughout our Nation’s history, government officials have communicated with the media and other private actors to inform, persuade, and protect the public.” Thus, while the internet is new, the officials’ tactics are not.
+Prelogar
+cites
+multiple presidents who “used the bully pulpit to shape private conduct and influence the public on the issues of the day,” including Theodore Roosevelt, Woodrow Wilson, Ronald Reagan, George H.W. Bush, Bill Clinton, and George W. Bush. When President Biden remarked during a pandemic-era press conference that platforms were “
+killing people
+” and a White House official said “
+they should be held accountable
+,” it was just “the mere use of strong language, untethered from any intimation of a threat, as sufficient to imply coercion.”
+Vote the Scoundrels Out
+: If one objects to the government expressing its views to platforms about removing speech, Prelogar offers a remedy: voting. Her brief cites
+a recent Supreme Court opinion
+in which the justices observed that “[t]he Constitution . . . relies first and foremost on the ballot box, not on rules against viewpoint discrimination, to check the government when it speaks.”
+A Parade of Horribles
+: Prelogar contends that if the Court upholds the
+US Court of Appeals for the Fifth Circuit’s
+October ruling
+against the Biden administration, the government will be hamstrung in communicating with platforms about removing content that: promotes terrorism; sexually exploits minors; harms national security; and spreads false election-related and COVID 19-vaccine information. In short, “the implications of the Fifth Circuit’s holdings are startling,” given such dangers.
+Prelogar takes the parade-of-horribles logic further, citing harm to minors and ominously pondering what might occur if:
+the White House Press Secretary says that the President condemns the role that social media has played in harming teenagers’ mental health, calls on platforms to exercise greater responsibility, and mentions the possibility of legislative reforms. Such statements might be viewed as coercion or significant encouragement under the Fifth Circuit’s novel under-standing of those concepts.
+President Biden, however, did precisely that last January in an
+op-ed
+. Asserting “[w]e must hold social-media companies accountable for the experiment they are running on our children for profit,” Biden reiterated his push “for legislation to hold Big Tech accountable.” His bully pulpit seems safe.
+Final Thoughts
+: Moving beyond Prelogar’s brief,
+Murthy
+will boil down to subjective matters of interpretation and context, regardless of whether the Court embraces labels like “persuasion” and “coercion.” For instance, how much reading between the lines of the government’s statements should the justices engage in when ferreting out coercion? Additionally, should they focus on each government statement individually––isolated from the others––or should they review the statements collectively in their larger context, taking them as a whole? The Court might
+miss the coercive forest for the seemingly non-threatening trees
+if it decontextualizes individual statements.
+Murthy
+is
+politically divisive
+. The subjectivity of interpreting what officials meant when speaking with or about platforms regarding content removal compounds the problem, rendering
+Murthy
+perilous for a Court held in
+sharply different levels of esteem
+by Republicans and Democrats. If all nine justices purport to apply the exact same concepts––persuasion and coercion––but divide along perceived ideological lines in deciding which of the two occurred, the Court’s reputation risks damage.

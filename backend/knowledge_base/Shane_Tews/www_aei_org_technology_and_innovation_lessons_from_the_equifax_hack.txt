@@ -1,0 +1,29 @@
+PAGE_TITLE: 
+	Lessons from the Equifax Hack | American Enterprise Institute - AEI
+
+On February 10, the Department of Justice
+charged
+four members of China’s military with computer fraud, economic espionage, and wire fraud for the unprecedented Equifax hack in 2017. Using a vulnerability that the credit reporting agency failed to patch, the Chinese were able to obtain the personal information of 147.9 million US citizens (including names, addresses, birthdates, social security numbers, and mortgage and banking details), as well as valuable trade secrets.
+via REUTERS
+Recall that Equifax in July 2019 had
+agreed
+“to pay at least $1.4 billion to settle multidistrict litigation brought on behalf of 147 million U.S. consumers and pay millions more to resolve civil complaints brought by the federal government and multiple state attorneys general.” The settlement was based on the belief that the breach was caused by the company being a poor steward of consumer information — but now that the national security threat associated with the breach has been revealed, there are lessons to be learned for consumers, enterprises, and governments moving forward.
+For corporations, it’s a lesson about the risks of failing to patch network vulnerabilities in a timely manner. As
+Wired reported
+:
+On March 7, 2017, the Apache Software Foundation announced that some versions of its Apache Struts software had a vulnerability that could allow attackers to remotely execute code on a targeted web application. It’s a serious type of bug, because it gives hackers an opportunity to meddle with a system from anywhere in the world. As part of its disclosure, Apache also offered a patch and instructions on how to fix the issue.
+Equifax, which used the Apache Struts Framework in its dispute-resolution system, ignored both. Within a few weeks, the DOJ says, Chinese hackers were inside Equifax’s systems.
+Corporations being far more proactive about protecting their
+networks will help, but even the largest US corporations may not have the
+wherewithal to fully protect their networks from a foreign military’s resources.
+This gives us a reason to review and recast the importance of information
+sharing between corporations and the government, where significant barriers
+currently exist. Not all parties want the damage done by cyberattacks made
+public, contributing to the continued challenge that cyber experts face in proving
+the level of the harm done by state-sponsored computer intrusions.
+The bipartisan Cyberspace Solarium Commission — scheduled to report out in March — may offer some solutions. The commission’s final report is
+expected to
+“include new reporting requirements for the private sector that would incentivize better security practices” and encourage private companies to share information and report network intrusions (including data breaches) more rapidly. The commission aims to change the strategic vision for managing the cybersecurity environment both inside the government and with private sector partners to defend against cyberattacks. An improved approach for coordinating between the government and industry partners should be welcomed by the private sector.
+For the federal government, protecting the homeland against a foreign cyberespionage campaign is doubly challenging when the adversary uses military resources against commercial targets. US law separates military from commercial in cyberspace, whereas the Chinese do not. FBI director Christopher Wray has said that China is “
+stealing
+its way up the economic ladder,” and suggested that “corporations and government entities should be focused on detecting and then mitigating threats” instead of focusing on preventing attacks from happening in the first place. Let’s hope the Cyberspace Solarium Commission’s report offers concrete solutions to improve information sharing and threat mitigation, and that the DOJ’s actions keep the spotlight on cybersecurity as critical for the future of our economy and security.

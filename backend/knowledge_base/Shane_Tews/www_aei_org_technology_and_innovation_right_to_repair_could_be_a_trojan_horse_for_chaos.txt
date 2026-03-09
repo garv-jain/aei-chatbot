@@ -1,0 +1,80 @@
+PAGE_TITLE: 
+	“Right to Repair” Could Be a Trojan Horse for Chaos | American Enterprise Institute - AEI
+
+The US government is headed in the wrong direction on device security for consumers. The Joe Biden administration’s recent
+executive order
+on “promoting competition in the American economy” includes language requesting the Federal Trade Commission (FTC) review “unfair anticompetitive restrictions on third-party repair or self-repair of items.” In essence, this means forcing manufacturers to change their rules and allow anyone to fix consumer devices of all sizes and functions. This initiative, called “right to repair,” has reached Capitol Hill after circulating in state legislatures for years.
+via Twenty20
+The idea of allowing technical devices to be repaired by
+anyone may sound “pro-consumer.” But, like everything in tech, it gets
+complicated quickly. Consumer technologies in today’s digital market tend to be
+“plug and play”: Consumers can operate a brand new device without needing to
+understand how its underlying technology functions.
+The devices consumers enjoy, such as automobiles, computers,
+medical and mobile devices, and home network systems, are designed with an
+integrated, simple user interface. Behind the user’s screen are hardware parts
+and propriety software — constructed by thousands of hours of engineering — and
+specific patented designs from the original manufacturer. The administration’s
+proposed regulatory change would mandate that anyone should have access to the
+original parts, copyright manuals, and software design without imposing guidance
+on the importance of training technicians — or how third parties could be held
+responsible for damaging the device’s hardware or underlying software.
+A device’s hardware and software designs are key to
+protecting and securing its data. Given how much of our personal and digital
+account information is linked to mobile devices, this area alone should give
+policymakers pause. Do we really want to grant anyone access to the inner
+workings of key pieces of equipment to both consumers and the digital economy?
+A consumer wanting a device fixed quickly is understandable. But attempting a
+quick fix — which is not guaranteed to be cheaper or easier — should not mean
+potentially opening a device to the loss of security or data.
+To be able to perform repairs on a specific device, many
+manufacturers insist on the training of outside repair shop technicians to
+ensure quality work by a sanctioned repair store. (This includes Amazon, Apple,
+General Electric, John Deere, Microsoft, Samsung, and Tesla.) Knowing employees
+have skills through training and certification is important for consumers before
+handing over a device full of personal data. However, unlicensed right-to-repair
+advocates claim investing in employees’ certification and training on device
+operation is too expensive and time intensive.
+Any regulatory change should not construct a legal means to
+force companies to hand over design schematics with intellectual property
+rights protections or grant access to diagnostic tools that could expose
+consumers to data theft and fraud. As TechNet Senior Vice President Carl
+Holshouser
+argues
+, the problem may not lie in an initial repair, but
+rather the spyware and malware vulnerabilities created when a device becomes
+accessible to third-party tampering. Holshouser urges the FTC to focus on
+consumers’ ability to trust product repairs done by businesses with training
+and qualifications to ensure proper — not just quick — repairs, along with the
+need for an educated understanding of how product features interact with
+software and applications to ensure device safety and security stay intact.
+Recent
+reports
+that operatives from Israeli spyware firm NSO Group
+sold software that exploited mobile device operating systems should also signal
+to policymakers that software designs need maximum protection. NSO Group’s Pegasus
+software slipped onto targeted mobile devices via a software weakness in both
+the iOS and Android operating systems, allowing the program to access data from
+contacts, calendars, and text message history. The creators of WhatsApp and
+Telegram
+called
+Pegasus a “real and present danger to all of us.”
+WhatsApp even
+sued
+NSO Group last year for sending 1,400 users malware
+despite WhatsApp’s end-to-end encryption capabilities.
+Pegasus demonstrates a continued threat to device security
+despite cybersecurity experts spending years looking for vulnerabilities in
+end-to-end encryption. Imagine what could result from access to a device made
+deliberately or indirectly vulnerable by a cheap repair job, thanks to a
+regulatory demand making source code and patented design schematics easily
+accessible. As FTC Commissioner Christine Wilson recently
+noted
+, the ability to make repairs should happen “without
+compromising data security, privacy, safety, and other legitimate goals
+advanced by manufacturers.” The FTC should heed Wilson’s warning and consider
+how the right to repair could potentially degrade, destroy, or compromise
+devices.
+The research and design phase of both hardware and software
+is key to American digital innovation. Once we break it, it is difficult to
+fix.

@@ -1,0 +1,275 @@
+PAGE_TITLE: 
+	The Age of Uncertainty-and Opportunity: Work in the Age of AI | American Enterprise Institute - AEI
+
+Abstract
+The question of how artificial intelligence will affect jobs, skills, and the future of work is open-ended, and answers have been uncertain and contradictory. As AI has advanced, forecasts of labor market impacts have increasingly emphasized AI’s potential to automate tasks that require skills—including creativity, writing, and social and emotional learning—previously believed to be beyond the technology’s reach. In the face of these advances and the uncertainties they generate, students and incumbent workers should focus on developing balanced skill “portfolios” that support flexibility and adaptation, and policymakers should empower them to do so.
+Read the PDF.
+Introduction
+In an era defined by rapid technological advancements, artificial intelligence has emerged as a so-called general-purpose technology, akin to the steam engine, electricity, and the transistor, with the potential to reshape all aspects of our economy and lives. Much of AI’s transformative potential is due to recent developments in the field—particularly the rise of generative AI, which can create novel text, images, and audio. According to a recent report published by McKinsey & Company, this new wave of technology could add $2.6–$4.4 trillion annually to the global economy, with an outsized impact in industries such as banking, software and tech, and the life sciences (Chui, Hazan, et al. 2023). According to Goldman Sachs (2023), AI could raise the global gross domestic product (GDP) by 7 percent over 10 years.
+Changes of this scale in growth and GDP will likely affect businesses and workers profoundly. The question is what those changes will be and how we can prepare for them. In this report, we review over a decade of research on AI’s potential and actual impacts on employment trends and demand for skills in the labor market. We then explore this research’s implications for skill development and worker training and offer recommendations for workers and policymakers.
+As we stand on the threshold of an AI-driven economy, the future of work is at stake. Will work still be an important human activity, or will human labor be rendered surplus to requirements? While machine-based intelligence has loomed over human imagination for centuries, the modern idea of AI emerged in the mid-20th century with the development of digital computers. As shown in Figures 1 and 2, while references to artificial intelligence in popular literature rose sharply in the late 20th century, peaking between 1985 and 1990, mentions of the term in academic literature remained relatively low until 2010. As the topic gained ground in scientific circles, references to it in popular literature also began to climb.
+AI’s growing role in the public consciousness coincided with revolutionary change in fields such as image recognition and natural language processing, setting the stage for AI’s prominence in public discourse today (Roser 2022).
+Between 2010 and today, AI development can be broken into three major periods. From 2010 to 2016, breakthroughs in neural-network design transformed AI. Powered by these new systems, AI made rapid gains in image recognition and deep learning, especially through models such as AlexNet and AlphaGo, a program that shocked scientists and other observers by defeating a world champion Go player (Albrecht 2023; Google DeepMind n.d.).
+AI’s advances in 2016–22 built on earlier development with the introduction of highly influential neural-network models including Google’s Bidirectional Encoder Representations from Transformers and OpenAI’s GPT (Albrecht 2023). These models set new benchmarks in natural language processing, helping rapidly improve AI reading comprehension and language understanding, as noted in Figure 3.
+The third era, from around 2022 to the present, has featured the maturation of generative AI and the proliferation of generative AI tools for broad public use. In this brief period, tools such as ChatGPT, Bard, Claude, DALL·E, Midjourney, and a host of other tools have become widely available, spurring debate about the impacts of AI on work (Chui, Hazan, et al. 2023). Below, we examine the key research voices and trends in each of the three major periods of development outlined above.
+Read the full report.
+References
+Acemoglu, Daron, and David H. Autor. 2011. “Skills, Tasks and Technologies: Implications for Employment and Earnings.” In
+Handbook of Labor Economics
+, ed. David Card and Orley Ashenfelter. 4B:1043–171. Amsterdam: North Holland.
+https://www.sciencedirect.com/science/article/abs/pii/S0169721811024105
+.
+Acemoglu, Daron, David H. Autor, Jonathon Hazell, and Pascual Restrepo. 2022. “AI and Jobs: Evidence from Online Vacancies.” Working Paper. National Bureau of Economic Research. February.
+http://www.nber.org/papers/w28257
+.
+Acemoglu, Daron, and Pascual Restrepo. 2017. “The Race Between Machine and Man: Implications of Technology for Growth, Factor Shares and Employment.” Working Paper. National Bureau of Economic Research. June.
+http://www.nber.org/papers/w22252
+.
+———. 2019. “Artificial Intelligence, Automation, and Work.” In
+The Economics of Artificial Intelligence: An Agenda
+, ed. Ajay K. Agrawal, Joshua S. Gans, and Avi Goldfarb. 189–95. Chicago: University of Chicago Press.
+https://economics.mit.edu/sites/default/files/publications/Artificial%20Intelligence%2C%20Automation%2C%20and%20Work.pdf
+.
+Agrawal, Ajay K., Joshua S. Gans, and Avi Goldfarb. 2023. “The Turing Transformation: Artificial Intelligence, Intelligence Augmentation, and Skill Premiums.” Working Paper. National Bureau of Economic Research. October.
+http://www.nber.org/papers/w31767
+.
+Albanesi, Stefania, António Dias da Silva, Juan F. Jimeno, Ana Lamo, and Alena Wabitsch. 2023. “New Technologies and Jobs in Europe.” Working Paper. National Bureau of Economic Research. July.
+https://www.nber.org/papers/w31357
+.
+Albrecht, Frauke. 2023. “A Brief History of Neural Nets: Important Dates in the History of Neural Nets.” Medium. January 29, 2023.
+https://medium.com/towards-artificial-intelligence/a-brief-history-of-neural-nets-472107bc2c9c
+.
+Arntz, Melanie, Terry Gregory, and Ulrich Zierahn. 2016. “The Risk of Automation for Jobs in OECD Countries: A Comparative Analysis.” Working Paper. Organisation for Economic Co-operation and Development. May 14.
+https://www.oecd-ilibrary.org/social-issues-migration-health/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en
+.
+Autor, David H. 2015. “Why Are There Still So Many Jobs? The History and Future of Workplace Automation.”
+Journal of Economic Perspectives
+29, no. 3: 3–30.
+https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3
+.
+Bakhshi, Hasan, Jonathan M. Downing, Michael A. Osborne, and Philippe Schneider. 2017.
+The Future of Skills: Employment in 2030
+. Pearson.
+https://futureskills.pearson.com/research/assets/pdfs/technical-report.pdf
+.
+Bessen, James. 2018. “Automation and Jobs: When Technology Boosts Employment.” Working Paper. Boston University School of Law. March.
+https://scholarship.law.bu.edu/faculty_scholarship/815
+.
+Bowles, Jeremy. 2014. “The Computerisation of European Jobs.” Bruegel. July 24.
+https://www.bruegel.org/blog-post/computerisation-european-jobs
+.
+Brynjolfsson, Erik, Danielle Li, and Lindsey R. Raymond. 2023. “Generative AI at Work.” Working Paper. National Bureau of Economic Research. November.
+https://www.nber.org/papers/w31161
+.
+Brynjolfsson, Erik, and Andrew McAfee. 2014.
+The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies
+. New York: W. W. Norton & Company.
+Brynjolfsson, Erik, Tom Mitchell, and Daniel Rock. 2018. “What Can Machines Learn, and What Does It Mean for Occupations and the Economy?”
+AEA Papers and Proceedings
+108: 43–47.
+https://www.aeaweb.org/articles?id=10.1257/pandp.20181019
+.
+Bughin, Jacques, Eric Hazan, Susan Lund, Peter Dahlström, Anna Wiesinger, and Amresh Subramaniam. 2018.
+Skill Shift: Automation and the Future of the Workforce
+. McKinsey & Company. May 23.
+https://www.mckinsey.com/featured-insights/future-of-work/skill-shift-automation-and-the-future-of-the-workforce
+.
+Chui, Michael, Eric Hazan, Roger Roberts, Alex Singla, Kate Smaje, Alex Sukharevsky, Lareina Yee, and Rodney Zemme. 2023.
+The Economic Potential of Generative AI: The Next Productivity Frontier
+. McKinsey & Company. June 14.
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
+.
+Chui, Michael, Lareina Yee, Bryce Hall, Alex Singla, and Alexander Sukharevsky. 2023.
+The State of AI in 2023: Generative AI’s Breakout Year
+. McKinsey & Company. August 1.
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year
+.
+Deming, David J. 2017. “The Growing Importance of Social Skills in the Labor Market.”
+Quarterly Journal of Economics
+132, no. 4: 1593–640.
+https://academic.oup.com/qje/article/132/4/1593/3861633
+.
+Di Battista, Attilio, Sam Grayling, Elselot Hasselaar, Till Alexander Leopold, Ricky Li, Mark Rayner, and Saadia Zahidi. 2023.
+The Future of Jobs Report 2023
+. World Economic Forum. April 30.
+https://www.weforum.org/publications/the-future-of-jobs-report-2023
+.
+Edin, Per-Anders, Peter Fredriksson, Martin Nybom, and Björn Öckert. 2022. “The Rising Return to Noncognitive Skill.”
+American Economic Journal: Applied Economics
+14, no. 2: 78–100. April.
+https://www.aeaweb.org/articles?id=10.1257/app.20190199
+.
+Ellingrud, Kweilin, Saurabh Sanghvi, Gurneet Singh Dandona, Anu Madgavkar, Michael Chui, Olivia White, and Paige Hasebe. 2023.
+Generative AI and the Future of Work in America
+. McKinsey & Company. July 26.
+https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-america
+.
+Eloundou, Tyna, Sam Manning, Pamela Mishkin, and Daniel Rock. 2023. “GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models.” Working Paper. OpenAI. March 17.
+https://openai.com/research/gpts-are-gpts
+.
+Exaly. 2024. “Artificial Intelligence: Research Trend (Publications/Citations 1950–2022).” February 16.
+https://exaly.com/trends-chart/article-citations/1950-2022/artificial-intelligence.svg
+.
+Felten, Edward W., Manav Raj, and Robert Seamans. 2020. “The Occupational Impact of Artificial Intelligence: Labor, Skills, and Polarization.” Working Paper. Social Science Research Network. March 31.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368605
+.
+Ford, Martin. 2009.
+The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future
+. Acculant Publishing.
+———. 2015.
+Rise of the Robots: Technology and the Threat of a Jobless Future
+. New York: Basic Books.
+Frey, Carl Benedikt, and Michael A. Osborne. 2013. “The Future of Employment: How Susceptible Are Jobs to Computerisation?” Working Paper. University of Oxford, Oxford Martin School. September 17.
+https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+.
+Gallagher, Kevin P., Kate M. Kaiser, Judith C. Simon, Cynthia M. Beath, and Tim Goles. 2010. “The Requisite Variety of Skills for IT Professionals.”
+Communications of the ACM
+53, no. 6: 144–48. June 1.
+https://dl.acm.org/doi/10.1145/1743546.1743584
+.
+Georgieff, Alexandre, and Raphaela Hyee. 2022. “Artificial Intelligence and Employment: New Cross-Country Evidence.”
+Frontiers in Artificial Intelligence
+5: 832736. May 10.
+https://www.frontiersin.org/articles/10.3389/frai.2022.832736/full
+.
+Goldman Sachs. 2023. “Generative AI Could Raise Global GDP by 7%.” April 5.
+https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html
+.
+Goldstein, Jill, Bill Lobig, Cathy Fillare, and Christopher Nowak. 2023.
+Augmented Work for an Automated, AI-Driven World: Boost Performance with Human-Machine Partnerships
+. IBM. August 10.
+https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/augmented-workforce
+.
+Google Books Ngram Viewer. 2024. “Artificial Intelligence.” Accessed November 2023.
+https://books.google.com/ngrams/graph?content=artificial+intelligence&year_start=1950&year_end=2019&corpus=en-2019&smoothing=3
+.
+Google DeepMind. n.d. “AlphaGo.”
+https://www.deepmind.com/research/highlighted-research/alphago
+.
+Green, Andrew. 2023. “Artificial Intelligence and Jobs: No Signs of Slowing Labour Demand (Yet).” In
+OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market
+, ed. Andrea Bassanini and Stijn Broecke. 102–27. Paris, France: OECD Publishing.
+Hart Research Associates. 2013.
+It Takes More Than a Major: Employer Priorities for College Learning and Student Success
+. April 10.
+https://dgmg81phhvh63.cloudfront.net/content/user-photos/Research/PDFs/2013_EmployerSurvey.pdf
+.
+Hendra, Richard, Kelsey Schaberg, Brent Orrell, and Garrett A. R. Yursza Warfield. 2023. “Expanding Economic Opportunities Through Evidence-Based Sector Training.” American Enterprise Institute. August 3.
+https://www.aei.org/research-products/report/expanding-economic-opportunities-through-evidence-based-sector-training
+.
+Huber, Laura Rosendahl, Randolph Sloof, Mirjam Van Praag, and Simon C. Parker. 2020. “Diverse Cognitive Skills and Team Performance: A Field Experiment Based on an Entrepreneurship Education Program.”
+Journal of Economic Behavior & Organization
+177: 569–88. September.
+https://ideas.repec.org/a/eee/jeborg/v177y2020icp569-588.html.18
+.
+Hui, Xiang, Oren Reshef, and Luofeng Zhou. 2023. “The Short-Term Effects of Generative Artificial Intelligence on Employment: Evidence from an Online Labor Market.” Working Paper. Social Science Research Network. August 1.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527336
+.
+Hyman, Benjamin. 2018. “Can Displaced Labor Be Retrained? Evidence from Quasi-Random Assignment to Trade Adjustment Assistance.” Working Paper. Social Science Research Network. April 20.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3155386
+.
+Jayaram, Shubha, and Michelle Engmann. 2014. “Developing Skills for Employability at the Secondary Level: Effective Models for Asia.”
+Prospects
+44: 221–33. June 6.
+https://link.springer.com/article/10.1007/s11125-014-9302-5
+.
+Korducki, Kelli María. 2023. “So Much for ‘Learn to Code’: In the Age of AI, Computer Science Is No Longer the Safe Major.”
+The Atlantic
+. September 26.
+https://www.theatlantic.com/technology/archive/2023/09/computer-science-degree-value-generative-ai-age/675452
+.
+Lane, Marguerita, and Anne Saint-Martin. 2021. “The Impact of Artificial Intelligence on the Labour Market: What Do We Know So Far?” Working Paper. Organisation for Economic Co-operation and Development. January 21.
+https://www.oecd-ilibrary.org/social-issues-migration-health/the-impact-of-artificial-intelligence-on-the-labour-market_7c895724-en
+.
+Lassébie, Julie. 2023. “Skill Needs and Policies in the Age of Artificial Intelligence.” In
+OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market
+, ed. Andrea Bassanini and Stijn Broecke. 155–81. Paris, France: OECD Publishing.
+https://www.oecd-ilibrary.org/sites/638df49a-en/index.html?itemId=/content/component/638df49a-en
+.
+Leopold, Till Alexander, Vesselina Ratcheva, and Saadia Zahidi. 2018.
+The Future of Jobs Report 2018
+. World Economic Forum. September 17.
+https://www.weforum.org/publications/the-future-of-jobs-report-2018
+.
+LinkedIn. 2023. “LinkedIn 2023 Most In-Demand Skills: Learn the Skills Companies Need Most.” February 20.
+https://www.linkedin.com/business/learning/blog/top-skills-and-courses/most-in-demand-skills
+.
+Male, Sally A., Mark B. Bush, and Elaine S. Chapman. 2011. “An Australian Study of Generic Competencies Required by Engineers.”
+European Journal of Engineering Education
+36, no. 2: 151–63. May.
+https://www.researchgate.net/profile/Sally-Male/publication/232825257_An_Australian_study_of_generic_competencies_required_by_engineers/links/58f4502da6fdcc11e569f495/An-Australian-study-of-generic-competencies-required-by-engineers.pdf
+.
+Manyika, James, Susan Lund, Michael Chui, Jacques Bughin, Jonathan Woetzel, Parul Batra, Ryan Ko, and Saurabh Sanghvi. 2017.
+Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation
+. McKinsey & Company. December.
+https://www.mckinsey.com/~/media/BAB489A30B724BECB5DEDC41E9BB9FAC.ashx
+.
+Martens, Bertin, and Songül Tolan. 2019. “Will This Time Be Different? A Review of the Literature on the Impact of Artificial Intelligence on Employment, Incomes and Growth.” Working Paper. Social Science Research Network. February 13.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3290708
+.
+Masterson, Victoria. 2023. “Future of Jobs 2023: These Are the Most In-Demand Skills Now—and Beyond.” World Economic Forum. May 1.
+https://www.weforum.org/agenda/2023/05/future-of-jobs-2023-skills
+.
+Murphy, James S. 2016. “The Undervaluing of School Counselors: Their Role Is Crucial to Helping More Students Reach Higher Education.”
+The Atlantic
+. September 16.
+https://www.theatlantic.com/education/archive/2016/09/the-neglected-link-in-the-high-school-to-college-pipeline/500213
+.
+Noy, Shakked, and Whitney Zhang. 2023. “Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence.” Working Paper. Massachusetts Institute of Technology. Department of Economics. March 10.
+https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1_0.pdf
+.
+Orrell, Brent. 2023. “Labor Unions and the ‘Double-Helix’ of America’s Workforce Development Future.” Niskanen Center. January 18.
+https://www.aei.org/op-eds/labor-unions-and-the-double-helix-of-americas-workforce-development-future
+.
+Petropoulos, Georgios. 2018. “The Impact of Artificial Intelligence on Employment.” In
+Work in the Digital Age: Challenges of the Fourth Industrial Revolution
+, ed. Max Neufeind, 119–32. Jacqueline O’Reilly, and Florian Ranft. New York: Rowman & Littlefield.
+https://www.researchgate.net/profile/Amy-Healy/publication/325796290_How_to_escape_the_low_learning_trap_in_a_runaway_labour_market
+.
+Quintero, Diana, and Yuhe Gu. 2019. “Rural Schools Need Career Counselors, Too.” Brookings Institution. July 3.
+https://www.brookings.edu/articles/rural-schools-need-career-counselors-too
+.
+Retool. n.d. “State of AI: A 2023 Report on AI in Production.”
+https://retool.com/reports/state-of-ai-2023
+.
+Roser, Max. 2022. “The Brief History of Artificial Intelligence: The World Has Changed Fast—What Might Be Next?” Our World in Data. December 6.
+https://ourworldindata.org/brief-history-of-ai
+.
+Roubini, Nouriel, Michael Chui, and Janet Bush. 2023. “Forward Thinking on ‘Megathreats,’ ‘Polycrises,’ and ‘Doom Loops’ with Nouriel Roubini.” By Michael Chui and Janet Bush. McKinsey & Company. March 22.
+https://www.mckinsey.com/mgi/forward-thinking/forward-thinking-on-megathreats-polycrises-and-doom-loops-with-nouriel-roubini
+.
+Sanders, Carrie, Laura E. Welfare, and Steve Culver. 2017. “Career Counseling in Middle Schools: A Study of School Counselor Self- Efficacy.”
+Professional Counselor
+7, no. 3: 238–50.
+https://eric.ed.gov/?id=EJ1165684
+.
+Susskind, Daniel. 2020.
+A World Without Work: Technology, Automation, and How We Should Respond
+. New York: Henry Holt and Company.
+Tyson, Laura D., and John Zysman. 2022. “Automation, AI & Work.”
+Dædalus
+151, no. 2: 256–71. Spring.
+https://www.amacad.org/publication/automation-ai-work
+.
+Valoir. 2023.
+Assessing the Value of AI and Automation
+. May 23.
+https://valoir.com/blog-1/assessing-the-value-of-ai-and-automation
+.
+Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2023. “Attention Is All You Need.” Working Paper. August 2. arXiv.
+https://arxiv.org/abs/1706.03762
+.
+Webb, Michael. 2020. “The Impact of Artificial Intelligence on the Labor Market.” Working Paper. Social Science Research Network. January 11.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3482150
+.
+West, Darrell M. 2019.
+The Future of Work: Robots, AI, and Automation
+. Washington, DC: Brookings Institution Press.
+Zahidi, Saadia, Vesselina Ratcheva, Guillaume Hingel, and Sophie Brown. 2020.
+The Future of Jobs Report 2020
+. World Economic Forum. October 20.
+https://www.weforum.org/publications/the-future-of-jobs-report-2020
+.
+Zhou, Pei, Aman Madaan, Srividya Pranavi Potharaju, Aditya Gupta, Kevin R. McKee, Ari Holtzman, Jay Pujara, Xiang Ren, Swaroop Mishra, Aida Nematzadeh, Shyam Upadhyay, and Manaal Faruqui. 2023. “How FaR Are Large Language Models from Agents with Theory-of-Mind?” Working Paper. arXiv. October 4.
+https://arxiv.org/abs/2310.03051
+.

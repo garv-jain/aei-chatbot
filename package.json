@@ -1,0 +1,21 @@
+{
+    "name": "aei-chatbot-fullstack",
+    "version": "1.0.0",
+    "description": "Full-stack AEI Chatbot application",
+    "scripts": {
+        "install-all": "cd backend && npm install && cd ../frontend && npm install",
+        "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\"",
+        "build": "cd frontend && npm run build",
+        "start": "cd backend && npm start"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.0"
+    },
+    "dependencies": {
+        "@mozilla/readability": "^0.6.0",
+        "axios": "^1.11.0",
+        "jsdom": "^26.1.0",
+        "readability": "^0.1.0",
+        "uuid": "^11.1.0"
+    }
+}

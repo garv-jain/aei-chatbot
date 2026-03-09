@@ -1,0 +1,154 @@
+PAGE_TITLE: 
+	The TikTok Ban’s Free Speech Dilemma | American Enterprise Institute - AEI
+
+TikTok is a perfect villain. The app seems to be connected with the Chinese Communist Party (CCP). It’s where
+Osama Bin Laden’s manifesto picked up traction
+and
+where antisemitic tropes
+run amok. TikTok’s impact on kids
+isn’t heartening
+, and its
+data security problems
+are serious.
+Still, I’ve got some trepidation about the TikTok bill that just passed the House by a vote of 352-65. While
+House Resolution (HR) 7521
+doesn’t repeat problems of
+previous
+bills
+, supporters are downplaying what it represents. If passed, the bill would effectively ban a platform on which
+170 million U.S. users
+gather to make money, share ideas, and unwind.
+While some of its defenders have portrayed the TikTok bill as just a divestiture, it’s ultimately backed up by a ban. Now that it’s headed to the Senate, no one should shy away from pointing this out. Supporters should be forthright about the tradeoff HR 7521 makes against speech in favor of national security.
+And for what it’s worth, sometimes the scales
+do
+need to be tipped to favor national security. There’s no question that China and the U.S. are locked in an ideological competition. Easily the biggest change in my own thinking over the past five years has been my increasing concern about the Chinese government. Xi Jinping’s rule over the CCP has led to the Chinese government growing more aggressive in its own borders, enacting a plan of
+“thought eradication” on the Uyghur population
+,
+cracking down in Hong Kong
+, and supporting corporate espionage, all while also moving forward with plans to completely rid itself of
+Western technology under Document 79
+. So much of China’s political program centers on closing the country off to foreign ideas, shutting down dissent, and bending the populace’s will to the political elite.
+That’s antithetical to the American ethos. Our political culture is messy, but our ideas are argued in public. And to the chagrin of the CCP—and even some of
+our European allies
+—the United States puts First Amendment concerns above all others. It’s not unassailable, but there are clear and high hurdles for doing so.
+TikTok is no saint either. I’ve been following all the drama with TikTok for a couple years now, and earlier this year published a
+policy paper
+on the issue. (I’d encourage you to read through it and get a sense of the layers of regulation and actors involved.) So it’s frustrating that merely suggesting that this bill might pose free speech problems or that it could set up a bad precedent can get
+you branded a China shill
+. I hold no allegiance toward TikTok and wouldn’t be at all heartbroken if it disappeared tomorrow. But I do hold dear the ideals of free and open dialogue, and this tradeoff isn’t being thoroughly discussed.
+What’s in the bill?
+HR 7521 has two main aims. First, it prohibits “foreign adversary controlled applications” (FACAs) from operating in the U.S. Second, the bill makes it illegal for websites, marketplaces, and other apps from hosting FACAs.
+FACAs, in turn, are defined as any website, desktop application, mobile application, or other immersive technology application that is:
+controlled by a foreign adversary; and
+run by TikTok or its parent company ByteDance; or determined by the president to present a significant threat to the national security of the United States.
+If the House bill becomes law, FACAs will have 180 days to divest or face a ban. The president would determine compliance and would be required to issue a public notice and a report to Congress to trigger review. As currently written, the bill only applies to applications coming out of Russia, China, North Korea, and Iran since those are foreign adversary countries.
+In practice, the president would be vested with new power to ban apps like TikTok, which would be in addition to the power that
+already exists
+to split up TikTok.
+Could the government have solved this problem already?
+Little mentioned in this debate is that the executive branch still hasn’t closed its 2019 investigation into TikTok under the Committee on Foreign Investment in the United States (CFIUS) process.
+A 2018 law
+granted it the power to oversee data-driven cases like TikTok’s.
+As I explained previously
+(with
+emphasis
+added):
+Treasury Secretary Janet Yellen oversees CFIUS, a committee made up of members from the State, Justice, Energy, and Commerce Departments, among others, that investigates national security risks from foreign investments in American firms. CFIUS is a secretive intragovernment committee that has the authority to review any transaction that could result in the control of a US business by a foreign person or entity, regardless of the size or value of the transaction. It also has the power to investigate transactions that have already been completed.
+CFIUS’s legal hook with TikTok came about because ByteDance merged Musical.ly into its existing TikTok app
+.
+In the summer of 2022, ByteDance, TikTok, and CFIUS seemed to be on the verge of a deal. According to
+Forbes
+, the agreement would have given the Department of Defense and the Department of Justice wide latitude to examine TikTok’s U.S. facilities; block changes to the app’s U.S. moderation policies; and even temporarily stop TikTok from functioning in the United States.
+The draft deal included a number of provisions that CFIUS has often demanded, such as auditing and monitoring datasets and algorithms. It also included language that tied corporate officers to the United States. As Ama Adams, a managing partner and CFIUS expert at Ropes & Gray, told
+Forbes
+, “setting up a structure that has allegiance to the United States—I’ve never seen language, per se, to that extent.”
+Even still, the Department of Justice, and specifically FBI Director Christopher Wray, wanted more. James Lewis, a scholar at the Center for Strategic and International Studies,
+told
+Bloomberg
+last year that though there was a working agreement, the “DOJ and FBI didn’t like it, they didn’t think it was tough enough, so [FBI director] Wray did the typical Washington thing, which is to take the deal back to the table.”
+If TikTok truly posed an imminent threat, why not outright halt the 2019 deal with Musical.ly? It’s no secret that CFIUS
+ordered Grindr’s Chinese owners to relinquish control
+of the app. Why not do the same for Musical.ly? The cynical read is that the executive branch doesn’t want to deal with the legal challenges to CFIUS’ authority. Only
+one case has been successfully tried
+to reverse a CFIUS ruling and that was before CFIUS got expanded powers in 2018. Still, it’s odd to me that the executive branch hasn’t closed the Musical.ly case or done anything else it said it was going to do to better understand TikTok, including issuing a detailed report on the company.
+But how dangerous is TikTok, really?
+Matt Yglesias
+captured a common argument floating around the internet by comparing TikTok to CBS. As he wrote last week,
+Here’s the analogy I like to use. It’s 1975 and a state-owned Soviet firm wants to buy CBS. What happens? Well, what happens is they wouldn’t be allowed to. The FCC would block it. The Committee on Foreign Investment in the US or its predecessors would block it. If they didn’t have the power, congress would write a new law. And even if it wasn’t CBS, if it was a chain of local TV affiliate stations, the outcome would be the same. There would be no detailed factual analysis or demand for gold standard evidence that a Soviet-owned television statement might do Moscow’s bidding or that television is capable of influencing public opinion. We’d reject the idea out of hand. And rightly so, because the downsides would be very clear, and the upside minimal.
+That’s how the TikTok situation looks to me.
+But TikTok isn’t CBS and Soviet Russia isn’t bankrolling the acquisition. CBS is a broadcaster where opinion is overt and explicit. On the other hand, TikTok is a platform where influence is subtle. TikTok also isn’t owned by the CCP in the way people understand ownership.
+Roughly 60 percent
+of the firm is owned by institutional investors like Blackrock, General Atlantic, and Susquehanna International Group; another 20 percent is owned by the company’s founders, who are Chinese; and the remainder is owned by its employees.
+The connection that the CCP has over TikTok comes with
+the golden share
+. Officially known as “special management shares,” these stocks
+cropped up in 2013
+as a way for the Chinese government to loosen control over the business sector without giving it full autonomy. The CCP retains a 1 percent stake in Douyin, another company owned by ByteDance. Whether the CCP is trying to tip the scales with the algorithm remains an open question.
+Not only is the CBS analogy deeply anachronistic, it fails to capture the subtleties in the technology and the financial ties that make understanding TikTok difficult.
+TikTok isn’t blameless. For the past couple years, there’s been a steady trickle of concerning news:
+The clearest and most serious allegations of interference were found in the
+lawsuit documents of Yintao Yu
+, an ex-ByteDance employee. Through a wrongful-termination legal case, Yu contended that the CCP surveilled Hong Kong’s pro-democracy activists in 2018, leveraging a secret backdoor in TikTok to observe the protesters’ locations and interactions.
+Internal documents reviewed by
+The Guardian
+in September 2019
+uncovered that TikTok had directed its moderators to filter content related to Tiananmen Square and the independence of Tibet, issues sensitive to the government in Hong Kong. Ultimately,
+the company withdrew from the region
+, unwilling to adhere to censorship demands and data requests. Additionally, it restored videos critical of Beijing’s treatment of Muslims,
+acknowledging their erroneous removal
+.
+According to reporting
+from Emily Baker-White, clandestinely recorded tapes “suggest that the company may have misled lawmakers, its users, and the public by downplaying that data stored in the US could still be accessed by employees in China.” For their own part, TikTok has said that it now domiciles U.S. data storage and processing
+under Project Texas
+.
+TikTok has
+kept highly sensitive financial information
+about its prominent stars on servers based in China. In contrast, CEO Shou Chew stated to Congress that “American data has always been stored in Virginia and Singapore.”
+In late 2022,
+ByteDance admitted it was spying
+on journalists, although the company asserts it was a result of a mishandled leak of corporate information. Following this disclosure, the Justice Department
+opened an investigation
+.
+In November 2023, TikTok’s internal platform
+was inspected
+by CCP cybersecurity agents in the lead-up to the CCP’s 20th National Congress,
+sparking a classified briefing
+.
+Interestingly, FBI Director Wray has never been specific about the exact national security threat from TikTok. In fact, when asked by Sen. Marco Rubio if TikTok could sow dissent by subtly changing how videos are served,
+Wray was clear
+that “the different kinds of influence operations you’re describing are extraordinarily difficult to detect, which is part of what makes the national security concerns represented by TikTok so significant.”
+Moreover, the recent push on TikTok legislation isn’t being driven by new revelations that haven’t been released to the public. Instead,
+as the
+Wall Street Journal
+has reported,
+The surge in momentum to ban TikTok in Congress isn’t due to specific new classified information, according to congressional aides and former intelligence officials familiar with the matter. Instead, the heightened interest reflects the culmination of years of outreach to lawmakers by U.S. national-security officials who have long argued there exists a potential for the app to be used by the Chinese government for nefarious purposes, according to congressional aides and former intelligence officials familiar with the matter.
+Even more important, Rep. Jim Himes was among the slim minority of members in the House who voted against the bill, which he
+explained
+in a statement:
+As Ranking Member of the Intelligence Committee have more insight than most into the online threats posed by our adversaries. But one of the key differences between us and those adversaries is the fact that they shut down newspapers, broadcast stations, and social media platforms. We do not. We trust our citizens to be worthy of their democracy. We do not trust our government to decide what information they may or may not see.
+I suspect that there is a way to address the challenge posed by TikTok that is consistent with our commitment to freedom of expression. But a bill quickly passed by one committee less than a week ago is not that way.
+Some potential future scenarios.
+HR 7521 faces an uncertain future in the Senate. President Biden has been supportive and has said that he’ll sign the bill if it reaches his desk. If the bill were to become law, TikTok will likely find it difficult to secure
+a willing buyer
+. Like others, Ygelsias suggests that, “Most likely, it ends up getting sold to a big American tech company.” But I think that’s unlikely. As I
+explained previously
+, both the Trump and Biden administrations have made this outcome unlikely.
+Chinese officials have said they would oppose a divestiture due to an export ban on algorithms. It seems as though the Chinese government has been making laws specifically to complicate a TikTok divestiture.
+The inclusion of algorithms
+on the CCP’s restricted list of technology occurred in August 2020, just after the Trump administration’s ultimatum to either sell TikTok or face a ban. In recent months, the Chinese government has been ramping up the kinds of algorithms that are restricted. So expect hurdles there as well.
+Crucially, prohibiting TikTok would eliminate the subtle leverage the U.S. market might have in influencing one of the world’s most significant tech enterprises. Indeed, the company appears to be struggling to distance itself from its Chinese origins. Every minor adjustment made to appeal to a vast international audience has sparked controversy in China, leading to the company’s founder
+being regularly denounced
+as “a traitor of China, a coward, and an American apologist.”
+And for reasons that aren’t entirely clear to me, the companion bill to the TikTok divestiture hasn’t gotten more attention.
+HR 7520
+—Protecting Americans’ Data from Foreign Adversaries Act—would go a long way to resolve concerns people have with TikTok because it restricts the sale of personal data to China. It just passed the full House without much fanfare.
+Of course, if the divestiture bill were to pass, it would likely be blocked on First Amendment grounds. As I mentioned above, I think that would be more than warranted, especially since the Department of Justice hasn’t disclosed exactly what’s got them worried. For a great primer on the First Amendment concerns, check out
+Jennifer Huddleston’s recent essay
+.
+All in all, it is hard not to describe the two weeks that it took to get the bill passed as a
+process foul
+. Given that the bill would ban TikTok, it’s imperative for Congress to conduct thorough research and substantiate the necessity of this drastic measure. In
+Junger v. Daley,
+the 6th U.S. Circuit Court of Appeals
+held
+that for the government to give preference to the national security concerns over those of free speech, the concern must be real, not simply “posit the existence of the disease sought to be cured.” Call me old-fashioned, but I think that the government needs clear evidence of serious national security problems before passing a bill that takes away a massive platform supporting speech.

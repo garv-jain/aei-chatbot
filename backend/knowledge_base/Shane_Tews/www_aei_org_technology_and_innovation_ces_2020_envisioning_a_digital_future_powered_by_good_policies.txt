@@ -1,0 +1,46 @@
+PAGE_TITLE: 
+	CES 2020: Envisioning a Digital Future Powered by Good Policies | American Enterprise Institute - AEI
+
+A fascinating result of regularly attending CES (formerly the Consumer Electronics Show) is that you can witness technologies evolving year after year to newer standards and better capabilities. Take, for example, the show’s ever-present televisions. In recent years, TVs have moved from Ultra HD to 4K and now 8K resolution standards, quadrupling the number of pixels in a TV screen along the way. But there are also changes that will benefit technology and ultimately consumers that aren’t always easy to visualize.
+The CES logo is displayed in the lobby of the Las Vegas Convention Center in Las Vegas, Nevada January 5, 2020 – via REUTERS
+Other innovations shown at CES promise to change how people and businesses use technology, but may do this by scaling behind-the-scenes resources such as network connectivity and additional computing power. And while policy changes such as allocating more spectrum to support new technologies aren’t always visually obvious, they are just as important to the success of the technologies as the devices themselves.
+With major policies affecting tech being discussed by federal, state, and local governments, “the people who will most determine the fate of the tech industry in 2020 won’t be engineers or marketers — they’ll be legislators, judges and lawyers,” wrote Eric J. Savitz in Barron’s. Here are some key instances where technology will need good policy to blossom in 2020, as made evident by CES 2020.
+5G wireless
+The products being previewed at CES are driving the demand for increased infrastructure expansion, computing power, cloud computing resources, storage capacity, and spectrum for network connections. The demand for more resources and connectivity creates momentum for better, more reliable internet connections to power commercial and consumer applications. 5th generation networking, or 5G, allows the expansion of the framework that will run both the physical and virtual infrastructure resources necessary for supporting the technology advances of the future. At the Senate Commerce Committee’s recent hearing on Industries of the Future, Commissioner Mike O‘Rielly of the Federal Communications Commission (FCC)
+testified
+that:
+These advancements will have far reaching economic impact. A recent Qualcomm initiated study estimated that 5G would generate $13.2 trillion in economic benefits by 2035, support 22.3 million jobs, and produce economic global growth of $2.1trillion — an amount equivalent to Italy’s current economy. Similarly, a 2018 CTIA report suggests the U.S. impact alone to be $275 billion in investment, leading to $500 billion in economic growth and three million new American jobs.
+Changes to the network architecture are critical for managing the
+limitations of current infrastructure designs. Once faster, higher bandwidth
+internet connections are paired with computing power that can take full
+advantage of better connections, we will begin to see the real advantages and benefits
+of artificial intelligence, machine learning, and cryptography. 5G
+connectivity involves migrating toward full network virtualization, software
+defined networks, and increased cloud computing capabilities for the devices
+and services of the future.
+Spectrum
+Radio spectrum is a finite resource that
+promises to power many current and future innovations. From automation
+applications such as self-driving cars and trucks, to smart home applications
+and the Internet of Things, commercial actors will continue to need more
+spectrum as they invent new and exciting tech. Commissioner O’Rielly noted in his testimony
+that “Congress has been clear in enacted legislation that it expects the
+appropriate Federal government agencies to conduct an honest and fair
+assessment of sharing this specific band with commercial wireless providers for
+new advanced wireless services.” Fortunately,
+innovation in the use and management of spectrum bands is helping more
+government entities — championed by the FCC — to see the long term benefits of reallocating
+spectrum to help meet growing demand, including for commercial purposes that
+benefit consumers.
+Quantum computing
+Another challenge is pushing computing capabilities beyond current limitations. Many new devices require an exponential increase in computing power, pushing the envelope on current limits to computing hardware and software designs.
+Moore’s law
+, the theory of exponential improvement for electronics, has held true for decades, but we’re now approaching physical limits to the “
+runaway progress in silicon
+.” This is why the progress of quantum computing, which is “gaining computational power relative to classical ones at a ‘
+doubly exponential
+’ rate,” is so important for future innovation.
+In the same Senate Commerce hearing, US Chief Technology Officer Michael Kratsios’
+testimony
+described quantum computing, quantum networking, and quantum sensing as foundational for new technologies. As we await quantum computing’s potential, the National Science Foundation and the National Institute of Standards and Technology are working with global consortiums on quantum information science to enable new applications in multiple industries including technology, communications, manufacturing, health care, and national security.
+All of these areas of technology policy will help support the innovation and advancements for the products that the CES show demonstrates to its 100,000 plus attendees, and transform how consumers work and live together in technology-powered communities. The collaborative work done by policymakers and technology companies will help ensure that the technologies of the future shown on the CES convention floor become a reality for everyone.

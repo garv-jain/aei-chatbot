@@ -1,0 +1,59 @@
+PAGE_TITLE: 
+	Generative AI and Fabricated Judicial Opinions: A Slow Learning Curve for Some Attorneys | American Enterprise Institute - AEI
+
+On the final day of my civil procedure course, Professor
+Brian Landsberg
+offered a piece of advice. At first blush, it seemingly had nothing to do with the myriad
+federal rules
+and landmark cases like
+Pennoyer v. Neff
+that we’d studied. Yet, it’s a pearl of wisdom I remember more than 35 years later: Never take square corners roundly.
+As anxious first-year law students, we were probably tempted to ask Professor Landsberg whether that maxim would appear on the exam. (Thankfully, no one did.) What the civil rights litigator who apparently got stuck teaching civ pro meant, of course, was don’t take shortcuts when it comes to the law and be sure to scrupulously follow the rules.
+Via Twenty20.
+I’m reminded of Professor Landsberg’s cogent counsel because some attorneys continue to take shortcuts in legal research by using generative artificial intelligence (Gen AI) tools when searching for cases to support their motions and, unfortunately, failing to verify whether they are real. By now, all practicing attorneys should know that Gen AI tools sometimes “hallucinate” (a kinder, gentler way of saying fabricate or make up) non-existent opinions. Not taking the time to confirm whether cases spat out by Gen AI tools are genuine is like a law firm partner failing to check the work of a first-year associate who just passed the bar exam.
+I first
+addressed
+the problem in June 2023, describing how a federal judge in Manhattan had sanctioned two attorneys for including Gen AI-produced fake judicial opinions in a case called
+Mata v. Avianca, Inc
+. As US District Judge P. Kevin Castel
+put it
+, “Technological advances are commonplace and there is nothing inherently improper about using a reliable artificial intelligence tool for assistance. But existing rules impose a gatekeeping role on attorneys to ensure the accuracy of their filings.” Castel added that citing “bogus opinions” not only “wastes time and money in exposing the deception,” but also “promotes cynicism about the legal profession and the American judicial system.”
+In January 2024, I
+discussed
+how Michael Cohen, the now-disbarred attorney who formerly worked for Donald Trump, used a Gen AI tool that produced three non-existent opinions that Cohen then passed along to his attorney who, in turn, incorporated them into a legal filing. Although neither Cohen nor his attorney was later sanctioned, US District Judge Jesse Furman in March 2024
+called
+the incident “embarrassing” and wrote that “[g]iven the amount of press and attention that Google Bard and other generative artificial intelligence tools have received, it is surprising that Cohen believed it to be a ‘super-charged search engine’ rather than a ‘generative text service.’”
+In July 2024, the American Bar Association (ABA) issued a
+formal opinion
+regarding attorneys’ usage of Gen AI tools. It asserts that:
+Because [Gen AI] tools are subject to mistakes, lawyers’ uncritical reliance on content created by a [Gen AI] tool can result in inaccurate legal advice to clients or misleading representations to courts and third parties. Therefore, a lawyer’s reliance on, or submission of, a [Gen AI] tool’s output—without an appropriate degree of independent verification or review of its output—could violate the duty to provide competent representation . . .
+The opinion goes on to stress that “[a]s a matter of competence . . . lawyers should review for accuracy all [Gen AI] outputs.”
+Unfortunately,
+news broke
+in February of yet another incident of attorneys stuffing motions with fake cases produced by Gen AI tools. This incident involved a major firm, Morgan & Morgan, that
+calls itself
+“America’s Largest Injury Law Firm” and
+says
+it tries “more cases than any other firm in the country.” According to an
+order to show cause
+filed on February 6 by US District Judge Kelly Rankin of Wyoming, a motion submitted by Morgan & Morgan and the Goody Law Group in
+Wadsworth v. Walmart, Inc.
+cited a whopping nine cases that simply don’t exist.
+Four days later, the plaintiffs’ attorneys jointly
+responded
+, acknowledging the cases “were not legitimate” and explaining that “[o]ur internal artificial intelligence platform ‘hallucinated’ the cases in question while assisting our attorney in drafting the motion.” They dubbed it “a cautionary tale for our firm and all firms, as we enter this new age of artificial intelligence.”
+Unfortunately, the cautionary tale had already occurred more than 18 months earlier in
+Mata v. Avianca, Inc
+. noted above. It generated
+coverage
+in
+The New York Times
+and an
+article
+in
+The National Law Review
+headlined “A ‘Brief’ Hallucination by Generative AI Can Land You in Hot Water.” The plaintiffs’ attorneys in
+Wadsworth
+, three of whom were individually
+sanctioned
+by Rankin with minimal fines (neither Morgan & Morgan nor the Goody Law Firm was sanctioned), seemingly missed the news. Going forward, they should heed the ABA’s opinion and Professor Landsberg’s advice about not taking shortcuts.

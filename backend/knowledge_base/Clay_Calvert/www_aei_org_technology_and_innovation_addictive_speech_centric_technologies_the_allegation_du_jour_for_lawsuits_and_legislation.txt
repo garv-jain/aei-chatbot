@@ -1,0 +1,62 @@
+PAGE_TITLE: 
+	Addictive Speech-Centric Technologies: The Allegation Du Jour for Lawsuits and Legislation | American Enterprise Institute - AEI
+
+Safeguarding minors from harms ostensibly caused by allegedly addictive speech-based technologies: That’s the impetus stoking a nationwide wave of lawsuits and legislation that collectively seek to compensate minors for injuries and limit their access to certain media. Unpacking the first part of that sentence––the pre-colon portion––reveals a combustible combination of four factors rendering the situation fraught and contentious. Those variables are: 1) minors as alleged victims; 2) questions of causation of harm; 3) contested notions of
+technology addiction
+; and 4) speech safeguarded by the
+First Amendment
+.
+Any judicial or legislative resolution of these “addictive” situations must fully account for and thoughtfully examine these four variables. For example, while children are a sympathetic group and there is “
+persistent power
+” to the assumption they must be shielded from certain varieties of expression, those same brands of speech may be protected by the First Amendment. Furthermore, proving that the technologies directly cause harm––not simply are correlated with it––and that they are addictive is easier said than done.
+Via Twenty20
+Indeed, the US Supreme Court in
+Brown v. Entertainment Merchants Association
+made it clear that: 1) video games are a protected form of expression; 2) minors presumptively have First Amendment rights to access otherwise lawful speech; 3) the government “must specifically identify an ‘actual problem’ in need of solving” when it limits minors’ access to presumptively protected expression; and 4) “a direct causal link” between speech and harm must be demonstrated, as “ambiguous proof will not suffice.” In short, even if protecting minors is a compelling government objective, substantial constitutional hurdles must be cleared for a statute to pass constitutional muster.
+Beyond this quartet of variables, courts and lawmakers should grapple with macro-level public policy concerns about allocating responsibility. Simply put, should it be the responsibility of the government, parents, minors, or businesses––or some combination of them all––to prevent or redress the harms that allegedly befall minors? Governments, school districts, and parents are shifting some responsibility to social media and video game businesses via statutes and lawsuits.
+I’ve
+previously addressed
+lawsuits and recent legislation targeting social media platforms’ supposedly addictive and deleterious design features. I’ve also
+analyzed
+the massive ongoing multi-district litigation proceeding in Northern California in
+In re: Social Media Adolescent Addiction/Personal Injury Products Liability Litigation
+. That battle is still relatively early, with local governments and school districts from across the country filing an
+amended complaint
+in March.
+A central
+allegation
+there is that the companies behind Instagram, Facebook, TikTok, Snapchat, and YouTube have “borrow[ed] from the behavioral and neurobiological techniques used by makers of slot machines and tobacco products” that trigger rewarding
+dopamine
+deliveries. The defendants allegedly have “deliberately embedded design features in their platforms to maximize youth engagement to drive advertising revenue.” In short, the companies ostensibly prey on “young people [who] are in a developmental stage that leaves them particularly vulnerable to the addictive effects of these features.”
+Running nearly parallel to the lawsuits targeting social media platforms’ supposedly addictive features––and something I’ve not previously addressed––are those targeting video game companies. As one plaintiffs’ firm
+describes
+them,
+[t]he video game addiction lawsuits seek to hold video game companies liable based on a failure to warn theory. The lawsuits assert that the video game companies had a duty to warn users that their games could potentially be addictive and habit-forming, and that this addiction could be harmful.
+An April
+Polygon
+article
+asserts there “are more than a dozen lawsuits currently active in North America that seek to address video game addiction,” all of which were “filed within the past two years.”  A
+complaint
+filed in federal district court in Georgia on April 29, 2024 is illustrative, naming as defendants Activision Blizzard, Take-Two Interactive, Epic Games and other video game giants. It contends they “specifically developed and designed [games] to cause the addiction experienced by [minor plaintiff] Z.J. and other users.”
+This raises key issues about whether video game addiction is real and, if so, how many video game players experience it. The
+International Classification of Diseases–11
+recognizes “
+gaming disorder
+,” but that is
+not
+necessarily the same thing as video game addiction. A
+six-year longitudinal study
+tracking 385 adolescents and published in 2020 in
+Developmental Psychology
+found
+that
+[s]eventy-two percent of adolescents were relatively low in addiction symptoms across the six years of data collection. Another 18% of adolescents started with moderate symptoms that did not change over time, and only 10% of adolescents showed increasing levels of pathological gaming symptoms throughout the study.
+There are arguments both
+negating
+and
+supporting
+video game addiction, with the
+American Psychiatric Association
+noting last year
+that “[w]hether internet gaming should be classified as an addiction/mental disorder is the subject of much debate.”
+In sum, expect legitimacy of technology-addiction claims to be a fierce legal battleground in coming years.

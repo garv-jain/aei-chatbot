@@ -1,0 +1,104 @@
+PAGE_TITLE: 
+	Lessons Learned from the Government’s Failure to Understand Technology’s Power | American Enterprise Institute - AEI
+
+By Shane Tews
+Following the United States’ withdrawal from Afghanistan,
+the Taliban have
+reportedly
+seized biometrics devices left behind by the US
+military. Over the past 20 years, these devices
+collected
+information on Afghan citizens who assisted the
+US military, which was then sent to a Department of Defense (DOD) database. One
+of the devices, known as Handheld Interagency Identity Detection Equipment
+(HIIDE), was deployed in 2016 to collect iris scans and fingerprints to enable
+quick identification of Afghan citizens and expand the aforementioned database
+of their information. The DOD also built a highly classified Automated
+Biometrics Identification System (ABIS), which hosted information from HIIDE
+and other data-collection devices.
+Taliban soldiers stand in front of protesters during a demonstration in Kabul, Afghanistan, September 7, 2021, via Reuters
+Due to the incredible capabilities brought about by the
+computing power of today’s technologies and the convenience of being able to use
+biometric identification in the field via HIIDE, all these data points can be
+cross-referenced to identify a person in minutes, if not seconds. While the
+Taliban’s ability to access the HIIDE data remains in question, military
+experts say a potential Taliban ally — China, Pakistan, or Russia —
+may be able
+to do so.
+Even worse, the MIT Technology Review
+reports
+that the US-backed Afghan government constructed two
+databases: its own database modeled after ABIS, and the Afghan Personnel and
+Pay System (APPS) — a US-funded biometric database used to pay the Afghan
+national army and police. In the Taliban’s hands, these two databases pose an
+equally grave threat to Afghans who worked for or assisted the US military.
+(APPS
+collected
+around 40 pieces of data per individual, from eye
+scans to family trees and favorite foods.)
+Investigative reporter and “First Platoon: A Story of Modern
+War in the Age of Identity Dominance” (Dutton, 2021) author Annie Jacobsen
+says
+ABIS was designed to track terrorists and other
+insurgents. Col. Senodja Sundiata-Walker, manager of the DOD’s biometrics
+program,
+called
+ABIS a quick way to “collect, identify, and
+neutralize the enemy.” Using HIIDE and other devices under the ABIS umbrella,
+DOD’s
+stated goal
+was to identify 80 percent of the Afghan
+population to help weed out terrorists and criminals.
+Information collected by HIIDE was considered valuable
+across the US government too. In 2011, the Government Accountability Office
+criticized
+the DOD for not sharing HIIDE data through the
+interagency process with the Department of Homeland Security and FBI — which
+would enable federal partners to identify potential criminals and terrorists.
+The Department of State also used HIIDE data in their hiring process to vet
+candidates for jobs at US embassies and in certain military operations.
+The problem now is that the ABIS and HIIDE systems were
+designed for efficiency on the US government’s end, not data security. Even
+with
+recent cyber intrusions and hacks
+into US government
+databases, there was no known effort over the last few years to encrypt HIIDE
+data or, for that matter, any initiative to ensure the biometric data collected
+from Afghans was secure. “Even back in 2016, it may have been the databases,
+rather than the devices themselves, that posed the greatest risk,” the MIT
+Technology Review
+notes
+. The demand to make the system interoperable between
+agencies also likely created friction between the goals of easy and secure
+access to data.
+Iris scans have been used in the commercial market for
+employee credentials and in transportation hubs such as airports to automate
+identity checks at document control points. When employees or consumers agree
+to use their iris as a data point, terms-of-use agreements act as an exchange
+for access. But unlike with commercial use of biometric data, no deletion or
+retention policy is in place for the HIIDE data collected and maintained on
+Afghan people. The same is true for the Afghan government’s ABIS-based system
+and the US-funded APPS program — both of which contain key data the Taliban can
+now mine
+. “I wouldn’t be surprised if they looked at the
+databases and started printing lists based on this . . . and now are
+head-hunting former military personnel,” a person familiar with the APPS
+database
+commented
+.
+What should we learn from this potentially harmful
+situation? First is the importance of establishing a full-circle ecosystem for
+data collection and retention when creating any identity system. Data
+governance and privacy advocates are always at odds with government entities
+around how and what data should be collected, how they should be maintained and
+shared, and when they should be permanently deleted. Control, security, and
+privacy protections must be built into the original design of any data
+collection system. And when the use of collected data migrates to other
+operations, maintaining the data’s security, especially when transacting with
+the government, must be a top priority.
+As we look at data protection regimes and privacy
+legislation, we need to consider how data will be used beyond their original
+purpose to ensure usability, security, and privacy are kept intact. One purpose
+does not beat out the other. Compromising security for ease of use will allow
+dangerous situations to happen again — such as endangering Afghans who helped
+our military and diplomatic corps.

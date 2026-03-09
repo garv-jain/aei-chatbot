@@ -1,0 +1,80 @@
+PAGE_TITLE: 
+	Is Chatbot Output Speech? A Recent Ruling Misses the Mark | American Enterprise Institute - AEI
+
+When artificial intelligence chatbot characters communicate with you through words––when they respond with comments, answers, and questions to your input––are they engaging in “speech” within the meaning of the
+First Amendment
+? According to Senior US District Judge Anne Conway’s May decision in
+Garcia v. Character Technologies
+, the answer––perhaps surprisingly and certainly unfortunately––might be no.
+In rejecting First Amendment-based defenses against multiple legal theories targeting Character Technologies that were filed by a mother who
+alleges
+a chatbot caused her 14-year-old son to kill himself, Conway
+said
+she was “not prepared to hold that Character.AI’s output is speech.” If she later concludes––after discovery and summary judgment motions––that chatbot output is
+not
+speech, it will negatively affect generative AI (GenAI) tools by deterring their development if other courts follow her lead.
+Via Associated Press.
+Before explaining why the output from chatbot characters is speech under the First Amendment and where Conway’s reasoning seemingly went awry, here’s some background on the case I
+addressed
+last November and then
+examined
+this February. According to Conway’s
+opinion
+, Plaintiff Megan Garcia––mother of the deceased Sewell Setzer III––claims her son “became addicted to the [Character.AI] app,” resulting in mental health problems and disruptive behavior. Setzer also allegedly fell in love with a chatbot character that imitated
+Daenerys Targaryen
+from
+Game of Thrones
+.
+Just “moments” before Setzer killed himself, the Daenerys Targaryen chatbot character allegedly
+told
+him “[p]lease come home to me as soon as possible, my love.” After Setzer replied by asking if he “could come home right now,” the chatbot responded “please do my sweet king.”
+Regardless of the plaintiff’s
+efforts
+to frame
+Garcia
+as about a defective product with “unreasonably dangerous designs” that the defendants failed to warn about and deceptively marketed to “a vulnerable minor,” the case boils down to whether a chatbot’s speech––its words––caused harm. Under the US Supreme Court’s reasoning in
+Brown v. Entertainment Merchants Association
+that gave First Amendment shelter to interactive video games as speech involving a “virtual world,” chatbot output is speech because it “communicate[s] ideas” and embraces “familiar literary devices” including characters and dialogue.
+Although Conway
+cited
+Brown
+, she puzzlingly turned to a solo, speculative concurrence by Justice Amy Coney Barrett in
+Moody v. NetChoice
+to push back against the conclusion that chatbot output is speech. Barrett’s
+concerns
+in
+Moody
+, however, dealt with (1) whether using algorithms to feed users third-party content on platforms that the algorithms predict users want involves human editorial decisions meriting First Amendment protection, and (2) whether letting “an AI tool” decide if third-party content posted on a social media platform “is ‘hateful’ and should be removed” constitutes an “inherently expressive” choice by “a human being” that deserves First Amendment protection.
+Garcia
+isn’t about using algorithms to serve users third-party content they may want, or about letting AI tools make content-moderation removal decisions and whether those decisions are human editorial choices safeguarded by the First Amendment. It’s a case about whether speech itself––words, thoughts, and ideas––produced anew by a GenAI application that is designed and programmed by humans to
+let
+other humans “engage in interactive conversations with virtual generative AI chatbots” is protected by the First Amendment.
+More fundamentally, Conway was
+clear
+that the key First Amendment rights at stake in
+Garcia
+are not those of the
+defendants
+to make editorial decisions, but rather the First Amendment rights of Character. AI’s
+users
+to receive chatbot-generated speech. Conway correctly
+concluded
+that the “Defendants can assert the First Amendment rights of its Users.”
+Garcia
+thus pivots on users’ rights to receive speech (not speakers’ or publishers’ editorial rights), rendering it odd that Conway’s speech analysis involved Barrett’s frets over editorial decisions.
+The fact that users’ inputs influence speech produced by chatbots doesn’t change the fact that chatbot output is speech. Justice Antonin Scalia wrote for the
+Brown
+majority that:
+California claims that video games present special problems because they are “interactive,” in that the player participates in the violent action on screen and determines its outcome. The latter feature is nothing new: Since at least the publication of
+The Adventures of You: Sugarcane Island
+in 1969, young readers of choose-your-own-adventure stories have been able to make decisions that determine the plot by following instructions about which page to turn to.
+Algorithms have long driven
+video games
+in their non-player character responses to human decisions via
+pathfinding
+decisions and responding to “if-then” scenarios. The fact that AI increasingly is involved won’t somehow change the fact that video games constitute speech within the First Amendment’s meaning of that word.
+It would be a mistake for Conway to conclude that
+Garcia
+doesn’t involve speech. Rare, tragic facts shouldn’t make for bad law that stifles GenAI development and stunts “
+millions
+” of users’ rights to enjoy GenAI interactions.

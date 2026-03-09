@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	Up in the Air | American Enterprise Institute - AEI
+
+For whom is the bell tolling? When it comes to the leading-edge impacts of artificial intelligence (AI) on the workforce the answer appears to be well-paid, middle managers at some of the nation’s leading high-tech firms.
+As the Financial Times
+reported
+late last week, Amazon has announced the elimination of nearly 14,000 jobs concentrated in the ranks of the company’s middle management and reinvesting the $100 billion in savings to increasing spending on AI and robotics. The trade-off here is stark. According to Morgan Stanley analysts, the average annual salary for eliminated positions is between $200,000 and $350,000, saving the company $2.1 to $3.6 billion per year. The same analysts find the enhanced AI and robotics financed by these job cuts will generate $10 billion per year lower operating costs by the end of the decade. The package also includes $1 billion for an
+Industrial Innovation Fund
+dedicated to further incentivizing new automation and robotics applications created by outside developers.
+Admittedly, it is difficult to keep up with the flood of tech-sector AI investments. From the $500 billion Stargate data center initiative to the $500 billion Apple is committing to new, US-based advanced manufacturing plants and training programs, the pace and scope of the investments is dizzying. While Amazon’s spending is smaller by comparison, it provides a microcosm of how AI investments may become a self-reinforcing cycle with hard-to-predict outcomes for jobs and workers.
+First, spare a thought for the (former) Amazon middle managers. In an environment where AI is
+thinning out
+management ranks, finding jobs that will replace those salaries is not going to be simple or easy. These layoffs are also emblematic of how the challenges of AI-driven automation and cost-cutting are, at least in the early days, likely to fall
+disproportionately
+on college educated professionals rather than less expensive, frontline workers. Some economists believe these better educated workers will have an easier time finding new work than than the blue-collar workers hit by earlier rounds of automation. We will be testing that proposition in real-time with these Amazon managers.
+The Amazon announcement also demonstrates the rather direct connection between AI, automation, and workforce “restructuring” that impacts workers. Amazon and other companies must show their investors that the AI spending isn’t being made at the expense of quarterly earnings. The only way to generate savings quickly is by laying workers off, and the better paid those workers the more savings the layoffs create.
+The connection between the investments and the job cuts makes perfect sense from a
+business perspective
+and is “not good” when it comes to public anxiety over AI. This PR challenge is aggravated by the recent jarring shift from “AI is here to help” to “
+AI will reduce your workforce headcount
+”. Laid off workers who have mortgages to pay now are unlikely to be mollified by the vista of possibly brighter economic futures for their children and grandchildren.
+Finally, Amazon’s $1 billion crowd-sourcing fund for AI and automation innovation suggests that we are only at the beginning of workforce restructuring. In Amazon’s case, the company will be asking developers to come up with
+new
+AI and robotics solutions for its warehouses, which are already at the leading edge of robotics and efficiency. As robotics improve, the categories of jobs AI impacts will spread making it more likely that currently protected frontline workers will find their jobs swept into automation.
+Amazon says its automation investments have helped
+create over 700
+new job categories and that overall employment is steady. This is mostly true, but given the sequence (AI/robotics = job cuts = more investment in AI/robotics and so on) it’s hard to see how this cycle doesn’t result in labor force reductions among lower-skilled jobs down the road. Perhaps one day, Jeff Bezos will be able to run the whole company from a single terminal in his home office, which would give new meaning to “the singularity”.
+Amazon HeadCount, 2020-2024
+Of course, we have to be careful not to fall into the “
+lump of labor
+” fallacy. Across its history, automation has been a main driver of productivity increases, job creation, and rising living standards. There’s every reason to believe this will be the case with AI, which will generate new wealth and create jobs that we literally cannot imagine. As the Amazon announcement demonstrates, however, the short- and medium-term transition costs could be significant and unsettling. The sooner we
+figure out
+how to buffer those costs with enhanced worker supports and retraining programs the less turbulent—economically, socially and politically—the move to the AI economy will be.

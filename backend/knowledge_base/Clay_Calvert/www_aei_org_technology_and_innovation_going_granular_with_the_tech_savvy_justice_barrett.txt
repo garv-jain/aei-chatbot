@@ -1,0 +1,97 @@
+PAGE_TITLE: 
+	Going Granular with the Tech-Savvy Justice Barrett | American Enterprise Institute - AEI
+
+“We’re a court. We really don’t know about these things. You know, these are not like the nine greatest experts on the internet,”
+quipped
+Justice Elena Kagan in February 2023 during arguments in
+Gonzalez v. Google
+. Her crack
+elicited
+“laughter” from the audience as the attorneys argued about whether a federal
+statute
+barred an effort to hold Google liable for aiding and abetting a death during a terrorist attack via recommendations on its YouTube platform.
+Fast forward to 2024: The Court ruled in three cases involving social media platforms—
+Lindke v. Freed
+,
+Murthy v. Missouri
+, and
+Moody v. NetChoice
+. Are the justices now, if not the “greatest experts on the internet,” more knowledgeable about platforms’ workings? Did a year of scrutinizing briefs boost understanding?
+Via Reuters
+Justice Amy Coney Barrett’s comprehension seems impressively nuanced. She not only penned the Court’s unanimous
+Lindke
+opinion (
+regarding
+whether
+state action
+arises when public officials block people or delete their comments on social media accounts) but also wrote the six-justice majority opinion in
+Murthy
+(
+involving
+jawboning
+by government officials to get platforms to remove or deprioritize conservative-leaning content about COVID-19 pandemic policies and the 2020 presidential election). Furthermore, Barrett authored a concurrence in
+Moody
+, where the justices told lower federal courts to explain the
+scope and application
+of Florida and Texas statutes that impinge on the platforms’
+First Amendment
+rights to independently moderate content. Although Barrett is the Court’s second newest member, she’s clearly prominent in its social media jurisprudence. Barrett’s
+Lindke
+and
+Murthy
+opinions are infused, of course, with knowledge of the justices who joined them.
+Lindke
+: Cognizant that all social media platforms aren’t alike and that their nature isn’t stagnant, Barrett
+explained
+that “social media involves a variety of different and rapidly changing platforms, each with distinct features for speaking, viewing, and removing speech.” Her reference to “distinct features” is important for lawmakers to heed: It suggests that to pass constitutional muster for being
+narrowly tailored
+, a statute must carefully
+define
+the “platforms” it applies to by referencing their specific functionalities and applications. Deploying an excessively broad definition of a social media platform—say, as an interactive space that allows posting messages and communicating with others—problematically ensnares platforms that likely aren’t the targets of lawmakers’ ire.
+Additionally, Barrett
+appreciated
+that “the nature of the technology matters to the
+state-action analysis
+.” Here, she
+emphasized
+the difference between a platform that permits pinpointed, selective deleting of a user’s comments and the “bluntness” of a “page-wide blocking” function that not only bars citizens from
+commenting
+on any public officials’ posts but may even—depending on the platform—stop citizens from
+seeing
+them.
+Murthy
+: Barrett crucially observed that platforms’ content-moderation practices are “longstanding” and that “not everything goes” on platforms. This recognition pushes back against treating platforms as non-discriminatory
+common carriers
+, while telegraphing (common-carrier pun intended) the Court’s acknowledgment days later in
+Moody
+that Facebook’s “content-moderation standards” involve “the kind of editorial judgments this Court has previously held to receive First Amendment protection.” Barrett’s understanding in
+Murthy
+of platforms’ traditional content-moderation practices thereby paved the path for Justice Kagan’s (joined by five others, including Barrett) pro-First Amendment proclamations in
+Moody
+.
+Barrett’s recognition that platforms’ content-moderation decisions aren’t novel also affected the majority’s decision that the
+Murthy
+plaintiffs lacked
+standing
+to challenge the government’s alleged coercion of platforms’ content-removal decisions. That’s because, as Barrett
+wrote
+, the platforms “had independent incentives to moderate content” and, “acting independently, had strengthened their pre-existing content-moderation policies
+before
+the Government defendants got involved.” (Emphasis added.) That understanding made it difficult for the plaintiffs to prove that a content-removal decision was caused by the government (a key ingredient of standing), not the platforms’ moderation policies.
+Moody
+: Echoing her awareness in
+Lindke
+of a “variety of different” platforms replete with “distinct features,” Barrett detailed problems with using
+facial challenges
+to attack statutes that affect platforms’ content-moderation processes on First Amendment grounds. She
+asserted
+that “deal­ing with a broad swath of varied platforms and functions in a facial challenge strikes me as a daunting, if not impossi­ble, task.” Barrett drilled into differences between using algorithms that implement human judgments when deleting content and deploying artificial intelligence programs
+that rely
+“on large language models to determine what is ‘hateful’ and should be re­moved.” The latter might be too distant from human decisions to merit First Amendment protection, she intimated. Barrett
+contended
+that any First Amendment analysis involving claims of content-moderation editorial rights “is bound to be fact intensive, and it will surely vary from function to function and platform to platform.”
+Barrett’s desire for granular,
+as-applied
+analyses examining platforms’ “specific functions” should influence not only how plaintiffs challenge laws like those in
+Moody
+but also how lawmakers craft them. Sprawling approaches to both statutory attacks and legislative drafting won’t suffice.

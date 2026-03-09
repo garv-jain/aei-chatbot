@@ -1,0 +1,17 @@
+PAGE_TITLE: 
+	2024 AI Index Report: AI’s Past and Future | American Enterprise Institute - AEI
+
+Stanford University’s Institute for Human-Centered Artificial Intelligence released its
+2024 AI Index Report
+, last week. This document helps synthesize data across a variety of fields to track trends in AI innovation, investment, regulation, and social impacts.
+This year’s report documents AI’s astonishing progress on tasks such as image classification and language understanding, where it has surpassed human capabilities. In other areas, such as advanced mathematics and visual commonsense reasoning and planning, humans maintain an edge. It seems it’s only a matter of time before it catches up to humans on these skills.
+In terms of research and development, the Index reveals the continuing dominance of industry over academia as the principal source of AI investment and innovation. Despite a marked increase in collaboration between these two sectors, industry—to be precise, a handful of the largest companies—are leading the way. A similar pattern of dominance plays out between countries: the US is by far the leader in AI R&D. American companies in the US have invested over $67 billion in AI; by contrast, companies in China, the next-largest investor, have put down less than $8 billion. Innovation has tracked investment: the US eclipses all other countries, with 61 “notable” machine learning models compared to 15 for China, the runner-up.
+AI’s broader societal impacts is another major theme. The Index notes a growing awareness and concern among the global population regarding AI’s impacts on daily life. Globally, 52 percent express unease toward AI, a 13-percentage-point increase from 2022. Moreover, 57 percent of workers across the globe think that AI will change how they do their job within the next five years, and a full 36 percent think that AI will replace their job during this timeframe. Increased public awareness of AI’s potential has coincided with a sharp increase in AI-related regulations in the US.
+Research on AI’s impacts on work, however, may alleviate some workers’ concerns. Several studies from this past year
+suggest
+that AI enables workers to complete tasks more quickly and to improve the quality of their output, supporting the idea of AI as an “augmentation” to human skills rather than a “substitute” for it. These studies also demonstrate AI’s potential to accelerate and
+democratize
+skills with the largest benefits flowing to
+lower-skilled
+workers.
+The amount of energy around AI-related policy questions continues to grow with increasing emphasis on trying to understand the “when” and “how” this new technology will make itself felt in the labor and skill requirements of an AI-infused economy. For the time being, however, it’s good to know America remains the undefeated champion of innovation in the market-making technology of our lifetimes.

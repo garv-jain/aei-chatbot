@@ -1,0 +1,89 @@
+PAGE_TITLE: 
+	Trump v. CBS: When Politics, Journalism, Business, and FCC Authority Collide | American Enterprise Institute - AEI
+
+Shortly after Donald Trump
+sued
+CBS in October over what he called “false, misleading, deceptive, and, therefore, unconscionable and detrimental news distortion” in editing a
+60 Minutes
+interview with Kamala Harris, I
+contended
+that the lawsuit was likely meritless. While explaining that the Federal Communications Commission (FCC) is responsible for enforcing a rule against
+news distortion
+by over-the-air broadcasters, I questioned the lawsuit’s reliance on a Texas consumer protection
+statute
+and asserted that the First Amendment probably would protect the network’s editorial judgment. Others felt similarly, with
+The New York Times
+writing
+that “[m]any legal experts . . . described the lawsuit as far-fetched and baseless.”
+via Reuters
+What a difference a couple months, one presidential inauguration, and a change in FCC leadership make. On January 17,
+The Wall Street Journal
+reported
+that executives at Paramount Global, which owns CBS, were talking internally about settling the lawsuit. About two weeks later,
+The New York Times
+revealed
+that settlement negotiations between Paramount and Trump were underway,
+eliciting
+anger among CBS news officials.
+None of this means that Trump’s case is somehow miraculously more meritorious. So, what happened? Are there policy concerns that these developments will implicate the FCC’s authority over broadcast journalism?
+Leveraging Power, Business, and Political Circumstance
+. Connecting the dots between a series of events and circumstances is key for understanding Trump’s seemingly newfound momentum against CBS. As Jeff Bridges’ abiding character in
+The Big Lebowski
+would
+put it
+, “this is a very complicated case . . . a lot of ins, a lot of outs, a lot of what-have-yous.”
+It began in July 2024 when Paramount Global (CBS’s parent) struck
+a deal
+to merge with streaming company Skydance Media. Months later and seemingly unrelated, Bill Whitaker’s
+60 Minutes
+interview with Harris aired on October 6, 2024. Ten days afterward, the Center for American Rights (CAR) filed a
+complaint
+with the FCC alleging the interview’s editing violated the commission’s news distortion rule; CAR demanded an unedited interview transcript.
+Trump then
+sued
+CBS on October 31, citing CAR’s news distortion complaint and seeking $10 billion. He filed in federal court in Amarillo, Texas where conservative US District Judge
+Matthew Kacsmaryk
+, a 2019 judicial nominee of Trump, would hear the case. Less than one week later, Trump was elected president.
+On December 17, CAR again contacted the FCC, this time
+objecting
+to the Paramount-Skydance merger. CAR’s
+petition
+cites “Skydance Media’s ties to the Chinese Communist Party” and complains that Paramount’s “CBS News division has exhibited improper ideological bias.” Trump’s lawsuit and CAR’s two FCC filings eventually triangulated.
+On January 16, four days before her tenure as FCC chair ended and Trump became president, Democrat Jessica Rosenworcel
+rejected
+CAR’s news distortion complaint, proclaiming “the FCC should not be the President’s speech police” or “journalism’s censor-in-chief.” Shortly after Republican Brendan Carr
+became
+FCC chair on January 20, however, the FCC’s Enforcement Bureau
+reinstated
+CAR’s news distortion complaint against CBS. The FCC thus needed the unedited interview transcripts and tapes to investigate the matter. It demanded them from CBS on January 29, with CBS
+agreeing
+to comply days later.
+Possessing those transcripts would help Trump’s lawsuit by eliminating contentious discovery battles to obtain them. On February 5, the FCC published the
+unedited transcript
+, with CBS News also
+posting
+it plus related transcripts and corresponding videos. Trump then
+amended
+his lawsuit: He’s now seeking $20 billion.
+Meanwhile, as
+The Los Angeles Times
+reported
+, “Paramount’s controlling shareholder, Shari Redstone, [was] agitating for her team to settle Trump’s lawsuit to facilitate her family’s sale of Paramount to David Ellison’s Skydance Media.” Additionally, Carr
+reportedly
+“said that [CAR’s news distortion] complaint could come up in the agency’s review of a multibillion-dollar merger.” Had Trump lost the election, that complaint would be moot because Rosenworcel had jettisoned it and Carr wouldn’t be chair.
+Disparate Government Treatment of Broadcast Journalism
+. The FCC’s
+news distortion rule
+applies
+only
+to broadcast journalism, not to cable news channels, newspapers, or social media platforms where people increasingly obtain news. Should the FCC even be in the business of policing broadcasters’ news content? Broadcasters must serve the public interest because they don’t own the airwaves, but as all of this indicates, politics plays a significant role in enforcing the news distortion rule.
+Ultimately, how one interprets the unvarnished
+60 Minutes
+transcripts and videos likely is filtered through one’s political views. CBS
+maintains
+it did nothing wrong: “As the full transcript shows, we edited the interview to ensure that as much of the vice president’s answers to
+60 Minutes’
+many questions were included in our original broadcast while fairly representing those answers.” It contended that “the
+60 Minutes
+broadcast was not doctored or deceitful.” Others––perhaps the FCC’s Republican commissioners––will disagree.
+The only certain thing is that politics, journalism, business, and FCC’s regulatory authority are a combustible combination.

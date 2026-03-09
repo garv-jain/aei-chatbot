@@ -1,0 +1,73 @@
+PAGE_TITLE: 
+	Burning the House to Roast the Pig: How Not to Protect Minors on Social Media | American Enterprise Institute - AEI
+
+While social media companies’ top executives were being “
+battered
+” by “
+withering bipartisan criticism
+” during a January
+Senate hearing
+regarding harms their platforms allegedly cause minors, Florida lawmakers were considering
+a bill
+broadly barring anyone under age 16 from becoming “a social media platform . . . account holder.” Known as House Bill 1 and following on the heels of
+a nationwide wave of related legislation and resolutions in 2023
+, the measure
+overwhelmingly
+passed a January 24 vote in the Florida House of Representatives.
+The bill’s sponsor, Rep.
+Tyler Sirois
+,
+contends
+it is necessary because social media companies are “taking advantage of kids” by using a “business model” that keeps minors “hooked . . . with the dopamine hits that the platform gives our children with every autoplay, with every like, with every push notification.” That argument tracks claims made by
+Florida’s attorney general
+in a
+federal lawsuit
+filed this past October against the owners of Facebook and Instagram. In short, Florida legislation builds on Florida litigation.
+Via Adobe Images
+Safeguarding minors from potential online harms is vital, but House Bill 1 is deeply flawed. It’s important to understand––before possible enactment––why that’s the case so that: 1) Florida taxpayers aren’t left paying the “
+reasonable attorney’s fee
+” of a party that successfully challenges it on
+First Amendment
+grounds were it to become law, and 2) lawmakers in the Sunshine State and elsewhere who deem a statutory response necessary can draft more nuanced, narrowly tailored, and constitutional measures that strike a balance between harm-and-safety concerns and free speech interests. Here are some points for lawmakers to consider.
+First, minors have First Amendment rights to receive lawful speech. The
+US Supreme Court
+reiterated this foundational point in
+a 2011 decision
+declaring unconstitutional
+a California law
+that barred anyone under age 18 from purchasing or renting a “violent video game” unless it was “sold or rented to a minor by the minor’s parent, grandparent, aunt, uncle, or legal guardian.” Justice Antonin Scalia wrote for the majority: “No doubt a State possesses legitimate power to protect children from harm . . . but that does not include a free-floating power to restrict the ideas to which children may be exposed.”
+Scalia also stressed that states must “show a direct causal link” (not a mere correlation) between otherwise protected speech and harm––“ambiguous proof will not suffice”––before the government can try to limit minors’ access to it. Facebook’s Mark Zuckerberg may be today’s whipping boy for lawmakers, but he was correct
+when he testified
+in January that “the existing body of scientific work has not shown a causal link between using social media and young people having worse mental health outcomes.”
+Second, even if a state demonstrates a direct causal link between social media platforms and a specific injury, a statute must be carefully drafted (“
+narrowly tailored
+”) to serve the state’s interest in preventing that injury. It can’t be drafted such that it broadly restricts more speech than is necessary to serve that interest.
+But by banning all access to minors who are 15 years of age and younger, the Florida legislation is anything but narrow. Furthermore, it ignores the benefits of social media usage for minors. US Surgeon General
+Vivek Murthy
+noted in his May 2023
+advisory report on social media and youth mental health
+that “social media can provide benefits for some youth by providing positive community and connection with others who share identities, abilities, and interests. It can provide access to important information and create a space for self-expression.”
+A recent survey
+of teens (
+including 13-, 14- and 15-year-olds
+) by the
+Pew Research Center
+found that most reported “positive experiences” on social media such as feeling “like they have people who can support them through tough times.”
+Thus, completely blocking access for minors age 15 and younger is far too broad. It is, as the Supreme Court memorably wrote in
+a 1957 First Amendment decision
+, “to burn the house to roast the pig.” It is “not reasonably restricted to the evil with which it is said to deal.”
+What’s the solution?
+Social media literacy training
+can help minors safely navigate platforms. This course of action taps into part of the
+SHIELD campaign
+launched in January by the
+NetChoice
+trade association and comports with the
+American Psychological Association’s
+2023 recommendation
+that “adolescents’ social media use should be preceded by training in social media literacy to ensure that users have developed psychologically-informed competencies and skills that will maximize the chances for balanced, safe, and meaningful social media use.”
+As AEI’s
+Daniel Lyons
+recently
+wrote
+, “it’s important not to downplay the very real concerns” that animate legislation targeting social media in the interest of protecting minors. But as he contended, “the solution lies in empowering users and parents to understand these risks and take steps to mitigate these harms.”

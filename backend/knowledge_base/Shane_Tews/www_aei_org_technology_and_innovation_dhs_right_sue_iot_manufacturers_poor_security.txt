@@ -1,0 +1,28 @@
+PAGE_TITLE: 
+	Is DHS Right to Sue IoT Manufacturers over Poor Security? | American Enterprise Institute - AEI
+
+This past Tuesday, the Department of Homeland Security (DHS) released
+guidelines
+for companies who make Internet of Things (IoT) devices, urging them to build security into the design stage or face potential lawsuits by the government. We all want to see the emergence of secure IoT devices, but is this the best way to go about it?
+Security in the design phase is vital
+While IoT has the potential to make our automated life so much more seamless and simple, the technology on today’s market is easy to compromise and vulnerable to malware attacks.
+With billions of new devices connecting to the internet in the next several years, we have to get this right early on, or watch continued compromises of the internet and its backbone networks.
+The
+Mirai botnet
+was ground zero a few weeks back, when it directed thousands of IoT devices like webcams and baby monitors to use shortwave computing power to create a massive Distributed Denial of Service (DDoS) attack on Dyn Corporation and the Domain Name System (DNS) backbone for many major internet-based companies such as Twitter, Amazon, Spotify, and Netflix.
+DHS’s report, “
+Strategic Principles for Securing the Internet of Things
+“rightly notes that the failure to bake security in at the earliest design phase and the inability to implement basic security measures could be financially damaging to the manufacturer in terms of financial cost, reputational cost, or product recall cost. DHS Secretary Jeh Johnson also
+notes
+that “securing the Internet of Things has become a matter of homeland security”and that he wants security in the design base of all devices connected to the internet.
+The question is how to prioritize and deploy security in the design phase without making it a static mandate that may become the problem rather than the solution, as technology continues toevolve. While DHS seems to favor regulation, other options are available.
+Market-based solutions
+If we want to keep the internet economy innovative and dynamic, market-based solutions would be preferable over heavy-handed government regulation.
+Market-driven solutions are many and varied. One option would be to create incentive-based best practices that encourage security updates and vulnerability management at multiple levels.
+We can also promote transparency in the supply chain to help vendors and end users make smarter choices. For example, if I know my Nest thermostat has an open source interface that allows engineers to see the code and send open alerts if they see a vulnerability, I am more apt to insist that is the product I want over a proprietary non-transparent device.
+In addition, there are second-level, market-based security practices that DHS could recognize. Take for instance an ISP-based sensor tag monitoring system. Such a system would allow me to partner with a real-time network monitoring program that would alert me if malware is downloaded on any of my devices, and could help move the devices off a live network while the issue was being fixed.
+There is even room for government action in a market-based approach: industry partners and government agencies could use their power of the purse to promote industry-defined best practices by choosing devices that meet such standards.
+An important choice
+The above – and other – voluntary industry-led initiatives would enable technology to continue to create advanced solutions sets while allowing us to monitor and resolve IoT challenges.
+However, if we choose regulation and legislation over voluntary certification management and industry standard setting initiatives, we will lose out on the innovation that IoT can bring to the table. Starting down a path of attempting to legislate technology solutions runs the risk of making stagnant solutions to last year’s problems that would keep the next generation of IoT solutions from ever coming to the market.
+This post was originally published on TechPolicyDaily.

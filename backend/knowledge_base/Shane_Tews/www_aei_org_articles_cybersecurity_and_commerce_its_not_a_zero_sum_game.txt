@@ -1,0 +1,18 @@
+PAGE_TITLE: 
+	Cybersecurity and Commerce: It’s Not a Zero-sum Game | American Enterprise Institute - AEI
+
+While
+estimates of the economic losses from cybercrime vary widely
+, conservative approximations state that such hacking costs the global economy
+more than $375 billion annually
+. Much of this activity begins and ends in the United States; however, Chinese and Russian hackers also pose a serious threat. Protecting data from threats on a global scale as it flows across the Internet’s infrastructure is one of the most important challenges network architects face. Smart Internet infrastructure calls for both offensive and defensive strategic plans to protect businesses and citizens from the potential damage these cyber attacks can cause.
+The president’s cyber initiatives
+, announced in advance of his
+State of the Union address
+, called for changes in current law around individual data breaches and corporate information sharing.
+However, these initiatives do not directly address the challenge of protecting a corporation or individual from hackers seeking to breach a computer’s hard drive, a smartphone, or an entire enterprise network system.
+Now that individual users have multiple devices connected to the Internet, the idea of a security filter at a network’s point of entry is no longer an effective defense. In fact, the vast number of mobile devices connected to the network of networks has made perimeter security obsolete. The best way to secure data is to protect it at every point in the electronic delivery process – from the email on your desktop to the recipient’s smartphone.
+Current cyber tools continuously filter through Internet traffic, which means security tools can be deployed much faster and more efficiently than before. The proliferation of cloud computing and network virtualization have contributed in large part to the efficiency of these security measures. More efficient cybersecurity measures allow businesses to do more and work faster, and make more secure Internet connectivity and cloud capacity possible.
+However, the widespread idea that security and commerce are at odds with each other persists. Securing Internet commerce and the free flow of ideas can exist alongside strong security at the network level, not just at the edge, and prior experience has shown this to be true. Many US companies have created tools to improve the security of the networks that carry the bulk of their Internet traffic. These cybersecurity programs enhance both enterprise systems and security for individual consumers – a win-win situation, and proof that cybersecurity need not be a zero-sum game.
+If protecting individuals and corporate data from cyber attacks is what the president’s policy goals are supposed to achieve, we need to encourage that these policies view all data as a valuable asset. We also need to consider that most of the data we want to protect, and the data that are prime target for cyber criminals, transits across mostly private networks and personal devices. Thus, any new policies on cybersecurity should encourage private investment in strong security measures that protect information, companies, and individuals, without making it impossible for cyber tools to continue to evolve or for law enforcement to ensure online protections for children.
+Protecting Americans, our open democracy and the free market from cyber criminals is paramount. This critical set of issues needs to be addressed thoughtfully, without resorting to an overly simplistic and ineffective solution that would undermine the very objectives we all hold so dear – an open and free democracy in which innovation thrives and America leads the world with her digital infrastructure.

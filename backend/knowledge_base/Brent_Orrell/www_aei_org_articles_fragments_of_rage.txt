@@ -1,0 +1,48 @@
+PAGE_TITLE: 
+	Fragments of Rage | American Enterprise Institute - AEI
+
+We’re drowning in debates about banning violence-inciting speech and its authors from social media platforms, but what if that’s only half the story? While we’re busy focusing on the production side—all that the QAnoners, meme-dispensers, and internet conspiracists are doing on the various platforms that host them—we’re not paying enough attention to the consumption side: How the human brain receives and processes information, and how the designs of the platforms maximize profit by taking advantage of how our brains work.
+The neuroscientific knowledge that explains the effectiveness of social media platforms and other Internet tools occasionally becomes a matter of public debate, as when the documentary
+The Social Dilemma
+hit Netflix last year. But the subject remains under-discussed, especially outside of the academy, and especially when compared to how important it is to our social, moral and political lives.
+For present purposes, let’s take just one aspect of neuroscientific research—relating to the division of our brains into left and right hemispheres, with distinctive characteristics—and discuss how it relates to our heated debates about social media and worrying trends in our political life. We’ll use as our guide
+The Master and His Emissary
+, a 2009 overview of how this area of neuroscientific research relates to social history, by Iain McGilchrist, a British psychiatrist and professor of literature. (Joking about the book’s denseness and richness, economist Russ Roberts of
+EconTalk
+fame said it was one he “couldn’t recommend and couldn’t recommend highly enough.”)
+The popular conception of the left and right brains,
+McGilchrist explains
+, is wrong—a result of vulgarization of research conducted in the 1960s and ’70s. It is not true that one side of the brain controls reason and vision, while the other side of the brain controls emotion and language. Our continually evolving understanding is much more nuanced and, frankly, mysterious.
+The right hemisphere of the brain, McGilchrist says, is generally attuned to the environment around us, seeking new information and keeping a weather eye out for potential threats. It is, in McGilchrist’s term, the “master.” The left hemisphere is designed for narrow attention, to encode and manipulate knowledge gleaned by the right. McGilchrist calls it the “emissary,” a “faithful” servant figuring out how to do things while the right side is concerned about relationships between things. This division is broadly suggestive of two huge evolutionary imperatives: finding food while not becoming food for others. The right side of the brain looks at the landscape and searches for meaning while the left produces maps. Even in left-handed people (that is, right-brain dominant people), the “instructions” for using tools are encoded in the left brain.
+The book (and the subsequent
+documentary film
+) make this distinction clear in a particularly vivid way. In an experiment using pigeons, scientists discovered that using only their right eye (controlled by the left hemisphere) the birds were able to identify highly disaggregated pictures of human beings. In other words, if you chop up a vacation photo into hundreds of tiny pieces and mix them up leaving no discernable pattern, the birds could still pick out which photos had humans in them and which did not. The left hemisphere of their brains saw the pieces that made up a human being (an eye, an arm, a leg) even in fragments. Using just the right hemisphere (left eye), the pigeons couldn’t distinguish which fragment photos had humans in them and which did not; the right hemisphere could only see the human figure when it was fully assembled. The human brain is constructed similarly. Our left brain focuses on the pieces while our right looks for the whole.
+McGilchrist applies his divided-brain approach to our modern, high-technology society and argues that in our ever-stronger preference for the left-brain’s narrow, fragmentary “take” on the world we risk losing our capacity for integrating knowledge and relating to other people as well as the natural world. Our right-brain capacities, which help us to see the big picture and appreciate whole and embodied things—including other people—is subject to atrophy even as our ability to manipulate the world grows relentlessly stronger.
+Through the fragmenting lens of social media we are living, increasingly, in the left-brain’s world. By stripping information of context and then actively manipulating it, social media has the power to prey upon left-brain tendencies and preferences by transforming bits of information into world-historic conspiracies. This phenomenon pre-dated the Internet, of course. Oliver Stone used the technique to brilliant effect in his film
+JFK
+, running and re-running the
+Zapruder film
+showing the killing of President Kennedy (“Back and to the left, back and to the left”) to make it seem impossible that the fatal bullet shot from behind could have driven Kennedy’s torso backward. Stone’s distortion helped fulfill the requirement for a second gunman and provided support for a conspiracy Stone said involved the entire U.S. military and intelligence apparatus. In fact, experts
+have demonstrated conclusively
+how that movement was not just possible but
+required
+by the ballistic and other conditions in Dealey Plaza on November 22, 1963. Partial information can be manipulated in the left hemisphere to create conspiracies; a fuller context protects against them.
+The rise of social media has infinitely multiplied the potential and reality of “fake news.” The public concerns about allegations of fraud in the 2020 presidential election are in large part a product of a disaggregated reality created, or at least exacerbated, by social media.
+Deceptively edited videos
+of election workers mishandling ballots, the “
+red mirage
+” of election night, the entirely insane idea that a deceased Hugo Chávez teamed up with Dominion Voting to elect Joe Biden (among many other conspiracy theories)—all these could be understood as weapons targeted at over-dominant left hemispheres searching for patterns and explanations where there are none. As McGilchrist points out, while emotions are housed in both hemispheres, anger “lateralizes” to the left, tending to fuel the rage associated with the feelings of powerlessness and fear that conspiracy thinking engenders. Focus enough people on deceptive, fragmented information that makes them believe a vast interlocking conspiracy has overturned the democratic will and you get the events of January 6.
+T
+he forces driving left-brain analytical fragmentation are immense and embedded throughout our society and economy. One example is our
+obsessive focus on STEM
+skill development while we devalue and
+reduce investment
+in subjects like art, literature, and philosophy—a kind of tripling-down on left-hemisphere preferences. This is all happening despite
+pleas from employers
+for workers with better right-hemisphere social capacities. Through these policy choices, and the accelerating demands for narrow, technical understanding of the world, we are unwittingly leaving ourselves increasingly vulnerable to false digitized information and the growing social and political conflict it generates.
+It is important, of course, not to rely too heavily on any one neuroscientific explanation for human actions and social phenomena. The brain is like a universe unto itself: immense and infinitely complex. Our understanding of how it works is constantly revised as new research emerges. In addition to the research on brain hemispheres that McGilchrist explores, there are many other aspects of neuroscience and psychology that are relevant to our understanding of how social media have remade our public discourse, including research on distraction and on the brain’s reward system.
+And even the best neuroscientific explanations can only take us so far. Scientific epistemology and reductionist methods that focus exclusively on mechanics can rarely offer us
+moral
+guidance. In his
+inaugural address
+on Wednesday, President Biden noted how “manipulated and even manufactured” facts are part of the “raging fire” that is destroying our politics, and called on us instead to “listen to one another. Hear one another. See one another. Show respect to one another.” To understand why that matters and how to do it we must consult the humanities—poetry, art, history, philosophy—and religion, sources of the “ought” of life that are impermeable to scientific analysis.

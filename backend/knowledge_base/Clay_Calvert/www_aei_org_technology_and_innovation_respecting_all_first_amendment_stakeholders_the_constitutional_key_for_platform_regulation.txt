@@ -1,0 +1,60 @@
+PAGE_TITLE: 
+	Respecting All First Amendment Stakeholders: The Constitutional Key for Platform Regulation | American Enterprise Institute - AEI
+
+It’s an all-too-predictable, rinse-and-repeat pattern: (1) A state adopts a statute to protect minors from the social media’s supposedly deleterious effects; (2) the law is challenged on
+First Amendment
+grounds; (3) a judge sides with the challenger, blocking the law’s enforcement; and (4) lawmakers elsewhere, unfazed by that outcome and untethered from constitutional realities, adopt a similar measure with another lawsuit following. As AEI’s
+Daniel Lyons
+once waggishly headlined a
+post
+, “Concern for Kids Prompts Problematic Internet Regulation, Take 27.”
+Breaking this fruitless cycle requires legislators to balance the speech interests of
+all
+First Amendment stakeholders––minors, adults, and platforms––against safety concerns animating their bills. Only after they seriously address this trio’s constitutional rights, along with the US Supreme Court’s 2011
+ruling
+striking down California’s law restricting minors’ access to violent video games (an opinion I’ve
+suggested
+lawmakers review), might their handiwork be constitutional.
+Adobe Stock
+September 2024 provided a microcosm of the phenomenon, especially for laws pivoting on age verification and restricting minors’ access to online content. On September 10, a federal court blocked enforcement of the
+Utah Minor Protection in Social Media Act
+in
+NetChoice v. Reyes
+. The law would have required platforms to adopt an “age assurance system” to suss out “whether a current or prospective Utah account holder on the social media company’s social media service is a
+minor
+.”
+Under the law, if an account holder was a minor, a platform had to
+take steps
+to (1) limit the minor’s access to view and share certain content by implementing “default privacy settings” and (2) “disable . . . [specified] features that prolong user engagement,” such as automated “push notifications.” The act was
+intended
+to protect minors from “privacy and identity related harms” and “the addictive design features of certain social media services [that] contribute to excessive use of a social media service” and allegedly cause minors’ mental health problems. Noble intentions aside, Judge
+Robert Shelby
+determined that the law likely violated the First Amendment rights of the platforms it regulates.
+Reyes
+encapsulates the first three phases of the unproductive pattern described above. What about the repeat facet?
+Enter stage left (politically) California, with Governor Gavin Newsom
+signing
+into law on September 20––ten days after
+Reyes
+––the
+Protecting Our Kids from Social Media Addiction Act
+. The bill’s sponsor, Senator
+Nancy Skinner
+,
+claims
+“social media companies will no longer have the right to addict our kids to their platforms, sending them harmful and sensational content that our kids don’t want and haven’t searched for.”
+Notably, California’s law
+generally bans
+what’s provocatively called an “addictive feed,” an algorithmically selected, prioritized, and recommended display of content to users based––“in whole or in part”––on information users provide to platforms or information associated with their devices. In short, curated feeds based partly on users’ interests and partly on platforms’ content standards are presumptively verboten; by default, users receive content chronologically.
+Users can receive curated, interest-based feeds, but the price paid involves surrendering age-based and personal-familial information. Starting in 2027, adults can receive prioritized feeds if a platform “has reasonably determined that the user is not a minor, including pursuant to regulations promulgated by the Attorney General.” What those regulations will mandate for reasonable age verification is unknown. Additionally, minors can receive curated, interest-based feeds, but only after a platform obtains “verifiable parental consent.” Briefly, an adult must prove they’re a minor’s parent (a “verified parent”)––what personal information must be tendered to verify parenthood isn’t defined (residential address, a minor’s birth certificate, child support payments?)––and then consent for their child to receive non-chronological feeds.
+California’s law implicates three groups’ First Amendment interests.
+First
+, “minors are entitled to a significant measure of First Amendment protection.” They have a presumptive right, per
+Brown v. Entertainment Merchants Association
+, to receive speech that doesn’t fall into an unprotected category of expression. California’s law hinders that right by requiring verifiable parental consent for minors to obtain such protected expression in ways matching their interests.
+Second, adults’ First Amendment rights are affected by having to reveal (1) personally identifiable information to receive personalized, curated feeds suiting their informational desires, and (2) familial facts to let their children obtain personalized, curated feeds matching their children’s interests. The chilling effect on receiving speech caused by the forced disclosure of personal information may be significant.
+Third, the Supreme Court in
+Moody v. NetChoice
+, determined that prototypical social media platforms have a First Amendment right to “create expressive products” and make editorial “choices about what third-party speech to display and how to display it.” California blatantly violates this “curated compilation” right by dictating a default chronological content feed.   In sum, lawmakers regulating how social media platforms present content should consider the constitutional rights of minors, adults, and platforms, plus the principles articulated in
+Brown
+. Until they do, the cycle of legislative futility will persist.

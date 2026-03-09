@@ -1,0 +1,75 @@
+PAGE_TITLE: 
+	Compelling Speech, Compelling Censorship: California’s Misguided Effort to Protect Minors | American Enterprise Institute - AEI
+
+Safeguarding minors online is essential, but figuring out how to shield them from lawful yet allegedly harmful content in ways that don’t violate the
+First Amendment
+isn’t easy for legislators fixated on regulating businesses. How, after all, does one define (and prove) what speech is “harmful” and craft a
+narrowly tailored statute
+that burdens no more speech than is necessary to protect minors?
+Via Image Press Agency
+In 2022, California lawmakers thought they’d figured out a clever way to dodge these thorny problems with the
+California Age-Appropriate Design Code Act
+(CAADCA): Foist the burden onto online businesses and deputize them as “censors for the State,” as the
+US Court of Appeals for the Ninth Circuit
+aptly
+stated
+last month in
+NetChoice v. Bonta
+. Seeing through such shenanigans, the appellate court affirmed a district judge’s preliminary injunction blocking enforcement of the CAADCA’s centerpiece––the compelled creation by online businesses (and compelled disclosure to Attorney General
+Rob Bonta
+) of “
+Data Protection Impact Assessment
+” (DPIA) reports.
+Although that title benignly suggests the reports are simply about safeguarding data, the reality is they: 1) are unduly burdensome; 2) compel businesses to engage in speech and make “
+highly subjective opinions
+” about harmful messages, exposure risks, and mitigation measures; 3) let California examine platforms’ design features and algorithms; and 4) get platforms––under threat of significant
+civil penalties
+––to change features that might risk exposing minors to harmful content, conduct, and contacts. As the unanimous three-judge panel
+wrote
+, California
+attempts to indirectly censor the material available to children online, by delegating the controversial question of what content may ‘harm . . . children’ to the companies themselves, thereby raising further questions about the onerous DPIA report requirement’s efficacy in achieving its goals.
+The Ninth Circuit
+concluded
+NetChoice
+would likely succeed on the merits of its First Amendment
+facial challenge
+to the DPIA mandate’s “vague and onerous” requirement forcing businesses to “opine on and mitigate the risk that children may be exposed to harmful or potentially harmful materials online.” In short, the DPIA provision compels businesses to “measure and disclose to the government . . . the risk that children will be exposed to disfavored speech online.”
+In the process of assessing such risks, the
+law requires
+businesses to address items such as “[w]hether the design of the online product, service, or feature could harm children, including by exposing children to harmful, or potentially harmful, content on the online product, service, or feature.” As I’ve
+explained
+, statutes and lawsuits targeting social media platforms’ design features are in vogue.
+Why wouldn’t a business want to prepare such reports? Professor
+Eric Goldman
+identifies
+multiple reasons, including:
+the preparation costs, the bureaucracy and delays [that] slow down product iterations, and the odds that enforcers will use the reports to show either that the business knew there was a risk and didn’t adequately mitigate it or didn’t know there was a risk because they didn’t prepare the DPIA properly.
+In blocking enforcement of the DPIA’s risk assessment and mitigation requirements, the Ninth Circuit made three important pro-business, pro-First Amendment determinations. First, it concluded the DPIA mandate is
+not
+a mere regulation of business conduct involving data management practices that only incidentally involves speech and thus escapes heightened constitutional review. Instead, the court
+found
+the “primary effect of the DPIA provision is to compel speech,” thus triggering examination under the First Amendment’s “well-established” line of
+right-not-to-speak cases
+.
+Second, the appellate court deemed the DPIA mandate subject to the most rigorous level of First Amendment analysis––
+strict scrutiny
+. The court
+said
+the mandate “regulates far more than commercial speech” and thus was not subject to the less stringent
+Central Hudson test
+.
+Third, the court
+concluded
+that even if one assumes California “has a compelling interest in protecting children from ‘being pushed . . . unwanted material, such as videos promoting self-harm,’ as the State itself contends,” the DPIA mandate likely fails strict scrutiny because it is not
+narrowly tailored
+to serve that interest. Under the narrow-tailoring facet of strict scrutiny, courts examine whether there are alternative methods of serving a state’s compelling interest that would be effective and burden less speech. The Ninth Circuit
+found
+three: “(1) incentivizing companies to offer voluntary content filters or application blockers, (2) educating children and parents on the importance of using such tools, and (3) relying on existing criminal laws that prohibit related unlawful conduct.” The DPIA mandate thus is “unnecessary for fostering a proactive environment in which companies, the State, and the general public work to protect children’s safety online.”
+Ultimately, as NetChoice’s
+Chris Marchese
+stated
+, the Ninth Circuit “recognized that California’s government cannot commandeer private businesses to censor lawful content online or to restrict access to it.” More simply, the court delivered what
+Techdirt’s
+Mike Masnick
+called
+“a nice victory for free speech.”

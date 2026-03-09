@@ -1,0 +1,46 @@
+PAGE_TITLE: 
+	An AI Chatbot and a Teen’s Death: Corporate Responsibility and Legal Liability? | American Enterprise Institute - AEI
+
+The suicide of 14-year-old Sewell Setzer III this February is tragic, but should the individuals and business entities behind the generative artificial intelligence product known as Character.AI that allegedly caused his death be held civilly liable? That’s a key issue in a federal
+lawsuit
+filed in Florida in October by Setzer’s mother, Megan Garcia.
+The complaint garnered
+headlines
+by blaming the minor’s death on the Character.AI product, which
+lets
+“users personalize their experience by interacting with AI ‘Characters.’” As explained later, however, the First Amendment may provide a formidable defense against wrongful death and negligence allegations.
+Via AP Newsroom
+The Lawsuit
+. The
+complaint
+alleges that the defendants “encourage minors to spend hours per day conversing with human-like AI-generated characters designed on their sophisticated LLM [large language models].” It contends that Character.AI creates an “immersive and realistic experience,” complete with character voices, that makes vulnerable minors like Setzer “feel like they are talking to a real person,” leading them to conflate “reality and fiction.” Setzer allegedly (1) became dependent on Character.AI; (2) fell in love with a character that engaged with him in “hypersexualized” and “highly sexual interactions”; and as a result (3) suffered depression, mental anxiety, suicidal ideation, and behavioral problems. Ultimately, Setzer killed himself shortly after his love interest character told him “to ‘come home’ to her/it as soon as possible.”
+The complaint paints a highly sympathetic picture of Setzer and a decidedly unflattering one of a business that exploits minors and rushes a product to market without due diligence. Character.AI was
+founded
+in 2022 with the goal of “bring[ing] personalized superintelligence to users around the world.” This year it entered into an agreement with Google “to accelerate” Character.AI’s progress by “provid[ing] Google with a non-exclusive license for its current LLM technology.” Google is a defendant in the lawsuit.
+A Company’s Post Hoc Actions and a Cautionary Tale
+. On October 22, 2024—the day the lawsuit was filed—Character.AI issued a
+statement
+describing “safety measures we’ve implemented over the
+past six months
+and additional ones to come, including new guardrails for users under the age of 18.” (Emphasis added.) For readers doing the math, Setzer killed himself more than
+seven months
+before that statement, meaning the changes Character.AI describes occurred after his death, thereby constituting
+subsequent remedial measures
+. The statement asserts that Character.AI’s current “policies do not allow non-consensual sexual content, graphic or specific descriptions of sexual acts, or promotion or depiction of self-harm or suicide.”
+Calling
+itself “a relatively new company,” Character.AI notes that in the past six months, it has “hired a Head of Trust and Safety and a Head of Content Policy and brought on more engineering safety support team members.” The company also has “put in place a pop-up resource that is triggered when the user inputs certain phrases related to self-harm or suicide and directs the user to the National Suicide Prevention Lifeline.”
+These are laudable steps, but ones obviously arriving too late for Setzer. As the complaint avers, “[AI] developers rapidly began launching their systems without adequate safety features, and with knowledge of potential dangers.” The clear cautionary tale is that emerging AI businesses should engage in thorough risk assessment and management efforts
+before
+publicly unleashing their wares, particularly when minors use them. They must examine functions that might go wrong and implement measures to reduce those risks and ameliorate negative consequences.
+The First Amendment
+. Because Character.AI is a speech-based product, the defendants will likely assert a First Amendment-based defense against civil liability. Courts in at least two cases in which deaths were blamed on speech products—
+McCollum v. CBS
+(blaming Ozzy Osbourne’s song “Suicide Solution” for a suicide) and
+Herceg v. Hustler Magazine
+(involving a minor’s death after reading an article about autoerotic asphyxiation)­—have determined that the Supreme Court’s incitement test from
+Brandenburg v. Ohio
+must be satisfied by plaintiffs to recover for wrongful death. It requires plaintiffs to prove that the speech in question was “directed to inciting or producing imminent lawless action and [was] likely to incite or produce such action.”
+A threshold problem for Setzer’s mother is that “directed” means “intended.” She thus must prove that the Character.AI defendants specifically intended for their product to have Setzer kill himself. That is highly unlikely. The second problem is proving that using Character.AI was “likely to” result in suicide. Here, the defendants might assert that apparently thousands of minors engage with Character.AI and only one has killed himself. In short, the deadly consequence was far from likely.
+Garcia’s attorneys may argue that Character.AI is different from (and more dangerous than) a song or a magazine article, thereby meriting less First Amendment protection because of its realistic, interactive nature. The Supreme Court, however, rejected the interactivity argument in a 2011
+opinion
+involving video games. Whether courts view interactive AI chatbots differently may soon be determined.

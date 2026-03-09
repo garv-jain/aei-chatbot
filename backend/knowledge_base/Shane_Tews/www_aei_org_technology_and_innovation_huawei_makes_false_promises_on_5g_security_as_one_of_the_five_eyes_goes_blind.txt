@@ -1,0 +1,43 @@
+PAGE_TITLE: 
+	Huawei Makes False Promises on 5G Security as One of the ‘Five Eyes’ Goes Blind | American Enterprise Institute - AEI
+
+China has been a major funder of infrastructure in Asia and Africa in recent years through its Belt and Road Initiative, a global effort by Beijing to create geopolitical allies through investment in traditional physical infrastructure. But over the past decade, the initiative has found itself shape-shifting into a digital strategy in Europe, thanks in large part to work by Huawei, the Chinese telecoms giant.
+Last week, news
+leaked
+that Britain’s National Security Council had voted to
+allow
+Huawei “to supply some ‘non-core’ technology [for the UK’s 5G wireless network] . . . but several ministers in the meeting on Tuesday raised concerns even about that concession, arguing instead for a total ban on the supplier.” The foreign secretary, defense secretary, home secretary, and international development secretary all
+voted
+against the decision,
+noting
+that Huawei could provide Beijing with a backdoor to British intelligence. Despite these objections, the panel led by Prime Minister Theresa May voted in favor of continued investment in Huawei technology for Britain’s 5G network.
+Huawei is using its ability to provide cheaper (subsidized) telecommunications equipment to integrate itself into the UK and European countries. However, the decision by the British government to pursue the benefit of cheaper equipment may come at the cost of network security.
+The US has made its position clear that Huawei’s inroads into Europe and the UK as those countries build out 5G wireless networks is a significant security risk. Australia and New Zealand, which are members of the “Five Eyes” alliance (along with the US, Britain, and Canada), have taken a
+hard line
+against allowing Huawei equipment in their next-generation mobile networks. New Zealand’s Intelligence Services Minister Andrew Little has explained that 5G technology can have more security risks than its predecessors in mobile technology.
+The principal difference between 5G technology and the conventional 4G and 3G technology is that the conventional technology has an infrastructure core and then peripheral technology such as cellphone towers and the like, and they can in effect be kept separate, but you cannot do that with 5G technology,” he said. “Every component of 5G technology, every component of the network is integrated and, therefore, access to one component can lead to access to the entire network.
+Former Australian Prime Minister Malcolm Turnbull has noted that “even if Huawei is limited to the network ‘edge,’ or where radio antennae connect with user devices, the risk is still there . . . [because with 5G] ‘the core/edge distinction no longer exists.” This has been
+echoed
+by the US State Department’s Deputy Assistant Secretary of State for Cyber and International Communications and Information Policy Rob Strayer.
+So what’s happening in the UK? In 2018, Huawei
+pledged
+to spend £3 billion in the UK over the next five years. Now is a difficult time for the British to turn down infrastructure investment, given the investment it has lost because of Brexit, estimated to be as much as
+£550 million
+. The Chinese have seized on this and become more aggressive in making investments both in the UK’s infrastructure and in the soft political structure around the UK’s policymakers. They hold parties for political leaders and send large donations to
+charities
+such as Prince Charles’ “Prince’s Trust.” Prime Minister May sent UK Finance Minister Philip Hammond to China this past week to discuss British-China economic and financial cooperation and to search for more contracts for British companies to be
+part
+of China’s Belt and Road Initiative.  Meanwhile, he is also managing the exit of capital in his home country because of Brexit.
+In March, Huawei opened a Cyber Security Transparency Centre in Brussels, calling for the need for trust in the network. The center is meant to highlight Huawei’s “end-to-end cybersecurity practices” and serve as a sandbox for the company’s partners, many of whom are government agencies, to test and verify the performance of its equipment. But the company is making false promises.
+In a conversation with me, telecommunications analyst Roger Entner noted that equipment tested today is not what is controlling the network tomorrow, due to the nature of constant software updates. Because 5G is a virtualized network, “there is no difference anymore. You can’t pick and choose. You either trust all your vendors or your network is compromised.” Entner lamented that decisions are being made with 4G thinking. With 4G, governments can control the risk from the edge, but with 5G we are moving into a world in which networks will constantly be updating software — similar to mobile operating updates — and the information that is updated will not always be known. Therefore, nations need to trust providers. According to Entner, “Huawei doesn’t need a backdoor. The updates to the software are a way to walk through the front entrance into your network.”
+Continued suspicions over Huawei’s ties to the Chinese government and military are bolstered by the
+arrests
+of two people: Huawei’s sales director in Poland, arrested under the suspicion of spying; and an
+employee
+of Orange, the French telecommunications company. A US Justice Department
+indictment
+unveiled
+in 2013 that Huawei had instructed its employees to steal intellectual property related to a robot designed by T-Mobile to test mobile phones.
+Last month, US Principal Deputy Director of National Intelligence Sue Gordan
+told
+an audience in Austin, Texas, that “we are going to have to figure out a way in a 5G world that we’re able to manage the risk in a diverse network that includes technology that we can’t trust.” Right now, that lack of trust is with countries that previously have been close allies of the US. The beneficiary of the disruption of historic, trusted partnerships is China, which is achieving two victories: The Belt and Road Initiative continues to build out digital infrastructure in Europe, and one of the “Five Eyes” is going blind.

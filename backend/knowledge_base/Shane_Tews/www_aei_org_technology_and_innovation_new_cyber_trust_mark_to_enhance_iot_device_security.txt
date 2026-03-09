@@ -1,0 +1,26 @@
+PAGE_TITLE: 
+	New Cyber Trust Mark to Enhance IoT Device Security | American Enterprise Institute - AEI
+
+The Biden administration has
+introduced
+a new initiative to empower consumers to make better-informed decisions about the security of Internet of Things (IoT) devices. The US
+Cyber Trust Mark
+is a voluntary program enabling manufacturers to self-certify that their products meet essential cybersecurity standards. This initiative will utilize new dynamic labels on product packaging to provide consumers with up-to-date information about the electronics in the box, fostering more-informed consumer choice and protection against cyberattacks.
+Potentially anything connected to the internet is vulnerable to cybercrime. Securing everyday devices such as refrigerators, microwave ovens, television sets, climate control systems, and fitness trackers is becoming more vital for network security since they are increasingly connected to the internet. For example, hackers could exploit vulnerabilities in a connected refrigerator to gain access to the home network and subsequently use them to steal personal data, create a botnet, provide a gateway to the rest of the network, or even give physical access to a home. By securing IoT devices, we can protect our networks from such risks.
+Via Adobe Stock
+In 2018, Sen. Edward J. Markey (D-MA) and I
+discussed
+IoT devices’ lack of basic security. His concerns centered on these devices’ vulnerability to cyberattacks and consumers’ limited awareness about the associated risks. To address that issue, Markey introduced the
+Cyber Shield Act
+, a voluntary certification program for IoT devices, with Rep. Ted Lieu (D-CA) concurrently
+introducing
+it in the House of Representatives.
+Building on this legislative idea, the Biden administration transformed it into the Cyber Trust Mark, an initiative led by Deputy National Security Adviser Anne Neuberger from the White House National Security Council and Federal Communications Commission Chairwoman (FCC) Jessica Rosenworcel for the FCC to implement.
+In essence, the program has three main goals: (1) Encourage manufacturers to enhance product security, (2) help consumers identify more secure products, and (3) motivate manufacturers to bolster the security of their products, ultimately reducing IoT device cyberattacks.
+To earn the Cyber Trust Mark, manufacturers must meet security criteria developed by the National Institute of Standards and Technology. These criteria cover device authentication, encryption, and software updates, and manufacturers must provide consumers clear information about their products’ security features.
+The program’s potential is significant; it could empower consumers to make informed decisions about IoT devices’ inherent security features and motivate manufacturers to improve their products’ security, helping consumers better understand cybersecurity strengths and weaknesses in the market. Its dynamic labeling feature enables the products to stay updated over time, too, bolstering consumers’ peace of mind.
+As ArsTechnica
+noted
+, the US Cyber Trust Mark is expected to be voluntarily incorporated into IoT devices by the end of 2024, and it aims to spare consumers extensive research before purchasing products such as thermostats, sprinkler controllers, and baby monitors. This program will allow consumers to be more informed and to select secure IoT devices for their homes and offices.
+While the Cyber Trust Mark program represents a significant advancement in IoT device security, it is still in its early stages. The FCC is collaborating with manufacturers and stakeholders to finalize the security criteria and labeling system; Rosenworcel aims to have the labeling system in place by 2024.
+The program is a crucial step forward in combating malware and network cyberattacks with IoT devices. By offering consumers detailed information about IoT device security, it can safeguard both individuals and businesses from a growing list of potential harms.

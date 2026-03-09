@@ -1,0 +1,71 @@
+PAGE_TITLE: 
+	Mobile Security Risks Are at an All-Time High. | American Enterprise Institute - AEI
+
+As the COVID-19 pandemic brought work and home environments
+together, criminal networks followed.
+According to Nokia’s
+2020 Threat Intelligence Report
+, “Trojan” malware
+infections on user devices were up almost 30 percent in the first half of 2020.
+While personal computers had the highest infection rate at 38.92 percent,
+malware infections on mobile devices also increased significantly. Android
+devices were hit hardest with 26 percent of infections across all platforms.
+(iPhone infections were reported at less than 1 percent.)
+Cyber criminals have effectively taken advantage of the
+anxiety surrounding COVID-19. Phishing campaigns that deliver malware directly
+to users by exploiting COVID-19 news reports and trending medical updates are a
+major tool for criminals. Malicious websites designed to emulate the pandemic
+tracking programs at major health sites like the World Health Organization and
+John Hopkins University are another tactic. Remote access Trojan software
+embedded in these seemingly legitimate public health updates can be downloaded
+onto a PC, enabling constant updates of malware programs and plugins. If the
+malicious program detects a network connection, it can then try to spread the
+malware or spyware program, steal more data, and continue growing its criminal
+network — all while producing more fake COVID-19 growth reports.
+Third-party app stores have also become frequent targets for
+placing Trojan programs on mobile devices via unauthorized apps.
+Mobile device users are encouraged by criminals to install
+apps that claim to provide real-time updates and request “updated software”
+that actually adds malware to a device. When this trend was spotted in the
+first quarter of 2020, many device manufacturers reiterated the importance of
+loading apps from official mobile app stores to ensure authenticity.
+Instead of working to secure mobile devices in the face of
+growing threats, state and federal policymakers are working to pass legislation
+with a high potential to introduce new vulnerabilities. A number of bills would
+require device manufacturers and app store operators to allow any software or
+application from any developer to be downloaded on any device. Forced app
+distribution bills have been introduced in 12 state legislatures, and the House
+Judiciary Committee has passed legislation with similar provisions. With a few
+vocal (and well-funded) exceptions, the developer community has helped quell
+these attempts to fragment the secure app store model.
+ACT | The App Association, which represents more than 5,000
+developers and connected device companies in the mobile app ecosystem,
+points out
+an obvious risk with legislation in
+Illinois: “The bill would allow ANY third-party payment option, including
+perhaps two guys out of Lithuania who build one called ‘Circle’ that steals
+your info, stores your money in Russia, and then abscond with it all after a
+month.”
+Forced app distribution bills push dangerous mandates that
+would force companies to permit the practice of downloading software from
+unauthorized third-party app stores or web browsers — known as “
+sideloading
+” — as well as third-party payment processing
+systems. Late last year, researchers at Microsoft
+explained
+that sideloading was the key development
+behind the prevalence of malicious software detected in mobile operating
+systems. The researchers found that most ransomware attacks on Android phones
+stemmed from downloading applications distributed by online forums and random
+websites.
+We are seeing parts of the federal government become more public about how to defend against this threat. Last summer, the National Security Agency (NSA) released guidance for
+Mobile Device Best Practices
+, explicitly advising users to “install a minimal number of applications and only ones from official application stores.” The NSA’s guidance also noted that six out of 10 common mobile vulnerabilities could be avoided by simply installing apps from official stores.
+As I
+recently wrote
+, deceptive Trojan applications offer a form
+of malicious software that is both highly profitable and highly prevalent in
+systems that allow sideloading. Once downloaded onto a user’s computer or
+mobile device, malicious software can spread to every machine with access to
+that first device.
+With the advent of next-generation networking capabilities brought about by 5G wireless, we must ensure security solutions are keeping up with innovation at every point in the digital ecosystem. Furthermore, mitigating malware on mobile and Internet of Things (IoT) devices is crucial to the success — and safety — of next-generation technologies. “Digital disease” that quickly spreads from an individual to an entire connected system is something lawmakers should be trying to evade, rather than invite.

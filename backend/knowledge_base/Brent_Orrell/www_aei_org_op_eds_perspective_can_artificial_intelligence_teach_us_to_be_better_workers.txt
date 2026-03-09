@@ -1,0 +1,31 @@
+PAGE_TITLE: 
+	Perspective: Can Artificial Intelligence Teach Us to Be Better Workers? | American Enterprise Institute - AEI
+
+So-called ‘soft skills’ are in short supply in the workforce and society at large. AI could help us get better
+A few weeks ago, McKinsey & Company published updated
+estimates
+on when key anticipated characteristics of artificial intelligence might arrive — including things like creativity, logical reasoning, and social/emotional reasoning, sensing and output. McKinsey’s timeline for increased capacity across a range of such capabilities has moved sharply forward.
+The reason for this seismic shift?
+Generative AI
+, the technology taking the world by storm in the form of chatbots like ChatGPT and Claude and image-generators like DALL-E.
+McKinsey now estimates that AI will reach top-quartile human ability in creativity, natural language generation and understanding social and emotional reasoning and sensing an astonishing 20 to 25 years earlier than its previous estimates in 2017.
+By the mid-2030s, McKinsey predicts, AI will likely be more proficient than three-quarters of the human workforce in these so-called “
+soft skills
+” and many others, including coordination with multiple agents, logical reasoning and problem solving, output articulation and presentation, generating novel patterns and categories, sensory perception, and social and emotional output.
+So how might such developments affect actual jobs?
+McKinsey says that AI natural language abilities are increasing the potential to automate decision-making, collaboration and the application of expertise in the workforce. In other words, AI is gearing up to transform (and, in some cases, fully automate) the jobs of knowledge workers, professionals and creatives — jobs and skills that previously looked out of AI’s reach for decades to come.
+And, bear in mind, additional acceleration based on improved large language models, better hardware and other efficiency improvements may, and likely will, continue to pull these timeframes forward.
+It’s important to remember, however, that just because jobs
+change
+doesn’t mean they go away. We have a labor shortage driven by economic growth, a higher ratio of retirees to active workers, and declining immigration. These longer-term trends suggest we will need technology, including AI, to increase the capacity of humans in the workforce. If so, our biggest problem in the future may not be too much automation, but too little.
+Nevertheless, McKinsey’s estimates on social-emotional capacities is fodder for those already inclined to despair of the future. If machines beat us at reading, understanding and imitating these unique human characteristics, what’s left for us to do? Won’t this bring us one step closer to a world where unique human qualities are eclipsed by or confused with machine characteristics? However unlikely such outcomes are, there’s no sense in pretending they are impossible.
+Still, it is equally possible that better machine social-emotional capacities are precisely what we need at this moment in human development.
+As I’ve written
+elsewhere
+, social-emotional or “
+soft skills
+,” are the biggest and most important deficit in the workforce, and, I would argue, in society at large. They both form our capacity to learn and are crucial to success and advancement on the job and in life more generally. Soft-skill shortages help feed social conflict and immiserate individuals, families and communities by reducing our capacity to live with and resolve conflict.
+Rather than threatening our livelihoods, perhaps advances in AI social-emotional capacities are part of the solution to our soft-skills gap. A recent Stanford University
+study
+found use of chat technology dramatically raised job performance among lower-skilled customer service representatives, in large part by helping them better manage social interactions with frustrated callers. If we conceive of soft-skill deficits as a form of cognitive impairment or shortcomings, AI may turn out to be a kind of assistive technology that helps human beings who have difficulty “reading” and responding to other people.
+There may be those who recoil from the idea that this technology might be used as a cognitive intervention. I’d invite them to think about how we use technology to help people with physical limitations. We wouldn’t deny a wheelchair to someone who can’t walk. Likewise, we shouldn’t deny a cognitively or emotionally impaired person an electronic coach that could help them live a better, fuller life.

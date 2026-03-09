@@ -1,0 +1,91 @@
+PAGE_TITLE: 
+	The DOJ’s Antitrust Remedies Aren’t Keeping Pace With the Market | American Enterprise Institute - AEI
+
+There’s an image that haunts me
+, in a good way, because it visualizes a tendency that I want to avoid.
+It comes from a
+group of researchers at the University of South Australia
+that asked 1,036 people in the United States how they felt about music from across various decades. The people varied in age from 18 to 84 years, but they all followed a similar pattern. They thought very highly of the music of their adolescence, teenage years, and early adulthood. But as they approached age 30, their approval of current music declined.
+To me this is evidence of the adventure window. Once we hit 30 or so, our willingness to try new things begins closing. Writer and researcher Adam Thierer
+introduced me to the concept
+back in 2011, just as I was hitting my mid-20s and beginning to notice this within myself.
+The phrasing comes from Robert Sapolsky, the famous neuroscientist, who was cataloging the tendency in humans and all mammals to stop trying new things later in life. As Thierer explained it, Sapolsky “came to study this phenomenon after growing increasingly annoyed with his young male research assistant, who would come to work every day of the week listening to something new and quite different than the day before. Meanwhile, the much older neuroscience professor lamented the fact that he had been listening to the same Bob Marley tape seemingly forever.”
+The lesson I take from Sapolsky is this: The world changes, so it is important that you keep yourself open to change as well. To the detriment of consumers, competition, and good governance, this is a lesson not well understood by the Department of Justice in its ongoing antitrust case against Google. How people access information is changing, the search market is changing, and yet the DOJ still clings to an outdated map of the world.
+Recent advancements in the Google antitrust case.
+The August 8 edition of
+Techne
+focused on the DOJ’s case against Google, which argued that the tech giant was acting anticompetitively in the search engine market. In the heat of the summer, a judge agreed and ruled that Google “has acted [through exclusive deals] to maintain its monopoly.” Despite acknowledging that Google is the best search engine, the court found issues with the contracts it negotiated to be the default search engine in Apple’s iPhone and iPad, the Android operating system, the Firefox browser, telephone operators like Verizon, and a range of different players in the ecosystem.
+Two weeks ago, the DOJ put forth its
+proposal for remedies
+— and they are by far the strictest and most onerous available. The government wants to break up the company by forcing Google to cleave off the Chrome browser and the open-source Chromium project that the company has helped build. The DOJ also wants to end all the default deals, including those in the Android operating system that Google helped grow. The government also wants to limit the company’s investment in AI that might affect search as well as stop any future deals involving this space. And on top of this, Google must share data with rival search engines.
+It is a grab bag of horrible ideas that are also incredibly hard to implement. In 2018, I
+explained the difficulties
+in breaking up a tech company, noting that “the government has to break up the firms’ teams and underlying technology. It also has to put into place a legal and regulatory system that keeps the targeted firms separate from other markets.”
+That means that in breaking up Google the DOJ is asking the court to decide the fate of
+Polymer
+, an open-source JavaScript library for web applications;
+AngularJS
+, a web application framework;
+AMP
+, which improves the performance of web content and advertisements;
+Dart
+for making applications on Internet of Things devices;
+Flutter
+for Android and iOS mobile apps;
+Borg
+for cluster management;
+Colossus
+, the scalable storage system;
+BigTable
+for databases;
+Spanner
+, another database management system;
+Chubby
+, the lock service;
+Blobstore
+, which runs the
+Google Cloud Storage
+;
+Stackdriver
+, which monitors Google Cloud; and a bunch of others I’m sure I have missed.
+The disconnect between the DOJ’s proposed remedies and the current market landscape is striking. Indeed, it was a bit of a shock when I read these opening lines from the agency:
+The purposes of the following remedies are to unfetter the monopolized markets from Google’s exclusionary practices, pry open the monopolized markets to competition, remove barriers to entry, and ensure there remain no practices likely to result in unlawful monopolization of these markets and related markets in the future by prohibiting contracts that foreclose or otherwise exclude Competitors, including by raising their costs, discouraging their distribution, or depriving them of competitive access to inputs.
+And yet, when I look at the broader search market, I see it transitioning. Yes, Google is still
+dominant in search engine queries
+, and yes, Google is still projected to grow. But Google’s nearest competitors and the broader search advertising segment are both growing even faster. That’s why
+Google’s share of the search ad market
+is expected to drop below 50 percent next year for the first time in over a decade.
+Search is a bigger cohort that includes search engine queries. Likewise, search ads include more than just Google searches. Customers are beginning their searches elsewhere, like on Amazon and other e-commerce platforms. Amazon is expected to have 22.3 percent of the market this year, with a 17.6 percent growth rate, compared to Google’s 7.6 percent growth, according to the eMarketer research firm. And for reasons I also don’t completely understand, there is a growing segment of searches being conducted on TikTok. TikTok’s share of the search ad market is small at 3.4 percent, but that revenue is projected to grow 38% this year.
+To emphasize the fast-changing environment, OpenAI put itself in direct competition with Google when it rolled out its long-anticipated
+search engine
+in October, between the judge’s decision in the first part of the Google case, the liability phase, and the second part of the case, the remedy phase that’s going on now. When it comes to searching for basic things these days, though, I use
+Perplexity
+instead of either OpenAI or Google.
+The changing economics of defaults.
+While I’m skeptical, let’s for a moment assume that courts got it right and that Google is locking up competition through its default contracts. What then? Well, you could apply a default-option intervention, which has already happened in Europe.
+As part of a 2018 case against Google, the European Commission
+forced Google
+to implement a choice screen for general search providers on all new Android phones and tablets sold in the European Economic Area and in the United Kingdom after March 2020. During initial device setup, users were presented with four search engine options, allowing them to choose their preferred default search provider. Economists love this type of action process because it helps to reveal the true price of a good.
+And how did the change affect the market?
+According to a trio of economists
+, it moved the market share about 1 percentage point. It’s not
+nothing
+, but it does show just how small an impact we are talking about.
+Even more fundamental, the economic foundations of the DOJ’s case are shifting, as perspectives on behavioral economics continue to evolve. The case was built on a body of literature about the value of defaults. But more subtle and thoughtful experiments have gotten closer to replicating the real world. I’ve
+got a note on my website
+that explains more details.
+Economists from Yale, Harvard, and Berkeley just last month
+released a report re-estimating
+the effect of automatic enrollment defaults in 401(k) savings plans. They find that the effect was smaller than previously thought. Auto enrollment was thought to have boosted savings rates by 2.2 percent of income, but the new paper cuts that down to just 0.6 percent. This example shows a lot more caution is warranted on lessons from behavioral economics, upon which the Google case is fundamentally built.
+If you want to do a slightly deeper dive.
+If you want to do a deeper dive on the legal side of this case, I’d direct you to Geoffrey Manne’s “
+A Critical Analysis of the Google Search Antitrust Decision
+.” Manne used to be my boss, so blame him for any errors I make in antitrust law. But this piece does a good job going into all of the legal minutiae, and especially the problem of bifurcation, which is when a case is split into two parts, the liability phase and the remedy phase. With Google, the DOJ separated the arguments over harm from the arguments over remedies.
+Manne summarized the big takeaway on X
+:
+You don’t get to “remedy” conduct that you didn’t prove in the first place was anticompetitive by claiming you have the right to ensure “there remain no practices likely to result in [future harm].” That’s not how the law works.
+This is exactly why many of us cried foul when they bifurcated the liability phase from the remedy phase of trial. The reason the DOJ wanted that was because it knew it would be easier to “prove” its case if it didn’t have to address the obvious arguments that rectifying the challenged conduct would accomplish nothing — thus strongly suggesting that the challenged conduct wasn’t anticompetitive.
+But now having gotten that bifurcation, the DOJ isn’t given carte blanche to seek to impose any remedy the DOJ can think of, addressing conduct that was in no way proven — or even claimed — to be anticompetitive in the liability phase.
+One last thing.
+In an interesting twist of fate, the last time the DOJ tried to break up a tech company was in the 2000 Microsoft antitrust case, which concerned Microsoft’s supposed dominance in browsers. It’s ironic, then, that if the DOJ gets its way, Google will no longer be able to support Chrome or the Chromium project and Firefox will probably fail because it gets nearly 80 percent of its revenue from the default deal. An entire ecosystem will collapse, leaving Microsoft in a position of dominance.
+The Department of Justice’s adventure window has closed. While the world of search evolves rapidly, the DOJ remains fixated on an outdated understanding of the market. Its proposed remedies are built on shaky behavioral economics grounds that are being revamped. The cruel irony is that in trying to pry open competition, the government may instead close the window on innovation, leaving us with fewer choices than we had originally. Sometimes the most dangerous thing isn’t being unwilling to try new things, it’s clinging so tightly to old ideas that you break what’s working.

@@ -1,0 +1,47 @@
+PAGE_TITLE: 
+	Rebuked by the Supreme Court, Fifth Circuit Now Is Making Life Rough on NetChoice | American Enterprise Institute - AEI
+
+Sometimes a hard-fought First Amendment win at the US Supreme Court leads to a longer, more difficult battle for the victor after the justices send the case back to a lower court to deliver a new ruling consistent with the Supreme Court’s decision. That scenario now may play out for multiple social media platforms, given the US Court of Appeals for the Fifth Circuit’s November opinion in
+NetChoice v. Paxton
+.
+Last summer,
+NetChoice
+scored a Supreme Court victory for the First Amendment rights of platforms to host speakers and moderate content as they see fit, free from interference imposed by Texas and Florida statutes. A six-justice majority concluded in
+Moody v. NetChoice
+that Facebook’s News Feed and YouTube’s homepage are “expressive products” derived from “the kind of editorial judgments this Court has previously held to receive First Amendment protection.”
+Via Reuters
+In reaching that result, the Court chided the Fifth Circuit for thinking otherwise in its 2022 opinion in
+NetChoice v. Paxton
+upholding a Texas law that restricts how platforms curate and present content. Justice Elena Kagan explained for the majority that:
+The Fifth Circuit was wrong in concluding that Texas’s restrictions on the platforms’ selection, ordering, and labeling of third-party posts do not interfere with expression. And the court was wrong to treat as valid Texas’s interest in changing the content of the platforms’ feeds. Explaining why that is so will prevent the Fifth Circuit from repeating its errors as to Facebook’s and YouTube’s main feeds.
+Kagan even told the Fifth Circuit how it should rule next time about those content presentations. She
+wrote
+that “the Fifth Circuit got its likelihood-of-success finding wrong. Texas is not likely to succeed in enforcing its law against the platforms’ application of their content-moderation policies to the feeds that were the focus of the proceedings below.”
+What’s now the problem for NetChoice with the case back in the chastised Fifth Circuit’s hands? It’s that––
+quoting
+Kagan––“the focus of the proceedings below” was narrowly confined only to “the curated feeds offered by the largest and most paradigmatic social-media platforms” (Facebook’s News Feed and YouTube’s homepage). Neither the district court nor the Fifth Circuit examined the law’s full scope and coverage––all of its
+other
+possible applications and the constitutionality of those applications. Such scrutiny is necessary because NetChoice challenged Texas’s statute
+on its face
+, claiming it should be struck down in its entirety, not just as applied to Facebook’s News Feed and YouTube’s homepage.
+The Supreme Court thus remanded
+Paxton
+to the Fifth Circuit,
+asking
+it to determine the Texas law’s “full set of applications, evaluate which are constitutional and which are not, and compare the one to the other.” Kagan explained the law would violate the First Amendment only if its “unconstitutional applications substantially outweigh its constitutional ones.” She added “there is much work to do below.”
+The Fifth Circuit’s November
+opinion
+is exceedingly clear that this “work” won’t be easy either for the district court, which the appellate court ordered to conduct “thorough discovery” and ask “fact-intensive questions,” or for NetChoice, which now must “develop a factual record” demonstrating the precise burdens imposed on the expressive rights of “each and every covered actor on each and every one of its covered services.” Two items compounding these problems are addressed below.
+Section 230
+. The Fifth Circuit
+instructed
+the district court to “thoroughly” consider Texas’s argument that NetChoice’s “position here is inconsistent with their stance on
+47 U.S.C. § 230
+.” This represents another attempt by the Fifth Circuit to inject Section 230––a federal statute––into a First Amendment analysis of a state statute despite the
+Moody
+majority opinion never once mentioning Section 230. The Fifth Circuit had cited Section 230 in its now-overturned 2022
+opinion
+to support its conclusion “that the platforms are not acting as speakers or publishers when they host user-submitted content.” Regardless of how the district court eventually rules on Section 230, the Fifth Circuit is laying the groundwork for reviving Section 230’s supposed relevance when it later reviews the district court’s decision.
+Algorithmic Transparency
+. The Fifth Circuit seemingly wants all of NetChoice’s members who might be covered by Texas’s law to disclose how all of their algorithms moderate content because it “might change the constitutional analysis.” The appellate court added “that the same covered actor might use a different algorithm (or use the same algorithm differently) on different covered services.” How an algorithm functions may affect whether it produces a First Amendment-protected expressive product or whether it engages in non-expressive conduct not reflecting traditional editorial judgments safeguarded by the Constitution. Prying into the inner workings of a company’s proprietary algorithms––forcing explanations about how they function––may spark fierce discovery battles.
+In sum, NetChoice won a momentous Supreme Court battle but the war over nitty-gritty details is just starting.

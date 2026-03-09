@@ -1,0 +1,33 @@
+{
+  "domains": {
+    "Brent_Orrell": {
+      "name": "Brent_Orrell",
+      "description": "Brent Orrell (581 txt files)",
+      "createdAt": "2025-08-06T19:21:00.757Z",
+      "updatedAt": "2025-08-06T19:21:29.741Z",
+      "fileCount": 581
+    },
+    "Clay_Calvert": {
+      "name": "Clay_Calvert",
+      "description": "Clay Calvert (131 txt files)",
+      "createdAt": "2025-07-28T15:33:35.483Z",
+      "updatedAt": "2025-08-06T18:02:24.397Z",
+      "fileCount": 131
+    },
+    "Shane_Tews": {
+      "name": "Shane_Tews",
+      "description": "Shane Tews (523 txt files)",
+      "createdAt": "2025-07-28T15:33:24.085Z",
+      "updatedAt": "2025-08-06T18:38:12.809Z",
+      "fileCount": 523
+    },
+    "Will_Rinehart": {
+      "name": "Will_Rinehart",
+      "description": "Will Rinehart (69 txt files)",
+      "createdAt": "2025-07-28T15:33:10.982Z",
+      "updatedAt": "2025-08-06T18:41:44.867Z",
+      "fileCount": 69
+    }
+  },
+  "lastUpdated": "2025-08-08T00:22:09.392Z"
+}

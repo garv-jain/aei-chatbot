@@ -1,0 +1,70 @@
+PAGE_TITLE: 
+	Child Online Safety Enforcement at Scale | American Enterprise Institute - AEI
+
+All of the players involved in social media, including the large platforms, want to deal with the problem of child sexual exploitation and abuse (CSEA) offenses. But the sheer volume of reporting has created problems.
+Last year, the
+Wall Street Journal
+reported on how
+an online safety activist flagged potential underage sex content to Instagram, only to receive the response, “Because of the high volume of reports we receive, our team hasn’t been able to review this post.”
+The volume is significant. Facebook (now Meta) submitted almost
+27 million reports
+to official channels in 2021. Its platforms, including Facebook and Instagram, delivered some
+95 percent
+of all the tips sent that year.
+Via Reuters
+In a recent hearing
+, members of the Senate Judiciary Committee chided the social media companies for lax practices. Still, a critical aspect of reducing CSEA offenses hardly got the attention it deserves. The law enforcement pipeline faces serious resource constraints.
+The senators largely
+focused on
+five bills. Both the (1)
+STOP CSAM
+and (2)
+EARN IT
+acts would allow victims to sue platforms hosting material related to them.
+[1]
+The (3)
+SHIELD Act
+and the (4)
+Project Safe Childhoods Act
+each set out imperatives for federal prosecutors. The (5)
+REPORT ACT
+amends the reporting process. Only the REPORT Act and the Project Safe Childhood Act have had any movement. The REPORT ACT
+passed the Senate in December 2023
+unanimously, while the Project Safe Childhood Act passed the Senate earlier in October.
+Among other changes, the REPORT Act increases the preservation period of a report from 90 days to one year; requires providers to report a violation that may be planned or imminent; and ups the maximum fines for providers who knowingly and willfully fail to submit reports, which were already steep.
+While the REPORT Act is intended to address the law enforcement framework, the process is much more circuitous than many might imagine.
+The current law enforcement framework for CSEA was largely established in the late 20th century. In 1984, Congress
+passed
+the Missing Children’s Assistance Act, which helped to get the National Center for Missing and Exploited Children (NCMEC) up and running. Since then,
+NCMEC
+, a 501(c)(3), has been a key intermediary. Nearly all of its
+funding
+—around $47 million in 2023—comes from the Department of Justice through its Office of Juvenile Justice and Delinquency Prevention to deal with suspected CSEA. Importantly, NCMEC
+operates
+the CyberTipline, the program to which social media platforms are expected to report suspected CSEA violations.
+The
+Internet Crimes Against Children
+(ICAC) Task Force is another important institution in enforcement.
+Created
+in 1998, ICAC coordinates and trains federal and local law enforcement agents. It acts as the formal investigatory body of the enforcement framework. The ICAC also
+receives
+most of its funding from the Department of Justice, almost $41 million in 2023.
+So, CSEA enforcement is not just about social media platforms reporting potential violations and law enforcement agencies promptly investigating these instances. Social media platforms flag content and report it to the CyberTipline. Then, NCMEC and the CyberTipline review the content and pass along this information to the appropriate
+one of 61
+ICAC Task Forces, which can then initiate an investigation. From there, law enforcement conducts an investigation and potentially arrests individuals before the federal prosecutors (aforementioned in the five acts) bring the charges before a jury.
+In the January hearing, Sen. Amy Klobuchar (D-MN)
+highlighted
+how the CyberTipline has been inundated with reports: “Between 2012 and 2022, CyberTipline reports of online child sexual exploitation [have] increased from 415,000 to more than 32 million.” The Department of Justice
+compiled the report
+that the Senator referenced and it paints a bleak picture. According to the department’s records, the number of CyberTips referred to ICAC Task Forces has
+increased
+nearly fourfold over the last six years.
+Most of the increase is from Meta’s reporting. As the
+Department of Justice report
+explained it, “[ICAC Task Forces] feel an obligation to investigate every CyberTip they receive without regard to its quality. But they are not given the resources to keep up with the growth of CyberTips.”
+In other words, funding for the various parts of enforcement has failed to keep pace, even with more and more reporting. And with the REPORT Act, the incentives are aligning for
+even more reporting
+. But ICAC funding has increased by only 34 percent, forcing ICAC to triage the cases investigated.
+In a similar way that the platforms are attempting content moderation at scale, authorities are struggling to develop enforcement at scale. This challenge underscores the pressing need for a paradigm shift in how federal enforcement strategies are conceived and implemented. Perhaps funding should be increased, but fundamentally enforcement mechanisms need to be rethought. They should be as dynamic and scalable as the platforms they oversee.
+[1]
+Child sexual abuse material (CSAM) is just one especially vile form of child sexual exploitation and abuse (CSEA).

@@ -1,0 +1,76 @@
+PAGE_TITLE: 
+	2015: The Year of the Hack | American Enterprise Institute - AEI
+
+Computer hacking went from being something the NSA had to apologize for in 2014 to something that amounts to a personal assault on almost every American citizen in 2015. Today, roughly
+every other American
+has had his or her personal data exposed, sold, or otherwise compromised by attacks on companies that collect data on their customers.
+Before we look at why and how the 2015 hacking attacks happened, as well as what we need to focus on in 2016 to stem the tide, let’s remind ourselves what we are up against.
+In 2015, Americans’ personal data were compromised in the following major hacks:
+Did the North Koreans really hack
+Sony
+over a movie? We may never know the whole story, but we do know the final effect: The emails and personal data of
+47,000 employees
+were made public, and the company was brought to a halt as they struggled to re-secure their network.
+The
+OPM breach
+is likely the largest breach of government data in the history of the United States. The data stolen included social security numbers and fingerprint records of
+6 million government workers
+, along with names, addresses, and health records of an additional
+22 million government employees
+. The attack was suspected to be the work of the Chinese government, but China has denied such claims and argued it was a criminal operation.
+Another government agency,
+the IRS
+, also experienced a major hack this year. In August, the agency announced that hackers had gained access to the tax returns of more than
+300,000 people
+. Once in the system, the hackers filed fraudulent tax returns and pocketed the refunds.
+In August, the names, email addresses (often professional or governmental), and personal information on
+millions of customers
+of the extramarital hookup website
+Ashley Madison
+was released to the public by a group calling themselves the “Impact Team.” The hack caused troubles in families around the country and opened the door to
+large-scale extortion
+. (On an ironic side note: The hack – and the resulting media attention – might have actually worked in favor of the website, which experienced
+increased traffic and sign-up rates
+in the weeks after the attack.)
+Anthem
+, one of America’s largest health insurance companies, lost information on close to
+80 million customer accounts
+in February. The black market rejoiced, because this type of data has a longer life span and is thus very valuable.
+Another health insurance company,
+Blue Cross,
+faced a similar incident in September, when hackers compromised the health records, social security numbers, mailing addresses, telephone numbers, and credit card information of
+10 million of its customers
+.
+In October, British mobile operator
+TalkTalk
+lost personal records including financial details, bank account numbers, and mobile data information of
+157,000 of its customers
+. The leak apparently came after an extortion attempt in which the hackers demanded a ransom from TalkTalk’s CEO. One report said the perpetrators chose TalkTalk because the company’s
+security was so lacking
+that it wasn’t much work to access the data.
+Data breaches were reported by several
+major hotel chains
+, including Hilton, Hyatt, Starwood, and Trump Hotels. The breaches
+compromised guest records
+including credit card information and other personal data on file.
+The attack on Hong Kong-based digital toy company
+VTech
+was the first major report of hackers going after the data of children.
+Four million records were compromised
+, exposing names, addresses, IP numbers, email addresses, secret questions and answers, and credit card information of VTech’s customers. Children’s data are particularly valuable because hackers can use the data to steal the children’s identities and create fake profiles with valid information.
+In a similar breach,
+three million accounts
+were compromised when Sanriotown.com, the home of
+Hello Kitty
+fan data, was made public.
+Fifteen million people
+, including many T-Mobile customers, were left vulnerable after the telecom provider’s third party credit-tracking partner
+Experian
+suffered a breach.
+How and why hacking attacks happen
+Social media continues to be a key part of engineering a successful hacking attack. By using data collected via search, Twitter, Facebook, YouTube, and Google+, hackers are able to create successful spearfishing attacks – emails that are designed to be so personal that victims respond by sharing even more information, thereby allowing the hacker to emulate the victim on a network system.
+Today’s hacker has a simple motive; personal data are worth money on the dark market and the data being collected have good market value. While you might think credit card information is the ultimate target for hackers, this type of information facilitates only short-term financial gains. Personal data, on the other hand, can be used to build a dossier of information that can be used to commit crimes that pay well into the future.
+What we need to do in 2016 to stop the bleeding
+Hackers are best thwarted by companies effectively defending their infrastructure through continued threat monitoring and the creation of a protective layer to avoid being the target of an attack.
+Data collection by the “good guys” is also vital to data-loss prevention. Faster incident response can be done with the help of available profiles on how the hacks are committed and what data malicious actors are looking to take or manipulate. Technical solutions can be a major component of protecting networks, but so is educating the humans who operate the networks and the customers who rely on networks to be safe.
+Protecting customers’ information has to become a top priority in 2016. If we want to continue the Internet’s commercial success, protecting data is job number one.

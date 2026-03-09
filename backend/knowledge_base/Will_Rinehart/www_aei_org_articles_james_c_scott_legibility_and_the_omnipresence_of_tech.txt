@@ -1,0 +1,92 @@
+PAGE_TITLE: 
+	James C. Scott, Legibility, and the Omnipresence of Tech | American Enterprise Institute - AEI
+
+Last week, political scientist James C. Scott passed away. Scott’s 1998 book,
+Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed,
+easily ranks near the top of my most influential books, right alongside Michael Billig’s
+Thinking and Arguing
+, Deirdre McCloskey’s
+If You’re So Smart
+, and Virginia Postrel’s
+The Future and Its Enemies
+.
+Scott’s primary research centered on the people of Southeast Asia and how they resisted authority. This interest led him to write a series of books on government resistance throughout the 1970s and into the 1990s.
+Seeing Like a State
+reflects the whole of that scholarship as read through the concept of what Scott calls “legibility”: government efforts “to arrange the population in ways that simplified the classic state functions of taxation, conscription, and prevention of rebellion.” As he explains in the book:
+Having begun to think in these terms, I began to see legibility as a central problem in statecraft. The premodern state was, in many crucial respects, partially blind; it knew precious little about its subjects, their wealth, their landholdings and yields, their location, their very identity. It lacked anything like a detailed “map” of its terrain and its people. It lacked, for the most part, a measure, a metric, that would allow it to “translate” what it knew into a common standard necessary for a synoptic view.
+Seeing Like a State
+was about rationalist government schemes that failed, including scientific management of forestry in Germany in the late 1800s, collective farms in the Soviet Union, the building of Brasilia, forced villagization in Tanzania, and the urban plans of Le Corbusier. But more fundamentally, the book focused on how systems need to narrow their own vision to have an impact. As he continued,
+Certain forms of knowledge and control require a narrowing of vision. The great advantage of such tunnel vision is that it brings into sharp focus certain limited aspects of an otherwise far more complex and unwieldy reality. This very simplification, in turn, makes the phenomenon at the center of the field of vision more legible and hence more susceptible to careful measurement and calculation.
+Scott’s notion of legibility and its obverse, illegibility, offers a framework to understand the relationship between a system and the people it is intended to act upon.
+So naturally, I have found it helpful in understanding how social media companies and other big tech platforms interact with users.
+Legibility and illegibility.
+Platforms and other data-centric businesses seem to possess a kind of insight into people’s lives. TikTok is “astonishingly good at revealing people’s desires even to themselves,”
+reported Ben Smith
+in the
+New York Times.
+“
+The TikTok Algorithm Knew My Sexuality Better Than I Did,
+” read one headline. Facebook
+users describe the platform
+as “powerful, perceptive, and ultimately unknowable.” In collecting, storing, and processing massive troves of data, these systems seem to be able to peer into our lives to deliver us the things we want.
+But there are serious limits to these systems. Even with all of the data being produced and collected, people’s lives are still illegible
+to a degree
+.
+To be clear, I am not denying that
+user data
+can be used to accurately predict highly sensitive personal attributes like sexual orientation, ethnicity, religious view, personality traits, intelligence, happiness, use of addictive substances, parental separation, age, gender, and, most important for this discussion, political opinions.
+But in practice, these digital systems sometimes succumb to the same big fault as governments: They impose an order on a reality more complex than they can imagine.
+For example, Facebook categorizes users into groups for advertising based on what they term “affinities.”
+In a 2019 Pew survey
+of how those categories matched people’s preferences, only 13 percent of users felt these categories described their preferences very accurately, while 46 percent found them somewhat accurate. Conversely, 27 percent of users felt misrepresented by these categories, and 11 percent weren’t assigned to any category. In other words, over a third of all users are effectively
+illegible
+to Facebook, while another quarter of users have shades of illegibility.
+In fact, this would lead to a lawsuit.
+A complaint by the National Fair Housing Alliance alleged that Facebook’s user classification and ad targeting tools permitted landlords, developers, and housing service providers to limit the audience for their ads based on sex, religion, familial status, and national origin in violation of the Fair Housing Act. The Department of Justice eventually joined the suit,
+National Fair Housing Alliance v. Facebook, Inc.
+, which in 2022 got Facebook parent Meta
+to agree to change its ad services
+.
+As a result of the settlement, Meta dropped the “Special Ad Audience” tool for its housing ads. It also got
+rid of thousands of ad categories
+, including the
+much-maligned
+“African-American multicultural affinity.” I remember looking at those ad categories in 2016 when they became public to find that I was tagged with an “African-American multicultural affinity.” I told a co-worker (another white guy) about it and he looked at his ad categories. He too was tagged with that affinity. But the court cases never discussed this aspect of the tool: that the category included people who most would assume shouldn’t belong.
+Legibility is the view from the systematizer to the person. Legibility highlights the boundaries of knowledge in action, which is one of the fundamental questions in tech policy.
+Back in 2021,
+I listed a bunch of examples of illegibility
+, like the Phoenix man who is suing the city for a wrongful arrest because the
+data obtained from Google was faulty
+. But I’ve since come across lots of other examples of illegibility:
+Employees at Meta had discovered by March 2021 that “our ability to detect vaccine-hesitant comments is bad in English, and basically non-existent elsewhere,”
+The Verge
+reported
+. Another employee chimed in, noting that comments “are almost a complete blind spot for us in terms of enforcement and transparency right now” even though they make up a “significant portion of misinfo on FB.”
+Reporting from CNN on leaked internal documents
+on January 6, again from Meta, found that, “At the time it was very difficult to know whether what we were seeing was a coordinated effort to delegitimize the election, or whether it was protected free expression by users who were afraid and confused and deserved our empathy. But hindsight being 20:20 makes it all the more important to look back to learn what we can about the growth of the election delegitimatizing movements that grew, spread conspiracy, and helped incite the Capitol insurrection.”
+Twitter
+miscounted the number of users for years
+. It seems that Twitter overstated the number of daily users on its service for three years straight, overcounting by up to 1.9 million users each quarter.
+Mark Serrels
+wrote about his experience
+being served ads for pants he already bought in a piece titled, “I bought ninja pants, and Instagram’s algorithms will punish me forever.”
+And there are other examples too:
+in machine learning
+, in
+the controlled experiments
+that advertisers and web designers use, and in so
+much else
+.
+The lesson.
+Seeing Like a State
+is about much more than legibility. But then, James C. Scott’s work is about so much more than
+Seeing Like a State
+. Still, I think the concept of legibility is an incredibly powerful way to frame our understanding of the digital world and its limits.
+I’m not alone. Venkatesh Rao
+has found insights in the book
+,
+Eugene Wei used the concept to understand TikTok
+, and Neil Chilson, the Federal Trade Commission’s former chief technologist, relied on Scott’s historical lessons
+to offer guidance in tech policy
+.
+Awash in data, there is a common assumption that legibility has been solved. But I’m not sure it is ever safe to assume. Instead, I think we should be comfortable, as Scott was, with fuzzy boundaries, limited knowledge, and foiled plans.

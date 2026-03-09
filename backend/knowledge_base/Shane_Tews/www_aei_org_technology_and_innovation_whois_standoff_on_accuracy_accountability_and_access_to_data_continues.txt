@@ -1,0 +1,40 @@
+PAGE_TITLE: 
+	WHOIS Standoff on Accuracy, Accountability, and Access to Data Continues | American Enterprise Institute - AEI
+
+The evolution of privacy rights, legal access to data, and the accountability measures of the
+WHOIS
+database continue to stymie the Internet Corporation for Assigned Names and Numbers (ICANN). During
+ICANN74
+, the Governmental Advisory Committee (GAC) expressed concerns about registration data accuracy and its importance to the public interest, especially for consumer protection and lawful parties’ ability to access information.
+As I
+have
+explained
+, WHOIS is the “who’s who” of web addresses—a directory of domain name users who operate websites and transmit data across the internet. WHOIS had a major policy change regarding the ability to access registration data for domain name address records in 2018. This was an attempt to comply with the European Union’s passage of the General Data Protection Regulation (GDPR) and curtail the potential risk of liability that could arise from GDPR violations. This change in WHOIS access continues to cause friction for those with legal standing to view domain name registration data.
+via Twenty20
+This matters namely for the ability to track down illegal activities. Criminal activity will follow users as they view and interact with content through connected devices. Once criminals can track a trend, they create content consumers can download that enables the spread of malware, phishing and pharming attacks, piracy, trademark and copyright infringement, and fraudulent and deceptive practices, including counterfeiting digital items.
+WHOIS is a fundamental tool for finding the online ramp to the domain name contact point and who is operating a website or connecting to an email address. Unlike current privacy concerns about individuals’ data, the tension around WHOIS access is about who manages the domain name address of an online business. Journalists, law enforcement, cybersecurity investigators, copyright and trademark holders, consumer protection groups, brand owners, and academic researchers request data for legitimate purposes from WHOIS on a daily basis.
+WHOIS does not separate registration by a business or individual;
+the information is treated the same way. Therefore, there needs to be an agreed-upon
+approach to keep WHOIS access available to those with legitimate interest in accessing
+WHOIS data without violating personal privacy regulations. Modernizing
+information technology and managing regulatory changes can occur in harmony. There
+are available gating mechanisms by registrars to separate the two different
+categories.
+WHOIS information should be transparent, accessible, accurate, and accountable to the appropriate parties. A recent
+study
+shows that 93 percent of requests for WHOIS data from registrars are turned down, and 21 percent are never responded to. The ICANN community and ICANN.org need to formulate an accredited system in which registered authorities can help transfer the appropriate registrant contact information to an authorized party while minimizing the data so they’re fit for purpose. Currently, the
+Expedited Policy Development Process
+has lost its focus on the direct impact the change in WHOIS policy has had on the ability to manage the security of networks, tackle disinformation campaigns, and track criminal activity.
+Proposals on the table would allow privacy by design and necessary delivery of data in situations where the purpose for the request can be legally processed. Being able to differentiate access to nonpublic registration information is a plausible option, and adopting an opportunity or series of choices to enable accurate data could be available to the appropriate parties willing to be accountable for the access granted to them.
+The Registration Data Access Protocol
+internet standards designed by the Internet Engineering Steering Group can improve registration data and establish a chain of custody for anyone permitted to access records through an authentication and access control feature that allows for user identification of the requesting party.
+The decision needs to be made to fix the access problem using the proposed technology tool, rather than
+petitioning
+for the EU’s approval. The ICANN multi-stakeholder model must commit to a path forward to avoid an existential threat to its authority. Equally weighing the balance of industry partners with government representation and hearing the voices of internet users are the keys to ICANN’s success as an internet governance model. If ICANN awaits government permission rather than taking real action to remedy the access and accuracy problem, the external community’s confidence in this model will suffer greatly. As noted in the GAC
+Communiqué
+, “Providing an effective centralized system for access and disclosure of domain name registration data remains important.” It also notes that “the GAC emphasizes the importance of providing specific timelines and goals for the ‘proof of concept’” so the ICANN community will understand what happens and when once the Operational Design Assessment phase concludes.
+A model ensuring accurate and up-to-date registration data
+that complies with both data protection regulations and ICANN’s contracts needs
+to return to the center of the discussion about ICANN’s consensus policy to
+comply with both GDPR and the public interest of those who need access to this
+important data directory.

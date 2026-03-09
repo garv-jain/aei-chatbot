@@ -1,0 +1,66 @@
+PAGE_TITLE: 
+	The Energy Demands of the Data-Driven Future: Challenges and Solutions | American Enterprise Institute - AEI
+
+VIDEO
+Event Summary
+On March 25, AEI hosted a conference on the challenges of balancing energy constraints with the rapid growth of AI and data centers.
+AEI’s L. Lynne Kiesling opened the event and moderated the first panel, which examined the evolving energy demands of AI infrastructure. Brian George (Google), Arne Olson (Energy and Environmental Economics), and Levi Patterson (Nvidia) discussed how data centers have become energy-intensive “factories” for AI training and the challenges of managing supply and demand. They explored vertically integrated utilities, grid strain, and the need for strategic planning to ensure growth without passing excessive costs to consumers.
+Dylan Patel (SemiAnalysis) then joined Will Rinehart (AEI) for a keynote conversation on AI hardware, energy bottlenecks, and export controls. Mr. Patel highlighted the geopolitical complexities of chip production, permitting challenges, and the need for faster energy infrastructure development, particularly through innovative power and storage solutions.
+The second panel, moderated by AEI’s Mark Jamison, addressed business and regulatory challenges. Jose Esparza (Arizona Public Service), Martin Hermann (BrightNight), and Tricia Pridemore (Georgia Public Service Commission) discussed infrastructure investment, permitting reform, and how utilities and “hyperscalers” can collaborate to support growing energy needs while protecting consumers.
+Each session concluded with an audience Q&A.
+—Michael Pugh
+Event Description
+Data centers are popping up around the country, consuming vast sums of electricity and prompting concerns over whether the electric grid can cope with demand. Many fear that the grid will not be able to adapt, resulting in instability and higher electricity prices.
+This event will draw on the expertise of practitioners from different sectors to dissect the issue posed by data centers’ energy usage. AEI’s L. Lynne Kiesling will highlight the issues and provide context with Brian George of Google, Arne Olson of Energy and Environmental Economics, and Levi Patterson of Nvidia. Then, AEI’s Will Rinehart will have a keynote discussion with Dylan Patel of SemiAnalysis, followed by a panel discussion with Jose Esparza of Arizona Public Service, Martin Hermann of BrightNight, AEI’s Mark Jamison, and Georgia Public Service Commissioner Tricia Pridemore.
+Event Materials
+L. Lynne Kiesling et al.:
+Innovating Future Power Systems: From Vision to Action
+Mark Jamison:
+DeepSeek’s Challenge to Anti-Trust Orthodoxy
+Agenda
+1:00 p.m.
+Opening Remarks:
+L. Lynne Kiesling
+, Nonresident Senior Fellow, American Enterprise Institute
+1:15 p.m.
+Panel I: Issues and Context
+Panelists:
+Brian George
+, US Federal Lead, Global Energy Market Development and Policy, Google
+Arne Olson
+, Senior Partner, Energy and Environmental Economics
+Levi Patterson
+, Director of Energy, Science, and AI Infrastructure Policy, Nvidia
+Moderator:
+L. Lynne Kiesling
+, Nonresident Senior Fellow, American Enterprise Institute
+2:00 p.m.
+Q&A
+2:15 p.m.
+Break
+2:30 p.m.
+Keynote Conversation:
+Dylan Patel
+, Founder, SemiAnalysis
+Will Rinehart
+, Senior Fellow, American Enterprise Institute
+2:50 p.m.
+Q&A
+3:00 p.m.
+Break
+3:15 p.m.
+Panel II: Business and Regulatory Implications
+Panelists:
+Jose Esparza
+, Senior Vice President, Public Policy, Arizona Public Service
+Martin Hermann
+, CEO, BrightNight
+Tricia Pridemore
+, Commissioner, Georgia Public Service Commission
+Moderator:
+Mark Jamison
+, Nonresident Senior Fellow, American Enterprise Institute
+4:00 p.m.
+Q&A
+4:15 p.m.
+Adjournment

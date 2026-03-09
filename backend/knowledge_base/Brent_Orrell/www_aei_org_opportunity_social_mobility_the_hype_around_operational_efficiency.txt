@@ -1,0 +1,25 @@
+PAGE_TITLE: 
+	The Hype Around “Operational Efficiency” | American Enterprise Institute - AEI
+
+Corporate earnings calls have shared a common theme of late: operational efficiency. According to Morgan Stanley analysts, mentions of efficiency have
+steadily increased since 2022
+. This trend indicates a significant shift in how companies are strategizing for the future. Yet the efficiency focus is about more than just cost-cutting.
+Greater emphasis on efficiency also has to do with technological developments, and AI in particular. As understanding of AI’s potential grows, executives have begun to anticipate new ways of reducing labor costs (labor substitution) and speeding up and improving work processes (labor augmentation) to boost productivity. According to Morgan Stanley analysts, the sectors discussing efficiency overlap significantly with those discussing AI, including industries like software, healthcare services, financial services, and professional services. These sectors are heavily “exposed” to AI and those working in them should expect new pressures to adapt to AI-infused systems to speed and improve workflows. Some may also need to transition to new jobs and industries.
+AI integration is the hot new trend–and for good reason. Some companies are
+adopting
+AI technology and entrusting it with more business functions. Ironically, this seems particularly true in software development where, according to ADP, the pace of hiring has fallen dramatically as more coding tasks are automated (see below). It’s enough to make me wonder whether we will look back at coders as artisans who helped create the systems that replaced them.
+Yet many organizations are still in the early stages of implementing AI, with clear investment strategies yet to be developed. AI may be here, but specific outcomes for workers are still largely unknown.
+The implications of this increasing emphasis on operational efficiency and AI are profound. On one hand, businesses that successfully integrate AI into their operations can gain
+significant competitive advantages
+through enhanced productivity and reduced costs. This results in more growth and lower costs for consumers. AI integration could also redefine job roles, allowing us to perform more creative and less repetitive tasks. On the other hand, the relentless focus on efficiency could rapidly automate jobs,
+displacing
+many workers. These are the competing futures leading experts on AI and automation continue to research and
+debate
+.
+In the face of this type of uncertainty, we need to focus on increasing
+worker flexibility
+at multiple levels. We need
+flexible workforce development systems
+and better policy to support workers who find their jobs on the “destruction” end of “creative destruction.” If we wish to reap the benefits of technology
+and
+avoid a future in which displaced workers are thrown into the deep end of the economy without a life-preserver, we must plan for effective retraining and worker transitions. The price of not doing so—as we saw in the early-2000s with employment shocks arising from automation and trade—can be high.

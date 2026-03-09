@@ -1,0 +1,19 @@
+PAGE_TITLE: 
+	The Promise and Peril of the ‘Moneyball’ Labor Market | American Enterprise Institute - AEI
+
+According to the
+New York Times
+, artificial intelligence may put-paid to the idea that the best way to find an employee is to look for someone who has done the same or similar work before. Instead of looking for job experience, companies like
+Eightfold.ai
+and
+ZipRecruiter
+are using powerful new algorithms that dig into resumes looking for implicit skills that are buried inside education, training, credentials, and even hobbies.
+AI-enabled workforce planning might help boost firms’ productivity, but there are potential drawbacks as well. Image via Twenty20
+As told by the Times, one algorithm decided that an employee at Barclays with a graduate degree in physics would be a good data scientist though he had never trained in data science or included the term on his resume. If you are looking for a good salesperson, the algorithm might recommend someone who plays basketball; a chess player is surfaced for a coding job. In another instance, a digital ad firm overcomes its entrenched biases and hires a manufacturing sector employee to fill a financial planning position. It’s like someone advertising wine goblets on Craigslist and the algorithm suggesting they might have a collection of rare cookbooks or an antique china closet to sell as well.
+Creating matches between buyers and sellers is one of the great blessings of the internet age, increasing competition, cutting costs, and reducing market friction for both products and services. Now artificial intelligence and big data are taking aim at knots and bulges of the labor market by connecting skills to job opportunities rather than relying on the blunter instruments of degrees and previous job experience to guide hiring. Think of it as “
+Moneyball
+” for the entire economy, building winning corporate teams out of skills rather than resumes.
+As with most AI-related developments, this generally sounds very positive, especially in terms of boosting labor productivity and increasing access to meaningful work that is rooted in skills and interests. Workers who, in the past, might have been overlooked may find that the objective gaze of AI opens up new prospects in a way that human interviewing skills often do not. Further, any technology that improves productivity and efficiency is likely, in the long term, to improve living standards and generate new work opportunities. But it is worth remembering that the 2002 Oakland A’s were built out of talented but unemployed athletes, so desperate to play that they took contracts far below the market rate resulting in great baseball on the cheap. Close-to-perfect labor market information has some advantages for workers but often has even greater advantages for employers seeking to increase wage competition among workers.
+And there’s a second, broader consideration. Businesses and workers are already struggling with massive pressures for profitability in markets that are blind to the human costs of improving productivity and weeding out inefficiency. Business has tried to compensate for these pressures by emphasizing “work-life balance” and other “whole-person” HR strategies but the bottom-line always wins out. Properly structured, AI systems might help companies get better at creating staff mixes that blend the full range of technical and
+noncognitive
+skills needed to support both business performance and worker well-being. If the human element is submerged or ignored, however, AI-driven workforce planning might lead to even greater disaggregation and commodification of human skill that works against the long-term interests of shareholders, workers, and society alike.

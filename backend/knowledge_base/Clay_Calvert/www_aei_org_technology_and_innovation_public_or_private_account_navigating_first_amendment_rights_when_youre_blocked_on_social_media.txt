@@ -1,0 +1,88 @@
+PAGE_TITLE: 
+	Public or Private Account? Navigating First Amendment Rights When You’re Blocked on Social Media | American Enterprise Institute - AEI
+
+When a government official blocks you from their personal social media account because they don’t like what you’ve been posting about them, can you successfully sue them for violating your
+First Amendment
+rights of
+free speech
+and
+petition
+? To resolve this question, courts first must decide whether the official’s account usage sufficiently relates to their government position and public duties to trigger
+state action
+.
+How courts should resolve the state-action question—what factors and circumstances they should consider in determining if state action exists—is something the
+US Supreme Court
+will address this fall in
+O’Connor-Ratcliff v. Garnier
+and
+Lindke v. Freed
+. It’s a vital question: Without state action, First Amendment claims fail because the First Amendment “
+prohibits only
+governmental
+abridgment of speech
+,” not “
+private
+abridgment
+.” (Emphasis in original.) Thus, government officials who use personal social media accounts as purely private citizens (not as state actors) can block people without raising First Amendment problems.
+Via Adobe Stock
+The 2022 appellate court rulings in
+O’Connor-Ratcliff
+(from the
+US Court of Appeals for the Ninth Circuit
+) and
+Lindke
+(from the
+Sixth Circuit
+) illustrate contrasting approaches for answering the social-media, state-action question. The Ninth Circuit’s multi-factor, “fact-sensitive”
+methodology
+—most federal courts use some variation of this—searches for a “close nexus” between officeholders’ personal account usage and their official positions. It focuses on an account’s appearance (Does it list the official’s job title, include job-related contact information, or feature on-the-job photos?) and its purpose (Is it publicly available and used to communicate with constituents about government matters and solicit their input?). This flexible, holistic approach for finding state action is pragmatic.
+Conversely, the Sixth Circuit’s methodology in
+Lindke
+is rigid and constricting. It finds state action
+only
+when running a social media account is part of an official’s “
+actual or apparent duties
+” or involves his “
+use of state authority
+” (i.e., the account used belongs to the office, not the officeholder).
+The Supreme Court should reject the
+Lindke
+approach. As I
+wrote elsewhere
+in May, shortly after the Court agreed to hear the two cases, the Justices instead:
+should embrace a rule that enhances, not constrains, the
+First Amendment
+right to engage with and criticize officeholders on Twitter and Facebook.
+This would breathe life into the court’s 1964
+acknowledgement
+(long before the social media era) of the vital role played by “the citizen-critic of government. It is as much his duty to criticize as it is the official’s duty to administer.”
+In a friend-of-the-court
+brief
+in
+Lindke,
+the
+Electronic Frontier Foundation
+, joined by two
+other
+organizations
+, echoes this sentiment. Noting “how common it is for government officials and agencies to conduct official business through social media,” the brief asserts that “[a]ny rule this Court announces . . . must weigh heavily in favor of preserving these First Amendment rights and not provide any easy route for public officials to disregard them.”
+Indeed, the Supreme Court
+observed
+in 2017 that “social media” provides the most important venues today “for the exchange of views.” It added that “on Twitter, users can petition their elected representatives and otherwise engage with them in a direct manner.”
+On August 15, US Solicitor General
+Elizabeth Barchas Prelogar
+weighed in
+on
+Lindke
+. The solicitor general wants the Court to adopt “
+a limited theory of state action in this context
+.” Why? Partly because a more expansive tack might have a “chilling effect” on government officials’ willingness to speak out on public matters and lead to “overregulation of public employees’ speech.” Public officials, the government asserts, retain “the right in their private capacities to engage in speech” about “matters of public concern” without triggering state action.
+A cynic, however, might speculate that the government advocates for a constricted state-action methodology because it empathizes with fellow government officials who must otherwise put up with constant constituent carping. A narrow road to state action means fewer viable—and fewer time-consuming, negative-publicity churning—First Amendment lawsuits. In short, if fewer citizens can leap the state-action hurdle, then officeholders can block more of them without fretting valid lawsuits, so why not erect a high hurdle?
+But as the
+Foundation for Individual Rights and Expression
+asserts in its
+Lindke
+brief
+, “Politicians cannot have it both ways—they cannot use private social media accounts to conduct public business and then claim their decision to cut off discussion is a matter of private choice.” The problem is compounded, the brief notes, because “all too often, politicians choose the comfortable and convenient option of silencing their critics.” Government officials, of course, may operate purely personal accounts––ones about, say, favorite teams, movies, or restaurants––without raising First Amendment hackles. But once they mix public business with private passions, First Amendment concerns arise. In sum, the Court should adopt a variation of the Ninth Circuit’s
+O’Connor-Ratcliff
+methodology to safeguard citizens’ First Amendment rights when communicating with government officials online.

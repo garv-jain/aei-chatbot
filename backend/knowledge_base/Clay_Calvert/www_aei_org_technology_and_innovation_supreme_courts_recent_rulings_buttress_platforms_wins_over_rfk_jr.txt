@@ -1,0 +1,118 @@
+PAGE_TITLE: 
+	The Supreme Court’s Recent Rulings Buttress Platforms’ Wins over Robert F. Kennedy Jr. | American Enterprise Institute - AEI
+
+Last month wasn’t kind to Robert F. Kennedy Jr. He
+suspended
+his run for president on August 23,
+saying
+he didn’t see “a realistic path to electoral victory.” Three days later, the
+US Court of Appeals for the Ninth Circuit
+in
+Kennedy v. Google
+refused to grant his
+request
+for an injunction ordering YouTube to repost videos of his “political speech that it . . . removed during the 2024 presidential campaign.”
+That opinion followed another August ruling by the Ninth Circuit in
+Children’s Health Defense v. Meta Platforms
+affirming the
+dismissal
+of a
+complaint
+filed by Kennedy’s
+Children’s Health Defense
+(CHD) organization. It
+alleged
+the federal government worked with Facebook “to censor Plaintiff’s speech concerning important public health issues and government policy.”
+Via Reuters/Jonathan Ernst
+The Ninth Court’s decisions demonstrate the importance of the
+US Supreme Court’s
+2024 rulings in
+Moody v. NetChoice
+,
+Murthy v. Missouri
+, and
+National Rifle Association v. Vullo
+in safeguarding social media platforms from First Amendment liability when they jettison content the government also condemns—consider them “shared-sentiment removals”—and not transforming the businesses into government surrogates.
+At first glance,
+Kennedy
+and
+Children’s Health Defense
+are similar to the
+jawboning
+case of
+Murthy
+that the Supreme Court decided in June. All three disputes involve claims that the government worked with, coerced or otherwise got platforms to censor third-party content that didn’t align with the government’s position on items like COVID-19 vaccines and pandemic policies.
+The key difference, however, involves the defendants. In
+Murthy
+, the defendants are government officials and agencies, including President Joe Biden and several White House officials. (The case was originally called
+Missouri v. Biden
+and is
+again
+on remand.) In contrast, the defendants in the Ninth Circuit cases are private, non-governmental entities and individuals: Google and its YouTube platform (in
+Kennedy
+) and Meta Platforms and its CEO and founder Mark Zuckerberg, (in
+Children’s Health Defense
+).
+Because the First Amendment
+only
+“prohibits only
+governmental
+abridgment of speech” (emphasis in original), the fatal threshold problem for Kennedy and CHD was demonstrating that the defendants should be treated like government officials (state actors). Demonstrating this isn’t easy: Only rarely are the actions and decisions of
+private businesses’ and individuals’
+deemed “attributable to the State.” This is also how the Court’s 2024 rulings in
+Moody
+and
+Murthy
+packed a one-two punch in
+Kennedy
+and
+Children’s Health Defense
+, with
+Vullo
+landing an additional blow in the latter case.
+Although
+Moody
+didn’t involve a state-action battle, six justices recognized “that expressive activity includes presenting a curated compilation of speech originally created by others.” In
+Kennedy
+, the Ninth Circuit interpreted
+Moody
+as supporting the proposition that a platform’s “exercising editorial discretion in the selection and presentation of content is speech activity,” thus triggering First Amendment protection. The court found that Kennedy had “not rebutted Google’s claim that it exercised its independent editorial choice in removing his videos.” In short, the First Amendment presumptively protects a platform like YouTube’s decision to remove content, with the burden falling on plaintiffs like Kennedy to prove that the platform’s removal decision wasn’t truly its own business choice.
+The Ninth Circuit in
+Children’s Health Defense
+cited
+Moody
+to support its finding that “Meta has a First Amendment right to use its platform to promote views it finds congenial and to refrain from promoting views it finds distasteful.” The court wrote that Meta’s constitutional right of editorial control presumptively protects its choice to remove content, even if the government also wants that content removed: “Meta evidently believes that vaccines are safe and effective and that their use should be encouraged. It does not lose the right to promote those views simply because they happen to be shared by the government.”
+With
+Moody
+bolstering a platform’s constitutional right to remove content in both Ninth Circuit cases,
+Murthy
+and
+Vullo
+created a high bar for rebutting the presumption that such editorial choices are independent from the government. In
+Kennedy
+, the Ninth Circuit cited
+Murthy
+when
+observing
+that Kennedy hadn’t “identified any threatening or coercive communication, veiled or otherwise, from a federal official to Google concerning Kennedy.” In
+Children’s Health Defense
+, it
+noted
+that even if a platform’s content removal decision aligns with the government’s stance,
+Murthy
+requires examining when the platform had “independent incentives” to remove the content. The court
+added
+that when plaintiffs attempt to show a platform’s removal decision was governmentally coerced,
+Vullo
+demands proof that the government “convey[ed] a threat of adverse government action” if the removal did not occur. Citing
+Vullo
+, the Ninth Circuit
+suggested
+that government communications with a platform must “threaten penalties for noncompliance” to demonstrate that a removal decision was coerced, not independent.
+In sum,
+Moody
+,
+Murthy
+, and
+Vullo
+rightfully help to make it difficult for plaintiffs to transform private businesses into state actors liable for First Amendment violations when they remove content.

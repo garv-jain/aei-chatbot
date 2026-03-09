@@ -1,0 +1,96 @@
+PAGE_TITLE: 
+	The Hardware and Software of AI | American Enterprise Institute - AEI
+
+Friends, it is great to talk with you again. I hope you had a restful break. In the two weeks since we last chatted, I spent some time organizing my work and thinking about what I want to accomplish in the next year to eighteen months. One big thing I am going to do is double down on my artificial intelligence (AI) research.
+My work for the last two years has been trying to understand how the hardware and the software sides of AI fit together. Each has its own kind of economic production and politics. There is a political economy.
+Two major developments have put AI on a new course: chip shortages during the COVID pandemic made chips a political topic while the software breakthroughs of OpenAI and other large language models sparked a race in generative AI. Let’s start with the hardware story.
+The economics of chip manufacturing.
+A little over a year ago, I
+wrote about
+how the shock that came from the pandemic was connected to the economics of chip production:
+Chip fabrication faces unique economic conditions that tend to push out supply lines to Taiwan, South Korea, and China. When COVID hit, the reliance on Chinese and East Asian production became clear as supply chain issues arose, creating the crucible for the CHIPS and Science Act.
+Chips go into everything—from cars to computers and dishwashers to AI data centers. They are fundamental to our modern world. The chip shortages during COVID made this abundantly clear. Disruptions half a world away can have a detrimental effect on the U.S. economy. It was this event that raised the political profile of semiconductors and paved the way for the passage of the
+CHIPS and Science Act
+.
+My sense is that we could have probably gotten the same outcomes, like boosting domestic chip production, at half the cost. But politics being politics, we got CHIPS, which is a bit of a hodgepodge of different programs aimed at securing semiconductor supply lines. The most productive way to think about CHIPS is that it opens up options but creates new economic entanglements at the same time.
+The production of chips occurs in fabs, which are massive clean rooms that run complex tools at incredibly high precision. Because of the precision required, building a new fab “is similar in complexity and materials to building a skyscraper,” I wrote. “Building foundations need to be specially constructed to deal with the demands. Intel’s two new fabs in Ohio, for example, will need enough structural steel to build eight Eiffel Towers and enough concrete to build the world’s tallest skyscraper, the Burj Khalifa, twice.” So it makes sense that TSMC’s
+new advanced fab in Arizona cost $20 billion
+.
+Running expensive tools requires specialized labor, and machines work best when they run all the time, so fabs shoot for little downtime. On top of this, production of a batch of chips may take anywhere from 12 to 20 weeks depending on the complexity, while testing and packaging takes another six weeks. So it might take half a year to deliver a product in the best of cases.
+Additionally, the semiconductor industry has historically moved in lockstep with global economic cycles. Major technological shifts, from personal computers in the 1980s to smartphones in the 2010s, drove manufacturers to expand capacity. But this expansion often led to oversupply when demand cooled or economic conditions shifted, triggering price drops and revenue declines. As a result of this cyclical pattern, investors traditionally valued semiconductor stocks at a lower level relative to other tech sectors
+.
+The boom-and-bust cycles, high startup costs, specialized labor, and the long production times have led to a unique set of economic circumstances. As I explained,
+Given the investment needed in the end part of the production process, the foundry model follows what economic theory predicts. Firms have two options, they can either vertically integrate, or they can outsource their production. Because firms tend to be inefficient in their labor investments under integration and labor investment is relatively important to production, it makes sense to outsource labor to a specialist firm.
+In other words, all of these aspects of the production process suggest that outsourcing is likely, so it makes sense that advanced chips are being produced in just a few places, primarily Taiwan and South Korea.
+The politics of chip manufacturing.
+When COVID hit, the reliance on Chinese and East Asian production became clear as supply chains buckled. There wasn’t just a chip shortage, there were many different chip shortages.
+One part of this was a demand shock. As people shifted to remote work and home entertainment, demand surged for personal electronics and appliances. Meanwhile, data centers expanded to handle increased video calling and streaming traffic. The gaming industry saw major console launches from Microsoft and Sony, while cryptocurrency miners competed for graphics processing units amid soaring prices.
+Supply disruptions compounded the shortage. Companies initially cut orders anticipating a downturn, then
+couldn’t get the chips they needed when demand surged. Natural disasters struck key facilities in 2021—Japan’s Renesas fab caught fire and Texas ice storms shuttered multiple manufacturers. Russia’s February 2022 invasion of Ukraine disrupted raw materials, while labor shortages at U.S. ports caused congestion that slowed deliveries.
+These disruptions highlighted a deeper strategic concern, as I explained,
+The shortages also brought attention to the critical role that China plays in the semiconductor supply chain. Though China’s production of chips is mainly limited to low-end legacy chips, all forms of chips are commonly packaged and tested there. Semiconductors form the backbone of all key US defense systems and platforms, and any decline in US microelectronics competencies poses a severe risk to the nation’s self-defense and protection of its allies. Semiconductors are also a rare industry in that the Chinese economy is dependent on others, rather than being the primary exporter.
+Chips became political. Congress passed the CHIPS Act in July 2022, committing $52 billion to revitalize domestic semiconductor manufacturing, while imposing export controls to limit China’s access to advanced chip technology. The EU and Japan followed with similar initiatives, marking semiconductors as critical to national security and economic sovereignty.
+The economics of AI.
+Two years ago this month,
+ChatGPT reached 100 million users
+, making it clear the AI revolution was truly upon us. Since ChatGPT 3.5 made a splash, there has been a steady stream of releases, with the most recent being the
+o1 models of reasoning
+.
+I am fairly confident that in the next two years or so, artificial general intelligence (AGI), which is typically defined as an AI system that can match or exceed human-level performance across virtually any task, will become a reality. But I don’t think the disruption in the labor market is going to be as dramatic as people think. Ideation has always been cheap. Implementation is the real challenge.
+In June, I wrote a two-part series on the economics of AI that discussed
+how emerging technologies are adopted
+and
+how human workers and AI systems can work together
+. I’m finding it all too common that people simply dismiss the effort that’s needed to transform a company, let alone transform an industry, with a technology like AI.
+Moreover, people tend to couple robots with advanced AI tech. But when you look at the data,
+as I did
+, you learn that industries investing the most in robotics tend to be using AI the least. Manufacturing and retail trade spend the most on robotic equipment but they aren’t going big on machine learning, natural language processing, virtual agents, and the like.
+When I’m asked how AI will change industries, no one likes to hear my answer: It is going to vary. Sometimes, highly productive companies slim their staffing while lower-end firms expand their staffing. Other times, automation technologies will produce substantial output gains that reduce labor costs while still expanding net jobs. Or, a technology might lead to more job creation and higher wages, as was the case with banks and ATMs
+.
+Adopting new technology can reshape how companies use their workforce and equipment by automating or enhancing specific tasks. This transformation, however, comes with costs. It requires significant investment in both implementation and adaptation. A firm’s decision to adopt new technology should be based on a simple calculus: Invest when benefits exceed costs. But successful implementation ultimately hinges on the technology’s integration with existing organizational structures and processes.
+Last February,
+I wrote about why the telephone switchboard
+took so long to become automatic. The interdependencies between call switching and other production processes within the firm presented an obstacle to change. But the same is true today of firms thinking of adopting AI. The interdependencies between AI and other production processes within firms might be an obstacle to change.
+This year might be the year that marks a change in how businesses operate. OpenAI CEO Sam Altman
+writes in a new essay
+, “We believe that, in 2025, we may see the first AI agents ‘join the workforce’ and materially change the output of companies. We continue to believe that iteratively putting great tools in the hands of people leads to great, broadly-distributed outcomes.”
+Sometimes, there are also some serious limitations to making these changes.
+The politics of AI.
+”We need to regulate AI” and “We need to get ahead of this thing” are popular phrases among tech leaders, policy experts, and media commentators. But this framing misses a crucial point: Significant AI regulation is already happening, just not through Congress. Yes, Congress hasn’t produced AI legislation, but the executive branch and the judiciary are deeply involved in regulating this new tech.
+Here are just a few of the things I’ve been tracking
+:
+The Biden administration
+issued an executive order
+on AI that mandated
+some 150 requirements
+of the various agencies.
+Both states and the federal government,
+including the Federal Trade Commission
+(FTC), have reiterated that they will police unfair or deceptive acts and provide consumer protection over AI services.
+Federal agencies have issued
+more than 500 AI-relevant regulations, standards, and other governance documents
+, including the National Institute of Standards and Technology’s
+AI Risk Management Framework
+; the Equal Employment Opportunity Commission’s (EEOC)
+Artificial Intelligence and Algorithmic Fairness Initiative
+; the Food and Drug Administration’s
+Framework for Regulatory Advanced Manufacturing Evaluation (FRAME) Initiative
+; and the Consumer Financial Protection Bureau’s
+Joint Statement on Enforcement of Civil Rights, Fair Competition, Consumer Protection, and Equal Opportunity Laws in Automated Systems
+made in conjunction with the Department of Justice, the EEOC, and the FTC, just to name a couple of the big ones.
+Industry giants like OpenAI, Microsoft, Meta, Midjourney, and GitHub
+are currently embroiled in copyright disputes
+over the use of content for their models.
+Product recall authority gives entities like the National Highway Traffic Safety Administration, the Food and Drug Administration, and the Consumer Product Safety Commission the ability to regulate and mitigate risks posed by AI systems.
+Given all this movement, I’m skeptical that a new regulatory regime is needed to ensure consumers are protected. Perhaps agencies need specific tools to collect information on harmful events in finance, housing, and health, but there already is a lot of authority to do this. Consumers are protected in so many ways. The burden of proof needs to be on the bill authors.
+This is why I was so critical of California’s SB 1047, which I wrote about
+here
+and
+here
+. The bill did so much more than what was needed. Advocates of AI bills also tend to underappreciate the
+First Amendment concerns
+and
+the challenges in regulating for bias and fairness
+.
+The story of AI at the beginning of 2025 is more complex than most headlines suggest. While we debate abstract questions about AGI and regulation, two parallel revolutions are reshaping our world: a hardware transformation that’s redrawing global supply chains and a software evolution that’s redefining what machines can do.
+The real challenge will be in the unglamorous work of implementation, the careful consideration of existing regulations, and the thoughtful integration of AI into our institutions and businesses. As we navigate this transition, success won’t just come from technological breakthroughs or new laws, but from understanding how hardware constraints, software capabilities, economic incentives, and existing regulatory frameworks all fit together. The future of AI depends less on what AI can do, and more on how we choose to use it.

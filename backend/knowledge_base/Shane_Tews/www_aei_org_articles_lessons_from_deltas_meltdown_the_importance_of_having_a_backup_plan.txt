@@ -1,0 +1,29 @@
+PAGE_TITLE: 
+	Lessons from Delta’s Meltdown: The Importance of Having a Backup Plan | American Enterprise Institute - AEI
+
+On August 9
+th
+, a full day after the Delta system outage that stranded hundreds of thousands of passengers, senior vice president David Holts
+acknowledged
+that the airline is “still operating in recovery mode.” As we move to the Internet of Things and an increasingly networked economy, Delta’s situation is a reminder of the importance of resilience.
+The Delta outage is one example, but critical resilience issues exist everywhere: among our
+political parties
+, in
+our homes
+, in
+our power plants
+, and even in
+the technologies that are supposed to safeguard our privacy.
+In our connected world, this is no longer acceptable. Everyone should have a backup plan, a way to retrieve data and continue operations quickly after catastrophe strikes. But how do we make that happen?
+REUTERS
+Building resilience into networks and operations
+First, we must acknowledge that when it comes to resilience, everyone needs to take responsibility. Corporate executives, government officials, and individuals all play a vital role in protecting the networks from risk factors. Just as President Obama released a presidential policy directive to help government understand their roles in cyber incidents, corporations need to take responsibility for their critical network operations. This means that executives need to prioritize IT infrastructure investment that supports internal contingency plans and all users of the corporate network need to comply with network security guidelines. (This is not to say, of course, that the government has this all figured out –
+we have a long way to go
+there as well.)
+Second, we need resilience to be present from the get-go, built into the design of networks, devices, and software. Certain Internet-based companies serve as leading stars on this front: does Google ever “go down”? Does Amazon? If they have, it’s been for a fraction of a second, and they are back up before you can resend your query. Resilience as an early requirement becomes even more important as we move into the world of the Internet of Things. From day one of development, we need to consider what the plan is if these “things” disconnect.
+Third, backup plans must be holistic, not piecemeal. To its credit, Delta did have a backup plan in place in some locations; one airport had managers that instructed the staff to write out paper tickets with enough data for passengers to manage the next step in the process. Unfortunately, only a lucky few got this assistance. The rest were left stranded, missing business trips, holidays, and even
+honeymoons
+.
+Fourth, Delta’s issues highlight the importance of avoiding single points of failure. A power outage in Atlanta should not cause a global disruption in operations, especially not one that lasts several days. The Internet is an example of how to do it right: when there are traffic backups or fatal errors in one network point, data packets are not dropped and given up on, but are instead rerouted around inefficient network points.
+The big takeaway for Delta – and for the rest of us
+Your day may not have been disrupted by Delta this past week, but if you have experienced a similar meltdown of your company’s network operations, or even your cell phone crashing, you can imagine how these events hurt your productivity and ability to stay connected. Networks have become the engine that makes our economy work. We need to continue to innovate and protect these assets to ensure that they are fast, flexible, and reliable. Essential to this protection is resilience and a reliable backup plan.

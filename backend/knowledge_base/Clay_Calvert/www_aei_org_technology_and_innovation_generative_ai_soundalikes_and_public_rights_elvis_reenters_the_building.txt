@@ -1,0 +1,94 @@
+PAGE_TITLE: 
+	Generative AI, Soundalikes and Publicity Rights: Elvis Reenters the Building | American Enterprise Institute - AEI
+
+Here’s a quick aural exercise in property rights: Think about
+Tom Petty
+. . . and now hear him (in your mind) singing the words “
+glide down over Mulholland
+.” Or hear
+Billie Eilish
+in your head singing five words: “
+so you’re a tough guy
+.” Finally, even if you can’t understand the lyrics but grew up grungy, imagine
+Eddie Vedder
+crooning “
+Yellow Ledbetter
+.”
+These singers have instantly recognizable, distinctive voices that generate money for them or, in Petty’s case, his estate. Singers and celebrities (consider Jack Nicholson and James Earl Jones) with readily identifiable voices possess––in some states such as
+California
+––property rights that prevent others from commercially exploiting their voices without authorization.
+Via Adobe
+The scope of these
+publicity rights
+, which typically safeguard a person’s name, image, and likeness, “vary widely from state to state,”
+notes
+Professor
+Jennifer Rothman
+. About half the states, as attorney Kristin Bria Hopkins
+writes
+, “have statutes granting a right of publicity after death” of varying lengths to the deceased’s estate.
+Generative artificial intelligence, just as it’s
+testing the boundaries
+of
+copyright law
+and the
+fair use defense
+, is now challenging voice rights. A
+Public Knowledge
+article
+explains that generative AI “effectively democratizes the ability to use characteristics of someone’s persona, significantly lowering the cost of appropriation. This will likely translate to more violations by appropriators, and more enforcement by rights holders.” The
+Federal Trade Commission
+recently concluded a “
+Voice Cloning Challenge
+” to develop “ideas to protect consumers from the misuse of artificial intelligence-enabled voice cloning for fraud and other harms.”
+It’s thus unsurprising that Tennessee, boasting “
+the capital of country music
+” (Nashville) and the “
+home of the blues
+” (Memphis’s Beale Street), this past month adopted a
+new right-of-publicity law
+. It not only extends protection for a voice “that is readily identifiable and attributable to a particular individual,” but imposes civil liability on anyone who “makes available an algorithm, software, tool, or other technology, service, or device, the primary purpose or function of [which] . . . is the production of a particular, identifiable individual’s photograph, voice, or likeness” without that individual’s consent or, for the deceased, without their estate’s permission.
+By adopting the “Ensuring Likeness, Voice, and Image Security Act of 2024” (yes, the ELVIS Act,
+thank you very much
+), Tennessee
+becomes
+“the first state” to bar the unauthorized use of generative AI to create an individual’s photograph, voice, or likeness. Significantly, the statute safeguards not just celebrities and singers, but others with readily identifiable voices.
+An analysis
+by
+Holland & Knight
+notes that it protects podcasters and voice actors, at all levels of fame, from the unfair exploitation of their voices, for example, by former employers after they have left the company. Individuals have a new tool to protect their personal brands and ensure the continuing value of their voice work.
+Furthermore, the ELVIS Act balances property interests with
+First Amendment
+free-speech rights and cultural concerns. It
+safeguards
+using a name, voice, or likeness “in connection with any news, public affairs, or sports broadcast or account” or “for purposes of comment, criticism, scholarship, satire, or parody.” Saturday Night Live and impressionists like
+Rich Little
+thus are sheltered when poking fun at celebrities.
+Much broader
+federal legislation
+was introduced in January. It received
+criticism
+for its scope and has
+not advanced
+beyond the House Judiciary Committee.
+There’s pre-AI precedent for extending voice rights beyond the unauthorized use of a person’s actual voice to inauthentic ones that sound eerily similar. That ground was broken in 1988 by the
+US Court of Appeals for the Ninth Circuit
+in
+Midler v. Ford Motor Co
+. Singer
+Bette Midler
+had rejected an advertising agency’s request to use her recording of “
+Do You Want to Dance
+” in a Ford commercial. The agency then got a former backup singer for Midler to sing it and used that Midler-esque version.
+Although a
+California statute
+safeguards publicity rights in one’s actual voice, it doesn’t cover soundalikes. The Ninth Circuit, however,
+held
+that California’s common law recognizes such protection “when a distinctive voice of a professional singer is widely known and is deliberately imitated in order to sell a product.” It reasoned that
+A voice is as distinctive and personal as a face. The human voice is one of the most palpable ways identity is manifested. We are all aware that a friend is at once known by a few words on the phone. . . . The singer manifests herself in the song. To impersonate her voice is to pirate her identity.
+The Ninth Circuit later
+reaffirmed
+that right, allowing a claim by
+Tom Waits
+to proceed “following the broadcast of a radio commercial for SalsaRio Doritos which featured a vocal performance imitating Waits’ raspy singing voice.”
+Ultimately––whether it’s done by a backup singer or generative AI––voice imitation can be an expensive form of flattery.

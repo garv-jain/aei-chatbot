@@ -1,0 +1,63 @@
+PAGE_TITLE: 
+	First Amendment Fundamentals for Lawmakers as Courts Block Efforts to Protect Minors on Social Media | American Enterprise Institute - AEI
+
+Lawmakers considering bills to safeguard minors from ostensible harms linked to social media platforms should carefully review two recent federal court opinions declaring unconstitutional state laws imposing parental-consent, age-verification mandates. US District Judge Algenon Marbley’s April decision from Ohio in
+NetChoice v. Yost
+and US District Judge Timothy Brooks’ March ruling from Arkansas in
+NetChoice v. Griffin
+illustrate key First Amendment principles and policy concerns that almost invariably render such statutes unlawful.
+Rather than pursuing similar measures, lawmakers should embrace educational campaigns to promote the numerous parental tools and safety controls that already exist, many of which my colleague Shane Tews recently
+described
+. When these means are coupled with school-based digital literacy programs and what Tews calls “meaningful parental engagement in children’s digital lives,” minors can flourish online, enjoying multiple benefits of internet platforms while mitigating potential harms. For example, Judge Brooks
+noted
+that:
+iPhones and iPads empower parents to limit the amount of time their children can spend on the device, choose which applications . . . their children can use, set age-related content restrictions for those applications, filter online content, and control privacy settings.
+Via Adobe Stock.
+Before addressing essential First Amendment tenets and policy concerns described in
+Yost
+and
+Griffin
+, here’s a summary of the permanently enjoined statutes.
+The Statutes
+. The
+Ohio statute
+requires operators of social media platforms that either target unemancipated minors under age 16 or are reasonably anticipated to be accessed by them to obtain verifiable consent from a “parent or legal guardian” before registering or signing up. The law specifies five ways verifiable parental consent can be obtained, including “checking a form of government-issued identification against databases of such information.” A parent or guardian must also affirmatively consent to a platform’s “terms of service or other contract.”
+The
+Arkansas law
+provides that “[a] social media company shall not permit an Arkansas user who is a minor to be an account holder on the social media company’s social media platform unless the minor has the express consent of a parent or legal guardian.” It specifies three “reasonable age verification” methods by which a platform “shall verify the age of an account holder,” such as “a digital copy of a driver’s license” or “[g]overnment-issued identification.”
+Minors’ Rights
+. Lawmakers should understand that not only are parents’ rights to raise their children at stake, but also minors’ own First Amendment rights to engage in and receive lawful speech. As Judge Marbley
+wrote
+, children possess “‘a significant measure of’ freedom of speech and expression under the First Amendment,” and “access to information is essential to their growth into productive members of our democratic public sphere.” He called the statutory requirement that minors must first obtain parental consent “to contribute or access” online speech “an impermissible curtailment of their First Amendment rights.”
+Judge Brooks
+deemed it
+“undisputed” that minors use social media platforms “to engage in constitutionally protected speech.” Arkansas’s law affects minors’ First Amendment rights, he added, because it “forecloses access to social media for those minors whose parents do not consent to the minor’s use of social media.”
+Adults’ Rights
+. Judge Brooks
+agreed
+with NetChoice that Arkansas’s “age-verification requirement will deter adults from speaking or receiving protected speech on social media.” This chilling effect is caused by forcing adults to give up their anonymity to access speech and by the security risks of surrendering personally identifiable information valued by criminals.
+Strict Scrutiny
+. The Ohio and Arkansas statutes failed to clear this stringent level of judicial review. Judge Marbley
+observed
+in
+Yost
+that “laws that require parental consent for children to access constitutionally protected, non-obscene content are subject to strict scrutiny.” The US Supreme Court made this explicit 14 years ago in
+Brown v. Entertainment Merchants Association
+when it applied strict scrutiny to invalidate a California statute that required parental consent for minors to purchase or rent violent video games. I’ve addressed
+Brown
+before
+; it’s essential reading for understanding strict scrutiny’s requirements, as well as other principles affecting laws aimed at protecting minors such as
+underinclusivity
+(laws that do far too little to resolve a problem) and overinclusivity (laws that go too far in restricting access to speech).
+Strict scrutiny mandates that the government prove
+both
+(1) a direct causal link––not just an association or correlation––between the speech being regulated and harm to minors for the government to demonstrate a
+compelling interest
+(an interest of the highest order) in restricting speech, and (2) that there are no alternative ways of remedying the supposed speech-caused harm(s) that would restrict less speech (a statute must be
+narrowly tailored
+). Alternative methods to safeguard minors on platforms that impose
+no
+government restrictions on speech include those
+described
+by Shane Tews and Judge Brooks noted earlier.
+In sum, promoting parental empowerment and using extant safety tools would avoid constitutional pitfalls and costly, protracted litigation.

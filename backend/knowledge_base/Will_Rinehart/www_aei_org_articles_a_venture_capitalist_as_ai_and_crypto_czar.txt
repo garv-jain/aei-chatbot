@@ -1,0 +1,81 @@
+PAGE_TITLE: 
+	A Venture Capitalist as AI and Crypto Czar | American Enterprise Institute - AEI
+
+When I first conceived this newsletter, one of the audiences I had in mind was what I called the “
+All-In
+crowd,” the people who listen to and engage with the
+All-In Podcast
+. For those who don’t listen to
+All-In
+, it’s a weekly conversation among four veteran venture capitalists: Chamath Palihapitiya, Jason Calacanis, David Sacks, and David Friedberg. They cover tech, deals, funding, science, politics, and a bunch of other topics.
+The four represent the mainstream of the Silicon Valley perspective, and it happens that I agree with them about 95 percent of the time. Generally speaking, they are positive about the prospects for economic growth in
+the United States, have concerns about China, appreciate the constraints of economics, and understand the demand for energy generation.
+So last Thursday, I was happy to see that
+Trump appointed Sacks
+to be the White House’s “A.I. and Crypto Czar.” I recently wrote
+about my optimism
+for the new administration, hopeful that the “best elements of the tech right are adopted, like an embrace of innovation, a desire for streamlined regulations that foster entrepreneurship, and a recognition of the transformative potential of emerging technologies.” Sacks represents some of the best elements of the new tech right. Putting him as lead is a strong signal that the next Trump administration is headed in the right direction in tech and innovation policy.
+Still, the Trump administration is staffing up with outside advisers who aren’t leaving their jobs. That’s a problem. Like Elon Musk, Sacks won’t be leaving his day job as the partner of Craft Ventures. So he will need to steer clear of conflicts of interest, which means that his power will be limited, and that’s a good thing. No one should use the executive for their own gain
+.
+But that also means that Trump might not have dedicated leaders to get real reform over the finish line.
+What’s wrong now in crypto policy.
+The crypto industry has never liked the regulatory approach of Securities and Exchange (SEC) Chair Gary Gensler, who has a long career working on financial regulation. After serving as Bill Clinton’s assistant Treasury secretary, he went to Capitol Hill and helped to draft the
+Sarbanes-Oxley Act
+, which imposed sweeping and complex regulations on both private and public corporations. Eventually, Gensler was nominated by Barack Obama to chair the Commodity Futures Trading Commission (CFTC). So it was no surprise that President Joe Biden named Gensler to chair the SEC.
+Gensler’s background helps paint a picture about his approach to regulation. He’s a regulatory expansionist and wants to fit crypto into an old model, which he was clear about in a
+speech given before
+the 2023 Securities Enforcement Forum:
+With wide-ranging noncompliance, frankly, it’s not surprising that we’ve seen many problems in these markets. We’ve seen this story before. It’s reminiscent of what we had in the 1920s before the federal securities laws were put in place. This is a field rife with fraud, scams, bankruptcies, and money laundering. While many entities in this space claim they operate beyond the reach of regulations issued before Satoshi Nakamoto’s famous white paper, they also are quick to seek the protections of the law, in bankruptcy court and litigating their private disputes.
+But Gensler is wrong to equate today’s cryptocurrency markets with financial markets of the 1920s. Crypto just isn’t systemically important in the way that 1920s stocks and banks were. Besides, what you want in the absence of financial regulations is quick bankruptcy proceedings and litigation of private disputes. Solving disputes quickly can be an alternative to financial regulation.
+Even more important, Gensler has never been supportive of the idea that crypto is mostly a commodity and not a security. Although it might seem like an arcane distinction, it’s a matter of regulatory jurisdiction: The SEC regulates securities and the CFTC regulates commodities. Gensler took years to reaffirm that Bitcoin was a commodity, not a security, and has tried to ensure that the SEC retains power over cryptocurrencies.
+I’m hopeful about Sacks’ role in the new White House, because he understands that this overlapping regulatory regime creates problems. Sacks was
+clear about this when he said
+,
+What the crypto industry has been asking for more than anything else is a clear legal framework to operate under. If Trump wins, the industry will get this, and more innovation will happen in the U.S. If [Kamala] Harris wins, [Sen. Elizabeth] Warren & Gensler will keep driving the train, and innovation will be driven offshore. This should be an easy choice for anyone in the industry.
+Like Sacks,
+one can be critical
+of Sam Bankman-Fried’s
+FTX fraud
+while also supporting the crypto market. And it is clear that Trump is opening the political space for better regulatory clarity because
+he also nominated
+Paul Atkins to lead the SEC, in a move that was
+widely celebrated
+.
+While Trump’s appointments of Sacks and Atkins signal a welcome shift toward regulatory clarity, they still operate within the existing regulatory framework. A more radical approach, proposed by economist Eli Dourado, would test whether we need this framework at all.
+His suggestion is wonky, but compelling
+:
+A suggested policy experiment: Congress should declare that securities laws don’t apply to crypto.
+If, on one hand, securities regulation is necessary for investor protection and public confidence, then we will see investment in crypto dry up and the sector will fail.
+If, on the other, crypto flourishes as a securities regulation-free zone with only bare fraud protection, then we know that securities regulation isn’t necessary to protect investors and inspire public confidence.
+No one believes crypto is systemically important. If it fails it won’t bring down the whole financial system. So we can afford to experiment.
+What’s wrong now in AI policy.
+Just after the news broke of his appointment, Sacks
+shared a clip
+of Marc Andreessen’s comments on AI that I think offer some insight into how Sacks will approach this technology. Speaking to podcaster Joe Rogan, Andreessen warned that the Biden administration was on the road to AI censorship, saying “if [AI] gets wired into the political system … we are in for a very bad future.” Said Sacks: “We’re on a different path now.”
+The Biden administration’s “
+Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence
+” laid out nearly
+150 deliverables
+for every major agency of the executive branch. The most consequential of these provisions was the establishment of
+reporting requirements for the biggest AI models
+, using the power in the Defense Production Act (DPA). The DPA is a Korean War-era bill that gives the president the ability to influence domestic industry in the interest of national defense. Biden was using the DPA for AI policy. It was a grab for power.
+The big worry expressed by Andreessen was that Biden and Harris wanted to go further by firmly rooting this power in law. With this law in place, they would then be able to use it as a base to again extend executive power. Andreessen might have been a bit hyperbolic about the road to censorship, but I know I’m not alone in thinking that the administration was ratcheting up the pressure.
+Trump has already said he is going to repeal Biden’s executive order, which I think makes sense. But that will take time to go through the normal rulemaking processes. The big open question is what replaces it. I’ll be following this closely, so stay tuned.
+The maturation of Web 1.0 leaders.
+The politics of Silicon Valley is changing. In
+a previous edition of
+Techne
+, I wrote about the old world of tech that was prevalent in the 1990s,
+The Clinton administration’s framework reflected what was then a bipartisan understanding: Technologies and markets could offer immense potential for economic expansion and innovation, so long as they weren’t hindered by premature or excessive regulatory oversight.
+From the very beginning, the internet was populated by “the granola-eating utopians, the solar-power enthusiasts, serious ecologists and the space-station crowd, immortalists,  Biospherians, environmentalists, [and] social activists,”
+observed Howard Rheingold
+, the first executive editor of Wired magazine.
+From this crucible
+came the hacker ethics
+, an impulse that “expresses itself via a constellation of minor acts of insurrection, often undertaken by individuals, creatively disguised to deprive authorities of the opportunity to retaliate.” The internet boosters saw themselves as vanguards resisting government interference.
+Well, those early internet boosters have entered late middle age and are increasingly becoming political. These new leaders in the tech right came out of the Web 1.0 world. PayPal was sold to eBay in 2002, making Elon Musk, Peter Thiel, and Sacks all major players as tech investors. Musk became the biggest political donor this election cycle, giving
+out $277 million
+, and is going to help run the new administration’s government efficiency initiative, DOGE. Meanwhile, Thiel was an early backer of Vice President-elect J.D. Vance and has gained broader influence with Trump. Add in Sacks and it is clear that the PayPal mafia has ascended politically.
+Also betting big on Trump this year was Andreessen, the creator of the Netscape browser, which was sold for $4.3 billion to AOL in 1999. He then used that money to open Andreessen Horowitz, a successful venture capital firm. If there is a through line, it’s that the leaders of the Internet Exceptionalism era are trying to reform government.
+The ascendance of Web 1.0 pioneers to positions of political influence marks a fascinating evolution in Silicon Valley’s relationship with government. These tech veterans, who once championed a hands-off approach to regulation, are now actively engaging with the political system they previously sought to circumvent. We’re seeing a shift from the utopian visions of early internet culture to a more pragmatic approach of working within the system to shape policy. The fundamental belief in innovation remains unchanged, but their methods of protecting it have matured, moving from resistance to reform, from outsiders to insiders.
+The question now is whether these tech leaders can effectively translate their entrepreneurial success into meaningful policy changes that foster innovation while addressing legitimate regulatory concerns. I’m hopeful they can.

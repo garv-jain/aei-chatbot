@@ -1,0 +1,73 @@
+PAGE_TITLE: 
+	How the Supreme Court’s Increasing Focus on the Past May Impact Technology Regulation, Part I | American Enterprise Institute - AEI
+
+When evaluating the constitutionality of government regulations, the
+US Supreme Court’s
+conservative majority increasingly relies on what Justice Brett Kavanaugh called a “text, history, and tradition test” in the 2022
+Second Amendment
+public-carry case of
+New York State Rifle & Pistol Association v. Bruen
+. That same year, the Court determined in
+Kennedy v. Bremerton School District
+(the
+praying football coach
+case) that when analyzing First Amendment
+Establishment Clause
+questions, it should focus “on original meaning and history.”
+Additionally, when overruling
+Roe v. Wade
+in
+Dobbs v. Jackson Women’s Health Organization
+, Justice Samuel Alito reasoned for the majority that “the Constitution makes no express reference to a right to obtain an abortion.” He added that the Fourteenth Amendment’s
+Due Process Clause
+also does not implicitly protect it because “a right to abortion is not deeply rooted in the Nation’s history and traditions.”
+Via Adobe Stock
+Collectively, these opinions raise a critical question: How might this
+originalistic
+, text-and-history approach affect the constitutionality of regulations imposed on communications technologies when First Amendment speech interests are at stake? It’s a question the Court may wrestle with this fall if it hears two cases involving governmental regulation of content on large social media platforms—
+NetChoice v. Moody
+(involving Florida statutes) and
+NetChoice v. Paxton
+(centering on Texas laws). It’s also an issue that
+Professor Mary-Rose Papandrea
+and I explore in a
+new article
+published in the
+Duke Journal of Constitutional Law & Public Policy
+.
+This post (the first in a two-part series): 1) explains the text, history, and tradition test articulated in
+Bruen
+; 2) describes why there is good reason to believe it or a variant may impact free-speech cases involving communication technologies; and 3) contrasts the text, history, and tradition framework with the Court’s standard methodology for addressing free-speech disputes. The second post, using the case of
+NetChoice v. Moody
+as an analytical springboard, will describe possible problems that a text, history, and tradition analysis may pose for social media platforms in using the First Amendment to defeat government-imposed regulations on their content-moderation practices.
+So, what is the text, history, and tradition test for examining whether a regulation violates the US Constitution? As articulated by Justice Clarence Thomas in penning the six-justice majority opinion in
+Bruen
+, the test initially asks whether an amendment’s “plain text” protects an individual’s conduct. If it does, then the conduct is presumptively safeguarded. A government regulation imposed on such a presumptive right is permissible only if it “is consistent with this Nation’s historical tradition.” The fact that a regulation may serve an important or compelling interest will not justify it. Instead, the government must prove the law “is consistent with the Nation’s historical tradition” of regulating the right.
+In
+Bruen
+, which involved a New York law requiring gun owners to prove they had “proper cause” (a “special need”) to get a license for publicly carrying a gun for self-defense, this test led the majority to first ask if the plain text of the Second Amendment protected “carrying handguns publicly for self-defense.” The majority said yes. The Court then considered whether the “proper-cause requirement [was] consistent with this Nation’s historical tradition of firearm regulation.” The majority said no, thereby striking down the law for violating the Second Amendment.
+Why might this framework migrate to First Amendment speech cases involving communications technologies? First, Justice Thomas, who authored the
+Bruen
+opinion, asserted that the majority’s approach “accords with how we protect other constitutional rights,” including “the freedom of speech in the First Amendment.” Second, the
+US Court of Appeals for the Fifth Circuit
+, in its post-
+Bruen
+decision in
+NetChoice v. Paxton
+upholding Texas’s ability to dictate content on large social media platforms, grounded its analysis in “the First Amendment’s history and original understanding” and how the “First Amendment’s Speech and Press Clauses” were “originally understood.”
+Finally, how does this text-and-history approach differ from the Court’s usual review of free-speech cases? The typical method first asks if speech is at issue (including
+symbolic expression
+, like
+burning an American flag
+in political protest). If it is—and if the speech doesn’t fall into an unprotected category like
+fighting words
+,
+incitement
+, or
+obscenity
+—then the Court uses a means-end balancing approach to decide a regulation’s constitutionality. This entails (under the
+strict scrutiny
+test) asking if a regulation that targets a specific type of content: 1) serves a compelling interest (the end), and 2) is narrowly drafted to serve that interest (the means). If both are true, the regulation passes First Amendment muster. History and tradition are irrelevant in balancing the strength of the government interest underlying a regulation against its scope.
+How might moving away from means-end balancing to text and history affect the regulation of modern communication technologies? Part II will explore a possible worst-case scenario for tech freedom through the lens of
+NetChoice v. Moody
+.

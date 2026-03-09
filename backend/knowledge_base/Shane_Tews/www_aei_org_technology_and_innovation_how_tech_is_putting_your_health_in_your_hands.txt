@@ -1,0 +1,40 @@
+PAGE_TITLE: 
+	How Tech Is Putting Your Health in Your Hands | American Enterprise Institute - AEI
+
+Out of the thousands of exhibitors at the 2023
+Consumer Electronics Show
+(CES), one subset of vendors struck me as particularly interesting. They were demonstrating devices that are revolutionizing the delivery of health and wellness for consumers, taking what we might think is only possible at a hospital or a visit to a physician and putting it right in our homes. These domestic devices are designed to enable more people to engage in healthy lifestyle choices. Consumers will soon be able to transform their relationship with health and wellness to allow them to monitor their health, access health care providers, use devices to manage chronic illness, and age in place in ways we have never seen.
+via Adobe Creative Commons
+To paint a picture of what populated this fascinating feast of innovation, CES showcased multiple devices that monitor health vitals such as heart rate, blood pressure, and glucose. These devices are easier to use and read and are natively internet-enabled or connect through a mobile device. There are nonintrusive sensors for sleep quality and personal electrocardiogram devices that detect, monitor, and record heartbeat signals through technology styled similarly to a mattress topper. Devices can detect strokes and watch risk levels for hypertension and diabetes without the need for multiple wired devices. There are also mental health–related tools that allow individuals to monitor stress and depression levels through wearable tech.
+More device manufacturers and medical professionals are working with their
+software
+partners to ensure shared values for data protection and privacy as part of responsible best practices for the Internet of Things. For instance, Apple led the way with the work they did to
+enable
+their health app data to become interoperable with health records from multiple medical institutions by pointing out blind spots in the Health Insurance Portability and Accountability Act of 1996. Additionally, device creators are placing more
+thought
+into the user’s experience by incorporating behavioral psychology studies in the design to help drive better engagement and encourage behavioral change in individuals who may be less inclined to improve their well-being.
+“We’re building something new in health care, not just in the United States, but across the world,”
+noted
+Dr. Carlos Nunez, chief medical officer of
+ResMed
+, during the panel he moderated at CES, “
+The Future of Care in America: A New Hybrid Model
+.” The panelists talked about how the pandemic helped move technology into more health care applications on consumer devices. The pandemic helped break down the previous barriers put in place by clinicians, insurers, and hospitals once they saw the value proposition of moving more health care processes out of hospitals and into the home. “All are trying to understand how technology is going to change what we do, how we practice health care,” Nunez said during his panel.
+Big Tech has also invested heavily in health care, beyond merely the devices they connect to the internet. The digital health market anticipates bringing in
+an estimated $32.2 billion
+in revenue on devices and services this year, with an expectation for the market to
+hit
+$1.5 trillion in revenue by 2030. MarketWatch recently
+noted
+this trend of buyouts in health tech:
+Over the past 18 months, Microsoft Corp. (
+MSFT
+) spent nearly $20 billion to acquire Nuance; Oracle Corp. (
+ORCL
+) paid more than $37 billion to purchase Cerner, and Amazon.com (
+AMZN
+) has made a series of significant investments and deals in healthcare, including its recently closed acquisition of One Medical for $3.9 billion. And don’t forget Alphabet Inc. (
+GOOGL
+) unit Google’s purchase of Fitbit for just over $2 billion earlier in 2021.
+The expansion of digital health services is arriving at a good time, with the investment in faster 5G broadband connectivity. Along with the federal grants to state and local governments as part of government investment in broadband across America, we can expect more technology adoption to make health care more accessible and affordable. Internet connectivity enables the adoption of technology such as vitals monitoring, wearable health, and at-home medical care devices in parts of America where they haven’t yet been usable. This puts the control of citizens’ health more firmly in their hands—both in privacy and ability—while not disconnecting the resulting information from health institutions that can benefit the owners by having it.
+Digital health devices designed to help manage information flow to a virtual health care portal, for example, help us realize a more efficient and effective health ecosystem. Anything we can do to help erase traditional barriers to better, more data-rich health care services will contribute significantly to the advancement of more mainstream health and wellness solutions.

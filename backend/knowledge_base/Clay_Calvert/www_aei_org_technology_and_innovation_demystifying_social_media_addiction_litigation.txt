@@ -1,0 +1,49 @@
+PAGE_TITLE: 
+	Demystifying Social Media Addiction Litigation | American Enterprise Institute - AEI
+
+The old sales pitch hollered by baseball game vendors was “you can’t tell the players without a scorecard.” Something similar rings true today about not only knowing the litigants but also their theories in more than 1,000 lawsuits wending their way through numerous courts and blaming social media platforms for addicting and harming minors. The plaintiffs range from minors and parents to public school districts, local governments, and more than 40 states. Albeit not a scorecard, here are a few observations to clarify some rather knotty matters.
+Via WikiMedia.
+While I’ve
+written
+about the addiction cases since 2023, the lawsuits—many coordinated or consolidated en masse before specific judges, others freestanding—are in relatively early phases. Most are now moving past motions to dismiss (proceedings where judges assume a plaintiff’s non-conclusory allegations are true and generally ask whether claims are merely plausible given the alleged facts) and are in discovery (document production, depositions, expert witness reports). Synthesizing so many cases involving so many different claims and variations in state laws is challenging, but four things seem clear.
+First, the First Amendment and the federal statute known as
+Section 230
+have chipped away at but failed to completely eviscerate cases targeting the likes of ByteDance (TikTok), Google (YouTube), Meta (Facebook and Instagram), and Snapchat. An expensive litigation road, potholed with likely contentious discovery and expert witness battles, lies ahead unless settlements are quickly reached (highly doubtful).
+The second point is that
+some
+legal theories—public nuisance, negligence, consumer-protection, and failure-to-warn claims—in
+some
+courts have survived the social media companies’ motions to dismiss. These theories may have legs, at least before
+some
+judges, but discovery should reveal facts determining how well they stand up when possible summary judgment motions are filed and when
+bellwether trials
+occur (ostensibly representative test cases that could indicate how others will fare while perhaps establishing an approximate dollar amount for any global-settlement jackpot the plaintiffs seek).
+For now, however, multiple legal theories are in play, most hinging in some way on allegations that the platforms (1) are designed with features that addict minors and exploit their
+cognitive vulnerabilities
+, (2) cause them various mental health problems through compulsive use and features like image filters, and (3) force school districts, local governments, and states to bear downstream costs in dealing with minors’ platform-caused problems and conduct. Layered on top are claims that social media companies concealed knowledge and failed to warn about known risks of addiction caused by their platforms’ features.
+The third item is that the judges deciding these cases sometimes disagree on the merits of the plaintiffs’ theories, particularly ones like products liability and public nuisance claims. For example, a federal judge in November expansively
+interpreted
+—in pro-plaintiff fashion—public nuisance claims filed by public school districts from more than a dozen states. Conversely, a California state court judge in June
+rejected
+public nuisance claims filed by school districts located in four states, including two of the same states (California and Florida) in which the federal judge allowed public nuisance claims to proceed.
+The fourth point is that state-by-state differences in legal principles are having important effects on some claims, particularly in the
+multi-district litigation (MDL)
+proceeding in federal court in Oakland, California. By December 1, 2024, there were a whopping
+815 actions
+in the MDL presided over by Judge Yvonne Gonzalez Rogers. Given the sheer volume of litigants, allegations, defenses, and different state laws, Rogers has thoughtfully parsed the nuances of state-law principles in a series of motion-to-dismiss opinions stretching from
+November 2023
+through
+November 2024
+.
+Running somewhat parallel to the MDL proceeding before Rogers are more than 1,000 coordinated lawsuits filed by individuals and school districts nationwide before California Superior Court Judge Carolyn Kuhl in Los Angeles. She’s issued important rulings rejecting some of the plaintiffs’ theories—namely, products liability in
+October 2023
+and public nuisance claims in
+June 2024
+, but has allowed the individual plaintiffs’ (although the not the school districts’) common law negligence claims to move forward under California law. Just last week, Kuhl
+allowed
+negligent failure-to-warn claims to proceed. Rogers and Kuhl ultimately view some things differently, especially on
+products liability issues
+.
+Finally, an unabashedly optimistic suggestion warrants consideration: With courts establishing pre-trial schedules and case management calendars, Rogers
+offered
+a tension-easing recommendation to facilitate progress among opposing attorneys in the federal MDL. Rogers proposed that before all case management conferences, the attorneys have “informal interactions,” such as dining together, with the stipulation that they may not discuss their cases. Noting that this reportedly “helped foster better relations among counsel” and “serve[d] a positive purpose” in another MDL proceeding, Rogers said she wouldn’t mandate such extrajudicial, no-case-discussion meetings. Regardless, amid the myriad motions and arguments, it’s a folksy piece of advice meant to calm choppy waters as these complex cases sail on.

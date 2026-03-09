@@ -1,0 +1,89 @@
+PAGE_TITLE: 
+	Legislating Transparency or Unconstitutional, Government-Coerced Social Media Censorship | American Enterprise Institute - AEI
+
+Lawmakers from blue-state
+California
+to red-state
+Florida
+are adopting statutes that compel large social media companies to disclose information about their platforms’ content-moderation practices and policies, all ostensibly in the benign interest of transparency. A close examination, however, of a new lawsuit—
+X v. Bonta
+—reveals that California’s law raises serious
+First Amendment
+concerns and intrusively imposes substantial burdens on platforms. Those obligations seem coercively geared towards tilting how private businesses moderate controversial yet constitutionally protected expression in the government’s desired direction.
+The
+complaint
+made by X (formerly known as Twitter) against California Attorney General
+Rob Bonta
+, filed September 8 in federal court in Sacramento, challenges
+statutory mandates
+stemming from California
+Assembly Bill 587
+. When Gov. Gavin Newsom signed the bill September 2022, he
+proclaimed
+it would bring “much-needed transparency and accountability to the policies that shape the social media content we consume every day.” The Democrat asserted that platforms were being “weaponized to spread hate and disinformation.” Groups like the
+Anti-Defamation League
+lauded
+the law, contending it “helps fight online hate.”
+Via Reuters
+How does Assembly Bill 587 supposedly do this? By, among other things, compelling a select group of social media companies—those generating
+$100 million or more
+in annual gross revenue—to
+file reports
+every six months with Bonta that:
+(1) Describe whether (and, if so, how) their “
+terms of service
+” define a bevy of divisive yet nebulous subjects including hate speech, racism, extremism, radicalization, disinformation and misinformation;
+(2) Provide a detailed description of how their content-moderation policies address speech falling into those contentious categories, including how such content (and users who post it) is removed; and
+(3) Disclose numbers revealing how many times “
+flagged
+” and “
+actioned
+” content was viewed, shared, deprioritized, demonetized, and removed, and figures regarding appeals and reversals of actions taken against such content.
+In the process, California intrusively peers under the editorial hood of
+how content is flagged and actioned
+, demanding disclosure of whether it was done by company employees or contractors, artificial intelligence software, community moderators, civil society partners, or users.
+At least two things signal the law’s unconstitutionality. First, hate speech is generally
+protected
+by the First Amendment. As the
+US Supreme Court
+observed in a 2017
+decision
+,
+Speech that demeans on the basis of race, ethnicity, gender, religion, age, disability, or any other similar ground is hateful; but the proudest boast of our free speech jurisprudence is that we protect the freedom to express “the thought that we hate.”
+Hateful epithets are unprotected
+only
+when used within the narrow context of a category of expression the Court already has carved out from constitutional shelter, such as
+fighting words
+,
+true threats
+and
+incitement to unlawful action or violence
+.
+Similarly, the Court hasn’t created blanket exceptions from First Amendment protection for racist, extremist, or radical speech, or for messages involving disinformation and misinformation. To wit, the Court in a 2012
+opinion
+“reject[ed] the notion that false speech should be in a general category that is presumptively unprotected.” At bottom, California is compelling private businesses to report about and define varieties of speech that not only are constitutionally protected but also lack any Court-sanctioned definition.
+This leads to the second point (one I recently
+wrote about
+): The First Amendment safeguards not only the right to speak, but also the right
+not
+to be compelled by government speak on controversial political matters. While the government may force
+disclosure of
+“purely factual and uncontroversial information” from advertisers to “prevent[] deception of consumers” if the disclosure requirements are not “unduly burdensome,” that’s definitely not the situation here. X Corp. isn’t being compelled to speak as an advertiser in the context of “commercial advertising” that might otherwise confuse consumers.
+Additionally, as X’s
+complaint
+highlights, the compelled-speech topics (hate speech, racism, extremism, etc.) are “extremely controversial subject matters.” The Supreme Court
+stressed
+just a few years ago that California could not compel certain speech about abortion because abortion is “anything but an ‘uncontroversial’ topic.” Furthermore, the detailed, twice-yearly
+disclosure requirements
+(just a few of which are noted above) are unduly burdensome.
+Ultimately,
+the complaint
+cuts to the chase of what California subversively seeks—to make the companies engage in a performative, woke-ish public-shaming exercise—when it asserts that:
+By compelling social media companies to make politically-charged disclosures about content moderation, the State is impermissibly trying to generate public controversy about content moderation in a way that will pressure social media companies, such as X Corp., to restrict, limit, disfavor, or censor certain constitutionally-protected content on X that the State dislikes.
+Requiring factual disclosures about policies affecting the moderation of unprotected categories of expression such as
+obscenity
+and
+child pornography
+is one matter. But government intermeddling with a privately run
+marketplace of ideas
+that skews it in the government’s preferred direction when it comes to constitutionally safeguarded varieties of speech is a vastly different and extremely problematic mandate.

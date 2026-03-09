@@ -1,0 +1,30 @@
+PAGE_TITLE: 
+	To Understand AI Adoption, Focus on the Interdependencies | American Enterprise Institute - AEI
+
+In 1991, in a small farming town 15 miles west of Fresno, California, the last hand-operated telephone switchboard in the US
+went automatic
+. The moment completed what can now be understood as a century-long story of change.
+Invented in the 1880s, automatic switchboards were only sparingly installed into telephone networks. Instead, AT&T used long switchboards staffed by female telephone operators to make calls. That era peaked in the 1930s
+when some 180,000 operators
+were employed, waning only when the changeover to automated tech began in earnest during the 1960s and 1970s. Then it took another twenty years for the last manual boards to get pulled out.
+Automatic switchboards are an instructive case for tech adoption, especially since a parallel conversation is now happening with AI.
+On paper, the economic decision to adopt a new technology is fairly straightforward. A firm should invest in productivity-enhancing technology, such as industrial robots or computer-aided automation when the expected gains are greater than the costs of adoption. But in practice, adoption will depend on how the tech is integrated into the firm.
+Switchboards were only slowly automated because of how critical they were to the operation of the telephone business. As
+Feigenbaum and Gross
+(2023) explained,
+Interdependencies between call switching and nearly every other activity in AT&T’s business presented obstacles to change: telephone operators were the fulcrum of a complex production system which had developed around them, and automation only began after the firm and new technology were adapted to work together. Even then, automatic switching was only profitable in larger markets—hence diffusion expanded when the technology improved or service areas grew.
+In other words, the interdependencies between call switching and other production processes within the firm presented an obstacle to change. The interrogative of this statement offers a powerful means of understanding AI adoption today:
+What are the interdependencies between AI and other production processes within firms, and how might they present an obstacle to change?
+Adopting systems built on AI or automation involves real costs that must deliver real benefits.
+The costs of disruption and adoption include more than the resources that the entrepreneur has to muster to change production. It also includes the subtle opportunity cost of the decision itself. By setting up a new production line, an entrepreneur might lose revenue initially because it isn’t that much better than the old way of doing things. Or, they might miss out on an opportunity to boost current production. Moving up the learning curve to produce a better product at a cheaper cost takes time. That time comes with a cost and it is the cost of doing something else.
+In addition to the costs, there is no assurance that the system will result in higher revenues or a better service once it is implemented. Indeed, it is more likely that the automation project will fail to even be implemented in the first place.
+Depending on the survey
+, failure rates for these kinds of projects can be upwards of 80 percent. Interdependencies within the company often stop a piece of technology from finding use.
+Switchboards are an extreme case, to be sure, but the rocky road to tech adoption often takes two or three decades to shake out because the technology has to be matched with new methods of organization.
+Paul David (1990)
+is indispensable for understanding this change since it summarizes a decade of economic history on the transition from water and steam power to electrical power, the dynamo. The rise of the electric factory with their whirling dynamos, as David explained it, was “a long-delayed and far from automatic business. It did not acquire real momentum in the United States until after 1914-17” when regulation changes allowed entrepreneurs to experiment with new methods of production.
+Gross (2017)
+offers a similar assessment for the tractor. The tractor, which was invented in the 1890s, saw its initial application in the 1920s within the Wheat Belt regions of North Dakota, South Dakota, and Kansas. Then another decade later, there was a second adoption wave in the Corn Belt of Iowa, Illinois, and Nebraska from 1930 to 1940. It took a combination of technologies and firm organization to properly utilize both the tractor and the dynamo.
+What’s been learned about those technologies applies to AI. If we want to understand how AI technology is likely to progress,
+how it will affect workers
+, and how it might impact productivity, we should be focused on understanding its interdependencies. AI is getting adopted into work processes, but like any other tech adoption, it will take time to actually shake out.

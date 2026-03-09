@@ -1,0 +1,22 @@
+PAGE_TITLE: 
+	Measuring and Building Human Leadership in an AI World | American Enterprise Institute - AEI
+
+A new working paper from the National Bureau of Economic Research,
+Measuring Human Leadership Skills With AI Agents
+, presents evidence that artificial intelligence may soon play a central role in evaluating human soft skills—long considered too complex and subjective to measure objectively.
+Conducted by Ben Weidmann and David Deming et al. at the Harvard Kennedy School, the study involved 249 participants who led teams of both human and
+AI-agent
+teams through collaborative problem-solving tasks. To measure leadership, the researchers used a “hidden profile task,” where critical information was distributed unevenly among teammates and must be discovered and identified by the leader. Those who succeeded—whether leading AI agents or humans—tended to ask more questions, promote turn-taking in conversation, and use plural pronouns, like “we” and “us.”
+The findings are striking: leadership skills demonstrated with AI teammates closely mirror leadership effectiveness with human teams, with a strong correlation of 0.81 between the two tests. As opposed to coming from formal credentials, strong leadership springs from behavioral patterns that foster collaboration—a type of socio-emotional IQ called
+noncognitive skills
+.
+Since the study finds these types of skills are unrelated to race, gender and other identity categories, use of AI may afford opportunities for more people of all backgrounds to discover and develop leadership abilities. Moreover, the emerging reality that AI will increasingly take over narrow technical tasks is likely to raise the premium on social-emotional skills. A world that demands more of such skills may disproportionately benefit the socially agile relative to the technically gifted.
+The study’s insights would also be useful in improving leadership hiring, training, and evaluation. Organizations could move beyond static resumes and subjective interviews toward dynamic, performance-based assessments that reflect how people lead in real time. Training programs could be better targeted, focusing on developing the communication habits and social reasoning that matter most. There is already evidence that AI is adept at training humans in leadership skills, as demonstrated by research on
+call center workers
+and a new pilot program for training
+substance abuse counselors
+.
+Some aspects of the study, however, illustrate the gaps that persist between AI agents and humans. When handling emotions, AI failed to discern and replicate the full range of human behavior. For example, when leaders expressed positive affect (e.g., encouragement, empathy, or enthusiasm), measurable improvements were found among human team members, but not with AI agents. This signals the fact that AI agents cannot reciprocate or adapt emotionally, and lack the essence of human-ness in the way they function. AI does not think or feel in the way humans do. Whether we really want an emotionally “motivated” AI—one that would alter its behavior based on emotional inputs—is an open question. At the same time, as I recently wrote in another piece, teams of people working with AI are the
+optimal combination
+for generating the best solutions and advancing innovation.
+These limitations, however disappointing for AI agents, are good news for humans. Emotional and strategic thought deficits found in AI agents’ behavior means that people still excel in the subtle, complex tasks that make up the interpersonal domain of life and work. It’s possible that AI might one day be able to replicate these characteristics, but for now, there are no signs that it has. Thus, students, young professionals, and seasoned workers alike should capitalize on their unique “comparative advantage” with AI to ensure this powerful new technology continues to augment human talent rather than replace it.

@@ -1,0 +1,79 @@
+PAGE_TITLE: 
+	How the Supreme Court’s Decision About Same-Sex Wedding Websites May Affect Social Media Regulations, Part II | American Enterprise Institute - AEI
+
+On June 30, a six-justice conservative majority of the
+US Supreme Court
+concluded in
+303 Creative LLC v. Elenis
+that the
+First Amendment’s
+implicit
+right not to speak
+shielded website designer Lorie Smith from being compelled by Colorado’s anti-discrimination
+public accommodations statute
+to create same-sex wedding websites. Smith, who owns
+303 Creative
+, doesn’t believe in same-sex marriages, and she claimed that “the First Amendment’s Free Speech Clause protects her from being compelled to speak what she does not believe.”
+The majority agreed. Writing its opinion, Justice Neil Gorsuch reasoned that forcing Smith to create “pure speech” products (websites celebrating same-sex marriages) that express views contradicting her own “sincerely held religious conviction” violates Smith’s right against government-compelled expression. Despite that reference to religion, the decision was based solely on free-speech grounds, not on the First Amendment’s
+religion clauses
+.
+Via Reuters
+The first post in this two-part series encapsulated the
+303 Creative
+decision and briefly traced the evolution of the Court’s right-not-to-speak jurisprudence over four decisions:
+West Virginia State Board of Education v. Barnette
+,
+Wooley v. Maynard
+,
+Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston
+, and
+Miami Herald Publishing Co. v. Tornillo
+. Gorsuch favorably cited those opinions to support the Court’s ruling.
+This post explores how
+303 Creative
+may impact the Court’s decisions in two potentially forthcoming cases involving compelled-speech obligations imposed on large social media platforms––
+NetChoice v. Moody
+(centering on Florida statutes) and
+NetChoice v. Paxton
+(involving Texas laws). This post focuses on
+Moody
+for brevity’s sake, but
+303 Creative
+should prove equally profound in
+Paxton
+.
+As I wrote
+earlier
+, a Florida
+statute
+compels large social media platforms to host candidates running for public office in the Sunshine State, regardless of whether they violate––once or repeatedly––a platform’s polices regarding acceptable speech. Candidates cannot be
+deplatformed
+; Facebook and Twitter must host them and, by extension, their speech, even if it violates the platforms’ policies that shape their own speech-based communities. Another
+statute
+compels the order in which speech by or about candidates must appear in a user’s feed or search results by forbidding usage of “post-prioritization or shadow banning algorithms.” In essence, Florida compels large platforms to host candidates’ speech and it dictates where that speech, as well as others’ speech about them, must appear.
+303 Creative
+represents the triumph of the First Amendment right not to speak over laws compelling businesses to express disagreeable messages. The majority stressed “the government may not compel a person to speak its own preferred messages” (citing
+Tornillo
+and
+Wooley
+), adding that it “offends the First Amendment” to “force an individual to include other ideas with his own speech that he would prefer not to include” (citing
+Hurley
+). That is what Florida is doing: Compelling platforms to express Florida’s preferred messages––those of office-seeking candidates––in Florida’s preferred locations. This government compulsion occurs regardless of the platforms’ preference not to accommodate candidates whose prior speech has violated the platforms’ beliefs about acceptable expression. In short, Florida violates the platforms’ First Amendment right not to speak by compelling them to accommodate the speech of speakers who have flouted the platforms’ own speech beliefs.
+But how might the Court diminish
+303 Creative
+’s significance in the NetChoice cases? It might contend that
+303 Creative
+pivoted on compelling speech that contradicts an individual’s religious beliefs and conscience,
+not
+on compelling profit-seeking corporations to host speakers whose speech violates their community guidelines regarding acceptable messages. Four facets of the majority opinion, however, rebut this narrow reading.
+First, Justice Gorsuch reasoned that speakers do not “shed their First Amendment protections by employing the corporate form to disseminate their speech. This fact underlies our cases involving everything from movie producers to book publishers to newspapers.” Surely that principle today extends from corporate book publishers and newspapers to corporate social media platforms.
+Second and relatedly, Gorsuch noted that “[a]ll manner of speech—from ‘pictures, films, paintings, drawings, and engravings,’ to ‘oral utterance and the printed word’—qualify for the First Amendment’s protections; no less can hold true when it comes to speech . . . conveyed over the Internet.” The type of medium thus does not decrease the importance of the First Amendment interests at stake. In sum, neither the fact that platforms like Twitter and Facebook are corporate entities nor the reality that they convey speech on the internet diminishes
+303 Creative’s
+strength in helping them against Florida and Texas.
+Third, the fact that platforms profit from their speech businesses does not damage
+303 Creative’s
+deployment. Gorsuch explained that the First Amendment extends to “those who seek profit” from expressive activities. Fourth, the majority’s favorable use of
+Tornillo
+(noted above) indicates that if print newspapers cannot be compelled to print candidates’ views (
+Tornillo
+’s outcome), then the same holds true for online platforms in the internet era.

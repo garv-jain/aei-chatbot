@@ -1,0 +1,90 @@
+PAGE_TITLE: 
+	The Dangers of Lawmakers’ Contradiction and Confusion on Big Tech | American Enterprise Institute - AEI
+
+Sen. Richard Blumenthal’s (D-CT)
+mention
+of a “finsta,” or fake Instagram account, during a
+recent Senate
+hearing
+on children’s online safety immediately became
+fodder for discussion across social media. The clip went viral and sparked
+debate over Blumenthal’s misunderstanding and Congress’ ability to understand
+how tech companies work and how consumers use technology. One thing remains
+clear: There is a problematic gap between some lawmakers’ understanding of the
+tech sector and their relentless desire to regulate it.
+Enter Sen. Marsha Blackburn’s (R-TN) contradictory comment
+from the same hearing, further highlighting the dangers of lawmakers’
+conflicting and sometimes illogical attitudes toward tech companies — often
+based on an incomplete understanding of how society uses technologies like
+Instagram or Facebook. Citing a Facebook internal report, Blackburn
+told
+a company witness, “Facebook knew about content
+devoted to coercing women into domestic servitude. Yet they chose to do nothing
+to stop it, until Apple threatened to pull Facebook from the App Store.”
+Blackburn seemingly cheered Apple’s strict App Store policies that allowed
+Apple to police Facebook in response to harmful content on the Facebook app,
+even when the social media company was reluctant to do so itself. Apple’s
+ability to control access to its App Store ― what the aforementioned
+Facebook report
+referred to only as “Apple escalation” ―
+prevents malicious or misleading software applications from reaching 1.65
+billion active Apple devices. The threat of being removed from the App Store
+and losing access to Apple’s global customer base motivates developers to
+adhere to security and privacy guidelines that protect those customers — as
+Blackburn’s Facebook example proves.
+Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) question a witness at a Senate Commerce, Science, and Transportation Committee hearing, October 5, 2021, via Reuters
+Blackburn doesn’t seem to understand that one of her
+legislative proposals would
+ban
+the exact practice she praised Apple for employing —
+ensuring Facebook can’t track iOS users — thanks to Apple’s control over its
+App Store ecosystem. Along with Blumenthal and Sen. Amy Klobuchar (D-MN),
+Blackburn is a cosponsor of the
+Open App Markets Act
+, which would effectively block
+platforms like Apple from prohibiting user downloads of unvetted and
+potentially harmful apps from third-party app stores and web browsers through a
+process known as “
+sideloading
+.” The law clearly targets Apple and Google but
+seems to forget Facebook entirely, including that the company owns four of the
+App Store’s top ten apps: Facebook, Instagram, Messenger, and WhatsApp. If this
+law were passed, Facebook would be allowed to bundle its applications for these
+services and bypass existing security and privacy measures imposed by app-store
+operators.
+Blackburn’s cognitive dissonance reflects a dangerous trend
+of lawmakers saying one thing and doing another when it comes to digital
+platforms. This year, the Senate passed the
+United States Innovation and Competition Act
+, a $110
+billion investment in technology research. It’s disconcerting to see the Senate
+pass legislation to boost America’s technology industry with funding toward
+research and development, then come forward with a handful of proposals that
+would devastate American tech companies in the name of “competition.” The Open
+App Markets Act and the House Judiciary Committee’s
+antitrust legislative package
+specifically target Apple,
+Amazon, Facebook, and Google — companies that have made the United States the
+world leader in digital innovation.
+Data collection is the real issue driving the concerns of
+many in Congress. If Congress wants to help consumers have a more secure digital
+experience, they should focus on passing a federal privacy law. Having a clear
+set of guidelines around how companies collect, maintain, share, and dispose of
+consumer data would be the best guidance Congress could give tech companies to
+help consumers. By confusing consumer safety with competition, Congress is
+going down an inconsistent legislative path that limits American technological
+innovation but does not promote policies that could help consumers make more informed
+choices.
+Currently, American consumers are living under European regulations by default, due to our lack of comprehensive federal privacy laws. Europe’s
+General Data Protection Regulation
+has taken a commanding lead in dictating how global companies manage their data flows — or face major financial consequences. America’s lead in the global technology race is ultimately threatened by its
+own
+lack of a national privacy law that encompasses data-collection transparency and clear cybersecurity standards. How US-based companies have changed their data-collection processes to appease European regulators is a fact we must consider as Europe’s regulations
+shape
+how the rest of the world uses the internet for both commerce and communications.
+Lawmakers should focus on giving consumers much-deserved
+clarity and security around the collection of their data. Measures that enable
+better data protection would be the best regulatory guidance Congress could
+provide. Contradictory legislative proposals, however, won’t help protect
+American consumers or give American companies guidance on how to conduct and secure
+information flow — a core driver of technological innovation.

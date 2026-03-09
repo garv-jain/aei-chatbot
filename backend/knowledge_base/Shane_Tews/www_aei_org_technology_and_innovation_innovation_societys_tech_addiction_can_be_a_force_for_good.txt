@@ -1,0 +1,32 @@
+PAGE_TITLE: 
+	Society’s Tech Addiction Can Be a Force for Good | American Enterprise Institute - AEI
+
+On Monday, the House Energy and Commerce Committee sent
+letters
+to “Apple CEO Tim Cook and Alphabet CEO Larry Page to probe the companies’ representation of third-party access to consumer data, and the collection and use of audio recording data as well as location information via iPhone and Android devices.” The two companies are the latest Big Tech firms under the congressional spotlight, but while Congress has these executives’ attention, it might be useful to ask them if we can turn today’s internet-based, attention-sucking devices, apps, and social media feeds into a power for personal and social good.
+Via Twenty20
+In 2007, Stanford University offered a research and design class that became known as “the Facebook class.” It was a great success: Students created applications for Facebook that had 16 million users and generated $1 million dollars in advertising revenue after 10 weeks.
+Members of the class
+, using a model of human behavioral change created by “its instructor, BJ Fogg, became Silicon Valley legends. Graduates went on to work and design products at Uber, Facebook, and Google. Some even started companies with their classmates.”
+Fogg directs the
+Persuasive Tech Lab
+at Stanford, which aims to “create insight into how computing products — from websites to mobile phone software — can be designed to change people’s beliefs and behaviors. [Its] major projects include technology for creating health habits, mobile persuasion, and the psychology of Facebook.” But as Wired
+notes
+, Fogg and his behavior model are in the “crosshairs of our society-wide conversation about phone addiction.” Critics say that tech companies have leveraged psychological principles to capture human attention as they try to keep users “coming back.”
+The power of internet technologies and apps and their social and behavioral (and electoral) impacts have been well documented. Could society better use these technologies to do things such as improve education and create healthier citizens? Health and education apps are a growing business, but none have the reported “stickiness” that keeps users engaged in the same way as social media apps. While it focuses on the tech industry, Congress could discuss how the smart devices and apps that generate such tremendous profits for Silicon Valley can be used for more than just creating advertising revenue.
+The company Boundless Mind has received
+attention
+for using the same persuasive tools and machine learning as Big Tech firms — the rewards, points, and likes — to keep consumers clicking, but for education, health, and social welfare purposes. In a Time magazine
+piece
+, the company’s founders describe a habit-forming loop that computer engineers exploit:
+When the brain gets some sort of external cue, like the ding of a Facebook notification, that often precedes a reward, the basal ganglia receive a burst of dopamine, a powerful neurotransmitter linked to the anticipation of pleasure . . . computer engineers can draw on different kinds of positive feedback, like social approval or a sense of progress, to build on that loop.
+We’ve already gone through this habit-forming exercise with social media, but could this psychology be leveraged to encourage healthy habits, reduce health care costs, or make education programs more engaging?
+It’s worth exploring — if people are going to be glued to their screens anyway — and in the case of research funded by the Department of Health and Human Services, the answer is yes. Researchers found that SMS-based interventions had statistically net-positive effects on disease prevention and self-management of chronic conditions.
+In the study,
+“Behavioral outcomes were statistically significant for treatment of weight loss, smoking, physical activity, and medication adherence.” And these were just text messages, not specifically designed apps! Behavioral scientists know that certain human behaviors, such as scrolling, become habits. This influence could be used to deliberately encourage more healthy behaviors or teach social studies to eighth graders.
+There’s no returning to the pre-tech era, so the government should consider leveraging the science behind what Silicon Valley calls “brain hacking” to create, capture, and cultivate audiences. Persuasive technology is a huge business, so why not consider public-private partnerships similar to the government’s past initiatives with
+Ad Council campaigns
+on topics such as vehicle safety, food waste, littering, and opioid abuse? Other public sector opportunities come to mind: Why not animate Teddy Roosevelt to pop up virtually while visitors drive through National Parks, similar to how Pokémon GO creatures participate in
+community day
+efforts in city parks?
+If innovators create the right tools, the same triggers that currently reward consumers for their behavior on their smartphones could help people make better decisions and reach their goals. It’s time to ask how we can harness the abilities of today’s dynamic technologies to better human and public policy outcomes.

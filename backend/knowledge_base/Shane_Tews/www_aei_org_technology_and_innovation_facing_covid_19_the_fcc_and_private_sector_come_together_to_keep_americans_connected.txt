@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	Facing COVID-19, the FCC and Private Sector Come Together to Keep Americans Connected | American Enterprise Institute - AEI
+
+The spread of COVID-19 has seen workplaces, schools, and many other facets of life go virtual. Unsurprisingly, the internet’s importance for keeping our economy, schools, and lives moving forward has only been magnified in a time of social distancing. The Federal Communications Commission (FCC) and broadband and wireless companies have taken a number of steps to ensure Americans have reliable internet connectivity during the pandemic.
+Chairman Ajit Pai speaks at the FCC in Washington, DC, December 14, 2017 – via REUTERS
+FCC Chairman Ajit Pai has asked broadband and wireless companies to sign a
+pledge
+that calls on network providers to ensure Americans remain connected to the internet during this crisis. Over 390 companies and trade associations have signed the Keep Americans Connected pledge,
+agreeing
+“not to terminate service to any residential or small business customers because of their inability to [pay bills due to coronavirus],” to open Wi-Fi hotspots to Americans that need them, and to waive late fees incurred due to economic circumstances.
+In the last week, wireless carriers have enabled expanded roaming access, removing smartphone data caps for customers, and adding hotspot data. Companies have also expanded their internet access programs for low-income customers; these programs include
+Access
+from AT&T, Comcast’s
+Internet Essentials
+, and T-Mobile’s
+EmpowerED
+.
+AT&T
+‘s and
+Google
+’s philanthropic funds for distance learning have started giving grants and collaborating with virtual learning creator
+Khan Academy
+and other partners to improve remote learning as classrooms move online. Google and YouTube have
+launched resources
+for teachers and families to educate students, and Google has created a coronavirus search hub to provide accurate, up-to-date information about COVID-19.
+The FCC has
+granted
+special temporary authority to three mobile carriers — T-Mobile, US Cellular, and Verizon — to borrow additional wireless spectrum to support increased broadband usage. The commission is also providing
+regulatory relief
+to remote learning, telehealth, and rural health care programs by waiving gift rules in the Rural Health Care and E-rate programs, giving health care providers, schools, and libraries the ability to accept improved capabilities and equipment from broadband providers. This can increase the amount of online health services and allow medical professionals to better serve patients located in remote areas.
+Policy changes that embrace telemedicine are advantageous to everyone. During the COVID-19 pandemic, moving as much health care as possible to a remote, online basis will help hospitals and a US health care system that is operating at capacity. In the future, we will hopefully see the use of telemedicine to replace some traditional in-office or emergency room visits that are both expensive and time consuming. Remote health care is a very underutilized tool that could help control health care costs by admitting more people into the health care system. Telemedicine also leaves more resources for the patients that do need in-person critical care.
+Various government services have become more visible during this trying time. Many governments could use the spotlight on their services to update and improve regulations and ensure that time and money are spent in the best way possible as the world moves even more online than ever before.
+One consequence of the COVID-19 outbreak may be a reevaluation of the artificial barriers that previously stood in the way of benefits we could gain from moving further online. The Keeping America Connected pledge shows how the government and private sector can quickly join together to address challenges in a time of national crisis. We can employ this new energy in many other areas to transform challenges into solutions. Here’s hoping that out of this chaos comes solutions that can improve the lives of all Americans.

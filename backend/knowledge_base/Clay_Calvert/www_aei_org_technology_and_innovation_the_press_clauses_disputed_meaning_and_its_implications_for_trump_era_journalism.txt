@@ -1,0 +1,46 @@
+PAGE_TITLE: 
+	The Press Clause’s Disputed Meaning and Its Implications for Trump-Era Journalism | American Enterprise Institute - AEI
+
+A burgeoning battle among academics and attorneys involving a centuries-old communications technology––the
+printing press
+––could impact journalists’ current claims to constitutional protection against President Trump’s ceaseless attacks on news organizations.
+Indeed, the dispute might profoundly affect lawsuits such as
+Associated Press v. Budowich
+in which a wire service is fighting to restore its press-credentialed access to places such as the Oval Office, Air Force One, and much larger venues inside and outside the White House. The Trump administration stripped Associated Press (AP) journalists of their access last month, retaliating against the AP for using “Gulf of Mexico” to describe a body of water after Trump
+renamed
+it the “Gulf of America.”
+via Adobe open commons
+How might a scholarly skirmish affect the outcome of such real-world lawsuits? It could do so by influencing how judges think about and understand the meaning and purpose of––plus the scope of any special protection afforded to journalists by––the First Amendment’s Press Clause.
+The key question being debated is whether the Press Clause, which provides that “Congress shall make no law . . . abridging the freedom . . . of the press,” affords additional constitutional rights to members of the institutional press like journalism organizations above and beyond those rights granted to all speakers under the First Amendment’s Speech Clause (“Congress shall make no law . . . abridging the freedom of speech”). If the Press Clause is understood merely as a technology-specific provision––one safeguarding
+everyone’s
+right to use a particular type of mass communication technology and its modern analogs––then journalists can’t rely on it for special protection when performing press functions such as gathering newsworthy information for the public consumption or exposing government abuses of power.
+Of particular relevance for the AP, it couldn’t successfully assert that the Press Clause safeguards journalistic access to space-limited venues like the Oval Office where press-pool reporters function as proxies for members of the public who cannot physically attend events there. Instead, the AP would be forced to rely on general principles of free speech, such as the argument that White House press pools constitute limited public forums from which entities like the AP cannot be excluded because of their viewpoint or position about matters such as what to call the Gulf of Mexico.
+The battle over the Press Clause’s meaning involves important methods of constitutional interpretation such as textualism, public meaning originalism, traditionalism, and adherence to precedent. To wit, US District Judge Trevor McFadden issued a
+minute order
+on March 19 in
+Associated Press v. Budowich
+stating that––in advance of a March 27 hearing––he “particularly invites and welcomes
+originalist research
+[via friend-of-the-court briefs] on the First and Fifth Amendment issues in this case.” (emphasis added).
+On one side of the Press Clause debate is
+Eugene Volokh
+, a senior fellow at the Hoover Institution and a distinguished professor of law emeritus at UCLA. In a March
+article
+published in the
+Journal of Free Speech Law
+, Volokh criticized the position taken by the Floyd Abrams Institute for Freedom of Expression about the Press Clause’s purpose in a lengthy October 2024
+report
+.
+Volokh wrote that “one of [the Abrams report’s] core premises—that the Free Press Clause should be read as conferring extra rights on the institutional press, beyond those possessed by others who speak to the public—strikes me as mistaken.” Volokh asserted the Press Clause protects the “right of all people to use the means of mass communications” and that “the sources cited in the [Abrams report’s] originalist, traditionalist, precedential, and structural arguments do not support special First Amendment treatment for the institutional media.” This builds on Volokh’s thesis in earlier works, including a 2012
+article
+contending:
+that people during the Framing era likely understood the text [of the Press Clause] as fitting the press-as-technology model—as securing the right of every person to use communications technology, and not just securing a right belonging exclusively to members of the publishing industry. The text was likely not understood as treating the press-as-industry differently from other people who wanted to rent or borrow the press-as-technology on an occasional basis.
+Others, including
+Matthew Schafer
+, an adjunct professor at Fordham University School of Law and media attorney, see things differently. Schafer
+asserts
+that his evidence suggests “the central purpose of liberty of the press at the Founding was encouraging the propagation and protection of newspapers in service of the public good.” The Abrams report
+contends
+that:
+available historical evidence supports a structural reading of the Press Clause, one in which the First Amendment ensures that functions indispensable to self-government—checking the government, gathering and disseminating newsworthy information, and contributing to public discourse—are promoted and protected.
+In sum, the clash over the Press Clause’s meaning represents an instance where a scholarly dispute carries crucial concrete consequences.

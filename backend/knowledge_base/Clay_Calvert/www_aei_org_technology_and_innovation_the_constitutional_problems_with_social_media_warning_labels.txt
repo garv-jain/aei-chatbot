@@ -1,0 +1,60 @@
+PAGE_TITLE: 
+	The Constitutional Problems with Social Media Warning Labels | American Enterprise Institute - AEI
+
+Last week, United States Surgeon General
+Vivek Murthy
+called for
+a “warning label on social media platforms, stating that social media is associated with significant mental health harms for adolescents.” He contends it “would regularly remind parents and adolescents that social media has not been proved safe.”
+While Murthy’s desire to help minors and parents undoubtedly is sincere, carefully parsing his words reveals two problems. First, the proposed warning is based on an alleged correlation—an association—between social media platforms and mental health harms, not proof of a direct causal link. According to the
+World Health Organization
+, many things are associated with negative mental health among adolescents,
+including
+“exposure to adversity, pressure to conform with peers, and exploration of identity,” as well as “violence (especially sexual violence and bullying), harsh parenting and severe and socioeconomic problems.” Just how much social media platforms may contribute to mental health problems relative to these other variables is unclear.
+Via Twenty20
+The
+American Psychological Association
+(APA) issued a
+Health Advisory on Social Media Use in Adolescence
+in 2023. It asserts that “using social media is not inherently beneficial or harmful to young people” and that “the effects of social media likely depend on what teens can do and see online, teens’ pre-existing strengths or vulnerabilities, and the contexts in which they grow up.” The APA cites multiple beneficial uses of social media platforms for minors. For example, “access to peers that allows LGBTQIA+ and questioning adolescents to provide support to and share accurate health information with one another is beneficial to psychological development, and can protect youth from negative psychological outcomes when experiencing stress.”
+All of this is to say that a more accurate government-imposed label would note that many things other than social media platforms may affect adolescents’ mental health and that platforms, in fact, carry mental health benefits. More
+provocatively put
+by the
+Electronic Frontier Foundation
+, Murthy’s proposal constitutes
+shameful fear-mongering that lacks scientific evidence and turns the nation’s top physician into a censor. This claim is particularly alarming given the far more complex and nuanced picture that studies have drawn about how social media and young people’s mental health interact.
+The second point relates to Murthy’s statement “that social media has not been proved safe.” As the
+Washington Post’s
+Cristiano Lima-Strong
+recently
+observed
+, this shifts the burden from the government having to prove that social media platforms cause harm to private businesses having “to prove their apps are safe enough for kids to use.” Such a shifting of the burden is particularly problematic because social media platforms convey speech that is fully protected by the
+First Amendment
+. The onus thus should fall squarely on the government to prove that a speech-centric service that allows minors to communicate with each other and to receive lawful expression is demonstrably harmful. For comparison’s sake, government-mandated
+warning labels for cigarettes
+don’t affect a First Amendment sheltered service.
+This leads to the larger question of whether slapping on a government-required warning label proclaiming (in
+Murthy’s words
+) that “social media is associated with significant mental health harms for adolescents” would pass constitutional muster. The starting point here is that the First Amendment protects not only the right to speak, but also the right not to speak—the
+right not to be compelled
+by the government to express disagreeable or personally offensive messages. As Justice Neil Gorsuch wrote for the Court in
+a 2023 opinion
+, “[g]enerally . . . the government may not compel a person to speak its own preferred messages.” This right protects not only individuals but also entities, ranging from
+newspapers
+to
+anti-abortion crisis pregnancy centers
+. Social media platforms certainly would object to conveying a suspect message that portrays them as the bogeyman for complex, real-world problems.
+Compelled-speech obligations, however, sometimes are constitutional, especially in commercial settings involving disclosure requirements. For example, the
+US Court of Appeals for the Fifth Circuit
+this March concluded in
+R.J. Reynolds Tobacco Company v. Food & Drug Administration
+that the federal government’s revised
+rules
+regarding warning labels for cigarette packaging and advertisements did not violate the First Amendment. The Fifth Circuit applied a very deferential, government-friendly test created by the
+US Supreme Court
+in
+Zauderer v. Office of Disciplinary Counsel
+. Under the
+Zauderer
+test, laws compelling disclosure of “purely factual and uncontroversial information” in commercial speech (i.e., advertising) settings may be constitutional if they aren’t “unjustified or unduly burdensome” and if they “are reasonably related to the State’s interest in preventing deception of consumers.” The threshold problem for Murthy is that his warning is
+not
+purely factual and uncontroversial. Instead, it relates to a topic—the alleged deleterious effects of social media platforms—that is hotly contested today and for which there is not yet a purely factual answer. In sum, while Murthy’s goals are noble, his proposed method of effectuating them is fatally flawed.

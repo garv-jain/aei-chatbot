@@ -1,0 +1,69 @@
+PAGE_TITLE: 
+	Free Speech Coalition v. Paxton: Doctrinal Drift Erodes Online Speech Protection and Court Credibility | American Enterprise Institute - AEI
+
+Supreme Court opinions typically are governed by well-established doctrines for determining whether a statute passes First Amendment muster. Notably,
+content-based laws
+(ones targeting particular subjects or ideas but not others) must surmount the demanding
+strict scrutiny
+test, while content-neutral laws (ones applying evenhandedly to all subjects) face the relaxed
+intermediate scrutiny
+standard.
+Sometimes, however, the Court invents workarounds to dodge the application of those rules because their use would likely produce a result affecting a statute’s constitutionality that the justices may not favor. While such end-runs might render an immediate outcome the Court deems desirable, they also can foster doctrinal drift and breed unpredictability, gradually eroding constitutional protection for speech and confidence in the judiciary.
+Via Adobe Stock.
+Last Friday’s six-justice majority opinion in
+Free Speech Coalition v. Paxton
+reflects such doctrinal evasion and, unless lower courts limit the decision to its facts, could chip away at free-speech rights. Justice Clarence Thomas’s opinion created a new way––an exception to the rule––to avoid applying
+strict scrutiny
+to a content-based statute. In its place, the majority substituted the intermediate scrutiny standard, thereby letting it easily declare a statute constitutional. Conversely, the
+dissent
+deemed strict scrutiny appropriate; it would have sent the case back to the lower courts to apply that test.
+This seems like minutiae, but it’s important. As I’ve
+explained
+elsewhere, “scrutiny selection . . . is crucial: while statutes rarely surmount strict scrutiny, they are much more likely to survive intermediate review.” Remarkably, Thomas’s opinion sidestepped the clear, concise methodology he
+articulated
+for the Court just 10 years ago and that inevitably would have led to applying strict scrutiny in
+Free Speech Coalition
+. Here are key details.
+The majority
+concluded
+that a Texas online age-verification
+statute
+doesn’t violate the First Amendment rights of adults to access lawful, sexually explicit content––expression that doesn’t fall into the unprotected speech categories of
+child pornography
+and
+obscenity
+. The twist is that Texas’s statute targets a
+third
+variety of sexual speech: material the state
+deems
+“harmful to minors” and that the Supreme Court has
+concluded
+minors don’t have a First Amendment right to view.
+Importantly, sexual harmful-to-minors speech does
+not
+rise to the level of unprotected obscenity when viewed by adults––they possess a constitutional right to access it––yet it’s considered obscene and unlawful for minors to see. As Thomas
+wrote
+, it’s “obscene to children” but
+not
+“obscene to the public at large.”
+Texas’s age-verification statute is intended to block minors from accessing at adult websites content that’s obscene for them. In doing so, however, it burdens adults’ constitutional right to view it, forcing them to surrender anonymity and disclose personally identifiable information to view socially stigmatized expression. As Justice Elena Kagan
+explained
+for the dissent, “For the would-be consumer of sexually explicit materials, that requirement is a deterrent: It imposes what our First Amendment decisions often call a ‘chilling effect.’”
+I
+wrote
+earlier that “a central issue” would be “whether the law must surmount the rigorous
+strict scrutiny
+standard of judicial review or a less demanding test that would allow Texas to impose greater burdens on adults’ rights while protecting minors.” Texas’s statute clearly is content based: It targets only a specific type of subject matter––sexual speech––and thus typically would face strict scrutiny.
+In justifying the majority’s decision to dodge strict scrutiny, however, Justice Thomas
+called
+that test “unforgiving” and “ill suited for such nuanced work. The only principled way to give due consideration to both the First Amendment and States’ legitimate interests in protecting minors is to employ a less exacting standard.” Enter intermediate scrutiny, saving the statute.
+One wonders whether the majority abandoned a “principled way” for selecting scrutiny––determining if a law is content based––to score a popular win against pornography. Its new,
+workaround rule
+is this: “[W]hen the First Amendment partially protects speech” (here, content that’s protected for adults but not minors) and the statutory burden imposed on adults is only “incidental” to blocking minors’ access, then intermediate scrutiny applies to determine if the means of banning minors’ access are “ordinary and appropriate.” The majority concluded Texas’s online age-verification requirement passed that test. It’s a far less stringent test than strict scrutiny, under which Texas would have needed to prove its law was
+necessary
+––that there were
+no alternative ways
+to block minors online from accessing obscene-to-minors content
+other than
+imposing an age-verification requirement that chills adults’ First Amendment rights to view it. It’s a high but not impossible burden Texas now doesn’t need to satisfy.
+Inventing a workaround from strict scrutiny handed Texas a popular win in protecting minors from online pornography. One now must question how far lower courts will stretch the decision and what exemption from strict scrutiny the Court will carve out next that makes it easier to restrict controversial expression.

@@ -1,0 +1,33 @@
+PAGE_TITLE: 
+	The Sharing Economy: Benefits of Access over Ownership | American Enterprise Institute - AEI
+
+For decades, the list of things consumers could rent primarily included like apartments, hotel rooms, cars, and recreational equipment. The internet disrupted this status quo by giving us the ability to have access to almost any tool, item, or service without needing to own it. Internet-enabled sharing and renting are efficient and economical because the internet helps to reduce the friction of financial transactions as it matches consumers who want to borrow (as opposed to own) assets with owners who are happy to share as part of a collaborative consumption or sharing economy.
+The benefits of internet-enabled sharing
+Examples of collaborative consumption and the sharing economy are increasingly part of modern life, with Uber, Lyft, Zipcar, and bike sharing being just a few examples of services that allow consumers to use a product as a service on an on-demand basis. By shifting responsibility for managing and maintaining assets to the individuals or companies providing that service, and with the help of internet access, cashless payments, and applications that authenticate transactions, this setup creates economic value by allowing the rent and return cycle to be frictionless for the consumer. Furthermore, Netflix’s and Amazon’s services have taught us that internet access enables us to enjoy entertainment and creative works without the need to own or physically store anything. The main advantage of these markets that technology has helped create is that they allow consumers the ability to enjoy access to more products and services while consuming fewer physical resources, as a part of a circular economy of “have-want-need,”but not “need to own.”
+Choosing to use services as an alternative to owning physical assets also allows physical goods to be used more efficiently. As the Internet of Things technologies become commonplace, they will streamline our consumption of physical goods by measuring usage and performance, helping to align the interests of both the owner and consumer (or renter) of goods and services. Companies may be able to do the same amount of business with fewer assets on their balance sheets, and consumers will have less clutter in their basements and garages. For example, individuals who shift to using products as services may realize that they can benefit from clearing out household equipment that’s used seasonally and spends most of its lifetime in storage.
+A sharing economy revolution
+The opportunities of collaborative consumption were understood by eBay in 1995, and a generation of successors followed. We now have apps such as
+Close5
+and
+Facebook Marketplace
+that allow individuals to take advantage of the “have-need-want”cycle for goods through local bartering.
+Freecycle
+, a localized donation site that uses the internet to connect owners of unneeded items to those that want them is another way to create a “waste to want”cycle.
+A sharing economy paradigm shift is also happening in the corporate world. Companies are discovering the benefits of shifting capital away from empty desks and moving to shared office environments. Cars and the parking lots they occupy are now being noted for their inefficiency, including recently at
+Tesla
+‘s headquarters. As consumers and businesses start recognizing that time is our most valued asset, we may also migrate away from the habit of sitting in traffic for hours and away from the economic cost of owning a car that sits idle
+95 percent of the time
+on valuable real estate. Additional outcomes of the movement toward a collaborative consumption economy include more efficient engineering, reduced costs, and reduced environmental impact. As noted in Accenture’s “
+Waste to Wealth
+“report, incentives will evolve to create longer-lasting products as part of a modular maintenance system. Rather than throw out a whole item when it stops working, there will be incentives for manufacturers to design modular replacement parts for more efficient maintenance of goods and less waste. Both individuals and companies are also noticing improved returns on their technology investments as cloud computing, software as a service, and virtual networking mean that we are less beholden to constantly upgrading our physical devices to keep up with the speed of innovation.
+Regulatory speed bumps for the economy of the future
+As the sharing economy promises to continue revolutionizing our lives, regulatory uncertainty from old paradigms can cause a hangover effect that concerns those who have embraced the economic model of collaborative consumption. Laws that solved yesterday’s problems need not create concerns for the innovators creating today’s economic opportunities. Peer-to-peer rentals and services are threatened in many state and local jurisdictions by local officials who do not recognize the need to modernize regulation to fit today’s circular economy.
+Hopefully, the tide is turning. The National League of Cities notes in its “
+Shifting perceptions of collaborative consumption
+“study that a majority of cities surveyed (56 percent) in 2015 affirmed that developing new policies to address the sharing economy is important. That same year, the
+Federal Trade Commission
+(FTC) opened a public dialog on the benefits and concerns of consumers on the sharing economy, acknowledging the importance of questioning the existence of current regulation to new suppliers of goods and services. If a regulation is worth enforcing, It’s worth reviewing costs and the benefits to make sure they are accurately assessed to reflect the changes brought about by the sharing economy. In November 2016, the FTC issued a
+report
+exploring the evolution of app-based services and the internet that “help build trust between buyers and sellers . . . [and] create markets and assets for potential buyers.”Notably, the report highlights the possibility that new technology and trust mechanisms may reduce the need for regulation.
+As the ritual of spring cleaning and the upcoming celebration of Earth Day come upon us, think about how current technology may be part of your answer for cleaning up and simplifying your life. Thanks to the internet, the power washer can still be available, but it may not have to sit in your garage for 360 days of the year.
+This post was originally published on TechPolicyDaily.

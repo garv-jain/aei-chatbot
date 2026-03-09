@@ -1,0 +1,28 @@
+PAGE_TITLE: 
+	From Engineers to Fast Food, How AI Is Rocking the Future of Jobs | American Enterprise Institute - AEI
+
+The future is here, and it requires robust AI literacy and support for workers and families.
+Artificial intelligence development and deployment is accelerating, and so are the ironies. A recent report by Great Learning found that a
+growing number
+of Indian engineers — a group deeply involved in creating and deploying AI — are pessimistic about how it will affect their careers. Far from irrational pessimism, this is an early indicator of what my recent research calls the “de-skilling” of the knowledge economy — AI’s slow but accelerating erosion of middle-skill technical and cognitive work.
+The concern Indian engineers express is increasingly visible across global labor markets. U.S. labor unions are calling for AI legal protections.
+Fast food chains
+are testing AI-driven voice ordering and robotic kitchen equipment that could displace thousands of teenage and other entry-level workers. The technologies that seem novel today are rapidly becoming commonplace, creating broad unease about the future of work.
+While production workers are not exempt from AI impacts, the most exposed jobs are held by millions working in middle-skill, middle-income “knowledge” economy jobs. Many of these jobs are made up of the types of tasks that are especially well suited to AI automation because, like the factory jobs of the past, they are repetitive, “codable” and subject to technological substitution.
+The compression of middle-skill employment is already visible in sectors like
+software development
+. Routine front-end coding tasks are increasingly being handled by generative AI. More experienced coders — those who can manage complex system integration and lead cross-functional teams — are still in demand. But the base of the coding professional pyramid is narrowing. This is classic skills-biased technological change: those with the right combination of technical and noncognitive skills benefit greatly, others must reskill, and many are squeezed out of their current jobs altogether.
+What’s striking in the new reports is how widespread the effects are becoming. In fast food, AI is reducing the need for human cashiers and kitchen staff — roles traditionally filled by young people seeking their first work experience. These aren’t knowledge economy jobs per se, but they serve as training grounds for “master skills” — like teamwork, time management and communication — that future AI-enhanced jobs increasingly demand.
+As AI systems become capable of handling not just repetitive tasks but also judgment-heavy work like customer service, legal document review and financial risk analysis, even highly credentialed professionals are exposed. Automating brain work is likely to have effects similar to automating “muscle” work. Productivity growth means we will still need workers, but those workers will need a different blend of technological and human-facing capabilities.
+The extreme uncertainty we face means starting now in designing an automation adjustment assistance system with the scale and flexibility required for potentially sweeping labor market changes. As I will outline in a forthcoming report, such a system would have four core elements: better jobs data, worker-controlled transition support, broad AI literacy programs and, as a hedge for the future, greater investment in child, family and community stability.
+Our existing “rearview mirror” labor market information systems need recalibration toward understanding the impact of technological change. Without locally and regionally focused “
+headlight
+” data, it’s difficult, if not impossible, to effectively target re-skilling and education investments. When it comes to AI impacts, harnessing the power of predictive analytics is the foundation for finding and supporting the workers most exposed to automation.
+A second key need is to develop more flexible and worker-driven employment transition systems. Tools like Individual Training Accounts (ITAs) can empower workers to choose their own upskilling pathways, while a reimagined version of Trade Adjustment Assistance — tailored for the effects of automation — could offer broader, more effective transition support that would cushion change for those in need of long-term reskilling.
+AI literacy is also critical in the same way reading and math are. This means
+integrating
+exposure to AI tools and concepts into K-12 education, higher ed, corporate retraining programs and workforce development.
+Crucially, we need to invest in people to build the
+human attributes
+required for learning and work in an AI-driven economy. The challenge is that these skills — sometimes referred to as noncognitive or soft skills — are often shaped very early in life. That means increasing investment in family stability, early childhood development and other initiatives that promote healthy communities.
+We’ve seen this movie before in the automation revolution of the past 40 years. Workers need to know that, as a society, we have their backs if AI displaces them. If we fail to prepare, we are inviting even more of the economic and social turmoil that we’ve experienced in the past decade. And, this time, we will have only ourselves to blame.

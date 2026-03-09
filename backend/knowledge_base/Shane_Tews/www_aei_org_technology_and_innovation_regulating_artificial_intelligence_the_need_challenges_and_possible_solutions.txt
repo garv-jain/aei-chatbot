@@ -1,0 +1,46 @@
+PAGE_TITLE: 
+	Regulating Artificial Intelligence: The Need, Challenges, and Possible Solutions | American Enterprise Institute - AEI
+
+Artificial intelligence (AI) is increasingly becoming a part of our daily lives. From basic voice assistants like Siri and Alexa to the growing market for autonomous vehicles and advanced medical diagnostics. We have been experiencing the growth of AI and its transformation of various industries at an unprecedented pace. However, as the technology continues to advance rapidly, so do the concerns about its ethical implications and potential risks. This has led to
+calls
+for regulating AI to ensure that it is developed and used responsibly.
+As
+governments
+around the world consider the need for regulating artificial intelligence we should have an eye towards global standards that balance innovation and regulation.
+Via Adobe Stock
+AI is a powerful tool that can bring numerous benefits to society. For instance, it can help us tackle complex, data-rich problems such as climate change or disease outbreaks. It can also enhance efficiency and productivity in various sectors such as manufacturing, finance, and transportation, as well as simplify
+everyday
+tasks. However, the development of AI also poses several risks and ethical concerns as
+noted
+in a recent Senate hearing by OpenAI’s CEO, Sam Altman.
+To better strike that balance of innovation and regulation, it’s worth reviewing the friction points central to the AI debate.
+Bias and Discrimination
+AI algorithms are developed based on datasets that may contain biases or reflect historical discrimination due to intentional or unintentional omissions or additions. As a result, they can perpetuate or even amplify existing inequalities in society. For example, facial recognition systems are currently less accurate in identifying women or people of color than white men.
+Automation and Job Transposition
+AI systems are
+projected
+to drive a seven percent, or almost $7 trillion, increase in annual global GDP in the next 10 years. For this labor productivity growth to be captured, we need to prepare for the technology adoption by educating and re-skilling our workforce who will have the opportunity for job enhancement in various industries such as manufacturing, retail, and customer service. If we miss the training and education cycle, this trend could lead to job displacement on a massive scale.
+Accountability and Liability
+AI systems can make decisions that have significant consequences for individuals or society as a whole. However, it is often unclear who should be held accountable or liable in case of harm or damage caused by these systems. We need to design AI systems that can make accurate predictions, but we also need to ensure that these systems do not make judgment calls on behalf of humans.
+Given these risks and concerns, it is crucial to develop standardized agreements that ensure that AI is balanced in its development. This may take the form of an industry-specific, responsible-use agreement or consensus best practices to avoid unintended harm.
+However, regulating AI poses several challenges itself that would have to be overcome to change the cost-benefit analysis.
+Lack of Consensus on Terminology and Definitions
+There is no widely agreed-upon definition of AI or AGI by governments or industry partners at a global scale, which makes it difficult to establish clear and adaptive regulatory frameworks. Moreover, terms such as “
+explainability
+” or “fairness” can have different meanings depending on the context or stakeholder perspective.
+Difficulty in Anticipating Future Developments
+AI is advancing at an unprecedented pace, making it challenging to predict its future capabilities or applications accurately. This makes it difficult to develop regulations that are flexible enough to address new scenarios without stifling innovation.
+Balancing Benefits and Risks
+We need to prioritize regulating a risk-based outcome over regulating the baseline technology. Regulatory overreach could stifle innovation and slow down progress at a time when international AI supremacy is more valuable than ever, while under-regulation could lead to other unforeseeable consequences.
+Lack of Expertise
+Developing effective regulations requires expertise from various domains such as law, ethics, computer science, economics, and social sciences. However, there is currently a shortage of experts who can navigate the interdisciplinary nature of regulating AI effectively.
+All of that said, AI development harbors promise on the same scale as the three previous industrial revolutions, and some
+consider
+it to be the beginning of the fourth such revolution. However, its rapid development also poses several risks and ethical concerns that need careful thought to ensure responsible development and use of this technology. Developing ethical frameworks that guide the development and use of AI industry-wide could help ensure that it aligns with societal values and norms. For instance, the IEEE Global
+Initiative
+for Ethical Considerations in AI and Autonomous Systems has developed a set of ethical principles for AI and the
+OECD
+created its own AI principles. Multi-stakeholder approaches, standardization, certification, or regulatory sandboxes also offer promising avenues for addressing these challenges.
+Debates (like
+these
+) are worth having, but despite the challenges, AI’s promise is certainly one worth keeping.

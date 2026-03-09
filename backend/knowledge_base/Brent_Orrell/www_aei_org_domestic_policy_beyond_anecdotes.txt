@@ -1,0 +1,25 @@
+PAGE_TITLE: 
+	Beyond Anecdotes | American Enterprise Institute - AEI
+
+In a reversal of economic history, Microsoft, Intel, and other tech giants are using artificial intelligence to
+reduce headcount
+even as their profits and market valuations rise. The
+Financial Times
+captured this paradox, highlighting how even our largest and best-performing firms are preparing for a future in which fewer people do more.
+These stories are both compelling and unsettling. We hear of
+coders being displaced
+, AI completing in seconds what would take hours for a human, and the disappearance of
+entry-level white-collar roles
+. Yet we still lack clarity on the scope, pattern, and persistence of these shifts—let alone their effects outside the tech sector.
+Beneath the alarming headlines, unemployment remains
+low and steady
+, suggesting that, like productivity, AI is showing up everywhere except in the jobs data. The technology
+appears
+to be a powerful force for reshaping the economy and our daily work, but so far it has produced more anxiety than actionable insight.
+What we urgently need is “
+headlight data
+”—timely, localized, and forward-looking insight into how employers are deploying AI, its impact on jobs and skills, and predictive analysis of what lies ahead. Without better data, policymakers remain in a “ready, fire, aim” posture—wasting scarce public resources and failing to deliver the right support to workers when and where they need it.
+To close this gap, we need innovative labor market data models focused on where economic change actually occurs: at the local and regional levels. These are the places where businesses integrate new technology and educators, trainers and workers align training with evolving skill demands. That means building new data partnerships, expanding flexible retraining tools like
+individual training accounts
+, promoting AI literacy across education and work, and doubling down on developing human capabilities in an era of rapid technological change.
+AI isn’t just a technology challenge—it’s a policy challenge. The window to shape its labor market outcomes is still open but we’ll miss it if we keep navigating in the dark.

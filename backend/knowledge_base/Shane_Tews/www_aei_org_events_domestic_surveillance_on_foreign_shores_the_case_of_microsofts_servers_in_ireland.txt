@@ -1,0 +1,16 @@
+PAGE_TITLE: 
+	Domestic Surveillance on Foreign Shores: The Case of Microsoft’s Servers in Ireland | American Enterprise Institute - AEI
+
+Event Summary
+It is not often you see panelists on a topic as divisive as government surveillance find more reasons to agree than disagree. But this was precisely the case on Tuesday, as stakeholders from civil liberties groups, the media, and former government officials met at AEI to discuss the “Microsoft Ireland” case and its varied implications.
+This case explores whether US warrants grant our government access to data stored in servers outside the US. Our panelists broadly disagreed with this notion, and their discussion focused on a few broad aspects of the case: what would happen if the US government were to win; what roles Congress and the executive branch should play; and the broader, metaphysical question of what we mean when we say data is “stored” somewhere.
+Overall, the panelists accepted that the matters at stake here are broader than the answers and precedents our courts can adequately provide. A fitting resolution to this issue must involve Congress — and it must take into account that nothing less than our freedom of speech, our national security, and our international relationships are at stake.
+— Evelyn Smith
+Event Description
+Can the US government access data stored on foreign shores? This question is at the center of the “Microsoft Ireland” case, which examines the legality of Microsoft giving data stored on servers in Ireland to the US Department of Justice.
+Civil liberties groups, media, and tech firms argue that such access wrongly gives the US government jurisdiction over extraterritorial conduct and risks inviting foreign governments to seek US citizens’ private information. To others, denying lawful requests from government officials threatens national security interests. Still others believe the legislature should resolve this—not the courts.
+Please join AEI on Tuesday, October 6, for a discussion on this case, the current legal framework, and the future of this issue.
+Join the conversation on Twitter with #MSFTIreland and @AEITech.
+If you are unable to attend, we welcome you to watch the event live on this page. Full video will be posted within 24 hours
+.
+VIDEO

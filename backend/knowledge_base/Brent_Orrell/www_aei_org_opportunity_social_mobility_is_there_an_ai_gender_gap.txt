@@ -1,0 +1,18 @@
+PAGE_TITLE: 
+	Is There an AI Gender Gap? | American Enterprise Institute - AEI
+
+Gender gaps are one of the defining characteristics of our age. In a wide variety of
+educational
+,
+social
+, and
+work
+settings, women increasingly out-perform men. Women attend college at higher rates and appear to be succeeding in a work environment where so-called “
+soft-skills
+” predominate.
+There’s one area, however, where men are stepping out ahead of women: the adoption and use of artificial intelligence. According to a recent survey by
+FlexJobs
+, men are investigating and experimenting with AI in their personal and professional lives at significantly higher rates than women. According to FlexJobs, men are about twice as likely as women to be using AI on the job. Interestingly, a lot of this AI usage among men seems to be “permissionless.” That is, men are far more likely than women to use AI without formal approval from managers and supervisors. AI is also affecting job search, with 60 percent of men having used or considered using AI in job searching compared to 46 percent of women. Ironically, though men are more likely to believe AI will have a positive effect on the workplace (35 percent to 25 percent), they are also more fearful about AI’s impact on job security, with 38 percent of men perceiving a threat from AI compared to 27 percent of women.
+These survey findings are consistent with what we know about the relative experiences of men and women in technology fields. Men are more likely to be in STEM fields and more likely to establish and develop successful STEM careers. The greater representation of men in STEM occupations creates opportunities for mentoring and professional advancement that compound over time. As a general purpose technology, it is possible AI will “STEM-ify” a larger portion of the economy, requiring workers to be more technologically agile even if they don’t need specific AI-related knowledge or expertise. Those who are familiarizing themselves with the technology now will have a first-mover advantage over those who try to play catch-up later.
+Finally, we know that AI systems are already subject to race, gender, and other forms of bias, at least partly due to the fact that computer science education and the high-tech industry—the folks building the technology—are already predominantly white and male and embedding that implicit perspective in databases and algorithms. As “self-training” large language models interact with a predominantly male user base those biases may be extended and strengthened. It is easy to imagine how these feedback mechanisms could end up strengthening systemic barriers for women in the development and use of AI platforms.
+AI is not going away. Its influence on our lives and jobs is growing rapidly with a flood of new tools entering the market on a daily basis. Some of these innovations will turn out to be ephemeral while others will rewrite the basic rules of our economy and society. At this point, there’s no telling which is which. The important thing is not to fall behind at the beginning. Start using AI systems now.

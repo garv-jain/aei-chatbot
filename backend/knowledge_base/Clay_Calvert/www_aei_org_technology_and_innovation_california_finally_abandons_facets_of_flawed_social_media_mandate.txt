@@ -1,0 +1,46 @@
+PAGE_TITLE: 
+	California Finally Abandons Facets of Flawed Social-Media Mandate | American Enterprise Institute - AEI
+
+Say what you will about Elon Musk’s frenetic cost-cutting, bureaucracy-thinning tactics with the Department of Government Efficiency, but the world’s
+richest person
+recently scored an important––albeit largely overlooked––First Amendment victory for social media platforms against intrusive, peek-under-the-hood government regulations. In late February, a final judgment and permanent injunction barring enforcement of key parts of California Assembly Bill 587 (AB 587) was agreed to by the parties in
+X Corp. v. Bonta
+and submitted to a federal judge for approval.
+The settlement arrives nearly five months after the US Court of Appeals for the Ninth Circuit
+ruled
+in X Corp.’s favor on those same parts of AB 587. As I
+explained
+shortly after that decision, the Ninth Circuit concluded they “likely violate[d] the unenumerated First Amendment right not to speak (the right against government-compelled expression)” and could not pass constitutional muster under the stringent strict scrutiny standard of judicial review. Less problematic parts of the law remain in effect.
+Via Adobe Stock.
+Benignly
+characterized
+by its author as “a pure transparency measure that simply requires [X] and other companies to be upfront about if and how they are moderating content,” AB 587’s motives were seemingly more nefarious. As the Electronic Frontier Foundation
+asserted
+, the bill’s compelled-disclosure mandates were “intended to be . . . an informal censorship scheme to pressure online intermediaries to moderate user speech, which the First Amendment does not allow.” Indeed, X Corp. asserted in its
+complaint
+, filed in late 2023, that “[t]he legislative record is crystal clear that one of the main purposes of AB 587 — if not the main purpose — is to pressure social media companies to eliminate or minimize content that the government has deemed objectionable.”
+To wit, the now-enjoined facets of the law, codified in various parts of California Business and Professions Code
+Section 22677
+, compelled large social media companies to file semiannual reports with Attorney General Rob Bonta disclosing certain information. Specifically, social media companies generating at least
+$100 million
+in annual gross revenue were forced to reveal their terms of service for, definitions of, and content-moderation policies and practices regarding controversial yet constitutionally protected varieties of expression such as hate speech, racism, extremism, radicalization, and misinformation.
+This wasn’t, in other words, about compelling the disclosure of the number of calories in a pint of ice cream. Instead, as the Ninth Circuit
+observed
+, AB 587 singled out “intensely debated and politically fraught topics.” One of the now-blocked parts of the law required platforms to provide California with detailed data about the number of times such contested yet lawful content was flagged, acted upon, removed, demonetized, deprioritized, viewed, and shared, among other things. In short, California was intermeddling with (and collecting data about) editorial judgments regarding acceptable content that are reserved under the First Amendment for private entities and individuals.
+The February settlement culminates a long, hard-fought battle against government-compelled expression that initially saw X Corp.
+lose
+at the federal district court level. Musk deserves kudos for fighting this battle and for ultimately defeating California’s efforts to skew the online marketplace of ideas in its desired direction. As Professor Eric Goldman
+observed
+, “[o]ther major Internet services were apparently planning to acquiesce to this law and try to comply, rather than challenge it in court. Their apathy would have let legislative hubris and litigation fatigue produce an unconstitutional outcome.”
+Importantly, there’s a monetary price to be paid when a state adopts a statute that’s been found to violate the US Constitution. In this instance, California citizens are left footing the
+$345,576 bill
+to cover “the attorneys’ fees and costs incurred by [X Corp.] in connection with this action and the related preliminary injunction appeal.” Techdirt’s Mike Masnick
+encapsulated
+the public policy problems with this type of intrusive, compelled-speech obligation:
+[T]his outcome was entirely predictable. California’s leadership wasted time and resources pushing through a law that was constitutionally dubious from the start. Now they’re spending taxpayer money to pay legal fees to the world’s wealthiest man — all because they wouldn’t listen to basic First Amendment concerns.
+At bottom, the Ninth Circuit’s September 2024 ruling against California and the February 2025 settlement demonstrate the increasing importance of (and the muscle behind) the unenumerated First Amendment right of private individuals and entities not to be compelled by the government to engage in controversial expression. As Justice Samuel Alito
+wrote
+for a majority of the Court in 2018, “measures compelling speech are at least as threatening” to First Amendment rights and values as are laws restricting it.
+The next time California Governor Gavin Newsom
+wants
+“to protect Californians from hate, harassment and lies spread online,” perhaps he should support voluntary media literacy measures to educate Golden State residents about navigating the social media content he deems dangerous.

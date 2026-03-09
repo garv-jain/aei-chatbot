@@ -1,0 +1,27 @@
+PAGE_TITLE: 
+	AI Talent: It’s Not Just for High Tech Anymore | American Enterprise Institute - AEI
+
+We appear to be approaching the break-out phase of artificial intelligence’s diffusion across the American economy. As reported in the
+Wall Street Journal
+, recent data from the University of Maryland’s
+AI job tracker
+finds that nearly 25 percent of tech job postings earlier this year mentioned AI skills. And it isn’t just the tech sector that’s hiring—finance, professional services, retail, and manufacturing are all on the hunt for staff who can help them integrate AI into their operations.
+Share of Newly Listed Technology Jobs That Are AI-Related, Quarterly, by Sector
+Source: Wall Street Journal; University of Maryland
+There are several interesting facets to these data. First, consistent with the reported
+coder job recession
+, overall tech job listings have declined by 27 percent, while tech postings seeking AI-knowledgeable workers have risen 68 percent since ChatGPT made its debut.
+This data suggests our disemployed coders may have another career-life as AI “whisperers” in businesses outside the tech sector. The rate of increased demand for such workers is especially notable in knowledge-heavy businesses: finance, business and professional services (e.g., law and consulting), and education. As AI continues to improve, and its “use cases” proliferate, demand for AI-savvy talent will continue to rise.
+So, how is this AI talent being deployed? Much of the effort is focused on helping businesses gain better and faster access to their own internal information. Banks are creating AI that scours internal data to help workers speed up research and gain real-time access to massive hard-to-coordinate internal data. AIG is opening an
+“innovation center” in Atlanta, Georgia
+to improve underwriting and claims, as well as design and test other AI applications. In January, Walmart announced a
+$520 million investment
+to smooth supply chains, further automate its warehouses, and optimize delivery routes. McDonald’s and other fast-food companies are using AI programs to manage stores, oversee food preparation, and speed up customer service.
+Contrary to popular fears, firms are looking for people to integrate AI tools into jobs that already exist, as opposed to hiring for stand-alone AI-focused roles. This means that, for the time being, AI is being implemented for
+augmentation as opposed to automation
+, and that hiring AI-literate employees does not usually come at the cost of those already employed. Nonetheless, if workers want to remain competitive in an increasingly AI-dependent economy, it will be crucial for incumbent workers to become AI-literate. This goes double for students not yet in the workforce who need to be thinking about their preferred career paths in light of AI and plan their education accordingly.
+The effects of complete and timely access to knowledge, more efficient processes, and rising productivity across the nearly $30 trillion economy, will be
+significant
+. Fifteen years passed between the opening of the internet to the public and widespread commercial adoption. AI is moving
+at least as fast
+, and possibly faster. This technology is already becoming an inescapable reality for the world of work. The time to prepare for it was yesterday.

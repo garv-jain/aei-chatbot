@@ -1,0 +1,75 @@
+PAGE_TITLE: 
+	Free Speech Villain or Hero? Framing the Fight Between X Corp. and the Center for Countering Digital Hate | American Enterprise Institute - AEI
+
+Can a righteous battle to quell online hate speech simultaneously be a noble fight to preserve free expression for diverse internet voices? The answer is yes, depending on how one frames the
+latest
+headline-grabbing lawsuit
+involving a social media platform.
+X Corp. (X) filed a federal
+complaint
+on July 31 against a leading critic, the
+Center for Countering Digital Hate
+(CCDH), and its UK-based relative. CCDH published an article in June
+claiming
+Twitter (now X) “fails to act on 99% of hate posted by
+Twitter Blue
+subscribers.” It wasn’t the first time CCDH, a US-based non-profit organization, criticized the platform regarding hate speech since Elon Musk, “
+a self-professed free speech absolutist
+,” became owner.
+Via Reuters
+The
+New York Times
+in December 2022 cited CCDH and Anti-Defamation League findings in
+a story
+alleging “a sharp increase in hate speech” has occurred on X since Musk took over. CCDH then issued
+a report
+in February estimating that 10 previously banned X accounts “renowned for publishing hateful content and dangerous conspiracies” that Musk reinstated “will generate up to $19 million a year in advertising revenue for Twitter.” CCDH followed up with
+another report
+in March linking Musk’s ownership to a rise in tweets featuring a “‘grooming’ narrative [that] demonizes the LGBTQ+ community with hateful tropes, using slurs like ‘groomer’ and ‘pedophile.’” The report estimated that five accounts alone featuring the grooming narrative would “generate up to $6.4 million per year for Twitter in ad revenues.”
+This public shaming, which might deter businesses from advertising on X, fits snugly in CCDH’s
+stated goal
+of “increas[ing] the economic and reputational costs for the platforms that facilitate the spread of hate and disinformation.” Indeed, X’s
+complaint
+asserts that “in direct response to CCDH’s efforts, some companies have paused their advertising spend on X,” leading to “at least tens of millions of dollars” in damages. X contends “CCDH prepares its ‘research’ reports and articles using flawed methodologies to advance incorrect, misleading narratives” as part of “a scare campaign to drive away advertisers.”
+But rather than sue for
+defamation
+over the publication of allegedly false, reputation-harming statements damaging its business, X’s legal theories
+pivot
+on how CCDH “engag[ed] in a series of unlawful acts designed to improperly gain access to protected X Corp. data” to prepare its articles and reports. To wit, X claims CCDH scraped data from X, thus violating X’s terms of service and giving rise to a
+breach of contract
+claim. X also asserts that an unknown third party improperly gave CCDH login credentials to access non-public data, thereby sparking a claim under the
+Computer Fraud and Abuse Act
+. The remaining theories include another breach of contract claim and one for
+intentional interference with contractual relations
+. In short, X’s legal theories target how CCDH
+gathered
+information, not CCDH’s
+speech
+.
+Legal merits aside, the parties frame the battle to generate public—perhaps even judicial—support for their sides. Consider X’s complaint. First, by not suing for defamation, X avoids the appearance of trying to quash CCDH’s speech. Instead, it’s targeting only the unlawful gathering of information.
+Second, X’s complaint openly positions the company as a
+free-speech defender
+:
+X Corp. has been harmed in its mission to provide its users with a platform in which topics of paramount public concern can be discussed and debated free from the censorship efforts of activist organizations advancing narrow ideological agendas through deceitful means.
+It asserts that CCDH
+favors
+“an ideological echo chamber that conforms to CCDH’s favored viewpoints.” In short, X is waging a virtuous battle for free expression.
+Conversely, CCDH frames X’s lawsuit as a
+rich
+, powerful corporate leader’s attempt to squelch its non-profit, do-gooder, hate-speech-exposing reports. “Elon Musk’s latest legal move is straight out of the authoritarian playbook—he is now showing he will stop at nothing to silence anyone who criticizes him for his own decisions and actions,”
+said
+Imran Ahmed, CCDH’s founder and CEO. He vowed that “Musk will not bully us into silence.”
+Lurking not-so-subtly beneath CCDH’s framing is the idea that X filed a
+strategic lawsuit against public participation
+(SLAPP). As the term
+suggests
+, plaintiffs (often corporations) strategically file such lawsuits to silence their critics’ speech about matters of public concern through expensive, time-consuming litigation. California, where X filed its federal lawsuit, has an
+anti-SLAPP statute
+that
+applies in federal court cases
+such as this one, involving
+diversity jurisdiction
+. It allows SLAPP targets
+addressing
+“a public issue” to move quickly to dismiss the suits if they are meritless. It thus won’t be surprising if CCDH files such a motion to strike X’s complaint as a SLAPP.
+So, is X a free speech hero or a critic-crushing corporate villain? That’s what the frame-game spin is all about as the lawsuit heats up.

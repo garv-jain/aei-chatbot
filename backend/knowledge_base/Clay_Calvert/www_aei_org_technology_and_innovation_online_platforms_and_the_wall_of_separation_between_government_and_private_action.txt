@@ -1,0 +1,69 @@
+PAGE_TITLE: 
+	Online Platforms and the Wall of Separation Between Government and Private Action | American Enterprise Institute - AEI
+
+The
+US Supreme Court’s
+2024 opinions in
+Moody v. NetChoice
+,
+Murthy v. Missouri
+, and
+National Rifle Association v. Vullo
+collectively should make it harder for plaintiffs to treat social media platforms as
+state-actor
+defendants for removing content the government dislikes. As previously
+explained
+, these decisions were important in recent appellate court rulings rejecting claims by
+Robert F. Kennedy, Jr.
+and his
+Children’s Health Defense
+organization that YouTube and Facebook violated the
+First Amendment
+when they removed content allegedly in “
+coordination and collaboration
+” with the federal government.
+Via Adobe
+This post delves into public policy concerns that rightfully should make it exceedingly demanding for plaintiffs under the
+state action doctrine
+to treat businesses as if they were the government when businesses’ expressive interests are at stake. In reaching that conclusion, three premises are assumed.
+First, “
+paradigmatic
+” social media platforms like Facebook and YouTube are presumptively free as private actors to remove content as they see fit. This premise flows from several sources. Initially, the Supreme Court
+held
+that the First Amendment “prohibits only
+governmental
+abridgment of speech” and “does not prohibit
+private
+abridgment of speech.” (Emphasis in original.) Next, six justices in
+Moody
+were clear that the First Amendment shelters the right of a platform like YouTube on its homepage and Facebook in its News Feed to abridge users’ speech when making “editorial choices” and “editorial judgments” about removing and “compiling the third-party speech it wants in the way it wants.” For such platforms, this gives teeth to the Court’s earlier
+observation
+that “when a private entity provides a forum for speech, the private entity is not ordinarily constrained by the First Amendment . . . [and] may thus exercise editorial discretion over the speech and speakers in the forum.”
+The second premise is that open lines of communication and the free flow of information between government officials and business leaders are essential so that they can understand each other’s perspectives, needs, and realities. Such communication may forestall unnecessary legislation or, if laws are adopted, help to ensure that they equitably balance business interests with government desires.
+The final premise is that businesses and the government may reach the same conclusion about removing a message, sometimes without communicating and sometimes because the government persuaded the businesses
+through
+“the merits and force of . . . ideas.” Such alignment in a removal decision shouldn’t transform the businesses into government actors unless the government either: 1) coerced the decision
+by
+“convey[ing] a threat of adverse gov­ernment action” in a specific communication or communications, or 2) entered into an explicit agreement with the businesses requiring them to remove specific messages. Setting the bar for finding state action at the level of “
+significant encouragement
+” by the government to remove a message is both too low and amorphous to safeguard platforms from First Amendment liability.
+Importantly, the Court acknowledged in
+Murthy
+that platforms can “exercise their independent judgment even after communications with” government officials begin and that platforms have “independ­ent incentives to moderate content.” The fact that frequent communications occur between platforms and the government about content removal therefore is insufficient to establish coercion.
+Why should it be demanding in First Amendment cases for plaintiffs to transform platforms into government entities? The Court has
+stressed
+that “by enforcing [the] constitutional boundary between the governmental and the private, the state-action doctrine protects a robust sphere of individual liberty.” That liberty allows platforms to adopt different and wide-ranging models of content moderation practices in accord with the beliefs of their owners, operators, and, on some platforms, users. This facilitates diverse marketplaces of ideas and a wide range of online speech communities.
+Furthermore, First Amendment doctrines like the rule barring
+viewpoint discrimination
+were specifically created to keep the
+government
+in check when it––not a private party––tries to tilt a free-speech playing field in its desired direction. Judicial expansion of the application of such doctrines to private businesses intrudes on their realm of individual liberty while vesting courts with immense power to hamstring them. The
+US Court of Appeals for the Ninth Circuit
+suggested this in August when
+ruling
+against Children’s Health Defense’s claim that Facebook violated the First Amendment by removing content:
+It is for the owners of social media platforms, not for us, to decide what, if any, limits should apply to speech on those platforms. . . . It is not up to the courts to supervise social media platforms through the blunt instrument of taking First Amendment doctrines developed for the government and applying them to private companies.
+Finally, as the Ninth Circuit
+intimated
+, “the appropriate defendant” probably is not a platform victimized by alleged coercion but “the government officials responsible for” it.
+Government coercion of a business to censor speech is wrong; suing the coerced target for a constitutional violation is misguided.

@@ -1,0 +1,136 @@
+PAGE_TITLE: 
+	The Supreme Court Term in Review | American Enterprise Institute - AEI
+
+“A film is born three times,” French filmmaker Robert Bresson once famously remarked. “First in the writing of the script, once again in the shooting, and finally in the editing.”
+So too is a law. First, it is written and passed by Congress. Then, it is implemented by administrative agencies. And finally, its legality is determined by the courts.
+The Supreme Court just had a blockbuster close to the term, with three major cases coming in at the end, all of which will have some bearing on the world of tech:
+Loper Bright Enterprises v. Raimondo
+on
+administrative law;
+Murthy v. Missouri
+on social media censorship; and
+the
+NetChoice
+cases
+on state-level social media bills.
+Let’s take a look at the implications of each of these pivotal cases.
+Bye-Bye,
+Chevron
+. Hello,
+Loper Bright
+.
+If people are talking about the Supreme Court term, they’re probably talking about the
+Trump immunity decision
+. But over in my little corner of the world,
+Loper Bright Enterprises v. Raimondo
+was easily the most talked-about case.
+Loper Bright
+dealt with a lawsuit filed by commercial fishermen of Atlantic herring against the National Marine Fisheries Service (NMFS). They challenged the agency’s rule requiring the industry to fund at-sea monitoring programs, which were estimated to cost $710 per day. Importantly, the Magnuson-Stevens Act of 1976, which gives the NMFS power, does not does not explicitly require Atlantic herring fisheries to pay the costs of federal monitors, although some laws do require fishermen to pay. The district court supported the NMFS’s reasonable interpretation of its authority and the adoption of the rule. On appeal, the D.C. Circuit upheld the district court’s decision, rooting their decision in
+Chevron
+—the 1984 landmark case that let courts defer to agency interpretations of ambiguous statutes, so long as it was a “reasonable” interpretation.
+Then, in a 6–2 opinion, the Supreme Court reversed the D.C. Circuit’s decision and overturned
+Chevron
+. (If you want to learn all about the case, check out
+The Dispatch
+’s
+coverage here
+.)
+The environmental left sees this decision as a loss. Jake Bittle and Zoya Teirstein, for example,
+reported in
+Grist
+of at least two organizations that thought this was a bad move:
+“Today’s ruling sidelines the role of agency expertise, and instead shifts power to judges who do not have the expertise of agency staff who live and breathe the science, financial principles, and safety concerns that federal agencies specialize in,” Kym Meyer, the litigation director for the Southern Environmental Law Center, said in a statement.
+Vickie Patton, general counsel for the Environmental Defense Fund, said the decision “undermines vital protections for the American people at the behest of powerful polluters.”
+Steve Vladeck, professor at the University of Texas School of Law, also picked up on this thread,
+explaining on MSNBC
+that “the
+Loper Bright
+decision is a transfer of power.” He went on:
+Agencies aren’t perfect. But neither are judges. And if the question is whether technical questions should be resolved by those with the relevant expertise who work for presidents for whom we have voted, or by generalist judges selected (and sometimes hand-picked) by plaintiffs with an ideological axe to grind, the answer shouldn’t have been this hard. Deference to executive branch agencies is something we’ll miss when (as of last Friday) it’s gone.
+I tend to think the naysayers are wrong on this one. This ruling doesn’t deny that agencies are experts on technical matters. Instead, it argues that agencies don’t have the comparative expertise to interpret a statute. That’s what the courts should do.
+Importantly, agency deference isn’t completely gone. As Chief Justice John Roberts made clear in his majority opinion in
+Loper Bright
+, agencies can rely on the 1944 case
+Skidmore v. Swift & Co
+. That said,
+Skidmore
+deference is a tougher standard to meet than
+Chevron
+was because
+agency actions have to be evaluated
+by (1) the thoroughness of the agency’s consideration, (2) the validity of its reasoning, (3) the consistency of its interpretation over time, and (4) other persuasive powers of the agency.
+Agencies will not have the leeway that they did with
+Chevron
+going forward, but that doesn’t mean their leeway is completely gone. Think of what brought this case to the Supreme Court in the first place: the Magnuson-Stevens Act didn’t explicitly say that Atlantic herring fishermen have to pay for monitoring, and yet the agency effectively rewrote the law to do exactly that.
+Agencies have a tendency to push the boundaries of their authority, as I explained in the
+last edition of
+Techne
+about how not to expand broadband. Here’s another example: Remember when the California Supreme Court left in place a lower-court holding
+that bees are fish
+, at least for the purpose of protecting them under California’s endangered species law? That’s the kind of nonsense that happens all the time with agencies.
+Loper Bright
+is warning them to cut it out.
+The decision also makes it clear that prior administrative actions and court decisions decided under the
+Chevron
+deference are not automatically overturned by this decision. But
+Chevron
+is dead. Statutory interpretation has shifted back to the courts, so we should expect the courts to intervene more consistently.
+I liked this summary from
+Neil Chilson
+, a former colleague of mine, on whose stock is up and whose stock is down with this ruling:
+For an extended look at the first point, I would suggest reading policy analyst Adam Thierer on
+why the end of
+Chevron
+deference doesn’t really matter all that much for AI
+. Here is the key paragraph:
+There won’t be any formal regulations here. (In this case, NIST does not even possess any formal regulatory powers.) Moreover, none of this will go through any sort of cost-benefit analysis or APA-compliant process. Instead, it’ll all be done through those “soft law” informal guidelines and best practices, and then developers will be expected to make concessions and “voluntary commitments” to abide by them, under pressure from various government officials.
+For other perspectives on this case, check out
+Geoffrey Manne’s thread
+on
+Loper Bright
+’s impact on the Federal Trade Commission and Berin Szoka’s
+thread on how the decision
+impacts communication regulation.
+An anticlimactic
+Murthy v. Missouri
+resolution.
+In the first edition of
+Techne
+, I previewed the
+Murthy v. Missouri
+case, which asked: “Did White House and executive agency officials violate the First Amendment by encouraging companies like Facebook and Twitter to censor posts about the COVID-19 pandemic, election fraud, and Hunter Biden’s laptop?”
+Well, the Supreme Court punted by saying that the plaintiffs
+didn’t have standing to bring the case
+, so it didn’t decide on the big questions.
+The Supreme Court missed an opportunity to clarify the bounds of government censorship. Robert Corn-Revere, a well-respected First Amendment scholar and chief counsel of the Foundation for Individual Rights and Expression (FIRE),
+explained
+just how unsatisfying the ruling was:
+Despite reams of evidence documenting government pressure, the court held today these plaintiffs lacked standing to sue. FIRE is concerned about what this means for future First Amendment plaintiffs. But the majority opinion notes courts have the power to stop government attempts to pressure social media platforms when proven. That’s important.
+Americans need to know when government officials are subjecting platforms to censorship. Since the Supreme Court will not act, this means that Congress must.
+The
+NetChoice
+cases.
+Finally, there were the
+two
+NetChoice
+cases
+, which were brought by a trade group representing tech companies against social media bills passed in Florida and Texas. (Full disclosure: At my previous job,
+we filed a brief
+for both cases, and I have been waiting for them to be decided for a while.)
+Both
+NetChoice, LLC v. Paxton
+, which concerned the Texas law, and
+Moody v. NetChoice, LLC
+, which was about the Florida law, were vacated and remanded to the lower courts. That means that the lower courts will need to look at the issue again.
+While I wish that the Supreme Court had gone further and shot down the state laws, the opinion reaffirmed the importance of the First Amendment online. Here are some of the choice quotes:
+“[The First Amendment] does not go on leave when social media are involved.”
+“A State may not interfere with private actors’ speech to advance its own vision of ideological balance.”
+“Texas does not like the way those platforms are selecting and moderating content, and wants them to create a different expressive product, communicating different values and priorities. But under the First Amendment, that is a preference Texas may not impose.”
+“We have repeatedly held that laws curtailing their editorial choices must meet the First Amendment’s requirements. The principle does not change because the curated compilation has gone from the physical to the virtual world.”
+“In a better world, there would be fewer inequities in speech opportunities; and the government can take many steps to bring that world closer. But it cannot prohibit speech to improve or better balance the speech market.”
+Not everyone is happy.
+In the
+New York Times
+, former Biden administration official Tim Wu construed these decisions as the result of the courts straying from principles. He wrote,
+For much of American history, First Amendment cases involving speech typically concerned political dissenters, religious outcasts, intrepid journalists and others whose ability to express their views was threatened by a powerful and sometimes overbearing state. The First Amendment was a tool that helped the underdog. But sometime in this century the judiciary lost the plot.
+I think that’s an impoverished view of the First Amendment that is sadly becoming more popular. Yes, the First Amendment has been a tool to help the underdog. But at the end of the day, it was written to constrain what the government can do. Call me old-fashioned, but I don’t think that needs changing.

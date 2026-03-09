@@ -1,0 +1,87 @@
+PAGE_TITLE: 
+	Taking Perspective of Missouri v. Biden: Peering Down a Legal Hall of Mirrors | American Enterprise Institute - AEI
+
+Addressing the difficulty of distinguishing between offensive and non-offensive statements, the
+US Supreme Court
+quipped
+in 1971 that it’s “often true that one man’s vulgarity is another’s lyric.” Offensiveness, in brief, rests in the beholder’s eyes and ears.
+That maxim from
+Cohen v. California
+rings true when considering US District Court Judge
+Terry Doughty’s
+July 4
+preliminary injunction
+in
+Missouri v. Biden
+. It bans multiple government agencies and officials from “urging, encouraging, pressuring, or inducing” social media companies to remove, delete, suppress, or reduce “content containing protected free speech.” On July 10, the Louisiana-based Doughty
+denied
+the government’s motion to place the injunction on hold while it
+appeals
+to the
+US Court of Appeals for the 5th Circuit
+. The government then filed an
+emergency petition
+with the 5th Circuit to stay it.
+via Adobe Stock
+So, why is
+Cohen’s
+quotation relevant here? For starters, it now seems like one person’s laudable government
+encouragement
+of social media platforms to police misinformation (the defendants’ view) is another person’s unlawful
+coercion and collusion
+to squelch dissenting viewpoints (the view of plaintiffs Missouri, Louisiana, and five individuals, including two epidemiologists who co-authored
+The Great Barrington Declaration
+).
+Second, how one interprets Doughty’s order––as “
+a boon for election lies
+” that “
+cut[s] short an essential dialogue between the government and social media companies about online speech and potentially lethal misinformation
+,” on the one hand, or as “
+properly restrain[ing] the government from intruding into platforms’ editorial decisions
+” and “
+the most significant victory for freedom of speech in the lifetime of anyone alive today
+,” on the other––almost certainly is influenced by the political-cultural lens one filters it through. One person’s farfetched conspiracy theory that was “
+clearly swallowed . . . whole
+” by a Trump-nominated judge is another’s “wall of separation between tech and state [that] preserve[s] our First Amendment right to free, fair, and open debate,” to
+quote
+Missouri Attorney General
+Andrew Bailey
+.
+This legal hall of mirrors is troubling. It’s indicative of how the
+First Amendment
+, the future of free speech on the internet, and the government’s regulation of it––formally or informally––are so deeply enmeshed with the nation’s politically paralyzing polarization over matters such as mask mandates, Wuhan lab leaks, and, yes, even Hunter Biden’s laptop. This makes consensus building for needle-threading government policies that rationally balance free-speech interests against speech-caused harms decidedly difficult.
+The plaintiffs in
+Missouri v. Biden
+allege
+that multiple government officials (prominently, President Joe Biden and Anthony Fauci) and agencies engaged in a campaign of threats against––and coordination and collusion with––social-media platforms that “successfully induced [the] platforms to impose acts of censorship” on “disfavored speakers, viewpoints, and content . . . including core political speech,” such as “muzzling public criticism of President Biden” and the New York Post’s
+reporting
+on Hunter Biden’s laptop. This government action, the plaintiffs contend, violates not only the First Amendment right to speak but also the right of the public to receive diverse viewpoints, not just those deemed governmentally correct.
+Judge Doughty agreed,
+concluding
+the “Plaintiffs are likely to succeed on the merits in establishing that the Government has used its power to silence the opposition.” He called the “targeted suppression of conservative ideas . . . a perfect example of
+viewpoint discrimination
+of political speech. American citizens have the right to engage in free debate about the significant issues affecting the country.”
+Whether one views
+Missouri v. Biden
+as being about either “
+the most massive assault on free speech in the nation’s history
+” or the well-intentioned government “
+efforts to combat false and misleading narratives about the coronavirus pandemic and other issues
+,” a key issue on appeal will be whether the government’s communications with social media platforms constitute
+state action
+sufficient to trigger a First Amendment case or whether the platforms independently decided to remove content. After all, the case doesn’t deal with a federal law or regulation involving censorship, but rather involves what is called
+jawboning
+via “informal pressure or persuasion.”
+As Stanford University’s
+Daphne Keller
+explains
+, “jawboning in its subtler forms makes state action much harder to trace,” but “the most heavy-handed forms of jawboning can violate the First Amendment.” Indeed, the Supreme Court in
+1963
+“recognize[d] that informal censorship may sufficiently inhibit the circulation of publications to warrant injunctive relief” and that a “system of informal censorship” may violate the First Amendment. So, the 5th Circuit now must sort through this morass. Significantly, the plaintiffs in
+Missouri v. Biden
+allege that the jawboning included threats to alter the general immunity from legal liability that social media platforms currently possess for third-party content under a federal statute called
+Section 230
+. Even more foundationally, the appellate court must consider whether the plaintiffs have
+standing
+to raise their claims.
+We are, then, only at the start of a long-haul hall of mirrors.

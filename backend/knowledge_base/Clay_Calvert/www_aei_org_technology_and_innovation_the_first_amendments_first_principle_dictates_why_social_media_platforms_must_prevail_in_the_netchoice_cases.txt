@@ -1,0 +1,89 @@
+PAGE_TITLE: 
+	The First Amendment’s First Principle Dictates Why Social Media Platforms Must Prevail in the NetChoice Cases | American Enterprise Institute - AEI
+
+During oral arguments last month before the
+US Supreme Court
+in the
+First Amendment
+cases of
+Moody v. NetChoice
+and
+NetChoice v. Paxton
+, much discussion involved their procedural posture as
+facial challenges
+(not
+as-applied attacks
+) against Florida and Texas statutes regulating content on social media platforms. As I
+explained earlier
+, some justices felt this left them without enough facts for understanding the types of platforms the statutes regulate. Do they cover not just the Facebooks, YouTubes, and Xs of the online world but also e-commerce sites and services like Etsy, Uber, and even Gmail?
+Compounding the problem in
+Moody
+was Florida’s all-or-nothing
+stance
+in the lower courts that its law “doesn’t even
+implicate
+—let alone violate—the First Amendment because the platforms aren’t engaged in protected speech.” (Emphasis in original). As
+Paul Clement
+asserted
+for
+NetChoice
+, Florida put all of its “eggs in that basket,” wrongly believing it would thwart the courts from imposing a preliminary injunction that has stopped––for now––the bulk of the law’s enforcement. In brief, Florida unsuccessfully argued that only the platforms’
+conduct
+, not their
+expressive activities
+, was regulated.
+Via Reuters
+This might delay the cases’ final resolutions, but it shouldn’t influence their ultimate outcomes in the platforms’ favor. The cases, at bottom, hinge on the most fundamental of all First Amendment principles: The constitution prevents
+government
+censorship of speech, not private businesses and individuals from organizing and moderating it.
+The First Amendment’s opening word makes that evident: “
+Congress
+shall make no law . . . abridging the freedom of speech.” The Court
+in 1925
+expanded “Congress” to include state entities and officials. The First Amendment thus is triggered only by
+state action
+, not by private regulation of expression.
+It’s therefore not a First Amendment violation if the National Football League tells players they cannot kneel during the National Anthem to protest police brutality. The NFL sometimes acts like the government, but it isn’t, and thus there’s no First Amendment violation. In contrast, if a public (i.e., government) high school bars student athletes from peacefully taking a knee, that
+violates the First Amendment
+.
+Likewise, when
+Facebook
+and
+Twitter
+jettisoned then-President Donald Trump after the Capitol riots of January 6, 2021, that didn’t raise a First Amendment issue. It did, however, spark Florida’s and Texas’s politically motivated laws now at issue in the NetChoice cases, transforming Red States into regulatory ones that dictate to private businesses the speech they must carry and how they must present it.
+Legislative efforts to the contrary, the same basic First Amendment principle applies in
+Moody
+and
+Paxton
+: The First Amendment restricts the suppression of speech “by the government,” as Justice Brett Kavanaugh
+stated
+in
+Moody
+. That’s why Chief Justice John Roberts
+asked
+Florida Solicitor General
+Henry Whitaker
+, “I wonder, since we’re talking about the First Amendment, whether our first concern should be with the state regulating what, you know, we have called the modern public square?”
+That
+wasn’t a concern
+for Whitaker because “the kind of regulation that the State of Florida is imposing is one that is familiar to the law”––namely, “traditional common carrier . . . regulation [that] has worked for centuries” with telephone and telegraph companies. Justice Clarence Thomas
+seems receptive
+to
+common-carrier
+arguments, signaling his view in
+a 2021 opinion
+that “in many ways, digital platforms that hold themselves out to the public resemble traditional common carriers.”
+If the Court were to hold that platforms are merely message-transporting common carriers––not publishers vested with First Amendment rights of editorial discretion––that ruling would radically disrupt the platforms’ long-standing business models. There would be no more Facebook, YouTube, and Instagram––not as we know them today. Like telephone companies, they’d be forced to host all otherwise-lawful speech and unable to enforce their own policies about acceptable expression that cater to their users’ wants and interests. The government essentially would be
+taking the platforms’ property
+without just compensation.
+The states’ common-carrier arguments are desperate efforts to flip the First Amendment script. Florida and Texas want to convince the Court that a doctrine applies that prevents private, speech-based businesses from exercising editorial discretion, moderating content, and enforcing policies about acceptable expression that serve the wants of their online speech communities. The unfriendly reality of
+Texas’s law
+is that it bars platforms from removing posts based on their viewpoint, meaning platforms can’t eliminate hateful, racist, sexist, or antisemitic viewpoints (among others) their users don’t want to encounter.
+Daniel Lyons
+has
+spelled out
+and
+Mark Jamison
+has
+explained
+why social media platforms with long-standing policies banning certain speech aren’t common carriers. The common-carrier argument must not prevail. The bottom line is the top-level principle: Florida and Texas violate the platforms’ First Amendment rights by interfering with their expressive activities of creating and curating speech communities that serve their users’ interests.

@@ -1,0 +1,7 @@
+PAGE_TITLE: 
+	The Evidence So Far: What Research Reveals About AI’s Real Impact on Jobs and Society | American Enterprise Institute - AEI
+
+As organizations race to integrate new AI models into their workflows, everyone is wondering what the effects will be on industries, jobs, and society: Will these new technologies complement human capabilities, create new opportunities, or replace workers across various sectors?
+The following table compiles research on large language models (LLMs), chatbots, and AI systems published since ChatGPT 3.5’s
+late 2022 debut
+. It will be periodically refreshed with new studies that explore how these technologies are transforming industries, reshaping employment patterns, and impacting society.

@@ -1,0 +1,35 @@
+PAGE_TITLE: 
+	Shifting Sands of Supply: Africa, China, and the Global Race for Rare Earth Elements | American Enterprise Institute - AEI
+
+When did you last think about what materials went into the screen you’re reading this on? Rare earth elements (REEs) are truly the magic that powers our modern world.
+REEs are
+17 elements
+essential for producing more than
+200
+high-tech products such as batteries, magnets, screen displays, semiconductors, and other electronic devices. They are
+particularly important
+to today’s global communications, or information and communications technology (ICT), as they are essential for the fiber optic cables, lasers, and other components used in telecommunications and internet connectivity.
+Via Adobe Stock.
+While these elements are necessary for developing new technologies and for national security, the supply of REEs is limited and China currently
+controls
+about 80 percent of the global market. This leads to concerns about a potential REE shortage in the future and supply-chain challenges across the globe.
+The significance of REEs for internet infrastructure is increasingly evident as the world becomes more interconnected. Global internet traffic
+reached
+64.2 zettabytes in 2020 and is projected to reach 180 zettabytes by 2025. This exponential growth in internet traffic strains the existing infrastructure, necessitating the development of new and more efficient ways to transmit data, which heavily rely on REEs.
+The escalating demand for high-speed broadband as part of the societal expectation of digital services for banking, commerce, education, medicine, and transportation logistics means we need to be more forward-thinking about the global supply of REEs. These elements are more challenging to extract and refine than other minerals and require energy-intensive production processes. Consequently, the price of REEs continues to rise with implications for global competitiveness and national security. Nations with access to REEs gain a competitive advantage in producing high-tech products, while those dependent on REE imports are vulnerable to supply disruptions.
+African countries play a pivotal role in the REE market, as they possess
+30 percent
+of the world’s REE deposits. These deposits are particularly rich in germanium and erbium, two REEs crucial for ICT infrastructure. Germanium is used in fiber optic cables, which form the backbone of the global internet, while erbium is used in lasers that amplify signals in these cables. Without these REEs, transmitting data over long distances at high speeds would be impossible.
+Due to political instability or conflict, REEs face potential supply disruptions in
+key producing countries
+. These supply chains are often determined by governments whose competitiveness and national security interests are counter to free-market interests. Countries with access to REEs often forge partnerships for their own supply chain infrastructure, providing them with a competitive edge in the global economy. This leaves countries reliant on REE imports dangerously exposed to the slightest shift in supply.
+Africa’s rich REE deposits provide the continent with a significant strategic advantage in global ICT development and bolster Western national security goals as an alternative to relying on Chinese REEs. The recently passed
+European Chips Act
+and US CHIPS act can present opportunities to expand the supply chain by engaging with Africa. Trade agreements on REE mineral extraction could provide technical assistance to African nations to help them develop and implement responsible mining practices while becoming part of a more stable supply chain.
+Policymakers should also incentivize multinational technology companies to extend their research-and-development activities to Africa, given the continent’s untapped commercial potential with a projected population of
+2.5 billion people
+by 2050. Creating incentives for the US and other Western countries to embrace Africa as a partner for supply chains could help Western nations gain a strategic advantage over Chinese competition and away from today’s current
+“buyers club”
+monopoly.
+The increasing demand for these crucial minerals, coupled with the growing environmental and geopolitical concerns about mining in China, should lead to a major supply chain shift to Africa. Google, IBM, and Microsoft have established research and development labs in several African countries. This strategy parallels the support provided by the US and other Western countries in the 1970s to the development of consumer electronics in Southeast Asian countries.
+This growth in African REE trade can yield substantial economic benefits for the continent, including job creation, regional development, enhanced economic growth, stability, and improved competitiveness. The development of rare earth mining in Africa is still in its early stages, but the potential for partnerships and capacity building for industry—and therefore Western security—is strong.
