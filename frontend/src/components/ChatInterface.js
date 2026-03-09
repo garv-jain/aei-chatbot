@@ -86,11 +86,6 @@ const ChatInterface = ({
           }));
         }
         
-        // Also reload the chat after a longer delay to ensure everything is synced
-        setTimeout(async () => {
-          await loadCurrentChat();
-        }, 500);
-        
       } catch (error) {
         console.error('Error sending message:', error);
         // Remove the optimistic message and restore input on error
