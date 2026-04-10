@@ -20,7 +20,7 @@ function App() {
   useEffect(() => {
     loadDomains();
     loadChatHistory();
-  }, []);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   const getHeaders = () => ({
     'Content-Type': 'application/json',
@@ -118,7 +118,6 @@ function App() {
     if (!message.trim()) return;
   
     let chatId = currentChatId;
-    let isNewChat = false;
   
     // Create new chat if none exists
     if (!chatId) {
@@ -135,7 +134,6 @@ function App() {
           setCurrentChatId(newChat.id);
           setSelectedDomain(newChat.domainName);
           setCurrentView('chat');
-          isNewChat = true;
           userManager.updateLastActive();
         } else {
           throw new Error('Failed to create new chat');
