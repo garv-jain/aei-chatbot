@@ -23,7 +23,7 @@ const ChatInterface = ({
     } else {
       setCurrentChat(null);
     }
-  }, [chatId]);
+  }, [chatId]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const loadCurrentChat = async () => {
     if (!chatId) return;
