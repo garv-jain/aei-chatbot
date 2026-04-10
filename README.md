@@ -1,17 +1,19 @@
 ## AEI Chatbot
 
-A full‑stack chatbot for researching and conversing over a curated knowledge base of AEI content. The backend (Node/Express) exposes chat and file APIs and uses Together AI for responses. The frontend (React) provides a clean UI to chat, manage domains (scholars), and upload `.txt` files that power retrieval.
+A full‑stack chatbot for researching and conversing with AEI scholar content. The backend (Node/Express) exposes chat and file APIs and uses Together AI for responses. The frontend (React) provides a clean UI to chat across different scholar domains. The chatbotretrieves content by scraping AEI.org live for each query, ensuring accurate, up-to-dateinformation with correct publication dates and citations.
 
 ### What you can do
 - **Chat** with an assistant scoped to a selected domain (scholar/folder) or general mode
+- **Get live, accurate answers** pulled directly from AEI.org articles
 - **Upload text files** to enrich the knowledge base per domain
 - **Create/delete domains** and view domain stats
 - **Persist chat history** locally on the server
 
 ### Quick Notes
 - Accounts for Render (backend), Vercel (frontend), and Together AI (LLM API) have already been made
-- You can log in using aeitechpolicy github account
+- Log in using aeitechpolicy github account
 - The chatbot is already deployed under aeitechpolicy on https://aei-chatbot.vercel.app/
+- The correct flow when starting a new chat: **select a scholar domain first**, then click NewChat, then ask your question — the domain gets locked in at chat creation
 
 ### To-dos
 - You need to log into Together AI, deposite $5 to access API Key
@@ -27,7 +29,8 @@ A full‑stack chatbot for researching and conversing over a curated knowledge b
 - **Backend**: `backend/` (Node.js + Express)
   - Chat endpoints: `/api/chat/*`
   - File/knowledge base endpoints: `/api/files/*`
-  - Local storage: `backend/chats/` for chat sessions, `backend/knowledge_base/` for domain files, plus caches
+  - Live scraping: `/backend/utils/aeiScraper.js` which scrapes AEI.org in real time per query using DuckDuckGo search + scholar profile pages
+  - Local storage: `backend/chats/` for chat sessions, `backend/knowledge_base/` for fallback txt files
   - Uses `together-ai` with model `meta-llama/Llama-3-70b-chat-hf` by default
 - **Frontend**: `frontend/` (React + React Scripts)
   - Environment variable `REACT_APP_API_URL` points to the backend URL
@@ -36,6 +39,17 @@ A full‑stack chatbot for researching and conversing over a curated knowledge b
 Ports (default):
 - Backend: `3001`
 - Frontend: `3000`
+
+---
+
+## How the Live Scraper Works
+When the user sends a message in a scholar domain, the backend will do the following:
+- Extracts key search terms from the query (strips conversational filler words)
+- Searches DuckDuckGo for site:aei.org "[Scholar Name]" [key terms] to find query-specific articles
+- Also fetches the scholar's AEI profile page (aei.org/scholar/name or aei.org/profile/name) for recent articles
+- Combines both sources, with DuckDuckGo results prioritized
+- Scrapes each article page for title, author, publication date, and body text
+- If live scraping returns nothing (e.g., General mode or network issues), it falls back to local .txt files in backend/knowledge_base/
 
 ---
 
@@ -297,6 +311,16 @@ Vercel can host the React app frontend directly from you repo.
   - Ensure requests include `x-user-id` header (the frontend sets this automatically except for some direct API tests)
 - Responses seem generic
   - Add more `.txt` files to the selected domain; the assistant prioritizes provided sources
+
+---
+
+## Future Steps
+- **Expand scholar coverage** — add more AEI scholars as domains; the scraper works automatically for any scholar with an AEI profile page
+- **Improve DuckDuckGo reliability** — DuckDuckGo occasionally rate-limits requests; consider integrating a paid search API (e.g., Brave Search API) for more consistent results
+- **Add streaming responses** — currently the LLM response waits until fully generated; streaming would make the UI feel faster
+- **Allow domain switching within a chat** — currently the domain is locked at chat creation; adding mid-chat domain switching would improve usability
+- **Persistent deployment storage** — chat history and knowledge base files are stored locally on Render, which resets on redeploys; consider migrating to a persistent database (e.g., PostgreSQL) or cloud storage (e.g., AWS S3)
+- **Internal term glossary** — build a mapping of internal AEI shorthand (e.g., "KGM trial" → "social media addiction trial") to improve search accuracy for team-specific terminology
 
 ---
 
