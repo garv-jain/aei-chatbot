@@ -9,7 +9,6 @@ import {
   FileText,
   Folder,
   Search,
-  MoreHorizontal
 } from 'lucide-react';
 import '../styles/FileManager.css';
 
@@ -34,7 +33,7 @@ const FileManager = ({
     if (selectedDomain && selectedDomain !== 'General') {
       loadDomainFiles();
     }
-  }, [selectedDomain]);
+  }, [selectedDomain]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const loadDomainFiles = async () => {
     if (!selectedDomain || selectedDomain === 'General') return;
