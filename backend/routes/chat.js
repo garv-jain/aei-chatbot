@@ -2,6 +2,7 @@ const express = require('express');
 const Together = require('together-ai');
 const TxtKnowledgeBase = require('../utils/knowledgeBase');
 const ChatManager = require('../utils/chatManager');
+const { fetchRelevantArticles } = require('../utils/aeiScraper');
 
 const router = express.Router();
 
@@ -140,8 +141,11 @@ router.post('/:chatId/message', async (req, res) => {
     const userMessage = { role: 'user', content: message };
     await chatManager.addMessage(chatId, userMessage);
 
-    // Load domain content
-    const domainContent = await getCachedDomainContent(chat.domainName);
+    // Try live AEI scraping first, fall back to local txt files
+    const liveArticles = await fetchRelevantArticles(chat.domainName, message);
+    const domainContent = liveArticles.length > 0 
+      ? null 
+      : await getCachedDomainContent(chat.domainName);
     
     let systemMessage;
     let relevantFiles = [];
@@ -214,20 +218,42 @@ RESPONSE STANDARDS:
 - When sources are insufficient, clearly state: "The available sources don't provide enough information to..."
 - Acknowledge complexity while offering clear frameworks based on verified information`;
 
-      if (searchResults.length > 0) {
-        systemMessage += `\n\nRELEVANT ${chat.domainName.toUpperCase()} KNOWLEDGE BASE:\n`;
-        
-        searchResults.forEach((result, i) => {
-         systemMessage += `\n=== SOURCE ${i + 1} | File: "${result.filename}" ===\n${result.content}\n=== END SOURCE ${i + 1} ===\n`;
-        relevantFiles.push(result.filename);
+      if (liveArticles.length > 0) {
+        // Use live scraped content with full metadata
+        systemMessage += `\n\nLIVE ARTICLES FROM AEI.ORG:\n`;
+        liveArticles.forEach((article, i) => {
+          systemMessage += `
+      === SOURCE ${i + 1} ===
+      Title: ${article.title}
+      Author: ${article.author}
+      Published: ${article.date}
+      URL: ${article.url}
+
+      ${article.body}
+      === END SOURCE ${i + 1} ===
+      `;
+          relevantFiles.push(`${article.title} (${article.date})`);
         });
 
         systemMessage += `\n\nCITATION INSTRUCTIONS:
-- When you use information from a source above, cite it inline like this: [Source: filename.txt]
-- Only cite sources that directly support the specific claim you are making
-- Do not cite a source for general knowledge not drawn from the provided files
-- If multiple sources support a claim, cite all of them: [Source: file1.txt, file2.txt]
-- If the sources don't contain enough information to answer, say so explicitly rather than guessing`;
+      - Cite articles inline like: [Source: "Article Title", Published: Date]
+      - Only cite sources that directly support the specific claim
+      - Never guess or fabricate dates — use only the Published date from the source above
+      - If the sources don't answer the question, say so explicitly`;
+
+      } else if (domainContent && Object.keys(domainContent).length > 0) {
+        // Fall back to local txt files
+        const searchResults = kb.searchContent(domainContent, message, 3);
+        if (searchResults.length > 0) {
+          systemMessage += `\n\nRELEVANT KNOWLEDGE BASE CONTENT:\n`;
+          searchResults.forEach((result, i) => {
+            systemMessage += `\n=== SOURCE ${i + 1} | File: "${result.filename}" ===\n${result.content}\n=== END SOURCE ${i + 1} ===\n`;
+            relevantFiles.push(result.filename);
+          });
+          systemMessage += `\n\nCITATION INSTRUCTIONS:
+      - Cite inline like: [Source: filename.txt]
+      - Only cite sources that directly support the claim`;
+        }
       }
     }
 
