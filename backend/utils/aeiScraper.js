@@ -1,6 +1,9 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
+const https = require('https');
+const httpsAgent = new https.Agent({ rejectUnauthorized: false });
+
 const BASE_URL = 'https://www.aei.org';
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -11,43 +14,48 @@ function domainToScholarName(domainName) {
 
 // Fetch article URLs from AEI search results for a scholar
 async function fetchScholarArticleLinks(scholarName, maxArticles = 10) {
-  const links = [];
-  let page = 1;
+  const slug = scholarName.toLowerCase().replace(/\s+/g, '-').replace(/_/g, '-');
+  const url = `${BASE_URL}/scholar/${slug}/`;
 
-  while (links.length < maxArticles) {
-    try {
-      const response = await axios.get(`${BASE_URL}/search-results/`, {
-        params: {
-          'wpsolr_fq[0]': `scholars_str:${scholarName}`,
-          'wpsolr_page': String(page)
-        },
-        headers: { 'User-Agent': 'Mozilla/5.0 AEI-Internal-Chatbot/1.0' },
-        timeout: 10000
-      });
+  try {
+    const response = await axios.get(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 AEI-Internal-Chatbot/1.0' },
+      httpsAgent,
+      timeout: 10000
+    });
 
-      const $ = cheerio.load(response.data);
-      const posts = $('.post.post-search');
+    const $ = cheerio.load(response.data);
+    const links = [];
+    const seen = new Set();
 
-      if (posts.length === 0) break; // no more results
+    $('a[href]').each((_, el) => {
+      const href = $(el).attr('href');
+      if (
+        href &&
+        href.startsWith('https://www.aei.org/') &&
+        !href.includes('/profile/') &&
+        !href.includes('/scholar/') &&
+        !href.includes('/policy-areas/') &&
+        !href.includes('/aeideas/') &&
+        !href.includes('/search-results/') &&
+        !href.includes('/donate/') &&
+        !href.includes('/events/') &&
+        !href.includes('wp-content') &&
+        !href.includes('mailto:') &&
+        !seen.has(href)
+      ) {
+        seen.add(href);
+        links.push(href);
+      }
+    });
 
-      posts.each((_, el) => {
-        const titleEl = $(el).find('h1, h2, h3, h4, h5, h6').first();
-        const linkEl = titleEl.find('a[href]').first();
-        const href = linkEl.attr('href');
-        if (href && href.startsWith('https://www.aei.org/') && !links.includes(href)) {
-          links.push(href);
-        }
-      });
+    console.log(`Found ${links.length} article links on scholar page for ${scholarName}`);
+    return links.slice(0, maxArticles);
 
-      page++;
-      await sleep(500);
-    } catch (error) {
-      console.error(`Error fetching scholar search page ${page}:`, error.message);
-      break;
-    }
+  } catch (error) {
+    console.error(`Error fetching scholar page for ${scholarName}:`, error.message);
+    return [];
   }
-
-  return links.slice(0, maxArticles);
 }
 
 // Scrape a single AEI article for title, date, author, and body
@@ -55,7 +63,8 @@ async function scrapeArticle(url) {
   try {
     const response = await axios.get(url, {
       headers: { 'User-Agent': 'Mozilla/5.0 AEI-Internal-Chatbot/1.0' },
-      timeout: 10000
+      timeout: 10000,
+      httpsAgent
     });
 
     const $ = cheerio.load(response.data);

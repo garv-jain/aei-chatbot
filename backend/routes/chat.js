@@ -143,6 +143,7 @@ router.post('/:chatId/message', async (req, res) => {
 
     // Try live AEI scraping first, fall back to local txt files
     const liveArticles = await fetchRelevantArticles(chat.domainName, message);
+    console.log('Live articles fetched:', liveArticles.length, JSON.stringify(liveArticles.map(a => a.title)));
     const domainContent = liveArticles.length > 0 
       ? null 
       : await getCachedDomainContent(chat.domainName);
